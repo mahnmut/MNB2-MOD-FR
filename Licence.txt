@@ -1,0 +1,11 @@
+Ce Mod est fournis sans garantie de fonctionnement.
+
+Il est basé sur la version 1.4.0 dont voici une liste non exaustive des personnes ayant travaillé sur le projet : Drenaas, Gatsuu, Marteau, Sadness, Ser Meicer, Shao, Solaire, Sorrow
+
+Passage en 1.4.2 : 	Caerbannog, Mahn
+
+Ce programme est sous licence Beerware (Révision 42) :
+
+La Communauté Française de Mount and Blade II: Bannerlord a créé ce fichier. Tant que vous conservez cet avertissement, vous pouvez faire ce que vous voulez de ce truc. Si on se rencontre un jour et que vous pensez que ce truc vaut le coup, vous pouvez me payer une bière en retour.
+
+Retrouvez nous sur le Discord historique : https://discord.gg/Ck3ZBD5

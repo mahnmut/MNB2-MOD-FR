@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Français" />
+  </tags>
+  <strings>
+    <string id="7bjyJDaK" text="Chef des mercenaires de la faction du joueur"/>
+    <string id="EsJ3Drv7" text="Leader des mercenaires sturgians"/>
+    <string id="GIRpmax8" text="Chef des mercenaires Aserai"/>
+    <string id="jHVTqyI4" text="Chef des mercenaires de l'Empire"/>
+    <string id="ugbfHGZ3" text="Chef mondial des mercenaires"/>
+    <string id="VPis3atP" text="Chef des mercenaires Khuzait"/>
+    <string id="XhbgteUK" text="Chef des mercenaires vlandians"/>
+    <string id="y6E1CTsv" text="Chef des mercenaires Battania"/>
+  </strings>
+</base>

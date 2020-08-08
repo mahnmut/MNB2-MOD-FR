@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Français" />
+  </tags>
+  <strings>
+    <string id="3CpNUnVl" text="Annuler"/>
+    <string id="5zeL8sa9" text="Vous avez gagné {A0} en influence."/>
+    <string id="6qYaQkDD" text="{COUNT} + {PRISONER_COUNT}p"/>
+    <string id="7WdWK2Dt" text="Sauvegarder la partie"/>
+    <string id="8OkPHu4f" text="Non"/>
+    <string id="9NuttOBC" text="Charger"/>
+    <string id="aeouhelq" text="Oui"/>
+    <string id="Ahy035gM" text="Coût de construction"/>
+    <string id="azJulvrp" text="{?IS_BETTING}Vous allez perdre {BET_AMOUNT}{GOLD_ICON} si vous abandonner.{newline}{?}{\?}Voulez-vous vraiment abandonner ?"/>
+    <string id="bV75iwKa" text="Sauvegarder"/>
+    <string id="CiIWjF3f" text="+{PRISONERAMOUNT}p"/>
+    <string id="eiWQoW9j" text="Vous avez gagné {A0} en renommée."/>
+    <string id="eL8nhkhQ" text="Créer une nouvelle sauvegarde"/>
+    <string id="eTw2aNV5" text="+"/>
+    <string id="GAWxyVgq" text="Supprimer"/>
+    <string id="GZWPHmAw" text="Jours : {DAY}"/>
+    <string id="HH2mZq8J" text="Êtes-vous sûr de vouloir supprimer cette sauvegarde ?"/>
+    <string id="hiCxFj4E" text="Campagnes sauvegardées"/>
+    <string id="hYL3CFHX" text="Voulez-vous écraser cette partie sauvegardée ?"/>
+    <string id="IwhpeT8C" text="Niveau : {PLAYER_LEVEL}"/>
+    <string id="IXwOaa98" text="Taille du groupe"/>
+    <string id="JAFIo7cM" text=":"/>
+    <string id="kJtNMYum" text="Incompatibilité des modules"/>
+    <string id="L9GnQvsq" text="Enjeu : {BETTED_DENARS}"/>
+    <string id="LBNzsqyb" text="Fiefs"/>
+    <string id="lh0so0uX" text="Voulez-vous charger la partie sauvegardée avec différents modules ?"/>
+    <string id="lPMYSSAa" text="Outils nécessaires"/>
+    <string id="mDFhzEMC" text="Points de vie maximum"/>
+    <string id="nvemmBZz" text="Vous avez gagné {AMOUNT}% du butin et des prisonniers"/>
+    <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT}b"/>
+    <string id="oBbiVeKE" text="Points de vie"/>
+    <string id="Q1HIlJxe" text="Écraser"/>
+    <string id="QHV8aeEg" text="Supprimer la sauvegarde"/>
+    <string id="qIeDZoSx" text="Acheté"/>
+    <string id="qSi4DlT4" text="Nourriture"/>
+    <string id="R2AaCaPJ" text="Changement attendu"/>
+    <string id="raD9MK3O" text="Difficulté"/>
+    <string id="RVPidk5a" text="Influence"/>
+    <string id="V4iU0wRv" text="Deniers"/>
+    <string id="WAKz9xX8" text="Vous avez gagné {A0} en moral."/>
+    <string id="WDlVhNuq" text="Nommez votre fichier de sauvegarde"/>
+    <string id="WiNRdfsm" text="Terminer"/>
+    <string id="xu5NA6AW" text="Vous avez gagné {A0}% du butin."/>
+    <string id="xzzSaN4b" text="Estimation : {OVERALL_EXPECTED_DENARS}"/>
+    <string id="yF5fpwNE" text="Total : {TOTAL}"/>
+    <string id="YgyHVu8S" text="Vendu"/>
+  </strings>
+</base>

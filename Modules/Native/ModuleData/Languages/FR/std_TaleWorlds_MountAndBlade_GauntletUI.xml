@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Français" />
+  </tags>
+  <strings>
+    <string id="074YAjOk" text="Vous avez été expulsé pour cause d'inactivité"/>
+    <string id="2SEofGth" text="Changer d'équipe"/>
+    <string id="4mMySbxI" text="Erreur non spécifiée"/>
+    <string id="a0IHtkoa" text="Vous avez été expulsé par l'hôte du jeu"/>
+    <string id="AbEh2y8o" text="Sauvegarder et quitter"/>
+    <string id="aKjpbRP5" text="Raison inconnue"/>
+    <string id="bV75iwKa" text="Sauvegarder"/>
+    <string id="e0KdfaNe" text="Enregistrer sous"/>
+    <string id="EzeFJo65" text="Vous avez été déconnecté du serveur !"/>
+    <string id="hvaDkG4w" text="Appuyez sur n'importe quelle touche."/>
+    <string id="HzWaGn3y" text="Tous les joueurs n'ont pas le jeu lancé avec l'anti-triche"/>
+    <string id="InGwtrWt" text="Quitter"/>
+    <string id="ivKntfNA" text="Vous avez déjà demandé à rejoindre, en attente de réponse serveur"/>
+    <string id="IzJ7f5SQ" text="La capacité du serveur est pleine"/>
+    <string id="JluTW3Qw" text="Fin de la partie"/>
+    <string id="JQVixeQs" text="Impossible d'accéder au serveur du jeu"/>
+    <string id="KRNdlbkq" text="La partie personnalisée se termine"/>
+    <string id="Mm1Kb1bS" text="Mot de passe incorrect"/>
+    <string id="mO9bh5sy" text="Impossible de rejoindre la partie personnalisée"/>
+    <string id="n4UUrd1p" text="Déjà en cours d'utilisation"/>
+    <string id="NqarFr4P" text="Options"/>
+    <string id="OhF7NqSb" text="Vous êtes banni du jeu par sondage"/>
+    <string id="RamV6yLM" text="Retour au menu principal"/>
+    <string id="RGzyUTzm" text="L'arrangement de formation passe à {ARRANGEMENT_ORDER}"/>
+    <string id="srAJw3Tg" text="Le joueur est banni du serveur"/>
+    <string id="T8IniCKU" text="Le serveur de jeu n'est pas disponible"/>
+    <string id="tKSxGy5p" text="Le serveur ne répond pas"/>
+    <string id="tlsmbvQX" text="Tous les joueurs ne sont pas prêts à rejoindre"/>
+    <string id="TR1B2RWB" text="Vous avez été expulsé de la partie par l'anti-triche"/>
+    <string id="vkpMgobZ" text="Erreur du serveur du jeu"/>
+    <string id="wbFB3N72" text="Vous avez été expulsé de la partie par sondage"/>
+    <string id="wLpJEkKY" text="Serveur de bataille crashé"/>
+    <string id="WvGviFgt" text="Votre connexion avec le serveur a expiré"/>
+    <string id="XnsAbUE3" text="Rejeter"/>
+    <string id="XzZFhRwr" text="Revenir en jeu"/>
+  </strings>
+</base>

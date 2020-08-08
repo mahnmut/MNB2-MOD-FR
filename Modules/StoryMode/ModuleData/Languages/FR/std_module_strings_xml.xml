@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Français" />
+  </tags>
+  <strings>
+    <string id="(" text="Baldimos"/>
+    <string id="3nilwlcM" text="Vous êtes {?PLAYER.GENDER}arrivée{?}arrivé{\?} {.a}{TUTORIAL_SETTLEMENT_NAME}. Pour explorer les lieux, vous pouvez entrer dans le bâtiment en appuyant sur le bouton en surbrillance à gauche."/>
+    <string id="3RqEmB15" text="Se déplacer en Calradia"/>
+    <string id="3Y5dudW9" text="Alda"/>
+    <string id="3YkpC9Nf" text="Vous pouvez filtrer les objets à l'aide des boutons du haut. Filtrer sur Divers."/>
+    <string id="4IZnbvlD" text="Baudein"/>
+    <string id="5bYwdRFs" text="À l'épée"/>
+    <string id="5M48atXU" text="Vous avez une quête active ! Vous pouvez en savoir plus en cliquant sur le journal des quêtes en bas à gauche de votre écran."/>
+    <string id="7xHMIZEP" text="Cible d'entraînement"/>
+    <string id="8UUV94Lq" text="Entraînement à distance"/>
+    <string id="8YvBapxl" text="Varic"/>
+    <string id="9YqwNQPO" text="Aux armes à distance à cheval"/>
+    <string id="ajo9KQpr" text="Battre l'entraîneur novice"/>
+    <string id="at4MdVBJ" text="Fathid"/>
+    <string id="atWs6mkm" text="Entraînement à l'épée et au bouclier"/>
+    <string id="axnDLcDA" text="Parler au chef du village"/>
+    <string id="B7WlM3CU" text="Vous devez acheter des fournitures depuis le menu du village située sur votre gauche."/>
+    <string id="C8NDynaB" text="Niasen"/>
+    <string id="CaCfbRJq" text="Nozhon"/>
+    <string id="CONYULU6" text="Phasos"/>
+    <string id="CpKLau15" text="Votre frère vous recommande d'acheter 2 sacs de céréales.{newline}{newline}Vous pouvez le faire en les transférant dans votre inventaire avec la petite flèche située sur votre côté gauche"/>
+    <string id="cZsPNpCs" text="Acheter de la nourriture"/>
+    <string id="d0LpBfis" text="À l'arbalète"/>
+    <string id="D0SoDPcr" text="Entraînement de mêlée avancé"/>
+    <string id="ddoD208G" text="En fonction de votre relation avec eux, les notables peuvent vous aider à recruter des troupes plus nombreuses et de meilleure qualité (niveau supérieur).{newline}{newline}Cliquez sur quelques troupes pour les transférer vers votre groupe."/>
+    <string id="DELVwiEM" text="Tira"/>
+    <string id="dFpNRB1g" text="Nogand"/>
+    <string id="eFc6YuzQ" text="Pour quitter une mission, vous pouvez maintenir la touche &quot;Tab&quot;.{newline}{newline} Cela vous redirigera au menu du village où vous pourrez acheter des fournitures et engager des nouvelles recrues."/>
+    <string id="EhELIf65" text="Teruin"/>
+    <string id="elRQHiLR" text="À l'épée à cheval"/>
+    <string id="f6xYa3c4" text="Bienvenue en Calradia!{newline}{newline}Vous pouvez explorer la carte du monde en bougeant la caméra avec ZQSD, tourner la caméra avec le bouton droit de la souris et utiliser la molette pour zoomer et dé-zoomer.{newline}{newline} Essayez donc pour voir."/>
+    <string id="FFP17aSl" text="Au début d'une bataille, vos soldats se tiendront en position. Vous pouvez leur ordonner de vous suivre en ouvrant le menu d'ordre de mouvement avec la touche &quot;F1&quot; et choisir &quot;Suivez moi&quot; avec &quot;F2&quot;."/>
+    <string id="fpdXZ0fl" text="Recrutement"/>
+    <string id="GCqWwDWg" text="Baladir"/>
+    <string id="GjGF4xbn" text="Au bouclier"/>
+    <string id="gUvxp8mf" text="À l'arc"/>
+    <string id="IcBq2jSZ" text="Aitheen"/>
+    <string id="Il7C9LQG" text="Vous pouvez déplacer votre personnage:{newline}- Vers l'avant avec [Z]{newline}- Vers l'arrière avec[S]{newline}- vers la gauche avec [Q]{newline}- Vers la droite avec [D]{newline}{newline} Essayez donc tout cela !"/>
+    <string id="JDtbzwB0" text="Nusun"/>
+    <string id="jLWPSiOR" text="Parler au chef du village"/>
+    <string id="jWvle1tC" text="Finissez le parcours en touchant autant de cibles que possible ({HIT} / {ALL})"/>
+    <string id="K0f6WLjV" text="Pour quitter une mission, vous pouvez maintenir la touche &quot;Tab&quot;.{newline}{newline}Cela vous redirige vers l'écran du menu du fief où vous pouvez acheter des ressources et engager des nouvelles recrues."/>
+    <string id="KiJd6Xik" text="Mouvement"/>
+    <string id="KUEHAD4U" text="Quêtes"/>
+    <string id="kwW6v202" text="Allez au stand de tir."/>
+    <string id="L0tOoWpV" text="Aller voir l'entraîneur"/>
+    <string id="L24eYhaX" text="Montez à cheval"/>
+    <string id="LGuJctoZ" text="Attaquez l'entraîneur ({HIT} / {ALL})"/>
+    <string id="lN1RQ260" text="Tirez sur les cibles ({HIT} / {ALL})"/>
+    <string id="LS1whiyj" text="Le menu en haut à droite montre les gens importants dans votre zone actuelle.{newline}{newline} Cliquez sur le portrait du chef du village pour lui parler."/>
+    <string id="m2uEbrkh" text="Najun"/>
+    <string id="mfugkRoz" text="Cachettes &amp; Commandes"/>
+    <string id="MgBazeaE" text="Alte"/>
+    <string id="MqeQco4z" text="À la lance à cheval"/>
+    <string id="MUEaqlix" text="Battez l'entraîneur vétéran"/>
+    <string id="NWxC3CbS" text="Fodor"/>
+    <string id="OA9bQ8QJ" text="Alea"/>
+    <string id="odbkXZkz" text="Le déplacement de votre groupe se fait en cliquant sur la carte. Cela laissera une marque sur l'emplacement cible à moins que vous n'ayez cliqué sur des zones inaccessibles telles que les montagnes ou la mer.{newline}{newline}Allons {.a}{TUTORIAL_SETTLEMENT_NAME} !"/>
+    <string id="OFNEE8Xr" text="Vous pouvez dire à vos hommes de charger en ouvrant les ordres de déplacement avec &quot;F1&quot; et en choisissant la charge avec &quot;F3&quot;."/>
+    <string id="oj7B1GOT" text="Entrer dans un fief"/>
+    <string id="OJmYUcaU" text="À l'épée"/>
+    <string id="okM9QUFA" text="Aux armes de jet"/>
+    <string id="opUBnFym" text="Terte"/>
+    <string id="P7KbSBvr" text="Entraînement à cheval"/>
+    <string id="pAf5Mt3X" text="Alishka"/>
+    <string id="q65JaEBW" text="Alya"/>
+    <string id="q71nXdD4" text="Allez voir l’entraîneur"/>
+    <string id="QHhdmvLj" text="Entraînement au combat"/>
+    <string id="qNrWU4Or" text="Entraînement au corps à corps"/>
+    <string id="qXv3BY5v" text="Vous pouvez appuyer sur &quot;Alt gauche&quot; pour voir la position du chef du village.{newline}{newline}Lorsque vous êtes proche de lui, appuyez sur F pour lui parler."/>
+    <string id="QZHSvGrD" text="Baldrim"/>
+    <string id="rLEIuqZO" text="Après une bataille, vous pouvez choisir de faire des prisonniers mais aussi parfois de recruter des troupes que vous venez de libérer de leurs ravisseurs.{newline}{newline}Chaque action s'effectue en transférant les troupes grâce à la petite flèche sur le côté gauche de votre écran."/>
+    <string id="Rvn8tGB0" text="Votre frère vous a demandé de recruter au moins 4 hommes avant de faire face aux pillards.{newline}{newline}Vous pouvez recruter des troupes en cliquant sur le bouton &quot;Recruter des troupes&quot;."/>
+    <string id="Sfd3aqia" text="Bandan"/>
+    <string id="tZtrK3cs" text="À l'arc à cheval"/>
+    <string id="uW4htMut" text="À l'épée et au bouclier"/>
+    <string id="w4Ajm40u" text="Faroc"/>
+    <string id="WjuwOavt" text="Les missions de cachettes commencent alors que l'ennemi ignore votre arrivée.{newline}{newline} Ordonner à vos troupes de vous suivre avec les raccourcis &quot;F1&quot; et &quot;F2&quot; et essayez de les prendre par petits groupes."/>
+    <string id="wq9sNkMc" text="Quitter la zone"/>
+    <string id="WTF4ZIe7" text="Jatu"/>
+    <string id="x4xx1Zd6" text="Ordres de bataille"/>
+    <string id="X7Xp9xGe" text="Tertha"/>
+    <string id="xCHBC7S9" text="Cliquez sur le bouton &quot;Parler&quot; pour retourner voir le notable et en apprendre plus sur la quête."/>
+    <string id="Xr50xGhr" text=" ({TIME_SCORE} secondes)"/>
+    <string id="XsIq2RFs" text="Baldim"/>
+    <string id="yCEMiKjB" text="Choisissez votre {SELECTION}"/>
+    <string id="yvdQ9MD6" text="Terea"/>
+    <string id="Z33uQl2f" text="Tarya"/>
+    <string id="z9eC5hjv" text="À la lance et au bouclier"/>
+    <string id="ZozwfwVl" text="Défendez vous ({HIT} / {ALL})"/>
+    <string id="ZW9OGfEt" text="Sauver &amp; Prendre des prisonniers"/>
+  </strings>
+</base>

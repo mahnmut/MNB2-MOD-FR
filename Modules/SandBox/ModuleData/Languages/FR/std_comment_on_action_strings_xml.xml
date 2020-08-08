@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Français" />
+  </tags>
+  <strings>
+    <string id="00fZGqbJ" text="Ce fut une journée éprouvante pour prendre {ENEMY_SETTLEMENT}. Mais ça en valait la peine."/>
+    <string id="2AsFNABs" text="Chaque fois que nous renversons un autre groupe de ces bandits, je m'imagine que cela aurait pu être moi, si le destin avait été un peu différent."/>
+    <string id="2R19RV70" text="J'ai entendu dire que vous avez pris {SETTLEMENT_NAME}."/>
+    <string id="2zjTq6N8" text="J'ai entendu dire que vous avez perdu {DEFEATED_LEADER_RELATIONSHIP} dans la bataille. Je ne prétendrai pas que j'ai souffert en entendant cela."/>
+    <string id="3CKuk4Nj" text="J'ai entendu dire que vous aviez renoncé à votre allégeance à {FIRST_NAME}. Prions pour que nous n'en venions pas aux mains."/>
+    <string id="3vO2C8hO" text="Mon ami, je n'oublierai jamais comment nous avons arrosé notre dernier champ de bataille avec le sang des hommes {.de}{DEFEATED_PARTY_LEADER}. J'espère que vous avez la hardiesse d'en faire plus."/>
+    <string id="6KMf8lNE" text="Je me souviens de notre victoire sur {DEFEATED_PARTY_LEADER}. Je n'oublierai pas votre bravoure dans cette bataille."/>
+    <string id="7vcCSGEN" text="J'ai appris que vous avez battu {DEFEATED_PARTY_LEADER}, alors même qu'ils vous surpassaient en nombre. Impressionnant."/>
+    <string id="8qkWFWTa" text="Lors de notre dernière rencontre, {PLAYER.LINK}, vous aviez le dessus sur moi. Si nous nous rencontrons à nouveau en combat, peut-être que les choses se passeront différemment."/>
+    <string id="952DmRsV" text="J'ai entendu dire que vous avez prêté allégeance à notre seigneur {FIRST_NAME}. Je ne peux pas dire que je vous aurais fait confiance, mais vous méritez peut-être le bénéfice du doute."/>
+    <string id="9DDmAvXD" text="Apparemment, ma famille pense que nous pourrions faire un bon couple."/>
+    <string id="9HvWdW77" text="J'ai entendu dire que vous avez essayé de vous attribuez le mérite de notre victoire sur {DEFEATED_PARTY_LEADER}. J'étais aussi sur le champ de bataille, vous vous en souvenez peut-être ?"/>
+    <string id="9VBbSF33" text="Je me souviens de notre dernière bataille. Vous devriez savoir qu'il ne faut pas me croiser à nouveau."/>
+    <string id="A7iiTdng" text="J'ai entendu dire que {ENEMY_TERM} vous avait battu, mais que vous aviez mené un rude combat."/>
+    <string id="A7nmHKBr" text="J'ai entendu dire que vous avez pris {SETTLEMENT_NAME}. J'espère que les pertes humaines n'ont pas été trop élevé..."/>
+    <string id="al0vHv5D" text="J'ai insulté {SIDE2TROOP}."/>
+    <string id="ALIAwlgz" text="J'ai entendu dire que vous avez combattu et vaincu {DEFEATED_PARTY_LEADER} ! Je vous souhaite la joie de votre victoire, mon ami{?PLAYER.GENDER}e{?}{\?}."/>
+    <string id="alO2F63A" text="J'ai entendu dire que vous avez combattu courageusement contre {VICTORIOUS_PARTY_LEADER} et que {ENEMY_TERM} avait payé cher leur victoire. Je salue votre courage et le sacrifice de vos hommes."/>
+    <string id="AtbVSdJi" text="J'ai entendu dire que vous avez prêté allégeance à notre seigneur, {FIRST_NAME}. Nul doute que vous le trahirez bientôt, et j'aurai le plaisir de vous voir mourir en traître."/>
+    <string id="B8Kb89jk" text="A cette bataille contre {.le}{ENEMY_TERM}. Vous avez perdu, et nous en avons tous les deux payé le prix."/>
+    <string id="bb8AxGwc" text="J'ai entendu dire que vous avez combattu et vaincu {DEFEATED_PARTY_LEADER}. Un coup bien placé !"/>
+    <string id="BCNRS2ml" text="J'ai entendu dire que vous avez vaincu {DEFEATED_LEADER_RELATIONSHIP} au combat. Eh bien, j'ai toujours su que vous seriez un redoutable adversaire."/>
+    <string id="bI2XZrAk" text="J'ai entendu dire que vous en êtes venu aux mains avec {VICTORIOUS_PARTY_LEADER}, et il vous a donné la raclée que vous méritiez."/>
+    <string id="bOKqn4dN" text="Épargnez mes caravanes la prochaine fois et trouvez le courage de m'attaquer directement."/>
+    <string id="BYZXoAly" text="Je me souviens de notre victoire contre {DEFEATED_PARTY_LEADER}. Je suis reconnaissant pour l'aide apportée, mais si vous pensez que vous pouvez faire appel à cette faveur, vous vous trompez."/>
+    <string id="C6iJs2Ih" text="Alors.. vous avez donc épousé {FIRST_NAME}. Aucun doute que vous serez heureux tous les deux."/>
+    <string id="CfYJZXok" text="Écoutez, on se connais bien. Vous vous êtes rebellé contre {FIRST_NAME}. Je suis sûr que vous aviez vos raisons, mais vous n'auriez pas dû faire sa."/>
+    <string id="cQbIMImo" text="Je n'oublierai pas notre victoire sur {DEFEATED_PARTY_LEADER}."/>
+    <string id="CwJonOjV" text="Vous êtes un rebelle et un traître, {PLAYER.LINK}, mais je ne peux toujours pas me résoudre à vous haïr."/>
+    <string id="cWRudt73" text="J'ai entendu dire que vous avez prêté allégeance à notre seigneur, {FIRST_NAME}. Combattez nos ennemis avec valeur, mais aussi avec honneur et compassion. Avoir un nom honorable qui inspire le respect, est aussi précieux qu'une épée tranchante ou qu'un cheval rapide ."/>
+    <string id="DcRDdH6d" text="J'ai entendu dire que {VICTORIOUS_PARTY_LEADER} vous a vaincu et vous a donné ce que vous méritez."/>
+    <string id="ddUxQwOX" text="J'ai entendu dire que vous avez vaincu {DEFEATED_PARTY_LEADER}, malgré le fait qu'il vous surpassait numériquement. Je vous salue, {?PLAYER.GENDER}ma dame{?}messire{\?} !"/>
+    <string id="dJMfIABx" text="J'ai appris que vous aviez vaincu notre ennemi {DEFEATED_PARTY_LEADER} au combat."/>
+    <string id="dkuhmSPi" text="Eh bien ! Quel magnifique mariage... Je me réjouis déjà d'une vie de couple heureuse avec vous."/>
+    <string id="dlfG8Bdx" text="{SIDE1TROOP} et {SIDE2TROOP} se disputent leur amour pour {SUBJECT}."/>
+    <string id="dNNcebar" text="Alors peut-être regrettez-vous maintenant d'avoir renoncé à votre allégeance envers {FIRST_NAME} ?"/>
+    <string id="dpaagbUb" text="Donc, {DEFEATED_PARTY_LEADER} est venu à votre rencontre avec une immense armée, et vous l'avez tout de même terrassé ! C'est un beau combat."/>
+    <string id="dtaIcOa0" text="Vous avez remporté la victoire la dernière fois que nous avons combattu. J'attends avec impatience notre combat retour."/>
+    <string id="DzpcTVWI" text="J'ai entendu dire que vous avez prêté allégeance à notre seigneur, {FIRST_NAME}. Je me réjouis de me battre à vos côtés contre nos ennemis."/>
+    <string id="e0WSVhxu" text="J'ai entendu dire que vous alliez nous rejoindre au service {.de}{FIRST_NAME}. Eh bien... Faites-vous une faveur ! Restez hors de mon chemin."/>
+    <string id="e5viS3jv" text="{SIDE1TROOP} m'a insulté."/>
+    <string id="e8Lec4g2" text="J'ai entendu dire que vous avez prêté allégeance à notre seigneur, {FIRST_NAME}. Je ne prétends pas me réjouir de sa décision, mais peut-être vaut-il mieux vous avoir à l'intérieur de notre tente en train de pisser, plutôt que de se faire pisser dessus."/>
+    <string id="eMlj4eRa" text="J'ai entendu dire que vous aviez promis allégeance à notre seigneur {FIRST_NAME}. Notre seigneur est une âme noble et récompense la loyauté et la valeur avec bienveillance, et générosité."/>
+    <string id="f0TZ7BRb" text="J'ai appris que vous aviez vaincu {DEFEATED_LEADER_RELATIONSHIP} au combat."/>
+    <string id="fjthM3fE" text="J'ai entendu dire que vous avez prêté allégeance à notre seigneur, {FIRST_NAME}. Excellent... Je suis sûr que vous et moi deviendrons de très bons amis. Mais rappelez-vous, si vous nous trahissez, ce sera la plus grande erreur de votre vie."/>
+    <string id="FxTlch69" text="Vous devez me prendre pour un homme vraiment aveugle, pour ainsi attaquer mes caravanes et penser que je ne le remarquerais pas. Je suppose que vos actions ont été faites dans le but de me faire plaisir ? Et bien je pense que vous devrez trouver d'autres moyens de revenus."/>
+    <string id="g3a9dmzu" text="Ces bandits ne nous posent que rarement des problèmes, mais c'est un bon entraînement, je suppose."/>
+    <string id="gaHeS3qu" text="Je n'oublierai pas notre victoire sur {DEFEATED_PARTY_LEADER}. Rendons à nouveau grâce au Cieux et prions pour que nous ne devenions pas trop arrogant."/>
+    <string id="gQcyHNVT" text="J'ai entendu dire que vous aviez pris la forteresse {.de}{SETTLEMENT_NAME}. Pas de doute, vous avez trouvé un traître pour qu'il vous aide à vous introduire par les portes."/>
+    <string id="GXR9KGBn" text="Chasser les bandits comme ça... Je suppose qu'il faut le faire."/>
+    <string id="H1t6YIMv" text="Je chérirais pour de longues années le souvenir de notre bataille contre {DEFEATED_PARTY_LEADER}. Que toutes nos batailles soient aussi glorieuses !"/>
+    <string id="hjcjbEYn" text="J'ai appris que vous aviez pris {SETTLEMENT_NAME}. J'espère que vous les avez fait saigner pour ce qu'ils nous ont fait."/>
+    <string id="hl1AFy3m" text="J'ai entendu dire que vous aviez vaincu {DEFEATED_LEADER_RELATIONSHIP}. Ha ! Cela m'aurait amusé de {?GENDER}la{?}le{\?} voir à genoux devant vous."/>
+    <string id="iEaXFpUF" text="Je ne sais pas par quel subterfuge vous avez terrassé {DEFEATED_LEADER_RELATIONSHIP}, mais ça ne fonctionnera pas avec moi."/>
+    <string id="ifNalTNK" text="Eh bien, ce sera toujours un groupe de bandits en moins qui risque d'attaquer les voyageurs, mais il y en aura encore et toujours."/>
+    <string id="iNYL0cJ5" text="J'ai entendu dire que vous avez capturé {SETTLEMENT_NAME}. Beau travail."/>
+    <string id="JCzju3in" text="J'ai entendu dire que {.le}{ENEMY_TERM} vous ont battu, mais que cela leur a coûté beaucoup d'hommes. Tant mieux."/>
+    <string id="jH77WXL2" text="Il y a beaucoup de discussions en ce moment à votre sujet, sur comment vous avez battu {DEFEATED_PARTY_LEADER} même si vous étiez en sous nombre. Est-ce vraiment ce qui s'est passé ? D'une certaine manière, j'en doute."/>
+    <string id="jhnPucu3" text="Bon... Nous courtisons tous les deux {FIRST_NAME}."/>
+    <string id="JNub3xzU" text="Il était difficile de revenir de là-bas, contre {.le}{ENEMY_TERM}. Je suis heureux que nous en sommes ressortis vivants."/>
+    <string id="jqOmOSQZ" text="Au milieu de la guerre et de la mort, le commerce à lui seul maintient cette grande terre soudée. Si vous insistez pour piller mes caravanes et compromettre d'avantage la prospérité de ce monde, alors je serai obligé de vous vaincre."/>
+    <string id="k4MKDRJH" text="Vous avez pris {SETTLEMENT_NAME}, qu'il en soit ainsi. J'aurais fait de même à votre place, donc je vais vous le reprendre."/>
+    <string id="keJgUALH" text="Je peux pardonner beaucoup de choses, mais il est difficile de pardonner la trahison."/>
+    <string id="Kf45xPSd" text="Vous avez peut-être gagné la dernière fois que nous nous sommes rencontrés, mais cela ne se reproduira pas."/>
+    <string id="kWGF47Mc" text="Vous avez gagné notre dernière bataille. Cela ne se reproduira plus."/>
+    <string id="LaBhR4Vm" text="J'ai entendu dire que {VICTORIOUS_PARTY_LEADER} vous avait vaincu. N'ayez crainte, nous leur infligerons le double."/>
+    <string id="LaPJJMCD" text="J'ai entendu dire que vous avez combattu et vaincu {DEFEATED_PARTY_LEADER}. Chaque chien de votre espèce a une fois dans sa vie son jour de gloire, je suppose."/>
+    <string id="lMFCQOJL" text="Vous vous êtes rebellé et avez rompu votre serment envers moi, {PLAYER.LINK}. Ne vous attendez à aucune pitié !"/>
+    <string id="lsgsuRva" text="J'ai entendu dire que vous avez renoncé à votre allégeance à {FIRST_NAME}. Eh bien, nous nous débrouillerons mieux sans vous."/>
+    <string id="LXMcIObA" text="Mes paysans se plaignent qu'un homme vous ressemblant a pillé leurs biens et leurs derniers. Je suppose que je devrais vous remercier de ne pas avoir réduit le village en cendres."/>
+    <string id="lzQYayR0" text="Je me souviens de notre dernière bataille, c'était un beau combat. Êtes-vous venu pour une autre bataille ?"/>
+    <string id="M43kLIaa" text="Nous avons peut-être combattu ensemble contre {DEFEATED_PARTY_LEADER}, mais même cela ne peut pas compenser tout ce que vous avez déjà fait."/>
+    <string id="mabEK2R8" text="J'ai entendu dire que vous aviez récemment attrapé des bandits. En tant que marchand, nous apprécions tous les efforts déployés pour rendre les routes plus sûres."/>
+    <string id="mwF92doJ" text="Je me souviens de notre dernière bataille. C'était un beau combat."/>
+    <string id="n0SpScdp" text="Alors apparemment vous êtes un dur à cuire. J'ai entendu dire que {VICTORIOUS_PARTY_LEADER} a payé de son sang pour vous vaincre."/>
+    <string id="ndagvVPz" text="J'ai entendu dire que vous aviez vaincu {DEFEATED_LEADER_RELATIONSHIP} au combat. Mais ne pensez pas que je vais poser si facilement les armes."/>
+    <string id="ndQo81VN" text="J'ai entendu dire que vous avez prêté allégeance à notre seigneur, {FIRST_NAME}, c'est bien. Plus nous avons de combattants compétents avec nous en ces temps troublés, mieux c'est, je surveillerai vos progrès."/>
+    <string id="Nnqgix3X" text="Je suis heureux que vous vous occupiez bien de vos hommes."/>
+    <string id="O0acjJR9" text="J'ai entendu dire que vous avez prêté allégeance à notre seigneur, {FIRST_NAME}. Hélas, d'après ce que je sais de vous, je crains que vous nous déshonoriez, mais je serai heureux si vous me prouvez que j'ai tort."/>
+    <string id="obydBl7I" text="J'ai entendu dire que vous aviez battu {DEFEATED_PARTY_LEADER}. Tant mieux."/>
+    <string id="Pf44U15I" text="J'ai entendu dire que vous avez prêté allégeance à notre seigneur, {FIRST_NAME}. Priez de ne pas nous déshonorer en vous comportant de manière lâche."/>
+    <string id="pJtkSopk" text="J'ai entendu dire que vous avez vaincu {DEFEATED_LEADER_RELATIONSHIP} au combat. Je suis ici pour remonter le niveau."/>
+    <string id="pT6QqtTB" text="J'ai entendu dire que vous aviez assiégé et pris {SETTLEMENT_NAME}."/>
+    <string id="PzBfkDIF" text="Vous avez pillé une caravane sous ma protection. Écoutez, c'est la guerre, on fait tous des choses... Mais était-ce vraiment nécessaire ?"/>
+    <string id="Q5eT72ba" text="Votre rébellion contre {FIRST_NAME} fait de nous des ennemis, mais pour être honnête, je préfère que les choses se passent ainsi. Il vaut mieux que le serpent soit à l'extérieur de votre tente plutôt qu'à l'intérieur, n'est-ce pas ?"/>
+    <string id="q5SZRgUR" text="J'ai entendu dire que vous avez combattu contre {VICTORIOUS_PARTY_LEADER}, et qu'il vous a chassé du terrain."/>
+    <string id="QbXjHb7y" text="Vous avez gagné la dernière fois que nous nous sommes rencontrés. J'espère que vous avez apprécié votre petite victoire, vous n'en aurez pas d'autre. Vos stratagèmes ne fonctionneront pas cette fois."/>
+    <string id="qEZR7adT" text="Je ne peux rester inactif pendant que vous perturbez mes routes commerciales et que vous attaquez mes caravanes, vous devez être traduit en justice."/>
+    <string id="QXrxVZHJ" text="J'ai entendu dire que vous aviez vaincu {DEFEATED_LEADER_RELATIONSHIP}. Je ne vais pas commenter ses capacités de commandement, mais cela n'a pas dû être trop difficile."/>
+    <string id="r7yWwaY3" text="J'ai entendu dire que vous avez combattu courageusement contre {VICTORIOUS_PARTY_LEADER} jusqu'à ce que vous soyez finalement submergé par leur nombre."/>
+    <string id="RGNIuSCM" text="J'ai entendu dire que vous avez vaincu {DEFEATED_LEADER_RELATIONSHIP} au combat. J'apprécie un adversaire digne de renom."/>
+    <string id="rINfrA70" text="Vous vous êtes rebellé contre {FIRST_NAME}. Maintenant, attendez-vous au châtiment que subissent les traîtres."/>
+    <string id="rlLqbDCQ" text="Vous m'avez coûté une grande somme d'argent lorsque vous avez pillé ma caravane. Je me demande si je pourrais la récupérer par la vente de votre tête."/>
+    <string id="S28aK0oF" text="Je vous demande, pour le bien de votre honneur, de ne plus attaquer mes caravanes."/>
+    <string id="SCvFN6Ap" text="Votre rébellion contre {FIRST_NAME} est un acte de trahison."/>
+    <string id="SM16wIcc" text="Vous avez donc croisé le fer avec {DEFEATED_PARTY_LEADER}, et vous en êtes sorti victorieux, bravo."/>
+    <string id="SoCaUHhH" text="Il y a quelque chose que je ne peux pas taire... Vous avez manqué à votre parole envers {COMMENT_REFERENCE_HERO}. C'est difficile à accepter pour moi."/>
+    <string id="tciR9VSr" text="J'ai entendu dire que vous avez vaincu {DEFEATED_LEADER}. Son erreur a coûté la vie à de nombreux hommes courageux."/>
+    <string id="tMET9a0Q" text="Je vois que vous vous êtes servi dans une de mes caravanes... Je ne suis pas tendre avec les voleurs. Je vais peut-être prendre vos mains et vos yeux en compensation."/>
+    <string id="ucKrwFCj" text="J'ai entendu dire que vous aviez renoncé à votre allégeance à {FIRST_NAME}. Et bien, c'est votre décision."/>
+    <string id="udMxMICB" text="J'ai entendu dire que vous aviez pillé une caravane sous ma protection. Je vais supposer que c'était un malentendu."/>
+    <string id="UKTXefOD" text="J'ai entendu dire que vous aviez prêté allégeance à notre seigneur, {FIRST_NAME}. Battez-vous férocement contre nos ennemis, respectez vos supérieurs, ne me contrariez pas et nous nous entendrons bien."/>
+    <string id="VcXpFIrT" text="Rappelez-vous comment nous avons vaincu {DEFEATED_PARTY_LEADER}, et fait de ces hommes un festin pour les corbeaux ? C'est un doux souvenir."/>
+    <string id="VSyOVMge" text="Plutôt que de vous qualifier de traître, je vais supposer que vous étiez trop fatigué et idiot pour ne pas reconnaître que c'était MA caravane que vous attaquiez et non un ennemi."/>
+    <string id="vxkoCCuc" text="J'ai entendu dire que vous nous rejoindrez au service {.de}{FIRST_NAME}"/>
+    <string id="W3F2HgTN" text="J'ai entendu dire que vous avez pris la forteresse {.de}{SETTLEMENT_NAME}. Un coup bien porté !"/>
+    <string id="WROObSl4" text="{SIDE1TROOP} a insulté {SIDE2TROOP}."/>
+    <string id="WZ2K83Z4" text="Vous vous êtes rebellé et avez rompu votre serment d'allégeance, {PLAYER.LINK}, mais maintenant les Cieux vous ont conduit à moi."/>
+    <string id="WzMjUSGv" text="J'ai entendu dire que vous avez vaincu {DEFEATED_LEADER_RELATIONSHIP}. Vous êtes un ennemi rusé, mais je vous ai mis à terre et maintenant je vais vous achever."/>
+    <string id="x8WJb01D" text="Je ne vous reproche pas votre victoire, la dernière fois que nous nous sommes rencontrés. Je suis même heureux que nous n'ayons plus à nous battre."/>
+    <string id="XLqklKR5" text="J'ai entendu dire que {VICTORIOUS_PARTY_LEADER} vous avait battu. Certains parlent d'un affrontement héroïque, mais je dis qu'une défaite reste une défaite."/>
+    <string id="Xt1V4D6X" text="Vous avez pris le dessus lors de notre dernier affrontement. Je vous félicite, et espère avoir une chance de vous battre un jour."/>
+    <string id="YEoEaMRJ" text="Ne vous approchez pas {.de}{FIRST_NAME}."/>
+    <string id="yjDRCuQx" text="Je me réjouis que nous ayons tenu notre parole envers {COMMENT_REFERENCE_HERO}."/>
+    <string id="YsUq0lPJ" text="Quoi qu'il arrive, je n'oublierai pas comment nous nous sommes battus ensemble contre {DEFEATED_PARTY_LEADER}."/>
+    <string id="yzxJBMJd" text="J'ai entendu dire que vous aviez pillé une caravane sous ma protection. Cela ne me réjouis pas."/>
+    <string id="yZZx1WVQ" text="J'ai entendu dire que vous aviez prêté allégeance à notre seigneur, {FIRST_NAME}. Combattez bravement et vous serez grandement récompensé. Trahissez-nous, et nous ferons de vous le genre d'exemple qu'on n'oublie pas de sitôt."/>
+    <string id="Z6XSaq8b" text="La dernière fois que nous nous sommes rencontrés, vous avez eu le dessus. Mais je vous assure que ça n'arrivera plus !"/>
+    <string id="z76zznAS" text="Félicitations à vous et {FIRST_NAME} pour votre mariage."/>
+    <string id="zFfRLbxK" text="Ne croyez pas que j'ai oublié notre petite bataille. Maintenant je connais vos stratagèmes. Si jamais nous sommes à nouveau en guerre, les choses se passeront de manière différentes."/>
+    <string id="zTNNxMzz" text="J'ai entendu dire que vous aviez prêté allégeance à notre seigneur, {FIRST_NAME}. À sa place, je ne vous ferais même pas confiance pour laver les latrines."/>
+  </strings>
+</base>

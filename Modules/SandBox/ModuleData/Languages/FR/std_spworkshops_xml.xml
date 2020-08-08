@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Français" />
+  </tags>
+  <strings>
+    <string id="6g08hTX5" text="Des céréales sont prises et brassées pour en faire de la bière. Peu de choses peuvent rendre les gens du peuple et les troupes aussi heureux que la bière."/>
+    <string id="7hx2Nlmd" text="Tannerie"/>
+    <string id="8MwqyFfS" text="Forge"/>
+    <string id="AfiEQPky" text="Chaque ville compte quelques artisans. Quelqu'un doit fabriquer des objets de tous les jours pour les gens ordinaires et la plupart le font eux-mêmes."/>
+    <string id="aIUXMvjS" text="Le vignoble achète des raisins sur le marché et produit du vin qui est est très demandé dans toute Calradia."/>
+    <string id="boupIGPX" text="Presse à olives"/>
+    <string id="bZeZCHoa" text="Fabrique de tissage de laine"/>
+    <string id="cabJ2jXP" text="Les ateliers de poterie transforment l'argile en poterie. Aucun ménage, riche ou pauvre, ne peut vivre un jour sans poterie."/>
+    <string id="cxrsASao" text="Le minerai d'argent rare est transformé en bijoux de valeur dans une orfèvrerie. La bijouterie est la plus belle des marchandises commerciales."/>
+    <string id="EBCKXbTa" text="Fabrique de tissage de velours"/>
+    <string id="eS6nGak1" text="Fabrique de tissage de laine"/>
+    <string id="EVSoHzAQ" text="Cet atelier fabrique des vêtements en laine de mouton. Les vêtements sont toujours très demandés."/>
+    <string id="GsaLzLfl" text="Brasserie"/>
+    <string id="gZArIwNi" text="Orfèvrerie"/>
+    <string id="HXuAkbcU" text="Fabrique de tissage de velours"/>
+    <string id="IO7Jgato" text="Fabrique de bois"/>
+    <string id="IwFxZ6ab" text="Dans cet atelier, le lin cultivé est tissé en étoffe de lin. De nombreuses personnes l'achètent pour un usage général. Il est également essentiel pour la fabrication de vêtements et d'armures dans d'autres ateliers."/>
+    <string id="J2Ioper5" text="Les forgerons sont le cœur de toute armée. Le minerai de fer est forgé pour en faire des armes et des armures, et le travail du bois dur fournit également des outils."/>
+    <string id="KcDJ5HXC" text="Le bois dur a de nombreux usages. Les artisans viennent prendre du bois dur ici pour fabriquer des arcs, des flèches et des boucliers pour eux même."/>
+    <string id="Kqt8RHh7" text="Forge"/>
+    <string id="LC0mHXge" text="Les olives sont pressées pour produire de l'huile dans une presse à olives. L'huile d'olive se vend toujours à un bon prix sur le marché."/>
+    <string id="NbhGCck5" text="Les peaux brutes ne servent pas à grand-chose. Mais dans une tannerie, on les transforme en cuir et en armures légères."/>
+    <string id="ousGnzju" text="Tannerie"/>
+    <string id="PdvjpThP" text="Presse à vin"/>
+    <string id="pVjxlT1f" text="Brasserie"/>
+    <string id="QChaCM2g" text="Dans cet atelier, le coton fin est tissé en un velours encore plus fin. Le velours est l'un des biens les plus luxueux de Calradia."/>
+    <string id="qfzkMuLj" text="Artisan"/>
+    <string id="RLz2b53X" text="Fabrique de tissage de lin"/>
+    <string id="Tj7ErPfn" text="Échoppe de poterie"/>
+    <string id="tK4IiP3J" text="Fabrique de tissage de lin"/>
+    <string id="UiSes6XY" text="Fabrique de bois"/>
+    <string id="uy2mSmw3" text="Presse à vin"/>
+    <string id="VHLUHBaT" text="Artisan"/>
+    <string id="wCuAxt4m" text="Presse à olives"/>
+    <string id="wLTQpbIM" text="Boutique de poterie"/>
+  </strings>
+</base>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Français" />
+  </tags>
+  <strings>
+    <string id="0Ikzzm71" text="Capitaine pirate"/>
+    <string id="0qDNS83n" text="Bandit nomade"/>
+    <string id="9laVlEH9" text="Hommes des collines"/>
+    <string id="Awc23bFS" text="Maraudeur"/>
+    <string id="Bg63YFnh" text="Chef bandit des steppes"/>
+    <string id="C1Fkzdvu" text="Chef pirate"/>
+    <string id="C8DE6L73" text="Déserteur"/>
+    <string id="cbnvgVhH" text="Pillard"/>
+    <string id="cdbSCr6G" text="Harami"/>
+    <string id="dc2qxanZ" text="Chef bandit des forêts"/>
+    <string id="dq2cP8h0" text="Pirate"/>
+    <string id="HadsURl8" text="Franc-tireur"/>
+    <string id="Nr8NkHXU" text="Guerrier pirate"/>
+    <string id="P6Md9DpR" text="Bandit des montagnes"/>
+    <string id="Q2V4uQrr" text="Chef bandit du désert"/>
+    <string id="sFgODQ1q" text="Bandit des forêts"/>
+    <string id="uOAnHN47" text="Vagabond bédouin"/>
+    <string id="urUwa4bf" text="Pillard"/>
+    <string id="ZA4bgJ5V" text="Bandit des steppes"/>
+    <string id="ziOBJSzR" text="Chef bandit des montagnes"/>
+    <string id="ZKdiaaFo" text="Brigand"/>
+    <string id="ZxmBdWTu" text="Flibustier"/>
+  </strings>
+</base>

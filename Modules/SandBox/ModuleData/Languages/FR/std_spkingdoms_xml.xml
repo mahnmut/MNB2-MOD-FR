@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Français" />
+  </tags>
+  <strings>
+    <string id="0B27RrYJ" text="Battania" />
+    <string id="5djtBrHj" text="Sultan" />
+    <string id="8HMyTKF6" text="Vlandians" />
+    <string id="8pjMAqOg" text="Sénat" />
+    <string id="afvM7XpQ" text="Haut-Roi" />
+    <string id="bF7HmNGQ" text="Khanat Khuzait" />
+    <string id="bgjiFSHZ" text="Battanians" />
+    <string id="bVihnRUu" text="La confédération de petits royaumes qu'est aujourd'hui la principauté de Sturgia a vu le jour il y a un siècle seulement. Alors que des villes en plein essor se développaient le long des grands fleuves du nord, les chefs des tribus locales ont conclu des pactes de mariage avec les Nordiques et d'autres aventuriers, louant leurs épées pour soumettre leurs voisins. Sous la pression de l'empire, ils ont élu un prince pour les mener à la guerre, et finalement les princes sont devenus une charge héréditaire. Mais l'idée de monarchie n'a jamais été facile à accepter pour les boyards indépendantistes, et une rébellion potentielle se cache toujours sous la surface de la politique sturgian." />
+    <string id="C4qjBqLO" text="Sturgians" />
+    <string id="fE5U9ApA" text="L'Empire Calradian n'est pas une monarchie. Les Calradians insistent sur ce point. L'empereur, qui n'était auparavant qu'un simple commandant militaire, a peut-être aussi pris en charge la plupart des autres affaires de l'État. Plutôt que d'être élu tous les deux ou trois ans par le Sénat, il peut maintenant régner à vie et souvent être remplacé par son fils. Les assemblées populaires qui décidaient autrefois des politiques clés peuvent avoir disparu, et le Sénat, un rassemblement de propriétaires terriens, peut avoir beaucoup moins de pouvoir qu'il n'en avait au cours des siècles passés. Mais ce n'est pas une monarchie, car il est absolument interdit aux Calradians d'être dirigés par un roi. L'Empire, c'est ce qui se passe quand une ligue de villes-États conquiert un continent. Une communauté autrefois dirigée par des fermiers libres et relativement riches présente aujourd'hui de vastes écarts entre les riches et les pauvres. Les institutions conçues pour empêcher un homme de devenir un tyran entrent en conflit avec les nécessités d'une guerre sans fin, qui exigent un commandement unifié. Sans moyen de succession harmonieux, la mort d'un empereur a toujours été une crise potentielle. Habituellement, l'empereur nomme un héritier, le sénat ratifie son choix et le peuple (c'est-à-dire l'armée) l'acclame. Mais cela ne se passait pas toujours sans heurts, et la succession était alors réglée sur le champ de bataille. Le conflit actuel, qui a éclaté lorsque le défunt empereur Arenicos a été assassiné, est la dernière en date de ces guerres civiles impériales." />
+    <string id="fGNdo1BK" text="Pendant des siècles, les tribus de la vaste steppe à l'est de l'empire se sont contentées de vivre comme des nomades, s'aventurant sur les terres impériales pour faire des raids et du commerce, puis retournant à leur liberté ancestrale. Il y a deux générations, cependant, quelque chose s'est produit loin à l'est, un changement de vent, peut-être, ou un conquérant terrible mais lointain, et les clans à cheval ont été mis en mouvement. Urkhun le Khuzait a conduit les clans les plus proches de l'empire dans ses provinces orientales, en envahissant sa province orientale et en formant un khanat. Il imposa la discipline aux clans indisciplinés, les forçant à partir à la guerre sur son ordre au lieu de les laisser faire quand ils le souhaitaient. Mais après sa mort, l'esprit d'unité qu'il inspirait s'est perdu. Ses descendants dirigent toujours le khanat, mais certains des autres clans s'agitent sous son autorité, et d'autres rêvent de devenir khan eux-mêmes." />
+    <string id="FjwRsf1C" text="Vlandia" />
+    <string id="FmbgPGBL" text="Grand Prince" />
+    <string id="frBQ9mbP" text="Empire du Sud" />
+    <string id="GbnlN6na" text="Impériaux du Sud" />
+    <string id="hwnp9abW" text="Roi" />
+    <string id="IudGLWQZ" text="La monarchie Vlandian descend d'Osric Bras-de-Fer, un seigneur de guerre qui s'est emparé des côtes occidentales de l'Empire. Il a été reconnu comme roi par les empereurs comme condition à la paix. Il a, à son tour, reconnu ses lieutenants comme barons et comtes, leur accordant la suzeraineté sur leurs terres en échange d'un ralliement à sa bannière en cas de guerre. Certains rois vlandians ont cherché à étendre les pouvoirs de la royauté ; d'autres ont permis aux barons de se quereller entre eux tant que l'argent et la main-d'œuvre étaient là en cas de besoin." />
+    <string id="iYCR3xuQ" text="Principauté de Sturgia" />
+    <string id="lAWwcO6b" text="Royaume de Vlandia" />
+    <string id="NaNMRPv4" text="Aserai" />
+    <string id="NF627oiX" text="Empire du Nord" />
+    <string id="nsDj8Qxl" text="Impériaux du Nord" />
+    <string id="PjO7oY16" text="Sturgia" />
+    <string id="qaDIU0XC" text="Haut-Royaume des Battanians" />
+    <string id="qggtvf8Y" text="L'Empire a toujours préféré ne pas envoyer ses légions dans le dévoreur d'armées qu'est le désert de Nahasa. A la place, l'Empire a projeté sa puissance dans ce pays frontalier en cultivant le clientélisme des dirigeants parmi les clans qui se sont affrontés dans une danse sans fin du pouvoir. Les clans qui purent sécuriser leur emprise sur les oasis obtinrent un subside impérial afin de protéger les caravanes de passage et s'enrichir. Ceux qui n'y parvinrent pas furent repoussés dans le désert, laissés à l'élevage de chèvres et aux raids sur les caravanes jusqu'à ce qu'ils puissent planifier leur retour. Aujourd'hui, avec le déclin de l'Empire, les Aserais ont accepté de former une confédération sous un sultan choisi parmi les plus riches des clans, les Banu Hulyan. Mais tout le monde sait que la danse n'a été que temporairement arrêtée, et qu'elle reprendra au moment opportun." />
+    <string id="sZLd6VHi" text="Khuzait" />
+    <string id="UsbwPmYb" text="Sultanat d'Aserai" />
+    <string id="vJOWy1QF" text="Khuzaits" />
+    <string id="yG3YUySN" text="Empire de l'Ouest" />
+    <string id="ZEmH0MwL" text="Impériaux de l'Ouest" />
+    <string id="ZjaaAoxd" text="Depuis des temps immémoriaux, il y a eu un Haut-Roi de Battania, couronné dans une grande cérémonie sur la colline sacrée de Dunthanach. En revanche, demandez à n'importe quel chef Battanian dans quel « royaume » il vit, et il regardera tour à tour sa grande salle, ses champs et ses pâturages, ses troupeaux et ses serviteurs, et répondra « Le mien, bien sûr ». Ce n'est que récemment, à l'instar de l'Empire, que les Grands Rois ont fait des efforts pour exercer leur autorité. « Un bétail aussi indiscipliné que mon peuple a besoin d'une main de berger forte pour le diriger hors du ravin et le protéger du loup », a déclaré récemment un haut roi, juste avant d'être trahi par un cousin jaloux et emmené, enchaîné, à l'avant-poste impérial le plus proche." />
+  </strings>
+</base>
