@@ -157,7 +157,7 @@
     <string id="79yyTwvu" text="Je ne suis pas intéressé, merci." />
     <string id="7a3cGmFg" text="Je m'efforcerai de vous traiter du mieux que je peux." />
     <string id="7AiP4BwY" text="De quoi doit-on parler ? Ce bâtard a assassiné l'un de mes proches, et c'est notre droit de nous venger !" />
-    <string id="7b6yzkig" text="Always a please, m'lady. Keep safe.{***}" />
+    <string id="7b6yzkig" text="Toujours un plaisir, madame. Faites attention à vous." />
     <string id="7B7BhVhV" text="Voyons ce que vous allez trouver..." />
     <string id="7bBfNRVS" text="Donc alors. Que voulez-vous ?" />
     <string id="7bETSEg5" text="Je suis prêt, {LORD.LINK}." />
@@ -658,7 +658,7 @@
     <string id="jZF4l0jY" text="Oh, navré, {?PLAYER.GENDER}ma Dame{?}mon Seigneur{\?}. En quoi puis-je vous aider ?" />
     <string id="jZxhiabM" text="Ce n'est pas mon problème." />
     <string id="k1b5crrx" text="Vous êtes un joueur chevronné. J'en prends note." />
-    <string id="K1RtrtvH" text="So, uh, there's a young woman around here. I really need to leave her some money before I go anywhere. Let's say {GOLD_AMOUNT}{GOLD_ICON} - can you pay me that?[rb:trivial]{***}" />
+    <string id="K1RtrtvH" text="Donc, euh, il y a une jeune femme par ici. J'ai vraiment besoin de lui laisser un peu d'argent avant d'aller quelque part. Disons {GOLD_AMOUNT}{GOLD_ICON} - pouvez-vous me payer ça ? [rb:trivial]" />
     <string id="k27q07EZ" text="En effet, {PLAYER.NAME} ? Alors, va et trébuche sur ton épée. Donne-nous la paix à tous." />
     <string id="k3b5KqSc" text="Allons bon. Et moi qui pensais que vous commandiez, ici." />
     <string id="K5mG9nDv" text="Avec plaisir." />
@@ -986,7 +986,7 @@
     <string id="sVcJTu7K" text="{GAME_NAME} est rapide et rude, comme la guerre. Capturez autant que possible pour garder votre adversaire affaibli et démoralisé. Mais derrière cette offensive sans fin, il doit toujours y avoir une défense solide pour réprimer toute tentative de votre adversaire de prendre le contrôle." />
     <string id="SvGFarpZ" text="Ensuite, je trouverai et je parlerai à {KING.LINK}." />
     <string id="SVJlOYCB" text="Le groupe compte moins d'hommes que les 40% de sa taille maximale." />
-    <string id="sy5Hbp04" text="Safe travels to you, my lady. I hope to see you again soon.{***}" />
+    <string id="sy5Hbp04" text="Bon voyage à vous, ma dame. J'espère vous revoir bientôt." />
     <string id="sytYViXb" text="J'accepte votre duel." />
     <string id="SZjC5xxl" text="Rendre 50{GOLD_ICON}" />
     <string id="SZRwXQad" text="Rassemblez mes troupes ici et faites-les rejoindre mon groupe." />
@@ -1041,7 +1041,7 @@
     <string id="UJyHaPOp" text="Bien sûr, je vais transmettre vos ordres. Autre chose ?[rb:positive]" />
     <string id="ukRZd2AA" text="Je ne fais pas de duels avec des brigands." />
     <string id="Ukv1FQa2" text="J'ai changé d'avis. Vous pouvez continuer votre chemin." />
-    <string id="uolvICE4" text="Let's talk again soon, m'lady.[rb:positive]{***}" />
+    <string id="uolvICE4" text="On se reparle bientôt, madame. [rb:positive]" />
     <string id="uotflvH2" text="J'aimerais poser quelques questions." />
     <string id="UqDNAZqM" text="Cesser d'attendre" />
     <string id="UQyCoQCY" text="Attendez ! Ce garçon est maintenant sous ma protection. Nous sommes venus parler en paix.." />

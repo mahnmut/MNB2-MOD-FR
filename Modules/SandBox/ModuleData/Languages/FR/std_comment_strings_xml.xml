@@ -23,7 +23,7 @@
     <string id="5ZfjV7hS" text="Assez ! Vous avez gagné aujourd'hui, sale chien ! Arf, quelle honte ![rf:angry][rb:trivial]" />
     <string id="62vceTar" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.pclan}{CLAN_NAME}." />
     <string id="6acfbHiE" text="Je retiendrai votre nom. Mais vous allez devoir gagner ma confiance, {?PLAYER.GENDER}étrangère{?}étranger{\?}, car le monde est un lieu de traîtrises, et nous vivons des temps bien incertains." />
-    <string id="6l8ty6Dr" text="Pleasure to meet you.{***}" />
+    <string id="6l8ty6Dr" text="Ravi de vous rencontrer." />
     <string id="6LlDlGSb" text="Haute-Reine des Battanians" />
     <string id="6UBdsXlo" text="Peut-être qu'un jour nous nous rencontrerons sur un champ de bataille. Vous connaîtrez le Ghilman par la splendeur de nos chevaux et le chatoiement de notre acier. Si nous sommes de votre côté, vous pourrez vous réjouir. Si nous sommes votre ennemi, vous pourrez vous épargner bien des soucis en vous enfuyant avant le début du combat." />
     <string id="7lWtkqHv" text="Je me souviendrai de votre nom." />
@@ -193,7 +193,7 @@
     <string id="tRSD2C3k" text="Cette tâche que vous avez accomplit pour moi. Très joliement executé." />
     <string id="tUa5WBpp" text="impératrice légitime des Calradians" />
     <string id="TUwY7IKc" text="Bon... Vous m'avez vraiment fait perdre la tête. Je ne suis pas sûr qu'on ait beaucoup de choses à se dire maintenant." />
-    <string id="TvqjhDaQ" text="So, my young lion. You have the look of someone who may go far, if they don't wind up dead.{***}" />
+    <string id="TvqjhDaQ" text="Alors, mon jeune lion. Tu as le regard de quelqu'un qui peut aller loin, s'il ne finit pas mort." />
     <string id="Tvy4UvJC" text="reine des Vlandians" />
     <string id="TzPC5L5X" text="Je suis toujours à la recherche de bons combattants. Si vous vous demandez qui je suis, je suppose que vous avez ouïe dire que je sais prendre soin de mes hommes." />
     <string id="U4p70l9B" text="Je suis {CONVERSATION_CHARACTER.LINK}, un chef de clan de Khuzait." />
@@ -201,7 +201,7 @@
     <string id="U9u8Qeu4" text="Vous avez peut-être entendu parler des Peaux-de-Loups, voyageur. Nous sommes des bêtes. Sachez que tant que nous ne mangeons pas de viande cuite, que nous ne portons pas de tissu et que nous ne dormons pas sous un toit, les lois des hommes ne nous concernent pas. Alors, soyez prudents avec nous." />
     <string id="Ua0T0A7t" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.pclan}{CLAN_NAME}, l'une des plus anciennes lignées des Battanians." />
     <string id="UB4sqrWx" text="Mère" />
-    <string id="UehvSvLD" text="That job I gave you... I'd say you let me down.{***}" />
+    <string id="UehvSvLD" text="Ce travail que je vous ai donné... Je dirais que vous m'avez laissé tomber." />
     <string id="ufa20b2l" text="Je ne traite qu'avec ceux qui sont fidèles à leurs serments. Si vous êtes de ceux qui n'accordent pas de valeur à leur parole, ne me faites pas perdre mon temps." />
     <string id="Ufn3916B" text="J'ai entendu parler de vous. Ainsi, nous nous rencontrons. Je ne suis pas du genre à parler, alors si vous avez quelque chose à me dire, dites-le." />
     <string id="v4nyY62z" text="reine des Sturgians" />
@@ -213,7 +213,7 @@
     <string id="WbAAkcbw" text="C'est un honneur de vous rencontrer, Madame." />
     <string id="WFwoWAic" text="Je me rends ! Je me rends ! Rappelez vos chiens ![rf:angry][rb:trivial]" />
     <string id="WH8P3Y5F" text="Je suis {CONVERSATION_CHARACTER.LINK}, un vassal loyal {.de}{LIEGE_TITLE}." />
-    <string id="WnxA6JQl" text="Good to meet you. Look, one thing I value is that people keep their word, so deal straight with me and I'll deal straight with you.{***}" />
+    <string id="WnxA6JQl" text="Good to meet you. Look, one thing I value is that people keep their word, so deal straight with me and I'll deal straight with you." />
     <string id="wrIYDx9V" text="Je suis libre ? Eh bien... Au revoir, alors.[if:happy][rb:very_positive]" />
     <string id="Wt4iJPcd" text="J'ai entendu parler de vous ! C'est un plaisir de pouvoir enfin faire votre connaissance." />
     <string id="WVeS3Lsb" text="Ne recherchez pas les choses matérielles de ce monde, mais ayez soif de la vérité divine." />

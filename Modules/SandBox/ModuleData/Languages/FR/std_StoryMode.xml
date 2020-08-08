@@ -283,7 +283,7 @@
     <string id="hob3WVkU" text="Votre père était un membre des druzhina d'un boyar, les « compagnons » qui composent sa suite. Il était assis à la table de son seigneur dans la grande salle, supervisait les domaines du boyard et se tenait à ses côtés, au centre du mur de bouclier dans la bataille." />
     <string id="HqlXdzcv" text="Parlez avec {HEADMAN.NAME}" />
     <string id="HqzVBfpl" text="Commerçants urbains" />
-    <string id="hrhvEWP8" text="{PLAYER_MOTHER.NAME} was the mother of {PLAYER.LINK}. She was slain when raiders attacked the inn at which her family was staying.{***}" />
+    <string id="hrhvEWP8" text="{PLAYER_MOTHER.NAME} was the mother of {PLAYER.LINK}. She was slain when raiders attacked the inn at which her family was staying." />
     <string id="HskL8pEa" text="{.Le}{KINGDOM_NAME} a été vaincu. Vous avez échoué !" />
     <string id="hUjmasXC" text="Et vous devez posséder un village impérial." />
     <string id="HvGW2DvS" text="Piste démarrée." />
