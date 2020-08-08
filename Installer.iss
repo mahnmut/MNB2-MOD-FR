@@ -151,7 +151,7 @@ begin
 Result := ExpandConstant( '{autopf}' )
   if RegKeyExists(HKLM64, 'SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 261550') then
     begin
-     if RegQueryStringValue(HKLM64, 'SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 261550', 'HHHHHInstallLocation', Path) then
+     if RegQueryStringValue(HKLM64, 'SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 261550', 'InstallLocation', Path) then
       begin
         Result := Path;
       end
