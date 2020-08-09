@@ -7,8 +7,8 @@ Plus d'informations dans le fichier [Licence][Licence].
 Téléchargez la derniere version ici : [MNB2.MOD.FR.1.4.2][release] [Notes de version][Version]
 
 ## Installer depuis les sources :
-### Compiler l'installeur :
-prerequis :
+### Compiler l'installateur :
+Prérequis :
 - [Inno Setup Compiler][innosetup]
 Préparation :
 - Clonez le depot git
@@ -19,6 +19,7 @@ Préparation :
 Préparation :
 - Clonez le depot git
 - Copiez les dossiers GUI et Modules dans le dossier d'installation du jeu.
+
 _Par exemple : C:\Program Files\Steam\steamapps\common\Mount & Blade II Bannerlord\\_
 
 
