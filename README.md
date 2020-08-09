@@ -3,7 +3,7 @@
 Ce mod est possible grace à la contribution de nombreuses personnes.
 Plus d'informations dans le fichier [Licence][Licence].
 
-## Instalation Standard :
+## Installation Standard :
 Téléchargez la derniere version ici : [MNB2.MOD.FR.1.4.2][release] [Notes de version][Version]
 
 ## Installer depuis les sources :
