@@ -25,10 +25,10 @@ _Par exemple : C:\Program Files\Steam\steamapps\common\Mount & Blade II Bannerlo
 
 
 &nbsp;
-Ce projet est avant tout le fruit d'un travail communautaire et beaucoups de petites mains, parfois anonymes, y ont participé ce qui fait qu'on ne peux malheureusement pas citer tout le monde. Ce projet n'est pas exempt de défauts car il est impossible de garder une traduction constante quand tant de monde participe à l'effort de guerre mais c'est ce que nous avons de plus à jour pour pouvoir jouer en Français à Bannerlord Aujourd'hui. On espère que vous apprécierez. 
 
-Certaine phrases en anglais semble apparaitre dans le jeux malgré le fait qu'on les ai déjà bien traduite (par exemple certains dialogues avec des groupes de bandits.) Il est fort possible que cela vienne du jeu de base en lui même et non du mod.
+Ce projet est avant tout le fruit d'un travail communautaire et beaucoup de petites mains, parfois anonymes, y ont participé ce qui fait qu'on ne peut malheureusement pas citer tout le monde. Ce projet n'est pas exempt de défauts car il est impossible de garder une traduction constante quand tant de monde participe à l'effort de guerre mais c'est ce que nous avons de plus à jour pour pouvoir jouer en Français à Bannerlord Aujourd'hui. On espère que vous apprécierez!
 
+Certaines phrases en anglais semblent apparaître dans le jeu malgré le fait qu'on les ai déjà bien traduites (par exemple certains dialogues avec des groupes de bandits.) Il est fort possible que cela vienne du jeu de base en lui même et non du mod.
 
 &nbsp;
 
