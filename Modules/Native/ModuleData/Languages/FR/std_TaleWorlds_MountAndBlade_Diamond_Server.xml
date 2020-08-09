@@ -1,66 +1,68 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <tags>
-    <tag language="Français" />
-  </tags>
-  <strings>
-    <string id="0W4dgUho" text="Banni du jeu jusqu'au {BANNEDUNTIL}. Motif : {BANREASON}" />
-    <string id="0y5Noakb" text="Vous avez accepté la demande d'ami" />
-    <string id="2xOyWxIo" text="Le joueur n'est pas un membre du groupe." />
-    <string id="3EOP6yhO" text="Vous avez été expulsé par l'anti-triche. Raison : {KICKREASON}" />
-    <string id="4XDu4Qcd" text="Seul le chef du groupe peut expulser les joueurs du groupe." />
-    <string id="5kgkZo2o" text="Le joueur que vous avez essayé d'expulser n'est pas dans votre groupe !" />
-    <string id="91cJB1tP" text="Le joueur {INVITEDPLAYER} est déjà dans le groupe." />
-    <string id="963x2S0a" text="L'ami a été supprimé" />
-    <string id="aFQa3pQt" text="Vous devez être dans le lobby pour promouvoir un autre joueur au poste de chef de parti." />
-    <string id="ah4Pm8wU" text="Vous devez être dans le lobby pour dissoudre votre groupe !" />
-    <string id="AIgw3aFG" text="Impossible de se mettre en file d'attente pour la bataille car certains joueurs sont bloqués pour la recherche de groupe." />
-    <string id="bcdU2DHW" text="Le joueur {INVITEE} a été invité dans votre groupe par {INVITER}." />
-    <string id="bivF3RXY" text="Vous ne pouvez pas vous promouvoir vous-même" />
-    <string id="BwBR7TJB" text="Il n'y a plus personne dans votre groupe et il a été dissous !" />
-    <string id="caMylVF7" text="Impossible de faire la queue pour se battre car aucun type de jeu activé n'est sélectionné." />
-    <string id="d4eShU5x" text="{PLAYER} a accepté votre demande d'ami" />
-    <string id="dabogDDj" text="Vous êtes déjà amis" />
-    <string id="dDF2wZGu" text="{PLAYER} a refusé votre demande d'ami" />
-    <string id="E2ILp86t" text="On ne peut pas faire la queue pour se battre car la région n'est pas disponible." />
-    <string id="efpifbtd" text="Vous devez être dans le lobby pour inviter quelqu'un dans votre groupe !" />
-    <string id="emx7txM9" text="La promotion des membres ne peut être effectuée que par le chef du groupe." />
-    <string id="f4iavKkb" text="Vous êtes muet jusqu'à {MUTEDUNTIL}, raison: {MUTEREASON}" />
-    <string id="fD2SyeA7" text="Vous ne pouvez pas vous inviter dans le groupe." />
-    <string id="GZXVxl3E" text="{PLAYERNAME} déconnecté. Votre invitation dans le groupe n'est plus valide." />
-    <string id="i5ZTTTZw" text="Le joueur {INVITEDPLAYER} n'est pas dans le lobby." />
-    <string id="jl8MYbLR" text="Votre demande d'ami est transmise à {PLAYER}." />
-    <string id="jP2hUg7H" text="Vous n'êtes pas dans un groupe !" />
-    <string id="KCtYUaag" text="Vous avez déjà envoyé une demande" />
-    <string id="kY2oXMng" text="Impossible de se connecter." />
-    <string id="l6a9vI9z" text="Seul un chef de groupe peut inviter d'autres joueurs." />
-    <string id="mcAG0eHJ" text="Vous devez être au lobby pour pouvoir expulser quelqu'un de votre groupe ![Temporary]" />
-    <string id="MepGBJMQ" text="Le joueur que vous voulez promouvoir ne peut pas être trouvé" />
-    <string id="mvQKpHXH" text="Votre groupe est plein." />
-    <string id="n1MdWtck" text="Vous êtes maintenant ami avec {PLAYER}" />
-    <string id="nJ7aEkRt" text="Vous êtes invité dans le groupe par {PLAYERNAME}." />
-    <string id="nQWwqDmn" text="Vous avez reçu une demande d'ami de {PLAYER} " />
-    <string id="nw7r2S5z" text="Types de jeu désactivés sélectionnés : {GAMETYPES}." />
-    <string id="OByu0fjQ" text="Vous ne pouvez pas faire la queue pour vous battre car tous les joueurs ne sont pas prêts dans votre groupe." />
-    <string id="oFfMEy1S" text="Impossible de trouver la demande d'ami " />
-    <string id="olLwOWf8" text="On ne peut pas faire la queue pour se battre car tous les joueurs n'utilisent pas l'anti-triche." />
-    <string id="P0aRStg4" text="Impossible de se mettre en file d'attente pour la bataille car vous êtes bloqué pour la recherche de groupe." />
-    <string id="p5K0ATtZ" text="Votre ancienne session n'a pas pu être détruite." />
-    <string id="pehfmZvM" text="Le joueur {PLAYERNAME} a été promu chef de groupe." />
-    <string id="Pn13ZKwI" text="Votre groupe a été dissous !" />
-    <string id="qoto9N7y" text="Ami introuvable " />
-    <string id="Rj8RhD7F" text="Échec" />
-    <string id="SIT1tREw" text="Vous ne pouvez pas vous ajouter comme ami " />
-    <string id="Tauk2JzA" text="Incompatibilité de version, version du serveur : {SERVERVERSION} - Votre version : {CLIENTVERSION}." />
-    <string id="TpBDiSBp" text="{PLAYERNAME} a été assigné au chef du groupe." />
-    <string id="UMNzrvvJ" text="Vous êtes bloqué pour la recherche de groupe pendant {PUNISHMENTDURATION} secondes." />
-    <string id="VDDm5bqb" text="Vous ne pouvez inviter à participer que les joueurs avec l'anti-triche." />
-    <string id="w8WiqZT3" text="Vous devez exécuter le jeu avec l'anti-triche pour rejoindre ou créer un groupe !" />
-    <string id="wNubP2BF" text="Seul le chef du groupe peuvent lancer la file d'attente pour les jeux." />
-    <string id="Xb6TEi3o" text="Vous avez refusé la demande d'ami " />
-    <string id="xMa4QqvL" text="Joueurs actuels dans le groupe : {PLAYERS}" />
-    <string id="YF0irfDl" text="Le joueur est introuvable " />
-    <string id="ysfEQO6c" text="Joueur non trouvé" />
-    <string id="zyDyPr4I" text="Le joueur que vous avez voulu promouvoir n'est pas dans votre groupe." />
-  </strings>
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>
+        <string id="0W4dgUho" text="Banni du jeu jusqu'au {BANNEDUNTIL}. Motif : {BANREASON}" />
+        <string id="0y5Noakb" text="Vous avez accepté la demande d'ami" />
+        <string id="2xOyWxIo" text="Le joueur n'est pas un membre du groupe." />
+        <string id="3EOP6yhO" text="Vous avez été expulsé par l'anti-triche. Raison : {KICKREASON}" />
+        <string id="4XDu4Qcd" text="Seul le chef du groupe peut expulser les joueurs du groupe." />
+        <string id="5kgkZo2o" text="Le joueur que vous avez essayé d'expulser n'est pas dans votre groupe !" />
+        <string id="91cJB1tP" text="Le joueur {INVITEDPLAYER} est déjà dans le groupe." />
+        <string id="963x2S0a" text="L'ami a été supprimé" />
+        <string id="aFQa3pQt" text="Vous devez être dans le lobby pour promouvoir un autre joueur au poste de chef de parti." />
+        <string id="ah4Pm8wU" text="Vous devez être dans le lobby pour dissoudre votre groupe !" />
+        <string id="AIgw3aFG" text="Impossible de se mettre en file d'attente pour la bataille car certains joueurs sont bloqués pour la recherche de groupe." />
+        <string id="bcdU2DHW" text="Le joueur {INVITEE} a été invité dans votre groupe par {INVITER}." />
+        <string id="bivF3RXY" text="Vous ne pouvez pas vous promouvoir vous-même" />
+        <string id="BwBR7TJB" text="Il n'y a plus personne dans votre groupe et il a été dissous !" />
+        <string id="caMylVF7" text="Impossible de faire la queue pour se battre car aucun type de jeu activé n'est sélectionné." />
+        <string id="d4eShU5x" text="{PLAYER} a accepté votre demande d'ami" />
+        <string id="dabogDDj" text="Vous êtes déjà amis" />
+        <string id="dDF2wZGu" text="{PLAYER} a refusé votre demande d'ami" />
+        <string id="E2ILp86t" text="On ne peut pas faire la queue pour se battre car la région n'est pas disponible." />
+        <string id="efpifbtd" text="Vous devez être dans le lobby pour inviter quelqu'un dans votre groupe !" />
+        <string id="emx7txM9" text="La promotion des membres ne peut être effectuée que par le chef du groupe." />
+        <string id="f4iavKkb" text="Vous êtes muet jusqu'à {MUTEDUNTIL}, raison: {MUTEREASON}" />
+        <string id="fD2SyeA7" text="Vous ne pouvez pas vous inviter dans le groupe." />
+        <string id="GZXVxl3E" text="{PLAYERNAME} déconnecté. Votre invitation dans le groupe n'est plus valide." />
+        <string id="i5ZTTTZw" text="Le joueur {INVITEDPLAYER} n'est pas dans le lobby." />
+        <string id="jl8MYbLR" text="Votre demande d'ami est transmise à {PLAYER}." />
+        <string id="jP2hUg7H" text="Vous n'êtes pas dans un groupe !" />
+        <string id="KCtYUaag" text="Vous avez déjà envoyé une demande" />
+        <string id="kY2oXMng" text="Impossible de se connecter." />
+        <string id="l6a9vI9z" text="Seul un chef de groupe peut inviter d'autres joueurs." />
+        <string id="mcAG0eHJ" text="Vous devez être au lobby pour pouvoir expulser quelqu'un de votre groupe ![Temporary]" />
+        <string id="MepGBJMQ" text="Le joueur que vous voulez promouvoir ne peut pas être trouvé" />
+        <string id="mvQKpHXH" text="Votre groupe est plein." />
+        <string id="n1MdWtck" text="Vous êtes maintenant ami avec {PLAYER}" />
+        <string id="nJ7aEkRt" text="Vous êtes invité dans le groupe par {PLAYERNAME}." />
+        <string id="nQWwqDmn" text="Vous avez reçu une demande d'ami de {PLAYER} " />
+        <string id="nw7r2S5z" text="Types de jeu désactivés sélectionnés : {GAMETYPES}." />
+        <string id="OByu0fjQ" text="Vous ne pouvez pas faire la queue pour vous battre car tous les joueurs ne sont pas prêts dans votre groupe." />
+        <string id="oFfMEy1S" text="Impossible de trouver la demande d'ami " />
+        <string id="olLwOWf8" text="On ne peut pas faire la queue pour se battre car tous les joueurs n'utilisent pas l'anti-triche." />
+        <string id="P0aRStg4" text="Impossible de se mettre en file d'attente pour la bataille car vous êtes bloqué pour la recherche de groupe." />
+        <string id="p5K0ATtZ" text="Votre ancienne session n'a pas pu être détruite." />
+        <string id="pehfmZvM" text="Le joueur {PLAYERNAME} a été promu chef de groupe." />
+        <string id="Pn13ZKwI" text="Votre groupe a été dissous !" />
+        <string id="qoto9N7y" text="Ami introuvable " />
+        <string id="Rj8RhD7F" text="Échec" />
+        <string id="SIT1tREw" text="Vous ne pouvez pas vous ajouter comme ami " />
+        <string id="Tauk2JzA" text="Incompatibilité de version, version du serveur : {SERVERVERSION} - Votre version : {CLIENTVERSION}." />
+        <string id="TpBDiSBp" text="{PLAYERNAME} a été assigné au chef du groupe." />
+        <string id="UMNzrvvJ" text="Vous êtes bloqué pour la recherche de groupe pendant {PUNISHMENTDURATION} secondes." />
+        <string id="VDDm5bqb" text="Vous ne pouvez inviter à participer que les joueurs avec l'anti-triche." />
+        <string id="w8WiqZT3" text="Vous devez exécuter le jeu avec l'anti-triche pour rejoindre ou créer un groupe !" />
+        <string id="wNubP2BF" text="Seul le chef du groupe peuvent lancer la file d'attente pour les jeux." />
+        <string id="Xb6TEi3o" text="Vous avez refusé la demande d'ami " />
+        <string id="xMa4QqvL" text="Joueurs actuels dans le groupe : {PLAYERS}" />
+        <string id="YF0irfDl" text="Le joueur est introuvable " />
+        <string id="ysfEQO6c" text="Joueur non trouvé" />
+        <string id="zyDyPr4I" text="Le joueur que vous avez voulu promouvoir n'est pas dans votre groupe." />
+        <!--This translation has been made by the French community. You can join it at this address https://discord.gg/Ck3ZBD5-->
+        <!--Copyright © 2020, M&B Bannerlord Traduction FR-->
+    </strings>
 </base>

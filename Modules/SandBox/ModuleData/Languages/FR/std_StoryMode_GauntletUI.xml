@@ -1,12 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <tags>
-    <tag language="Français" />
-  </tags>
-  <strings>
-    <string id="75nwCTEn" text="L'écran des clans est désactivé pendant le tutoriel."/>
-    <string id="lBQXP6Wj" text="Démarrer une Partie"/>
-    <string id="Rvr1bcu8" text="Suivant"/>
-    <string id="UjERCi2F" text="Cette fonctionnalité est désactivée."/>
-  </strings>
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>
+        <string id="75nwCTEn" text="L'écran des clans est désactivé pendant le tutoriel." />
+        <string id="lBQXP6Wj" text="Démarrer une Partie" />
+        <string id="Rvr1bcu8" text="Suivant" />
+        <string id="UjERCi2F" text="Cette fonctionnalité est désactivée." />
+        <!--This translation has been made by the French community. You can join it at this address https://discord.gg/Ck3ZBD5-->
+        <!--Copyright © 2020, M&B Bannerlord Traduction FR-->
+    </strings>
 </base>

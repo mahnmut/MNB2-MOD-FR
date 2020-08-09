@@ -1,16 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <tags>
-    <tag language="Français" />
-  </tags>
-  <strings>
-    <string id="0B27RrYJ" text="Battania"/>
-    <string id="1sbJQR4H" text="Pillards"/>
-    <string id="3PzgpFGq" text="Neutre"/>
-    <string id="FjwRsf1C" text="Vlandia"/>
-    <string id="kiOst6DH" text="Empire"/>
-    <string id="NaNMRPv4" text="Aserai"/>
-    <string id="PjO7oY16" text="Sturgia"/>
-    <string id="sZLd6VHi" text="Khuzait"/>
-  </strings>
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>
+        <string id="0B27RrYJ" text="Battania" />
+        <string id="1sbJQR4H" text="Pillards" />
+        <string id="3PzgpFGq" text="Neutre" />
+        <string id="FjwRsf1C" text="Vlandia" />
+        <string id="kiOst6DH" text="Empire" />
+        <string id="NaNMRPv4" text="Aserai" />
+        <string id="PjO7oY16" text="Sturgia" />
+        <string id="sZLd6VHi" text="Khuzait" />
+        <!--This translation has been made by the French community. You can join it at this address https://discord.gg/Ck3ZBD5-->
+        <!--Copyright © 2020, M&B Bannerlord Traduction FR-->
+    </strings>
 </base>

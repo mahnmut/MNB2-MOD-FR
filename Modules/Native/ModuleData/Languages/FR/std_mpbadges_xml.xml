@@ -1,41 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <tags>
-    <tag language="Français" />
-  </tags>
-  <strings>
-    <string id="16hLiz40" text="Bêta testeur"/>
-    <string id="1CxYPryo" text="Ce badge a été attribué aux joueurs qui ont gagné 50 matchs durant la beta"/>
-    <string id="21oH4CWa" text="Chasseur de bug"/>
-    <string id="5IANKz8a" text="Alpha testeur"/>
-    <string id="5ZwXUBV5" text="Ce badge a été attribué aux joueurs qui ont gagné 500 parties durant l'Accès Anticipé du jeu."/>
-    <string id="9C9Nbgbt" text="VIP"/>
-    <string id="aNsV4LOg" text="Participant Early Access"/>
-    <string id="aubhe8Hk" text="Développeur de TaleWorlds"/>
-    <string id="BCWVcO6k" text="Ce badge a été attribué aux joueurs qui ont participé au test de la Beta Multijoueurs."/>
-    <string id="bKmVrmzG" text="Ce badge a été attribué aux joueurs qui ont gagné 100 matchs durant la Beta"/>
-    <string id="Cbf52UqN" text="Ce badge a été attribué aux joueurs qui ont gagné 50 parties durant l'accès anticipé."/>
-    <string id="DJY6qD0b" text="Victoires actuelles"/>
-    <string id="DKAH6hMC" text="20 Victoires en Accès Anticipé"/>
-    <string id="dSWtiVLz" text="Ce badge a été attribué aux membres de la communauté qui ont contribué au jeu et à la communauté."/>
-    <string id="DWb2zRsZ" text="100 victoires en Beta"/>
-    <string id="ESOkYFiD" text="Ce badge a été attribué aux joueurs qui ont gagnés 750 matchs durant l'Accès Anticipé du jeu."/>
-    <string id="fAaorpa8" text="50 Victoires en Accès Anticipé"/>
-    <string id="FDvwGjni" text="50 victoires en Beta"/>
-    <string id="gNiQcEa9" text="Ce badge a été attribué aux membres de la communauté qui nous ont aidé de manière significative à trouver les bugs et les problèmes que nous avons rencontrés sur la période alpha et bêta du multijoueur."/>
-    <string id="GTmPMoYe" text="Employé de TaleWorlds"/>
-    <string id="H4Zlsiu1" text="250 Victoires en Beta"/>
-    <string id="IcPNgbtl" text="Ce badge a été attribué aux joueurs qui ont gagnés 100 matchs durant Accès Anticipé du jeu."/>
-    <string id="iGTJ4aQq" text="250 Victoires en Accès Anticipé"/>
-    <string id="KcPkbnu2" text="20 victoires en Beta"/>
-    <string id="medMGVme" text="Ce badge a été attribué aux joueurs qui ont gagnés 250 matchs durant l'Accès Anticipé."/>
-    <string id="OasvPXuW" text="Ce badge a été attribué aux joueurs qui ont gagnés 20 matchs durant l'Accès Anticipé."/>
-    <string id="OGsa2aC1" text="Ce badge a été attribué aux joueurs qui ont participé à l'Accès Anticipé."/>
-    <string id="qLpxrsFX" text="Ce badge est attribué aux joueurs qui ont participé à l'Alpha Test du Multijoueurs."/>
-    <string id="qvYJuD83" text="100 victoires en Accès Anticipé"/>
-    <string id="sli6QNV6" text="Ce badge a été attribué aux joueurs qui ont gagné 250 matchs durant le Test de la Beta du jeu."/>
-    <string id="tI5cj3Qz" text="Ce badge a été attribué aux joueurs qui ont gagné 20 matchs durant le Test de la Beta du jeu"/>
-    <string id="Xws44eDL" text="500 victoires en Accès Anticipé"/>
-    <string id="ZodCgSL5" text="750 victoires en Accès Anticipé"/>
-  </strings>
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>
+        <string id="16hLiz40" text="Bêta testeur" />
+        <string id="1CxYPryo" text="Ce badge a été attribué aux joueurs qui ont gagné 50 matchs durant la beta" />
+        <string id="21oH4CWa" text="Chasseur de bug" />
+        <string id="5IANKz8a" text="Alpha testeur" />
+        <string id="5ZwXUBV5" text="Ce badge a été attribué aux joueurs qui ont gagné 500 parties durant l'Accès Anticipé du jeu." />
+        <string id="9C9Nbgbt" text="VIP" />
+        <string id="aNsV4LOg" text="Participant Early Access" />
+        <string id="aubhe8Hk" text="Développeur de TaleWorlds" />
+        <string id="BCWVcO6k" text="Ce badge a été attribué aux joueurs qui ont participé au test de la Beta Multijoueurs." />
+        <string id="bKmVrmzG" text="Ce badge a été attribué aux joueurs qui ont gagné 100 matchs durant la Beta" />
+        <string id="Cbf52UqN" text="Ce badge a été attribué aux joueurs qui ont gagné 50 parties durant l'accès anticipé." />
+        <string id="DJY6qD0b" text="Victoires actuelles" />
+        <string id="DKAH6hMC" text="20 Victoires en Accès Anticipé" />
+        <string id="dSWtiVLz" text="Ce badge a été attribué aux membres de la communauté qui ont contribué au jeu et à la communauté." />
+        <string id="DWb2zRsZ" text="100 victoires en Beta" />
+        <string id="ESOkYFiD" text="Ce badge a été attribué aux joueurs qui ont gagnés 750 matchs durant l'Accès Anticipé du jeu." />
+        <string id="fAaorpa8" text="50 Victoires en Accès Anticipé" />
+        <string id="FDvwGjni" text="50 victoires en Beta" />
+        <string id="gNiQcEa9" text="Ce badge a été attribué aux membres de la communauté qui nous ont aidé de manière significative à trouver les bugs et les problèmes que nous avons rencontrés sur la période alpha et bêta du multijoueur." />
+        <string id="GTmPMoYe" text="Employé de TaleWorlds" />
+        <string id="H4Zlsiu1" text="250 Victoires en Beta" />
+        <string id="IcPNgbtl" text="Ce badge a été attribué aux joueurs qui ont gagnés 100 matchs durant Accès Anticipé du jeu." />
+        <string id="iGTJ4aQq" text="250 Victoires en Accès Anticipé" />
+        <string id="KcPkbnu2" text="20 victoires en Beta" />
+        <string id="medMGVme" text="Ce badge a été attribué aux joueurs qui ont gagnés 250 matchs durant l'Accès Anticipé." />
+        <string id="OasvPXuW" text="Ce badge a été attribué aux joueurs qui ont gagnés 20 matchs durant l'Accès Anticipé." />
+        <string id="OGsa2aC1" text="Ce badge a été attribué aux joueurs qui ont participé à l'Accès Anticipé." />
+        <string id="qLpxrsFX" text="Ce badge est attribué aux joueurs qui ont participé à l'Alpha Test du Multijoueurs." />
+        <string id="qvYJuD83" text="100 victoires en Accès Anticipé" />
+        <string id="sli6QNV6" text="Ce badge a été attribué aux joueurs qui ont gagné 250 matchs durant le Test de la Beta du jeu." />
+        <string id="tI5cj3Qz" text="Ce badge a été attribué aux joueurs qui ont gagné 20 matchs durant le Test de la Beta du jeu" />
+        <string id="Xws44eDL" text="500 victoires en Accès Anticipé" />
+        <string id="ZodCgSL5" text="750 victoires en Accès Anticipé" />
+        <!--This translation has been made by the French community. You can join it at this address https://discord.gg/Ck3ZBD5-->
+        <!--Copyright © 2020, M&B Bannerlord Traduction FR-->
+    </strings>
 </base>

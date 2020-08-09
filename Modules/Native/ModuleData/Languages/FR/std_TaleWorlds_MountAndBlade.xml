@@ -1,44 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <tags>
-    <tag language="Français" />
-  </tags>
-  <strings>
-    <string id="0xC75dN6" text="Groupe ennemi"/>
-    <string id="1cnJtNTt" text="({KEY}) Tirer"/>
-    <string id="1CPdu9K0" text="Pierre"/>
-    <string id="3PP01vFv" text="Rester à l'écart de cette arme."/>
-    <string id="4FVIuqsl" text="{ALIVE}/{TOTAL}"/>
-    <string id="4Skg9QhO" text="Trébuchet"/>
-    <string id="5oozsaIb" text="({KEY}) Ouvrir"/>
-    <string id="5wx4BF5h" text="({KEY}) Tourner"/>
-    <string id="5zGsfiMM" text="{TRAINING_TYPE}"/>
-    <string id="6wZUG0ev" text="Porte"/>
-    <string id="abbALYlp" text="Baliste"/>
-    <string id="aXjlMBiE" text="Tour de siège"/>
-    <string id="bNYm3K6b" text="({KEY}) Ramasser"/>
-    <string id="bWi4aMO9" text="Tonneau de Flèche"/>
-    <string id="F9AQxCax" text="Fourche"/>
-    <string id="fEQAPJ2e" text="({KEY}) Utiliser"/>
-    <string id="G0AWk1rX" text="Échelle"/>
-    <string id="gqQPSAQZ" text="({KEY}) Quitter la zone"/>
-    <string id="hOSafKZ9" text="Une nouvelle partie {.de}{GAME_TYPE} débutera à {SCENE_NAME}"/>
-    <string id="hvQSOi79" text="Bot"/>
-    <string id="ibC4xPoo" text="({KEY}) Recharger les munitions"/>
-    <string id="jfcceEoE" text="Tas {.de}{PILE_TYPE}"/>
-    <string id="kbNcm68J" text="({KEY}) Soulever"/>
-    <string id="L91XKoMD" text="{TEAM_LEADER}: {PLAYER_NAME}, {BEHAVIOR}"/>
-    <string id="lVfmVHbz" text="Échec de connexion"/>
-    <string id="MaBSSg7I" text="Bélier"/>
-    <string id="MdQJxiGz" text="({KEY}) Pousser"/>
-    <string id="Na81xuXn" text="({KEY}) Réarmer"/>
-    <string id="NbpcDXtJ" text="Mangonneau"/>
-    <string id="pgw7LMRo" text="Serveur surchargé."/>
-    <string id="PNg2Rb4p" text="{PEER_NAME} va être expulsé{IS_BANNED}"/>
-    <string id="pzfbPbWW" text="Rocher"/>
-    <string id="rwZAZSvX" text="({KEY}) Déplacer"/>
-    <string id="sSJSTe5p" text="Groupe du joueur"/>
-    <string id="TJj71hPO" text="({KEY}) Fermer"/>
-    <string id="wY1qP2qj" text="({KEY}) Sélectionner"/>
-  </strings>
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>
+        <string id="0xC75dN6" text="Groupe ennemi" />
+        <string id="1cnJtNTt" text="({KEY}) Tirer" />
+        <string id="1CPdu9K0" text="Pierre" />
+        <string id="3PP01vFv" text="Rester à l'écart de cette arme." />
+        <string id="4FVIuqsl" text="{ALIVE}/{TOTAL}" />
+        <string id="4Skg9QhO" text="Trébuchet" />
+        <string id="5oozsaIb" text="({KEY}) Ouvrir" />
+        <string id="5wx4BF5h" text="({KEY}) Tourner" />
+        <string id="5zGsfiMM" text="{TRAINING_TYPE}" />
+        <string id="6wZUG0ev" text="Porte" />
+        <string id="abbALYlp" text="Baliste" />
+        <string id="aXjlMBiE" text="Tour de siège" />
+        <string id="bNYm3K6b" text="({KEY}) Ramasser" />
+        <string id="bWi4aMO9" text="Tonneau de Flèche" />
+        <string id="F9AQxCax" text="Fourche" />
+        <string id="fEQAPJ2e" text="({KEY}) Utiliser" />
+        <string id="G0AWk1rX" text="Échelle" />
+        <string id="gqQPSAQZ" text="({KEY}) Quitter la zone" />
+        <string id="hOSafKZ9" text="Une nouvelle partie {.de}{GAME_TYPE} débutera à {SCENE_NAME}" />
+        <string id="hvQSOi79" text="Bot" />
+        <string id="ibC4xPoo" text="({KEY}) Recharger les munitions" />
+        <string id="jfcceEoE" text="Tas {.de}{PILE_TYPE}" />
+        <string id="kbNcm68J" text="({KEY}) Soulever" />
+        <string id="L91XKoMD" text="{TEAM_LEADER}: {PLAYER_NAME}, {BEHAVIOR}" />
+        <string id="lVfmVHbz" text="Échec de connexion" />
+        <string id="MaBSSg7I" text="Bélier" />
+        <string id="MdQJxiGz" text="({KEY}) Pousser" />
+        <string id="Na81xuXn" text="({KEY}) Réarmer" />
+        <string id="NbpcDXtJ" text="Mangonneau" />
+        <string id="pgw7LMRo" text="Serveur surchargé." />
+        <string id="PNg2Rb4p" text="{PEER_NAME} va être expulsé{IS_BANNED}" />
+        <string id="pzfbPbWW" text="Rocher" />
+        <string id="rwZAZSvX" text="({KEY}) Déplacer" />
+        <string id="sSJSTe5p" text="Groupe du joueur" />
+        <string id="TJj71hPO" text="({KEY}) Fermer" />
+        <string id="wY1qP2qj" text="({KEY}) Sélectionner" />
+        <!--This translation has been made by the French community. You can join it at this address https://discord.gg/Ck3ZBD5-->
+        <!--Copyright © 2020, M&B Bannerlord Traduction FR-->
+    </strings>
 </base>

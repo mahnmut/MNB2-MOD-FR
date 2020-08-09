@@ -1,28 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <tags>
-    <tag language="Français" />
-  </tags>
-  <strings>
-    <string id="2NR2E663" text="Palmeraie"/>
-    <string id="3aOIY6wl" text="Mine de sel"/>
-    <string id="6WbkldyD" text="Bûcheron"/>
-    <string id="7dW5m6Xa" text="Élevage de bovins"/>
-    <string id="BPPG2XF7" text="Ferme de blé"/>
-    <string id="dIBuwAhe" text="Plantation d'épices"/>
-    <string id="EBO1FIC9" text="Ferme de moutons"/>
-    <string id="ewrkbwI9" text="Oliveraie"/>
-    <string id="hopZmzBi" text="Écurie des steppes"/>
-    <string id="hPq4vD4Z" text="Arrêter le projet"/>
-    <string id="koX9okuG" text="Rien"/>
-    <string id="NWUTYDQ0" text="Temple"/>
-    <string id="OSron4OZ" text="Pêcherie"/>
-    <string id="pYY1UNgS" text="Puits d'argile"/>
-    <string id="rHcVKSbA" text="Mine de fer"/>
-    <string id="vPt1OF30" text="Étable du désert"/>
-    <string id="Xj8gsFrW" text="Fabrique de soie"/>
-    <string id="Z8ntYx0Y" text="Champ de lin"/>
-    <string id="ZtxWTS9V" text="Vignoble"/>
-    <string id="zzQdNpXw" text="Écurie"/>
-  </strings>
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>
+        <string id="2NR2E663" text="Palmeraie" />
+        <string id="3aOIY6wl" text="Mine de sel" />
+        <string id="6WbkldyD" text="Bûcheron" />
+        <string id="7dW5m6Xa" text="Élevage de bovins" />
+        <string id="BPPG2XF7" text="Ferme de blé" />
+        <string id="dIBuwAhe" text="Plantation d'épices" />
+        <string id="EBO1FIC9" text="Ferme de moutons" />
+        <string id="ewrkbwI9" text="Oliveraie" />
+        <string id="hopZmzBi" text="Écurie des steppes" />
+        <string id="hPq4vD4Z" text="Arrêter le projet" />
+        <string id="koX9okuG" text="Rien" />
+        <string id="NWUTYDQ0" text="Temple" />
+        <string id="OSron4OZ" text="Pêcherie" />
+        <string id="pYY1UNgS" text="Puits d'argile" />
+        <string id="rHcVKSbA" text="Mine de fer" />
+        <string id="vPt1OF30" text="Étable du désert" />
+        <string id="Xj8gsFrW" text="Fabrique de soie" />
+        <string id="Z8ntYx0Y" text="Champ de lin" />
+        <string id="ZtxWTS9V" text="Vignoble" />
+        <string id="zzQdNpXw" text="Écurie" />
+        <!--This translation has been made by the French community. You can join it at this address https://discord.gg/Ck3ZBD5-->
+        <!--Copyright © 2020, M&B Bannerlord Traduction FR-->
+    </strings>
 </base>

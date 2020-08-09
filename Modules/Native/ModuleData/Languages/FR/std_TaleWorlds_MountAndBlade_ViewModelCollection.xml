@@ -1,192 +1,194 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <tags>
-    <tag language="Français" />
-  </tags>
-  <strings>
-    <string id="06V7fEV4" text="Appuyer sur ESC pour revenir en arrière" />
-    <string id="2Q6Mm9Jo" text="Options de la manette" />
-    <string id="2zcrC0h1" text="Jouabilité" />
-    <string id="3CpNUnVl" text="Annuler" />
-    <string id="3CsACce8" text="Quitter" />
-    <string id="4Dd2xgPm" text="Poids" />
-    <string id="4OGDnOVE" text="avec {OPPONENT_NAME}" />
-    <string id="5baU17n0" text="La fonctionnalité de recherche de groupe est actuellement désactivée" />
-    <string id="5k4dxUEJ" text="Troupes" />
-    <string id="5Pea977J" text="Faction : " />
-    <string id="5UJJLzaL" text="Recherche de joueurs avec vos critères : " />
-    <string id="5Z0pvuNL" text="Niveau {LEVEL}" />
-    <string id="61isYVW0" text="Le joueur {USER_NAME} est introuvable" />
-    <string id="6GSXsdeX" text="Vitesse" />
-    <string id="6MQaCah5" text="Rejoindre une partie" />
-    <string id="6Pjb3Rya" text="Les sondages ne sont pas actifs" />
-    <string id="6syoutpV" text="De {WHISPER_TARGET}" />
-    <string id="74PKmRWJ" text="Cheveux au vent" />
-    <string id="7qySRF2T" text="Latence" />
-    <string id="8nJFaJio" text="Mot de passe" />
-    <string id="9jdHEa0N" text="Demandes d'ami" />
-    <string id="AaAcmalE" text="Vous avez été invité à rejoindre un groupe par" />
-    <string id="aalbxe7z" text="Taille de l'armée" />
-    <string id="aB4Md0if" text="A des joueurs" />
-    <string id="abxndmIh" text="Social" />
-    <string id="ahiBhAqU" text="Armure" />
-    <string id="aO3avkK9" text="Matchmaking désactivé" />
-    <string id="ApD0xQXT" text="{STR1} : {STR2}" />
-    <string id="aRzlp5XH" text="CRÉER" />
-    <string id="aVixswW5" text="Sélection d'équipe" />
-    <string id="b31ITmm0" text="Qté Stock" />
-    <string id="b9PT1Yxc" text="Sélectionnez un type de jeu" />
-    <string id="BAaS5Dkc" text="Appliquer" />
-    <string id="bIcFZT6L" text="Type de sourcil" />
-    <string id="bON4Kn6B" text="Assignation automatique" />
-    <string id="BrYUHFsg" text="CHOISIR LE JEU" />
-    <string id="bsiRNJtk" text="{NAME} :" />
-    <string id="cDzWYQrz" text="Rétablir les paramètres par défaut ?" />
-    <string id="chfTxqZg" text="Commande invalide." />
-    <string id="cK5DE88I" text="N/A" />
-    <string id="cLJdeUWz" text="Taille :" />
-    <string id="D0TbQm4r" text="CORROMPU" />
-    <string id="d5SNB0HV" text="Choisir {ITEM_NAME}" />
-    <string id="DAVb2Pzg" text="Dégâts de charge" />
-    <string id="Dbkx4v90" text="MANCHE PERDUE" />
-    <string id="DdOgvhsV" text="Expulser" />
-    <string id="DKqLY1aJ" text="Équiper" />
-    <string id="DmaP2qaR" text="Type de peau" />
-    <string id="dMdmyb3Y" text="Protégé par mot de passe" />
-    <string id="DoDZGYf6" text="Sélectionnez un type de sondage" />
-    <string id="DQvGNQ0g" text="Il n'y a pas d'unité sous commandement." />
-    <string id="eCOJSSUH" text="({BOT_COUNT} Bots)" />
-    <string id="eGuQKRhb" text="Vous quittez la zone !" />
-    <string id="Etjqamlh" text="{PLAYER_COUNT} Joueurs" />
-    <string id="EUAKPHek" text="Construire :" />
-    <string id="F7dBjl83" text="La fonction de Bataille Personnalisée est actuellement désactivée" />
-    <string id="FD7EQDmW" text="Recherche d'une partie" />
-    <string id="ffjTMejn" text="Statistiques" />
-    <string id="fM9E7frB" text="Performances" />
-    <string id="FRSGOfUJ" text="Inclure le journal de combat" />
-    <string id="ftoSCQ0x" text="Longueur" />
-    <string id="g1lgiwn1" text="Non connecté" />
-    <string id="G6hYIR5k" text="Intonation de la voix :" />
-    <string id="gcl2duJH" text="Réinitialiser votre badge" />
-    <string id="GGseMDd3" text="Durabilité" />
-    <string id="GMhOZGnb" text="Impossible de donner des ordres quand on est mort." />
-    <string id="GmU1to3Y" text="Statistiques" />
-    <string id="gqNxq11A" text="Objectifs" />
-    <string id="GXosklej" text="Décontracté" />
-    <string id="gzdNEM76" text="Créer une partie" />
-    <string id="H1emUb6k" text="Âge :" />
-    <string id="hazebV8x" text="Personnaliser le personnage" />
-    <string id="hbwp3g3k" text="+{FRIEND_COUNT}{newline}{?PLURAL}amis{?}ami{\?}" />
-    <string id="Hp2wp3et" text="Accepter (F1)" />
-    <string id="HXxNfncd" text="Fin de la bataille" />
-    <string id="i0OEsfLt" text="Bataille personnalisée désactivée" />
-    <string id="IBEJPlEj" text="Accueil" />
-    <string id="Ie9I2Bha" text="Dégâts d'estoc" />
-    <string id="iKtIhlbo" text="Manches" />
-    <string id="IlQnJsUp" text="Drapeaux capturés :" />
-    <string id="iLUiaRsj" text="Votre" />
-    <string id="iNqucBor" text="Connecté" />
-    <string id="J0vjDOFO" text="Vitesse d'estoc" />
-    <string id="Jd44GGJW" text="L'équipe {TEAM} a eu le dessus à la fin du temps imparti" />
-    <string id="JKCounzE" text="Vidéo" />
-    <string id="JPimShCw" text="Type de jeu" />
-    <string id="jy9orOJz" text="Jouer" />
-    <string id="jZ6GblZu" text="Favori" />
-    <string id="K1Gb5a5Q" text="Vous devez lancer le jeu avec l'anti-triche" />
-    <string id="K9XhWUQi" text="Refuser (F2)" />
-    <string id="kftE5nvv" text="Armure de cheval" />
-    <string id="kG0xuyfE" text="Armurerie" />
-    <string id="koX9okuG" text="Aucun" />
-    <string id="l2CNxPXG" text="Type de dents" />
-    <string id="LlrlE199" text="Vous pouvez encore déployer des engins de siège.{newline}On commence quand même ?" />
-    <string id="LrE2cUnG" text="Actuellement désactivé" />
-    <string id="lugGPVOb" text="Se connecter" />
-    <string id="lWDq0Uss" text="REJOINDRE" />
-    <string id="macpKFaG" text="Voix" />
-    <string id="mAxXKaXp" text="Réinitialiser" />
-    <string id="meFS5F4V" text="-{DAMAGE}" />
-    <string id="Met1U45t" text="Souris et clavier" />
-    <string id="MsAb6hed" text="L'équipe {TEAM} a été anéantie" />
-    <string id="NaZ6xg33" text="Impossible de trouver un serveur à rejoindre." />
-    <string id="nFvVw68B" text="Inviter dans le groupe" />
-    <string id="NJolh9ye" text="Parties récentes" />
-    <string id="NLKmdNbt" text="Recherche" />
-    <string id="NqarFr4P" text="Options" />
-    <string id="nqYaiEo2" text="Mes Badges" />
-    <string id="NUSH5bJu" text="{EXPERIENCE} XP jusqu'au niveau suivant" />
-    <string id="oBbiVeKE" text="Points de vie" />
-    <string id="oHaWR73d" text="OK" />
-    <string id="oibdTnXP" text="Maniabilité" />
-    <string id="OSoAVlqc" text="Équipé" />
-    <string id="OVcoYxj1" text="Nom du serveur" />
-    <string id="OwqFpPwa" text="Filtres" />
-    <string id="P7moPm3F" text="Définir comme chef de groupe" />
-    <string id="pguhTmXw" text="Résultats de la bataille" />
-    <string id="pSheKLB4" text="Spectateur" />
-    <string id="Q50X65NB" text="Classes" />
-    <string id="qaycA9YY" text="Total des éloges :" />
-    <string id="QDNcl3DH" text="Invitation à un groupe" />
-    <string id="qe46yXVJ" text="FERMÉ POUR ÉQUILIBRAGE" />
-    <string id="qFPBhVh4" text="Rafraîchir" />
-    <string id="QfTt7YRB" text="Cadence de tir" />
-    <string id="qXxpITdc" text="Couleur yeux :" />
-    <string id="R28ac5ij" text="{NUMBER} Joueurs" />
-    <string id="r5WzivPb" text="Durée de la manche" />
-    <string id="Rc95Kq8r" text="Veuillez patienter..." />
-    <string id="RCuCoVgd" text="MANCHE GAGNÉE" />
-    <string id="RfXJdNye" text="Joueurs" />
-    <string id="rg7OuWS2" text="Manœuvre" />
-    <string id="rLozutts" text="Demande d'ami" />
-    <string id="RNgWFLIO" text="Dégâts de tranchant" />
-    <string id="Rzor6tbG" text="Apparences" />
-    <string id="S2bKbhTc" text="TROUVER JEU AUTO" />
-    <string id="s31DnnAf" text="Dégâts" />
-    <string id="saZ1OvPt" text="Vous pouvez appuyer sur le bouton de connexion pour établir la connexion" />
-    <string id="SKjI2a8V" text="Quitter le groupe" />
-    <string id="SoQcsslF" text="ÉQUIPE ACTUELLE" />
-    <string id="sPmQz21k" text="Ennemi" />
-    <string id="SxxxusWS" text="Sélectionnez un joueur à expulser" />
-    <string id="TAnabTdy" text="Précision" />
-    <string id="tFLLx4J4" text="Classes les plus jouées" />
-    <string id="tjioq56N" text="Liste d'amis" />
-    <string id="TxphX8Uk" text="Déploiement" />
-    <string id="TzYWE9tA" text="Aucune partie récente trouvée" />
-    <string id="U4dzbzNb" text="Veuillez patienter pendant la connexion au serveur" />
-    <string id="uNBpT3vs" text="Nombre de joueur en recherche de partie : " />
-    <string id="uUoSmCBS" text="Dans Bannerlord" />
-    <string id="uvwLriAX" text="Utilisez [{KEY_NAME}] pour afficher le tableau de scores" />
-    <string id="UYnLfaCY" text="Acheter" />
-    <string id="V305MaOP" text="En ligne" />
-    <string id="v6J8ILV3" text="Sans mot de passe" />
-    <string id="VOTau449" text="Verrouillé" />
-    <string id="vZTWMqUp" text="Seuls les chefs de groupe peuvent prendre des mesures contre les autres membres du groupe" />
-    <string id="w2yV4Wib" text="Vote rejeté" />
-    <string id="W4DLzPSb" text="Serveur incomplet" />
-    <string id="w9m11T1y" text="Carte" />
-    <string id="wGjQgQlY" text="La prochaine partie commence dans :" />
-    <string id="WiNRdfsm" text="Terminer" />
-    <string id="wkIVxzV6" text="Recommencer" />
-    <string id="wnMT7R0K" text="Requêtes en attente" />
-    <string id="WOQZBmMx" text="Serveurs" />
-    <string id="wTtyFa89" text="Jouer" />
-    <string id="wuKqRvc3" text="Jeu : {GAME_TYPES}  |  Région : {REGIONS}" />
-    <string id="wwr4V1jm" text="Sélectionner un joueur à bannir" />
-    <string id="xebFLnH2" text="Audio" />
-    <string id="XJTX8w8M" text="Round d'Échauffement - {GAME_MODE}{newline}En attente de connexion des joueurs" />
-    <string id="XLHkPwbb" text="Sélectionner une carte de jeu" />
-    <string id="xTv4tCbZ" text="Tout le monde ! Écoutez-moi" />
-    <string id="Y94H6XnK" text="Valider" />
-    <string id="yA45PqFc" text="TROUVER UNE PARTIE" />
-    <string id="YAaAlbkX" text="Temps de jeu moyen" />
-    <string id="yJsE4Ayo" text="Vit. de taille" />
-    <string id="yjyJgRVt" text="L'équipe {TEAM} a perdu son moral" />
-    <string id="YK3nXtoM" text="Amis" />
-    <string id="yS7PvrTD" text="OK" />
-    <string id="yUpH2mQ4" text="Munitions" />
-    <string id="zBld61ck" text="Poids :" />
-    <string id="zfN0N8xN" text="Temps de jeu total :" />
-    <string id="zMbYCQa5" text="Score moyen :" />
-    <string id="Zv1lg272" text="Hors ligne" />
-    <string id="zxBBzoTH" text="Le duel {DUEL_NAME} commence dans {DUEL_REMAINING_TIME} secondes." />
-  </strings>
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>
+        <string id="06V7fEV4" text="Appuyer sur ESC pour revenir en arrière" />
+        <string id="2Q6Mm9Jo" text="Options de la manette" />
+        <string id="2zcrC0h1" text="Jouabilité" />
+        <string id="3CpNUnVl" text="Annuler" />
+        <string id="3CsACce8" text="Quitter" />
+        <string id="4Dd2xgPm" text="Poids" />
+        <string id="4OGDnOVE" text="avec {OPPONENT_NAME}" />
+        <string id="5baU17n0" text="La fonctionnalité de recherche de groupe est actuellement désactivée" />
+        <string id="5k4dxUEJ" text="Troupes" />
+        <string id="5Pea977J" text="Faction : " />
+        <string id="5UJJLzaL" text="Recherche de joueurs avec vos critères : " />
+        <string id="5Z0pvuNL" text="Niveau {LEVEL}" />
+        <string id="61isYVW0" text="Le joueur {USER_NAME} est introuvable" />
+        <string id="6GSXsdeX" text="Vitesse" />
+        <string id="6MQaCah5" text="Rejoindre une partie" />
+        <string id="6Pjb3Rya" text="Les sondages ne sont pas actifs" />
+        <string id="6syoutpV" text="De {WHISPER_TARGET}" />
+        <string id="74PKmRWJ" text="Cheveux au vent" />
+        <string id="7qySRF2T" text="Latence" />
+        <string id="8nJFaJio" text="Mot de passe" />
+        <string id="9jdHEa0N" text="Demandes d'ami" />
+        <string id="AaAcmalE" text="Vous avez été invité à rejoindre un groupe par" />
+        <string id="aalbxe7z" text="Taille de l'armée" />
+        <string id="aB4Md0if" text="A des joueurs" />
+        <string id="abxndmIh" text="Social" />
+        <string id="ahiBhAqU" text="Armure" />
+        <string id="aO3avkK9" text="Matchmaking désactivé" />
+        <string id="ApD0xQXT" text="{STR1} : {STR2}" />
+        <string id="aRzlp5XH" text="CRÉER" />
+        <string id="aVixswW5" text="Sélection d'équipe" />
+        <string id="b31ITmm0" text="Qté Stock" />
+        <string id="b9PT1Yxc" text="Sélectionnez un type de jeu" />
+        <string id="BAaS5Dkc" text="Appliquer" />
+        <string id="bIcFZT6L" text="Type de sourcil" />
+        <string id="bON4Kn6B" text="Assignation automatique" />
+        <string id="BrYUHFsg" text="CHOISIR LE JEU" />
+        <string id="bsiRNJtk" text="{NAME} :" />
+        <string id="cDzWYQrz" text="Rétablir les paramètres par défaut ?" />
+        <string id="chfTxqZg" text="Commande invalide." />
+        <string id="cK5DE88I" text="N/A" />
+        <string id="cLJdeUWz" text="Taille :" />
+        <string id="D0TbQm4r" text="CORROMPU" />
+        <string id="d5SNB0HV" text="Choisir {ITEM_NAME}" />
+        <string id="DAVb2Pzg" text="Dégâts de charge" />
+        <string id="Dbkx4v90" text="MANCHE PERDUE" />
+        <string id="DdOgvhsV" text="Expulser" />
+        <string id="DKqLY1aJ" text="Équiper" />
+        <string id="DmaP2qaR" text="Type de peau" />
+        <string id="dMdmyb3Y" text="Protégé par mot de passe" />
+        <string id="DoDZGYf6" text="Sélectionnez un type de sondage" />
+        <string id="DQvGNQ0g" text="Il n'y a pas d'unité sous commandement." />
+        <string id="eCOJSSUH" text="({BOT_COUNT} Bots)" />
+        <string id="eGuQKRhb" text="Vous quittez la zone !" />
+        <string id="Etjqamlh" text="{PLAYER_COUNT} Joueurs" />
+        <string id="EUAKPHek" text="Construire :" />
+        <string id="F7dBjl83" text="La fonction de Bataille Personnalisée est actuellement désactivée" />
+        <string id="FD7EQDmW" text="Recherche d'une partie" />
+        <string id="ffjTMejn" text="Statistiques" />
+        <string id="fM9E7frB" text="Performances" />
+        <string id="FRSGOfUJ" text="Inclure le journal de combat" />
+        <string id="ftoSCQ0x" text="Longueur" />
+        <string id="g1lgiwn1" text="Non connecté" />
+        <string id="G6hYIR5k" text="Intonation de la voix :" />
+        <string id="gcl2duJH" text="Réinitialiser votre badge" />
+        <string id="GGseMDd3" text="Durabilité" />
+        <string id="GMhOZGnb" text="Impossible de donner des ordres quand on est mort." />
+        <string id="GmU1to3Y" text="Statistiques" />
+        <string id="gqNxq11A" text="Objectifs" />
+        <string id="GXosklej" text="Décontracté" />
+        <string id="gzdNEM76" text="Créer une partie" />
+        <string id="H1emUb6k" text="Âge :" />
+        <string id="hazebV8x" text="Personnaliser le personnage" />
+        <string id="hbwp3g3k" text="+{FRIEND_COUNT}{newline}{?PLURAL}amis{?}ami{\?}" />
+        <string id="Hp2wp3et" text="Accepter (F1)" />
+        <string id="HXxNfncd" text="Fin de la bataille" />
+        <string id="i0OEsfLt" text="Bataille personnalisée désactivée" />
+        <string id="IBEJPlEj" text="Accueil" />
+        <string id="Ie9I2Bha" text="Dégâts d'estoc" />
+        <string id="iKtIhlbo" text="Manches" />
+        <string id="IlQnJsUp" text="Drapeaux capturés :" />
+        <string id="iLUiaRsj" text="Votre" />
+        <string id="iNqucBor" text="Connecté" />
+        <string id="J0vjDOFO" text="Vitesse d'estoc" />
+        <string id="Jd44GGJW" text="L'équipe {TEAM} a eu le dessus à la fin du temps imparti" />
+        <string id="JKCounzE" text="Vidéo" />
+        <string id="JPimShCw" text="Type de jeu" />
+        <string id="jy9orOJz" text="Jouer" />
+        <string id="jZ6GblZu" text="Favori" />
+        <string id="K1Gb5a5Q" text="Vous devez lancer le jeu avec l'anti-triche" />
+        <string id="K9XhWUQi" text="Refuser (F2)" />
+        <string id="kftE5nvv" text="Armure de cheval" />
+        <string id="kG0xuyfE" text="Armurerie" />
+        <string id="koX9okuG" text="Aucun" />
+        <string id="l2CNxPXG" text="Type de dents" />
+        <string id="LlrlE199" text="Vous pouvez encore déployer des engins de siège.{newline}On commence quand même ?" />
+        <string id="LrE2cUnG" text="Actuellement désactivé" />
+        <string id="lugGPVOb" text="Se connecter" />
+        <string id="lWDq0Uss" text="REJOINDRE" />
+        <string id="macpKFaG" text="Voix" />
+        <string id="mAxXKaXp" text="Réinitialiser" />
+        <string id="meFS5F4V" text="-{DAMAGE}" />
+        <string id="Met1U45t" text="Souris et clavier" />
+        <string id="MsAb6hed" text="L'équipe {TEAM} a été anéantie" />
+        <string id="NaZ6xg33" text="Impossible de trouver un serveur à rejoindre." />
+        <string id="nFvVw68B" text="Inviter dans le groupe" />
+        <string id="NJolh9ye" text="Parties récentes" />
+        <string id="NLKmdNbt" text="Recherche" />
+        <string id="NqarFr4P" text="Options" />
+        <string id="nqYaiEo2" text="Mes Badges" />
+        <string id="NUSH5bJu" text="{EXPERIENCE} XP jusqu'au niveau suivant" />
+        <string id="oBbiVeKE" text="Points de vie" />
+        <string id="oHaWR73d" text="OK" />
+        <string id="oibdTnXP" text="Maniabilité" />
+        <string id="OSoAVlqc" text="Équipé" />
+        <string id="OVcoYxj1" text="Nom du serveur" />
+        <string id="OwqFpPwa" text="Filtres" />
+        <string id="P7moPm3F" text="Définir comme chef de groupe" />
+        <string id="pguhTmXw" text="Résultats de la bataille" />
+        <string id="pSheKLB4" text="Spectateur" />
+        <string id="Q50X65NB" text="Classes" />
+        <string id="qaycA9YY" text="Total des éloges :" />
+        <string id="QDNcl3DH" text="Invitation à un groupe" />
+        <string id="qe46yXVJ" text="FERMÉ POUR ÉQUILIBRAGE" />
+        <string id="qFPBhVh4" text="Rafraîchir" />
+        <string id="QfTt7YRB" text="Cadence de tir" />
+        <string id="qXxpITdc" text="Couleur yeux :" />
+        <string id="R28ac5ij" text="{NUMBER} Joueurs" />
+        <string id="r5WzivPb" text="Durée de la manche" />
+        <string id="Rc95Kq8r" text="Veuillez patienter..." />
+        <string id="RCuCoVgd" text="MANCHE GAGNÉE" />
+        <string id="RfXJdNye" text="Joueurs" />
+        <string id="rg7OuWS2" text="Manœuvre" />
+        <string id="rLozutts" text="Demande d'ami" />
+        <string id="RNgWFLIO" text="Dégâts de tranchant" />
+        <string id="Rzor6tbG" text="Apparences" />
+        <string id="S2bKbhTc" text="TROUVER JEU AUTO" />
+        <string id="s31DnnAf" text="Dégâts" />
+        <string id="saZ1OvPt" text="Vous pouvez appuyer sur le bouton de connexion pour établir la connexion" />
+        <string id="SKjI2a8V" text="Quitter le groupe" />
+        <string id="SoQcsslF" text="ÉQUIPE ACTUELLE" />
+        <string id="sPmQz21k" text="Ennemi" />
+        <string id="SxxxusWS" text="Sélectionnez un joueur à expulser" />
+        <string id="TAnabTdy" text="Précision" />
+        <string id="tFLLx4J4" text="Classes les plus jouées" />
+        <string id="tjioq56N" text="Liste d'amis" />
+        <string id="TxphX8Uk" text="Déploiement" />
+        <string id="TzYWE9tA" text="Aucune partie récente trouvée" />
+        <string id="U4dzbzNb" text="Veuillez patienter pendant la connexion au serveur" />
+        <string id="uNBpT3vs" text="Nombre de joueur en recherche de partie : " />
+        <string id="uUoSmCBS" text="Dans Bannerlord" />
+        <string id="uvwLriAX" text="Utilisez [{KEY_NAME}] pour afficher le tableau de scores" />
+        <string id="UYnLfaCY" text="Acheter" />
+        <string id="V305MaOP" text="En ligne" />
+        <string id="v6J8ILV3" text="Sans mot de passe" />
+        <string id="VOTau449" text="Verrouillé" />
+        <string id="vZTWMqUp" text="Seuls les chefs de groupe peuvent prendre des mesures contre les autres membres du groupe" />
+        <string id="w2yV4Wib" text="Vote rejeté" />
+        <string id="W4DLzPSb" text="Serveur incomplet" />
+        <string id="w9m11T1y" text="Carte" />
+        <string id="wGjQgQlY" text="La prochaine partie commence dans :" />
+        <string id="WiNRdfsm" text="Terminer" />
+        <string id="wkIVxzV6" text="Recommencer" />
+        <string id="wnMT7R0K" text="Requêtes en attente" />
+        <string id="WOQZBmMx" text="Serveurs" />
+        <string id="wTtyFa89" text="Jouer" />
+        <string id="wuKqRvc3" text="Jeu : {GAME_TYPES}  |  Région : {REGIONS}" />
+        <string id="wwr4V1jm" text="Sélectionner un joueur à bannir" />
+        <string id="xebFLnH2" text="Audio" />
+        <string id="XJTX8w8M" text="Round d'Échauffement - {GAME_MODE}{newline}En attente de connexion des joueurs" />
+        <string id="XLHkPwbb" text="Sélectionner une carte de jeu" />
+        <string id="xTv4tCbZ" text="Tout le monde ! Écoutez-moi" />
+        <string id="Y94H6XnK" text="Valider" />
+        <string id="yA45PqFc" text="TROUVER UNE PARTIE" />
+        <string id="YAaAlbkX" text="Temps de jeu moyen" />
+        <string id="yJsE4Ayo" text="Vit. de taille" />
+        <string id="yjyJgRVt" text="L'équipe {TEAM} a perdu son moral" />
+        <string id="YK3nXtoM" text="Amis" />
+        <string id="yS7PvrTD" text="OK" />
+        <string id="yUpH2mQ4" text="Munitions" />
+        <string id="zBld61ck" text="Poids :" />
+        <string id="zfN0N8xN" text="Temps de jeu total :" />
+        <string id="zMbYCQa5" text="Score moyen :" />
+        <string id="Zv1lg272" text="Hors ligne" />
+        <string id="zxBBzoTH" text="Le duel {DUEL_NAME} commence dans {DUEL_REMAINING_TIME} secondes." />
+        <!--This translation has been made by the French community. You can join it at this address https://discord.gg/Ck3ZBD5-->
+        <!--Copyright © 2020, M&B Bannerlord Traduction FR-->
+    </strings>
 </base>

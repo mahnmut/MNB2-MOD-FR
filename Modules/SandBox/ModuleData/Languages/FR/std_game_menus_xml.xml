@@ -1,27 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <tags>
-    <tag language="Français" />
-  </tags>
-  <strings>
-    <string id="2YYRyrOO" text="Partir..."/>
-    <string id="3nT5wWzb" text="Se rendre."/>
-    <string id="49qjBLr4" text="Voulez-vous continuer à piller ce village ?"/>
-    <string id="8k6AXNW8" text="Vous avez réussi à vous échapper."/>
-    <string id="9OaaK18j" text="Base de faction mineure"/>
-    <string id="AFJ3BvTH" text="Les gardes vous encerclent rapidement et s'emparent de vos armes. C'est avec des menaces et des jurons qu'ils vous jettent au cachot où vous passerez vos misérables jours de captivité."/>
-    <string id="bLNocKd1" text="Continuer.."/>
-    <string id="F3Bi3R6J" text="Combattant avec courage et détermination, les villageois parviennent à s'unir et à repousser vos forces."/>
-    <string id="G8ybKBKr" text="{SETTLEMENT_TAKEN_TEXT}"/>
-    <string id="hm4FQCE1" text="Parler avec le chef."/>
-    <string id="kB65SzbF" text="Oui."/>
-    <string id="LGHFBwQU" text="Vous semez les gardes et masquez vos traces avant de vous enfuir, égarant habilement vos poursuivants dans le dédale des rues."/>
-    <string id="Mg1PotzO" text="Après une courte attente, les gardes vous ouvrent les portes et autorisent votre groupe à entrer."/>
-    <string id="pSSDfAjR" text="Déguisé en pauvre pèlerin, vous trompez les gardes et vous frayez un chemin dans la ville."/>
-    <string id="QpQQJjD6" text="L'entrée de ce château vous a été interdite par son seigneur, et le sergent des gardes vous informe qu'il ordonnera à ses hommes de tirer si vous vous approchez davantage."/>
-    <string id="R8rzU9sm" text="Triche : Quitter."/>
-    <string id="RrM7800A" text="Au moment où vous tentez de passer furtivement, un des gardes vous reconnaît et sonne l'alarme ! Vous devez vous enfuir et passer les portes avant que tous les gardes de la ville ne vous tombent dessus !"/>
-    <string id="veWOovVv" text="Continuer..."/>
-    <string id="znDzVxVJ" text="Non."/>
-  </strings>
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>
+        <string id="2YYRyrOO" text="Partir..." />
+        <string id="3nT5wWzb" text="Se rendre." />
+        <string id="49qjBLr4" text="Voulez-vous continuer à piller ce village ?" />
+        <string id="8k6AXNW8" text="Vous avez réussi à vous échapper." />
+        <string id="9OaaK18j" text="Base de faction mineure" />
+        <string id="AFJ3BvTH" text="Les gardes vous encerclent rapidement et s'emparent de vos armes. C'est avec des menaces et des jurons qu'ils vous jettent au cachot où vous passerez vos misérables jours de captivité." />
+        <string id="bLNocKd1" text="Continuer.." />
+        <string id="F3Bi3R6J" text="Combattant avec courage et détermination, les villageois parviennent à s'unir et à repousser vos forces." />
+        <string id="G8ybKBKr" text="{SETTLEMENT_TAKEN_TEXT}" />
+        <string id="hm4FQCE1" text="Parler avec le chef." />
+        <string id="kB65SzbF" text="Oui." />
+        <string id="LGHFBwQU" text="Vous semez les gardes et masquez vos traces avant de vous enfuir, égarant habilement vos poursuivants dans le dédale des rues." />
+        <string id="Mg1PotzO" text="Après une courte attente, les gardes vous ouvrent les portes et autorisent votre groupe à entrer." />
+        <string id="pSSDfAjR" text="Déguisé en pauvre pèlerin, vous trompez les gardes et vous frayez un chemin dans la ville." />
+        <string id="QpQQJjD6" text="L'entrée de ce château vous a été interdite par son seigneur, et le sergent des gardes vous informe qu'il ordonnera à ses hommes de tirer si vous vous approchez davantage." />
+        <string id="R8rzU9sm" text="Triche : Quitter." />
+        <string id="RrM7800A" text="Au moment où vous tentez de passer furtivement, un des gardes vous reconnaît et sonne l'alarme ! Vous devez vous enfuir et passer les portes avant que tous les gardes de la ville ne vous tombent dessus !" />
+        <string id="veWOovVv" text="Continuer..." />
+        <string id="znDzVxVJ" text="Non." />
+        <!--This translation has been made by the French community. You can join it at this address https://discord.gg/Ck3ZBD5-->
+        <!--Copyright © 2020, M&B Bannerlord Traduction FR-->
+    </strings>
 </base>

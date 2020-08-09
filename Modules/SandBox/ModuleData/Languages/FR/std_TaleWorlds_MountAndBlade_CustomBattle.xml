@@ -1,15 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <tags>
-    <tag language="Français" />
-  </tags>
-  <strings>
-    <string id="35IHscBa" text="ENNEMI"/>
-    <string id="4gOGGbeQ" text="Bataille Personnalisée"/>
-    <string id="BC7n6qxk" text="JOUEUR"/>
-    <string id="fXhblsky" text="CARTE"/>
-    <string id="MVOWsP48" text="Engin de siège de mêlée"/>
-    <string id="mxbq3InD" text="{ARMY_SIZE} hommes"/>
-    <string id="SLZzfNPr" text="Engin de siège à distance"/>
-  </strings>
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>
+        <string id="35IHscBa" text="ENNEMI" />
+        <string id="4gOGGbeQ" text="Bataille Personnalisée" />
+        <string id="BC7n6qxk" text="JOUEUR" />
+        <string id="fXhblsky" text="CARTE" />
+        <string id="MVOWsP48" text="Engin de siège de mêlée" />
+        <string id="mxbq3InD" text="{ARMY_SIZE} hommes" />
+        <string id="SLZzfNPr" text="Engin de siège à distance" />
+        <!--This translation has been made by the French community. You can join it at this address https://discord.gg/Ck3ZBD5-->
+        <!--Copyright © 2020, M&B Bannerlord Traduction FR-->
+    </strings>
 </base>

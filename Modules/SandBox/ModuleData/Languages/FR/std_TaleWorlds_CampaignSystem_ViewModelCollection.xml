@@ -1,324 +1,326 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <tags>
-    <tag language="Français" />
-  </tags>
-  <strings>
-    <string id="05fdfc6e238429753ef282f2ce97c1f8" text="Quantité : " />
-    <string id="08abd5af7774d311cadc3ed900b47754" text="Type : " />
-    <string id="0Q4Xo2BQ" text="Sélectionner le nouveau chef de groupe" />
-    <string id="0rBsbw1T" text="Aucun effet" />
-    <string id="13wo3QQB" text="Secondaire" />
-    <string id="154a34f8caccfc833238cc89d38861e8" text="Exigences : " />
-    <string id="1CXlqb2U" text="Choisir :" />
-    <string id="1oeak0OC" text="Forger" />
-    <string id="2abtb4xu" text="Indépendant" />
-    <string id="2ckyCKR7" text="Réserve" />
-    <string id="2Cq3tViJ" text="Taille de la troupe" />
-    <string id="2GWR9Cba" text="Foyer" />
-    <string id="2htkK82b" text="Les cultures disponibles sont limitées à la culture du clan ainsi qu’aux cultures des fiefs possédées." />
-    <string id="2nN1QuxZ" text="Cette quête sera un échec si elle n'est pas menée à bien dans ce délai." />
-    <string id="3025020b83b218707499f0de3135ed0a" text="Manœuvres : " />
-    <string id="305cf7f98458b22e9af72b60a131714f" text="Armure du cheval : " />
-    <string id="345a87fcc69f626ae3916939ef2fc135" text="Vitesse de taille : " />
-    <string id="3CpNUnVl" text="Annuler" />
-    <string id="3F0y3ugx" text="Succès !" />
-    <string id="3sxtCWPe" text="Quitter le Royaume" />
-    <string id="43HYUImy" text="Le siège {.de}{SETTLEMENT}" />
-    <string id="4cU98rkg" text="Fonderie" />
-    <string id="4Dd2xgPm" text="Poids" />
-    <string id="4U9EnZt5" text="Réussite critique !" />
-    <string id="4uMWNDoi" text="Vitesse d'estoc" />
-    <string id="5bzk75Ql" text="Engage le combat contre {.le}{TARGET_PARTY}." />
-    <string id="5dCR9ixM" text="Vous pouvez vendre cet atelier pour {AMOUNT} deniers." />
-    <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Précision : " />
-    <string id="5fa36d2798479803b4518a64beb4d732" text="Longueur de l'arme : " />
-    <string id="5Unqsx3N" text="Confirmer" />
-    <string id="63Ic1Ahe" text="Coût : {UPGRADE_COST} (vous n'en avez pas assez)" />
-    <string id="68IlDbA2" text="Vous devez avoir l'aptitude « {PERK_NAME} » pour promouvoir une troupe de bandits en une troupe normale." />
-    <string id="6adabc1f82216992571c3e22abc164d7" text="Limite de munitions : " />
-    <string id="6GSXsdeX" text="Vitesse" />
-    <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Vitesse : " />
-    <string id="7h6cXdW7" text="Ingénierie" />
-    <string id="7tBOCHm6" text="Couleur d'emblème :" />
-    <string id="7Xynf4IA" text="Gantelet" />
-    <string id="8BlMRMiR" text="Niveau cheval" />
-    <string id="8cad4a279770f269c4bb0dc7a357ee1e" text="Classe : " />
-    <string id="8SOh9bah" text="Choisir la production" />
-    <string id="92M0Pb5T" text="Éclaireur" />
-    <string id="94aHU6nD" text="Construction" />
-    <string id="9i0wnjJK" text="L-II : {BONUS}" />
-    <string id="9slDj5wr" text="Changer la production" />
-    <string id="a241aacb1780599430c79fd9f667b67f" text="Moral du groupe : " />
-    <string id="a8nRxITn" text="Prisonnier {.de}{PARTY_NAME}" />
-    <string id="aadiCuDe" text="{COMPLETION_PERCENT} (environ {DAYS} jour(s) pour compléter)" />
-    <string id="AcMayd1p" text="Fuit {.le}{TARGET_PARTY}." />
-    <string id="aE4ZRbB6" text=" {HEALTH}%" />
-    <string id="aFYwbosi" text="Ce héros dirige déjà une armée" />
-    <string id="aGFxIvqx" text="Laisser un compagnon" />
-    <string id="aRhQzJca" text="Les mercenaires ne peuvent pas créer ou diriger une armée." />
-    <string id="armorTier" text="Niveau d'armure : " />
-    <string id="aROohsat" text="Déjà dans une autre armée." />
-    <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}" />
-    <string id="AxRxT2Xj" text="Une fois qu'un groupe est dissous, il rejoint le groupe d'un clan proche ou se rend dans un fief de la faction la plus proche et intègre sa garnison.{newline}Vous ne pourrez pas annuler / arrêter cette action.{newline}Êtes-vous sûr ?" />
-    <string id="bAqDnkaT" text="Vitesse du projectile" />
-    <string id="bd7oAQq6" text="Quotidien" />
-    <string id="bdp65LWd" text="Rôle du clan" />
-    <string id="bfQLwMUp" text="Clans" />
-    <string id="BgqZWbga" text="Les nobles de ce royaume ne vont pas apprécier si vous renoncer à votre allégeance. Êtes-vous sûr de vouloir quitter le royaume ?" />
-    <string id="BifGz0h4" text="En patrouille" />
-    <string id="bnrRzeiF" text="Inactif" />
-    <string id="bPFjmYCI" text="{SHOP_NAME} x {SHOP_DIFFERENCE_COUNT}" />
-    <string id="BrY8itaf" text="Vos groupes envoyés pour des actions / quêtes seront affichés ici. Ils ne comptent pas dans la limite du groupe de votre clan." />
-    <string id="C2qpwFq5" text="Propriétaire {.de}{SETTLEMENTS}" />
-    <string id="c5eYzHaM" text="{DAYS} {?DAY_IS_PLURAL}Jours{?}Jour{\?} (%{PERCENTAGE})" />
-    <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Longueur : " />
-    <string id="c7638a0869219ae845de0f660fd57a9d" text="Dégâts de charge : " />
-    <string id="c9c5dfed2ca6bcb7a73d905004c97b23" text="Dégâts : " />
-    <string id="ca8b1e8956057b831dfc665f54bae4b0" text="Maniabilité : " />
-    <string id="CaRbMaZY" text="Solde journalière :" />
-    <string id="cbbUzYX3" text="Difficulté : {DIFFICULTY}" />
-    <string id="CExQ40Ux" text="{PARTY_1S_MEMBERS}   " />
-    <string id="cf61cce254c7dca65be9bebac7fb9bf5" text="Protection des bras : " />
-    <string id="cnmRwV4s" text="Limite de munitions" />
-    <string id="CnsIzaWo" text="Champs de bataille" />
-    <string id="cUUI8u2G" text="Énergie de forge" />
-    <string id="d2K6gMsZ" text="Laissez les membres. Il faut au moins 1 compagnon." />
-    <string id="DAmdTxuC" text="Gestion de l'armée" />
-    <string id="DbHLHwkX" text="Fondre" />
-    <string id="DNq9bdvV" text="{THRUST_DAMAGE_FACTOR}" />
-    <string id="dO95yR9b" text="Dégâts d'estoc" />
-    <string id="Dqydb21E" text=" {PARTY_SIZE}" />
-    <string id="dWYm9GsC" text="Requiert" />
-    <string id="DzviXC3W" text="Niveau :" />
-    <string id="e8390c3480028e34c370c7b60ebc41e2" text="Type de cheval : " />
-    <string id="ebbyLN2i" text="Villes" />
-    <string id="eHVq6yDa" text="Propriétés de l'objet" />
-    <string id="eikN2SUN" text="Dernier lancement il y a {DAYS} jours." />
-    <string id="eIws123Z" text="Jambière" />
-    <string id="EQHq3bHM" text="Voyage vers {TARGET_PARTY}" />
-    <string id="ErnykQEH" text="Résultats" />
-    <string id="eTw2aNV5" text="+" />
-    <string id="EuGCNdHG" text="Quitter le Royaume" />
-    <string id="exnL6SS7" text="Attaque {TARGET_SETTLEMENT}" />
-    <string id="EZxQHBF4" text="Vous pouvez changer le type de production de cet atelier pour {AMOUNT} deniers." />
-    <string id="f2971dc587a9777223ad2d7be236fb05" text="Rumeurs sur le commerce" />
-    <string id="f4nc7FfE" text="Mise à niveau vers {UPGRADE_NAME}" />
-    <string id="F6GhrriD" text="Créer un Royaume {*" />
-    <string id="f6vTzVar" text="N'a pas de troupes mobile." />
-    <string id="Fa2nKXxI" text="Gouverneur" />
-    <string id="FBYFcrWo" text="Laisser ici" />
-    <string id="fI7a7RoE" text="Capacité de l'inventaire" />
-    <string id="FjJi1DJb" text="Ce héros fait déjà partie d'un autre groupe" />
-    <string id="fOSGakix" text="Vous ne pouvez pas gérer une armée pendant que vous êtes prisonnier." />
-    <string id="G6cCjixe" text="{COMPLETION_PERCENT} (Environ {DAYS} jour(s) pour compléter)" />
-    <string id="g9VIbA9s" text="Sergent" />
-    <string id="GCaYjA5W" text="Vous devez être le chef du clan pour changer son nom." />
-    <string id="gduqxfck" text="Vous n'avez pas tous les matériaux requis !" />
-    <string id="GgfucQ86" text="Exclure" />
-    <string id="ggpRTQQl" text="Chef du groupe" />
-    <string id="gsVtO9A7" text="Miliciens" />
-    <string id="HAaElX8X" text="{PARTY_OWNERS_FACTION}" />
-    <string id="HcAV8x7p" text="Membre du groupe" />
-    <string id="HFZdseH9" text="Seul le dirigeant du royaume peut en changer le nom." />
-    <string id="HHTQVp52" text="Taux de guérison des héros" />
-    <string id="hJypvWMR" text="Raffiner" />
-    <string id="HkfY3Ds5" text="Armure de torse" />
-    <string id="hn9TPqhK" text="Niveau de l'arme" />
-    <string id="horseTier" text="Niveau Cheval : " />
-    <string id="hr4MuPnt" text="Matériaux requis" />
-    <string id="hTzTMLsf" text="Distance de vue" />
-    <string id="hylxyNtU" text="Vous n'avez pas assez." />
-    <string id="Hz8XO8wk" text="Les Gouverneurs ne peuvent pas diriger un groupe mobile et être Gouverneur en même temps" />
-    <string id="IagYTD5O" text="Prospérité" />
-    <string id="IbqRyrKo" text="Cela déterminera les politiques actives initiales du Royaume. Choisissez 4 politiques au maximum. " />
-    <string id="IcgVKFxZ" text="Gouverneur" />
-    <string id="idRXFzQ6" text="Déjà ajouté à l'armée." />
-    <string id="IJdjwXvn" text="Niveau actuel : " />
-    <string id="Ioiqzz4E" text="Vous devez être dans une armée pour renforcer la cohésion" />
-    <string id="ipLqVv1f" text="Vous ne pouvez pas inviter le chef du groupe dans votre armée." />
-    <string id="it8oPzb1" text="Criminalité" />
-    <string id="iXXTONWb" text=" ({PARTY_SIZE})" />
-    <string id="iZ3w6opW" text="Cohésion" />
-    <string id="j12VrGKz" text="Armée" />
-    <string id="j3iwQmoA" text="Focalisation actuelle : {CURRENT_AMOUNT}" />
-    <string id="j4F7tTzy" text="Clan" />
-    <string id="J8ddrAOf" text="Effets du Gouverneur" />
-    <string id="j8uZBakZ" text="{PROPERTIES}" />
-    <string id="JIr3Jc7b" text="Renoncer à toutes vos propriétés" />
-    <string id="jlgjLDo7" text="Garnison" />
-    <string id="JOELdSab" text="L'atelier n'a pas assez de capital pour être amélioré. Il a besoin d'au moins {AMOUNT} deniers." />
-    <string id="jPBhgu7a" text="Campement" />
-    <string id="jQdBl4hf" text="Gouverneur de " />
-    <string id="JTxI3sW2" text="En attente {.de}{TARGET_SETTLEMENT}" />
-    <string id="Jyfkahka" text="{VALUE} ({?POSITIVE}+{?}{\?}{DELTA_VALUE})" />
-    <string id="JYOcl7Ox" text="Inefficace !" />
-    <string id="JzrodcIR" text="Il n'y a personne dans votre clan qui puisse gouverner ce fief pour le moment." />
-    <string id="k1E9DuKi" text="Tout sélectionner" />
-    <string id="kftE5nvv" text="Barde" />
-    <string id="knwId8DG" text="Vous ne pouvez pas assigner un prisonnier en tant que Gouverneur d'un fief" />
-    <string id="koX9okuG" text="Aucun" />
-    <string id="kqeA8rjL" text="Êtes-vous sûr de vouloir dissoudre votre armée ?" />
-    <string id="kQsXUvgO" text="Vous n'êtes pas vassalisé." />
-    <string id="KTKBKmvp" text="Facteur de dégâts d'estoc " />
-    <string id="KTTyBbsp" text="PV Max" />
-    <string id="kWVbHPtT" text="Total" />
-    <string id="kx7q8ybD" text="Protection de bras" />
-    <string id="LBNzsqyb" text="Fiefs" />
-    <string id="lc9s4rLZ" text="Créer une armée" />
-    <string id="LEiZWuZm" text="{SKILL_NAME} : {SKILL_VALUE}" />
-    <string id="lGWb26Lj" text="Ce héros est occupé par une quête." />
-    <string id="LpsoPtOo" text="Projets" />
-    <string id="LsZEdD2z" text="Murailles" />
-    <string id="LVmkE2Ow" text="Troupes prêtes à la bataille" />
-    <string id="lVuGCYPC" text="Compétence de forgeron" />
-    <string id="lxwGbRwu" text="x {SHOP_DIFFERENCE_COUNT}" />
-    <string id="McJjNM50" text="Coût : {UPGRADE_COST}" />
-    <string id="mDFhzEMC" text="Points de vie max" />
-    <string id="Mfbc4rQR" text="Dégâts de charge" />
-    <string id="mg7id9om" text="Nombre d'articles consommables" />
-    <string id="mGUSMpTX" text="Coffres" />
-    <string id="mHXujEVw" text="Choisissez les politiques actives de votre Royaume " />
-    <string id="mp68RYnD" text="Limite de la troupe" />
-    <string id="MqCH7R4A" text="Sécurité" />
-    <string id="myMbtwXi" text="Bonus de moral" />
-    <string id="N63XYX2r" text="Soutien" />
-    <string id="N6QTvjMf" text="Prisonniers" />
-    <string id="NAA4pajB" text="Vous devez quitter votre armée actuelle pour en créer une nouvelle." />
-    <string id="NC9bbrt5" text="Deniers de fin de journée" />
-    <string id="NcYbdiyT" text="Changer de chef" />
-    <string id="nMcvafHY" text="Actif" />
-    <string id="NRpbagbZ" text="Aller à {TARGET_PARTY}" />
-    <string id="nYYUQQm0" text="Facteur de dégâts de taille " />
-    <string id="O3dhjtOS" text="Armure de tête" />
-    <string id="oBbiVeKE" text="Points de vie" />
-    <string id="ocSW4WA2" text="Échec critique !" />
-    <string id="oibdTnXP" text="Maniabilité" />
-    <string id="OIeXNTEn" text="L'atelier ne peut pas être amélioré." />
-    <string id="OkWLI5C8" text="Taille :" />
-    <string id="Oo3fkeab" text="Difficulté : " />
-    <string id="OpzzCPiP" text="Suit {TARGET_PARTY}" />
-    <string id="OTaPfaJl" text="{PARTY_2S_MEMBERS}   " />
-    <string id="oUhd9YhP" text="{PARTY_LEADERS_FACTION}" />
-    <string id="p0nIO9c2" text="L'atelier ne peut pas être rétrogradé." />
-    <string id="p7raHA9x" text="Raffinement" />
-    <string id="PAUsUq4Z" text="Sélectionner le chef du fief" />
-    <string id="PDdh1sBj" text="Nom" />
-    <string id="Pdo7PpS3" text="{TASK_NAME} {CURRENT_PROGRESS}/{TARGET_PROGRESS}" />
-    <string id="PHkC8Gia" text="Vendre" />
-    <string id="PJZ8QYgA" text="L-I : {BONUS}" />
-    <string id="pkbUiKFJ" text="Combat actuellement un ennemi." />
-    <string id="POjDNVW3" text="Forger" />
-    <string id="PpbopMjT" text="Transférer tous les prisonniers principaux" />
-    <string id="pqfz386V" text="Chef de clan" />
-    <string id="PRE5RKpp" text="Vous devez vous reposer et laisser passer du temps avant de pouvoir effectuer cette action." />
-    <string id="pRP2sOWP" text="L-III : {BONUS}" />
-    <string id="PS02CqPu" text=" {PARTY_MEMBER.LINK} (Santé : {MEMBER_HEALTH}%)" />
-    <string id="Pvx4TU66" text="Transférer toutes les troupes principales" />
-    <string id="pWfadZg9" text="Groupes dans l'armée" />
-    <string id="pWObBhj5" text="Vous ne pouvez pas assigner un chef de groupe en tant que nouveau Gouverneur d'un fief" />
-    <string id="PXT6aA4J" text="Options de campagne" />
-    <string id="q1J4a8rr" text="Taux d'apprentissage" />
-    <string id="QBPrRdQJ" text="Chirurgien" />
-    <string id="qBq70qDq" text="Projet actuel" />
-    <string id="QeToaiLt" text="Dégâts de taille" />
-    <string id="QGyoSLeY" text="Voyager vers un fief" />
-    <string id="qKUjgS6r" text="Fief" />
-    <string id="QlbkxoSp" text=" {TOOLTIP_TROOPS} ({PARTY_SIZE})" />
-    <string id="qRqnrtdX" text="Propriétaire" />
-    <string id="qSi4DlT4" text="Nourriture" />
-    <string id="QSPrSsHv" text="Pas de selle !" />
-    <string id="QXBf26Rv" text="Comportement inconnu" />
-    <string id="QyVbwGLp" text="{PARTY_SIZE}" />
-    <string id="qZvNIVGV" text="Il n'y a personne dans votre clan qui puisse diriger un groupe pour le moment." />
-    <string id="R2AaCaPJ" text="Changement attendu" />
-    <string id="Ra17aK4e" text="Capital :" />
-    <string id="Raa4j4rF" text="Requis : {UPGRADE_ITEM}" />
-    <string id="RClxLG6N" text="En position" />
-    <string id="redwEIlW" text="Intendant" />
-    <string id="rg7OuWS2" text="Manœuvre" />
-    <string id="rgqA29b8" text="Votre compétence en '{SKILL_NAME}' est insuffisante pour vous équipez de cet objet" />
-    <string id="rGy8vjOv" text="Défend {TARGET_SETTLEMENT}." />
-    <string id="Rkh2k1OA" text="Achèvement :" />
-    <string id="rsHPaaYZ" text="La cohésion doit être inférieure à {MINAMOUNT} pour être améliorée" />
-    <string id="rThSy9ed" text="Requis : {UPGRADE_ITEM} (Vous n'en avez aucun)" />
-    <string id="RuaA8t97" text="Nom du Royaume" />
-    <string id="RVPidk5a" text="Influence" />
-    <string id="s31DnnAf" text="Dégâts" />
-    <string id="s5b77f0H" text="Ajoutez +{BOOSTAMOUNT} de cohésion à votre armée" />
-    <string id="s6koeapc" text="{MAP_FACTION}" />
-    <string id="S9tmCkHz" text="Ce héros dégage une zone commune" />
-    <string id="sa2TQu1G" text="Ce héros est occupé par un problème." />
-    <string id="Sls0KQVn" text="Élections" />
-    <string id="slzfQzl3" text="Ce héros est perdu" />
-    <string id="sqdzHOPe" text="Classe" />
-    <string id="Srr4rOSq" text="Transférer tous les autres prisonniers" />
-    <string id="SVJlOYCB" text="Le groupe a moins de 40% d'hommes de sa taille maximale." />
-    <string id="sVsaWZjg" text="Transférez toutes les autres troupes" />
-    <string id="sVZaIPoQ" text="Vitesse de taille" />
-    <string id="SzuCFlNq" text="Aucun élément sélectionné." />
-    <string id="t1lSXN9O" text="L'étendard de votre clan porté au combat" />
-    <string id="t3tq0eoW" text="Groupes" />
-    <string id="T9bndUYP" text="Raid {.de}{SETTLEMENT}" />
-    <string id="ta4R2RR7" text="Principal" />
-    <string id="TaK6ydAx" text="Voyager." />
-    <string id="TAnabTdy" text="Précision" />
-    <string id="tAwRIPiy" text="Coût construction : {COST}" />
-    <string id="Te4xxzzK" text="Deniers actuels" />
-    <string id="tf7301NC" text="Taux de guérison" />
-    <string id="tFGM0yav" text="Ce groupe est en train de se dissoudre." />
-    <string id="tLh0VqN3" text="Choisissez la culture de votre Royaume" />
-    <string id="twtbH1zv" text="Quantité" />
-    <string id="TzLtVzdg" text="Troupes blessées" />
-    <string id="UbZL2BJQ" text="Points de vie" />
-    <string id="UHLcmf9A" text="Limitation de la taille du groupe de prisonniers" />
-    <string id="uJro3Bua" text="Au-delà de la limite" />
-    <string id="uoDuiBZR" text="Vous ne pouvez pas vous assigner en tant que Gouverneur" />
-    <string id="US7UmBbt" text="Niveau d'armure" />
-    <string id="UxAl9iyi" text="Personnel" />
-    <string id="v3OF6vBg" text="Revenu" />
-    <string id="Ve5jkJqf" text="Offre automatique" />
-    <string id="ViYdZUbQ" text="Dissoudre l'armée" />
-    <string id="vLaBJFGy" text=" {PARTY_MEMBER.LINK} ({PARTY_SIZE})" />
-    <string id="Voa0sinH" text="Requis : {NEEDED_EXP_AMOUNT}xp (vous avez {CURRENT_EXP_AMOUNT}xp)" />
-    <string id="vOojEcIf" text="Vous ne pouvez pas assigner un membre prisonnier en tant que nouveau chef de groupe" />
-    <string id="Vq8yavES" text="Déjà dans l'armée." />
-    <string id="VtWa9Pmh" text="En train de faire un raid sur {TARGET_SETTLEMENT}." />
-    <string id="VzCoqt8D" text="Pas de selle équipée. -10% de pénalité sur la vitesse et la manoeuvre." />
-    <string id="VZjxs5Dt" text="Propriétaire de " />
-    <string id="W1tsTWZv" text=" {PARTY_MEMBER.LINK} ({MEMBER_HEALTH}%)" />
-    <string id="w8Yzf0F0" text="Détruit" />
-    <string id="weaponTier" text="Niveau de l'arme : " />
-    <string id="WiNRdfsm" text="Terminé" />
-    <string id="Wir2xZIg" text="Vous n'avez pas débloqué certaines des pièces sélectionnées." />
-    <string id="WN7cYIXM" text="Vous devez faire partie d'un royaume" />
-    <string id="WttsvMTW" text="Révolte {.de}{SETTLEMENT}" />
-    <string id="XAL3t1bs" text="Se déplace" />
-    <string id="XCz81XYm" text="Entrées" />
-    <string id="XIioBPi0" text="Aucun changement" />
-    <string id="Xmw93W6a" text="Pas assez d'influence" />
-    <string id="XseYJYka" text="Gérer" />
-    <string id="XSQ0Y9gy" text="Vous devez faire partie d'un royaume pour créer une armée." />
-    <string id="xtlIFKaa" text="Êtes-vous sûr de vouloir quitter le Royaume ?{newline}Si oui, choisissez comment vous souhaitez le quitter." />
-    <string id="xtt9Oxer" text="Productivité" />
-    <string id="XUtiwiYP" text="Longueur : " />
-    <string id="xwRWjlar" text="Couleur d'arrière-plan :" />
-    <string id="xXSFaGW8" text="Dissoudre" />
-    <string id="XYAVu2f0" text="Poursuite {.de}{TARGET_PARTY}." />
-    <string id="XzggyCPW" text="Ce héros est occupé." />
-    <string id="YbGu9rSH" text="Ce personnage est déjà le gouverneur {.de}{SETTLEMENT_NAME}" />
-    <string id="ybLA7ZXp" text="Déjà au maximum" />
-    <string id="YifFZaG7" text="Chef du groupe" />
-    <string id="YO0x7ZAo" text="Loyauté" />
-    <string id="YT9giTet" text="Limite d'apprentissage" />
-    <string id="yUVv3z5V" text="Patrouille autour {.de}{TARGET_SETTLEMENT}." />
-    <string id="z8h0BRAb" text="Conserver toutes vos propriétés" />
-    <string id="zawBaxl5" text="Distance : {DISTANCE}" />
-    <string id="ZcybPatO" text="Longueur de l'arme" />
-    <string id="zMMqgxb1" text="Modèle" />
-    <string id="ZUgoQ1Ws" text="Type de cheval" />
-    <string id="zWaCtOJU" text="{SETTLEMENTS}" />
-    <string id="zWaVxD6T" text="Vitesse du groupe" />
-    <string id="zZlWRZjO" text="Guerres" />
-  </strings>
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>
+        <string id="05fdfc6e238429753ef282f2ce97c1f8" text="Quantité : " />
+        <string id="08abd5af7774d311cadc3ed900b47754" text="Type : " />
+        <string id="0Q4Xo2BQ" text="Sélectionner le nouveau chef de groupe" />
+        <string id="0rBsbw1T" text="Aucun effet" />
+        <string id="13wo3QQB" text="Secondaire" />
+        <string id="154a34f8caccfc833238cc89d38861e8" text="Exigences : " />
+        <string id="1CXlqb2U" text="Choisir :" />
+        <string id="1oeak0OC" text="Forger" />
+        <string id="2abtb4xu" text="Indépendant" />
+        <string id="2ckyCKR7" text="Réserve" />
+        <string id="2Cq3tViJ" text="Taille de la troupe" />
+        <string id="2GWR9Cba" text="Foyer" />
+        <string id="2htkK82b" text="Les cultures disponibles sont limitées à la culture du clan ainsi qu’aux cultures des fiefs possédées." />
+        <string id="2nN1QuxZ" text="Cette quête sera un échec si elle n'est pas menée à bien dans ce délai." />
+        <string id="3025020b83b218707499f0de3135ed0a" text="Manœuvres : " />
+        <string id="305cf7f98458b22e9af72b60a131714f" text="Armure du cheval : " />
+        <string id="345a87fcc69f626ae3916939ef2fc135" text="Vitesse de taille : " />
+        <string id="3CpNUnVl" text="Annuler" />
+        <string id="3F0y3ugx" text="Succès !" />
+        <string id="3sxtCWPe" text="Quitter le Royaume" />
+        <string id="43HYUImy" text="Le siège {.de}{SETTLEMENT}" />
+        <string id="4cU98rkg" text="Fonderie" />
+        <string id="4Dd2xgPm" text="Poids" />
+        <string id="4U9EnZt5" text="Réussite critique !" />
+        <string id="4uMWNDoi" text="Vitesse d'estoc" />
+        <string id="5bzk75Ql" text="Engage le combat contre {.le}{TARGET_PARTY}." />
+        <string id="5dCR9ixM" text="Vous pouvez vendre cet atelier pour {AMOUNT} deniers." />
+        <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Précision : " />
+        <string id="5fa36d2798479803b4518a64beb4d732" text="Longueur de l'arme : " />
+        <string id="5Unqsx3N" text="Confirmer" />
+        <string id="63Ic1Ahe" text="Coût : {UPGRADE_COST} (vous n'en avez pas assez)" />
+        <string id="68IlDbA2" text="Vous devez avoir l'aptitude « {PERK_NAME} » pour promouvoir une troupe de bandits en une troupe normale." />
+        <string id="6adabc1f82216992571c3e22abc164d7" text="Limite de munitions : " />
+        <string id="6GSXsdeX" text="Vitesse" />
+        <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Vitesse : " />
+        <string id="7h6cXdW7" text="Ingénierie" />
+        <string id="7tBOCHm6" text="Couleur d'emblème :" />
+        <string id="7Xynf4IA" text="Gantelet" />
+        <string id="8BlMRMiR" text="Niveau cheval" />
+        <string id="8cad4a279770f269c4bb0dc7a357ee1e" text="Classe : " />
+        <string id="8SOh9bah" text="Choisir la production" />
+        <string id="92M0Pb5T" text="Éclaireur" />
+        <string id="94aHU6nD" text="Construction" />
+        <string id="9i0wnjJK" text="L-II : {BONUS}" />
+        <string id="9slDj5wr" text="Changer la production" />
+        <string id="a241aacb1780599430c79fd9f667b67f" text="Moral du groupe : " />
+        <string id="a8nRxITn" text="Prisonnier {.de}{PARTY_NAME}" />
+        <string id="aadiCuDe" text="{COMPLETION_PERCENT} (environ {DAYS} jour(s) pour compléter)" />
+        <string id="AcMayd1p" text="Fuit {.le}{TARGET_PARTY}." />
+        <string id="aE4ZRbB6" text=" {HEALTH}%" />
+        <string id="aFYwbosi" text="Ce héros dirige déjà une armée" />
+        <string id="aGFxIvqx" text="Laisser un compagnon" />
+        <string id="aRhQzJca" text="Les mercenaires ne peuvent pas créer ou diriger une armée." />
+        <string id="armorTier" text="Niveau d'armure : " />
+        <string id="aROohsat" text="Déjà dans une autre armée." />
+        <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}" />
+        <string id="AxRxT2Xj" text="Une fois qu'un groupe est dissous, il rejoint le groupe d'un clan proche ou se rend dans un fief de la faction la plus proche et intègre sa garnison.{newline}Vous ne pourrez pas annuler / arrêter cette action.{newline}Êtes-vous sûr ?" />
+        <string id="bAqDnkaT" text="Vitesse du projectile" />
+        <string id="bd7oAQq6" text="Quotidien" />
+        <string id="bdp65LWd" text="Rôle du clan" />
+        <string id="bfQLwMUp" text="Clans" />
+        <string id="BgqZWbga" text="Les nobles de ce royaume ne vont pas apprécier si vous renoncer à votre allégeance. Êtes-vous sûr de vouloir quitter le royaume ?" />
+        <string id="BifGz0h4" text="En patrouille" />
+        <string id="bnrRzeiF" text="Inactif" />
+        <string id="bPFjmYCI" text="{SHOP_NAME} x {SHOP_DIFFERENCE_COUNT}" />
+        <string id="BrY8itaf" text="Vos groupes envoyés pour des actions / quêtes seront affichés ici. Ils ne comptent pas dans la limite du groupe de votre clan." />
+        <string id="C2qpwFq5" text="Propriétaire {.de}{SETTLEMENTS}" />
+        <string id="c5eYzHaM" text="{DAYS} {?DAY_IS_PLURAL}Jours{?}Jour{\?} (%{PERCENTAGE})" />
+        <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Longueur : " />
+        <string id="c7638a0869219ae845de0f660fd57a9d" text="Dégâts de charge : " />
+        <string id="c9c5dfed2ca6bcb7a73d905004c97b23" text="Dégâts : " />
+        <string id="ca8b1e8956057b831dfc665f54bae4b0" text="Maniabilité : " />
+        <string id="CaRbMaZY" text="Solde journalière :" />
+        <string id="cbbUzYX3" text="Difficulté : {DIFFICULTY}" />
+        <string id="CExQ40Ux" text="{PARTY_1S_MEMBERS}   " />
+        <string id="cf61cce254c7dca65be9bebac7fb9bf5" text="Protection des bras : " />
+        <string id="cnmRwV4s" text="Limite de munitions" />
+        <string id="CnsIzaWo" text="Champs de bataille" />
+        <string id="cUUI8u2G" text="Énergie de forge" />
+        <string id="d2K6gMsZ" text="Laissez les membres. Il faut au moins 1 compagnon." />
+        <string id="DAmdTxuC" text="Gestion de l'armée" />
+        <string id="DbHLHwkX" text="Fondre" />
+        <string id="DNq9bdvV" text="{THRUST_DAMAGE_FACTOR}" />
+        <string id="dO95yR9b" text="Dégâts d'estoc" />
+        <string id="Dqydb21E" text=" {PARTY_SIZE}" />
+        <string id="dWYm9GsC" text="Requiert" />
+        <string id="DzviXC3W" text="Niveau :" />
+        <string id="e8390c3480028e34c370c7b60ebc41e2" text="Type de cheval : " />
+        <string id="ebbyLN2i" text="Villes" />
+        <string id="eHVq6yDa" text="Propriétés de l'objet" />
+        <string id="eikN2SUN" text="Dernier lancement il y a {DAYS} jours." />
+        <string id="eIws123Z" text="Jambière" />
+        <string id="EQHq3bHM" text="Voyage vers {TARGET_PARTY}" />
+        <string id="ErnykQEH" text="Résultats" />
+        <string id="eTw2aNV5" text="+" />
+        <string id="EuGCNdHG" text="Quitter le Royaume" />
+        <string id="exnL6SS7" text="Attaque {TARGET_SETTLEMENT}" />
+        <string id="EZxQHBF4" text="Vous pouvez changer le type de production de cet atelier pour {AMOUNT} deniers." />
+        <string id="f2971dc587a9777223ad2d7be236fb05" text="Rumeurs sur le commerce" />
+        <string id="f4nc7FfE" text="Mise à niveau vers {UPGRADE_NAME}" />
+        <string id="F6GhrriD" text="Créer un Royaume {*" />
+        <string id="f6vTzVar" text="N'a pas de troupes mobile." />
+        <string id="Fa2nKXxI" text="Gouverneur" />
+        <string id="FBYFcrWo" text="Laisser ici" />
+        <string id="fI7a7RoE" text="Capacité de l'inventaire" />
+        <string id="FjJi1DJb" text="Ce héros fait déjà partie d'un autre groupe" />
+        <string id="fOSGakix" text="Vous ne pouvez pas gérer une armée pendant que vous êtes prisonnier." />
+        <string id="G6cCjixe" text="{COMPLETION_PERCENT} (Environ {DAYS} jour(s) pour compléter)" />
+        <string id="g9VIbA9s" text="Sergent" />
+        <string id="GCaYjA5W" text="Vous devez être le chef du clan pour changer son nom." />
+        <string id="gduqxfck" text="Vous n'avez pas tous les matériaux requis !" />
+        <string id="GgfucQ86" text="Exclure" />
+        <string id="ggpRTQQl" text="Chef du groupe" />
+        <string id="gsVtO9A7" text="Miliciens" />
+        <string id="HAaElX8X" text="{PARTY_OWNERS_FACTION}" />
+        <string id="HcAV8x7p" text="Membre du groupe" />
+        <string id="HFZdseH9" text="Seul le dirigeant du royaume peut en changer le nom." />
+        <string id="HHTQVp52" text="Taux de guérison des héros" />
+        <string id="hJypvWMR" text="Raffiner" />
+        <string id="HkfY3Ds5" text="Armure de torse" />
+        <string id="hn9TPqhK" text="Niveau de l'arme" />
+        <string id="horseTier" text="Niveau Cheval : " />
+        <string id="hr4MuPnt" text="Matériaux requis" />
+        <string id="hTzTMLsf" text="Distance de vue" />
+        <string id="hylxyNtU" text="Vous n'avez pas assez." />
+        <string id="Hz8XO8wk" text="Les Gouverneurs ne peuvent pas diriger un groupe mobile et être Gouverneur en même temps" />
+        <string id="IagYTD5O" text="Prospérité" />
+        <string id="IbqRyrKo" text="Cela déterminera les politiques actives initiales du Royaume. Choisissez 4 politiques au maximum. " />
+        <string id="IcgVKFxZ" text="Gouverneur" />
+        <string id="idRXFzQ6" text="Déjà ajouté à l'armée." />
+        <string id="IJdjwXvn" text="Niveau actuel : " />
+        <string id="Ioiqzz4E" text="Vous devez être dans une armée pour renforcer la cohésion" />
+        <string id="ipLqVv1f" text="Vous ne pouvez pas inviter le chef du groupe dans votre armée." />
+        <string id="it8oPzb1" text="Criminalité" />
+        <string id="iXXTONWb" text=" ({PARTY_SIZE})" />
+        <string id="iZ3w6opW" text="Cohésion" />
+        <string id="j12VrGKz" text="Armée" />
+        <string id="j3iwQmoA" text="Focalisation actuelle : {CURRENT_AMOUNT}" />
+        <string id="j4F7tTzy" text="Clan" />
+        <string id="J8ddrAOf" text="Effets du Gouverneur" />
+        <string id="j8uZBakZ" text="{PROPERTIES}" />
+        <string id="JIr3Jc7b" text="Renoncer à toutes vos propriétés" />
+        <string id="jlgjLDo7" text="Garnison" />
+        <string id="JOELdSab" text="L'atelier n'a pas assez de capital pour être amélioré. Il a besoin d'au moins {AMOUNT} deniers." />
+        <string id="jPBhgu7a" text="Campement" />
+        <string id="jQdBl4hf" text="Gouverneur de " />
+        <string id="JTxI3sW2" text="En attente {.de}{TARGET_SETTLEMENT}" />
+        <string id="Jyfkahka" text="{VALUE} ({?POSITIVE}+{?}{\?}{DELTA_VALUE})" />
+        <string id="JYOcl7Ox" text="Inefficace !" />
+        <string id="JzrodcIR" text="Il n'y a personne dans votre clan qui puisse gouverner ce fief pour le moment." />
+        <string id="k1E9DuKi" text="Tout sélectionner" />
+        <string id="kftE5nvv" text="Barde" />
+        <string id="knwId8DG" text="Vous ne pouvez pas assigner un prisonnier en tant que Gouverneur d'un fief" />
+        <string id="koX9okuG" text="Aucun" />
+        <string id="kqeA8rjL" text="Êtes-vous sûr de vouloir dissoudre votre armée ?" />
+        <string id="kQsXUvgO" text="Vous n'êtes pas vassalisé." />
+        <string id="KTKBKmvp" text="Facteur de dégâts d'estoc " />
+        <string id="KTTyBbsp" text="PV Max" />
+        <string id="kWVbHPtT" text="Total" />
+        <string id="kx7q8ybD" text="Protection de bras" />
+        <string id="LBNzsqyb" text="Fiefs" />
+        <string id="lc9s4rLZ" text="Créer une armée" />
+        <string id="LEiZWuZm" text="{SKILL_NAME} : {SKILL_VALUE}" />
+        <string id="lGWb26Lj" text="Ce héros est occupé par une quête." />
+        <string id="LpsoPtOo" text="Projets" />
+        <string id="LsZEdD2z" text="Murailles" />
+        <string id="LVmkE2Ow" text="Troupes prêtes à la bataille" />
+        <string id="lVuGCYPC" text="Compétence de forgeron" />
+        <string id="lxwGbRwu" text="x {SHOP_DIFFERENCE_COUNT}" />
+        <string id="McJjNM50" text="Coût : {UPGRADE_COST}" />
+        <string id="mDFhzEMC" text="Points de vie max" />
+        <string id="Mfbc4rQR" text="Dégâts de charge" />
+        <string id="mg7id9om" text="Nombre d'articles consommables" />
+        <string id="mGUSMpTX" text="Coffres" />
+        <string id="mHXujEVw" text="Choisissez les politiques actives de votre Royaume " />
+        <string id="mp68RYnD" text="Limite de la troupe" />
+        <string id="MqCH7R4A" text="Sécurité" />
+        <string id="myMbtwXi" text="Bonus de moral" />
+        <string id="N63XYX2r" text="Soutien" />
+        <string id="N6QTvjMf" text="Prisonniers" />
+        <string id="NAA4pajB" text="Vous devez quitter votre armée actuelle pour en créer une nouvelle." />
+        <string id="NC9bbrt5" text="Deniers de fin de journée" />
+        <string id="NcYbdiyT" text="Changer de chef" />
+        <string id="nMcvafHY" text="Actif" />
+        <string id="NRpbagbZ" text="Aller à {TARGET_PARTY}" />
+        <string id="nYYUQQm0" text="Facteur de dégâts de taille " />
+        <string id="O3dhjtOS" text="Armure de tête" />
+        <string id="oBbiVeKE" text="Points de vie" />
+        <string id="ocSW4WA2" text="Échec critique !" />
+        <string id="oibdTnXP" text="Maniabilité" />
+        <string id="OIeXNTEn" text="L'atelier ne peut pas être amélioré." />
+        <string id="OkWLI5C8" text="Taille :" />
+        <string id="Oo3fkeab" text="Difficulté : " />
+        <string id="OpzzCPiP" text="Suit {TARGET_PARTY}" />
+        <string id="OTaPfaJl" text="{PARTY_2S_MEMBERS}   " />
+        <string id="oUhd9YhP" text="{PARTY_LEADERS_FACTION}" />
+        <string id="p0nIO9c2" text="L'atelier ne peut pas être rétrogradé." />
+        <string id="p7raHA9x" text="Raffinement" />
+        <string id="PAUsUq4Z" text="Sélectionner le chef du fief" />
+        <string id="PDdh1sBj" text="Nom" />
+        <string id="Pdo7PpS3" text="{TASK_NAME} {CURRENT_PROGRESS}/{TARGET_PROGRESS}" />
+        <string id="PHkC8Gia" text="Vendre" />
+        <string id="PJZ8QYgA" text="L-I : {BONUS}" />
+        <string id="pkbUiKFJ" text="Combat actuellement un ennemi." />
+        <string id="POjDNVW3" text="Forger" />
+        <string id="PpbopMjT" text="Transférer tous les prisonniers principaux" />
+        <string id="pqfz386V" text="Chef de clan" />
+        <string id="PRE5RKpp" text="Vous devez vous reposer et laisser passer du temps avant de pouvoir effectuer cette action." />
+        <string id="pRP2sOWP" text="L-III : {BONUS}" />
+        <string id="PS02CqPu" text=" {PARTY_MEMBER.LINK} (Santé : {MEMBER_HEALTH}%)" />
+        <string id="Pvx4TU66" text="Transférer toutes les troupes principales" />
+        <string id="pWfadZg9" text="Groupes dans l'armée" />
+        <string id="pWObBhj5" text="Vous ne pouvez pas assigner un chef de groupe en tant que nouveau Gouverneur d'un fief" />
+        <string id="PXT6aA4J" text="Options de campagne" />
+        <string id="q1J4a8rr" text="Taux d'apprentissage" />
+        <string id="QBPrRdQJ" text="Chirurgien" />
+        <string id="qBq70qDq" text="Projet actuel" />
+        <string id="QeToaiLt" text="Dégâts de taille" />
+        <string id="QGyoSLeY" text="Voyager vers un fief" />
+        <string id="qKUjgS6r" text="Fief" />
+        <string id="QlbkxoSp" text=" {TOOLTIP_TROOPS} ({PARTY_SIZE})" />
+        <string id="qRqnrtdX" text="Propriétaire" />
+        <string id="qSi4DlT4" text="Nourriture" />
+        <string id="QSPrSsHv" text="Pas de selle !" />
+        <string id="QXBf26Rv" text="Comportement inconnu" />
+        <string id="QyVbwGLp" text="{PARTY_SIZE}" />
+        <string id="qZvNIVGV" text="Il n'y a personne dans votre clan qui puisse diriger un groupe pour le moment." />
+        <string id="R2AaCaPJ" text="Changement attendu" />
+        <string id="Ra17aK4e" text="Capital :" />
+        <string id="Raa4j4rF" text="Requis : {UPGRADE_ITEM}" />
+        <string id="RClxLG6N" text="En position" />
+        <string id="redwEIlW" text="Intendant" />
+        <string id="rg7OuWS2" text="Manœuvre" />
+        <string id="rgqA29b8" text="Votre compétence en '{SKILL_NAME}' est insuffisante pour vous équipez de cet objet" />
+        <string id="rGy8vjOv" text="Défend {TARGET_SETTLEMENT}." />
+        <string id="Rkh2k1OA" text="Achèvement :" />
+        <string id="rsHPaaYZ" text="La cohésion doit être inférieure à {MINAMOUNT} pour être améliorée" />
+        <string id="rThSy9ed" text="Requis : {UPGRADE_ITEM} (Vous n'en avez aucun)" />
+        <string id="RuaA8t97" text="Nom du Royaume" />
+        <string id="RVPidk5a" text="Influence" />
+        <string id="s31DnnAf" text="Dégâts" />
+        <string id="s5b77f0H" text="Ajoutez +{BOOSTAMOUNT} de cohésion à votre armée" />
+        <string id="s6koeapc" text="{MAP_FACTION}" />
+        <string id="S9tmCkHz" text="Ce héros dégage une zone commune" />
+        <string id="sa2TQu1G" text="Ce héros est occupé par un problème." />
+        <string id="Sls0KQVn" text="Élections" />
+        <string id="slzfQzl3" text="Ce héros est perdu" />
+        <string id="sqdzHOPe" text="Classe" />
+        <string id="Srr4rOSq" text="Transférer tous les autres prisonniers" />
+        <string id="SVJlOYCB" text="Le groupe a moins de 40% d'hommes de sa taille maximale." />
+        <string id="sVsaWZjg" text="Transférez toutes les autres troupes" />
+        <string id="sVZaIPoQ" text="Vitesse de taille" />
+        <string id="SzuCFlNq" text="Aucun élément sélectionné." />
+        <string id="t1lSXN9O" text="L'étendard de votre clan porté au combat" />
+        <string id="t3tq0eoW" text="Groupes" />
+        <string id="T9bndUYP" text="Raid {.de}{SETTLEMENT}" />
+        <string id="ta4R2RR7" text="Principal" />
+        <string id="TaK6ydAx" text="Voyager." />
+        <string id="TAnabTdy" text="Précision" />
+        <string id="tAwRIPiy" text="Coût construction : {COST}" />
+        <string id="Te4xxzzK" text="Deniers actuels" />
+        <string id="tf7301NC" text="Taux de guérison" />
+        <string id="tFGM0yav" text="Ce groupe est en train de se dissoudre." />
+        <string id="tLh0VqN3" text="Choisissez la culture de votre Royaume" />
+        <string id="twtbH1zv" text="Quantité" />
+        <string id="TzLtVzdg" text="Troupes blessées" />
+        <string id="UbZL2BJQ" text="Points de vie" />
+        <string id="UHLcmf9A" text="Limitation de la taille du groupe de prisonniers" />
+        <string id="uJro3Bua" text="Au-delà de la limite" />
+        <string id="uoDuiBZR" text="Vous ne pouvez pas vous assigner en tant que Gouverneur" />
+        <string id="US7UmBbt" text="Niveau d'armure" />
+        <string id="UxAl9iyi" text="Personnel" />
+        <string id="v3OF6vBg" text="Revenu" />
+        <string id="Ve5jkJqf" text="Offre automatique" />
+        <string id="ViYdZUbQ" text="Dissoudre l'armée" />
+        <string id="vLaBJFGy" text=" {PARTY_MEMBER.LINK} ({PARTY_SIZE})" />
+        <string id="Voa0sinH" text="Requis : {NEEDED_EXP_AMOUNT}xp (vous avez {CURRENT_EXP_AMOUNT}xp)" />
+        <string id="vOojEcIf" text="Vous ne pouvez pas assigner un membre prisonnier en tant que nouveau chef de groupe" />
+        <string id="Vq8yavES" text="Déjà dans l'armée." />
+        <string id="VtWa9Pmh" text="En train de faire un raid sur {TARGET_SETTLEMENT}." />
+        <string id="VzCoqt8D" text="Pas de selle équipée. -10% de pénalité sur la vitesse et la manoeuvre." />
+        <string id="VZjxs5Dt" text="Propriétaire de " />
+        <string id="W1tsTWZv" text=" {PARTY_MEMBER.LINK} ({MEMBER_HEALTH}%)" />
+        <string id="w8Yzf0F0" text="Détruit" />
+        <string id="weaponTier" text="Niveau de l'arme : " />
+        <string id="WiNRdfsm" text="Terminé" />
+        <string id="Wir2xZIg" text="Vous n'avez pas débloqué certaines des pièces sélectionnées." />
+        <string id="WN7cYIXM" text="Vous devez faire partie d'un royaume" />
+        <string id="WttsvMTW" text="Révolte {.de}{SETTLEMENT}" />
+        <string id="XAL3t1bs" text="Se déplace" />
+        <string id="XCz81XYm" text="Entrées" />
+        <string id="XIioBPi0" text="Aucun changement" />
+        <string id="Xmw93W6a" text="Pas assez d'influence" />
+        <string id="XseYJYka" text="Gérer" />
+        <string id="XSQ0Y9gy" text="Vous devez faire partie d'un royaume pour créer une armée." />
+        <string id="xtlIFKaa" text="Êtes-vous sûr de vouloir quitter le Royaume ?{newline}Si oui, choisissez comment vous souhaitez le quitter." />
+        <string id="xtt9Oxer" text="Productivité" />
+        <string id="XUtiwiYP" text="Longueur : " />
+        <string id="xwRWjlar" text="Couleur d'arrière-plan :" />
+        <string id="xXSFaGW8" text="Dissoudre" />
+        <string id="XYAVu2f0" text="Poursuite {.de}{TARGET_PARTY}." />
+        <string id="XzggyCPW" text="Ce héros est occupé." />
+        <string id="YbGu9rSH" text="Ce personnage est déjà le gouverneur {.de}{SETTLEMENT_NAME}" />
+        <string id="ybLA7ZXp" text="Déjà au maximum" />
+        <string id="YifFZaG7" text="Chef du groupe" />
+        <string id="YO0x7ZAo" text="Loyauté" />
+        <string id="YT9giTet" text="Limite d'apprentissage" />
+        <string id="yUVv3z5V" text="Patrouille autour {.de}{TARGET_SETTLEMENT}." />
+        <string id="z8h0BRAb" text="Conserver toutes vos propriétés" />
+        <string id="zawBaxl5" text="Distance : {DISTANCE}" />
+        <string id="ZcybPatO" text="Longueur de l'arme" />
+        <string id="zMMqgxb1" text="Modèle" />
+        <string id="ZUgoQ1Ws" text="Type de cheval" />
+        <string id="zWaCtOJU" text="{SETTLEMENTS}" />
+        <string id="zWaVxD6T" text="Vitesse du groupe" />
+        <string id="zZlWRZjO" text="Guerres" />
+        <!--This translation has been made by the French community. You can join it at this address https://discord.gg/Ck3ZBD5-->
+        <!--Copyright © 2020, M&B Bannerlord Traduction FR-->
+    </strings>
 </base>

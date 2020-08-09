@@ -1,28 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <tags>
-    <tag language="Français" />
-  </tags>
-  <strings>
-    <string id="6liU5Bts" text="Surgai"/>
-    <string id="6LRFHHqT" text="Imulir"/>
-    <string id="7UkzXWTQ" text="Osarios"/>
-    <string id="7xQv3Np7" text="Yarka"/>
-    <string id="b7PVGEFM" text="Lath"/>
-    <string id="dP5A3wwT" text="Boscoric"/>
-    <string id="G9eRRrc0" text="Haldaea"/>
-    <string id="I8Iy6Jtv" text="Ferionn"/>
-    <string id="jboLCImM" text="Dewanos"/>
-    <string id="jqaPJbpP" text="Urgil"/>
-    <string id="KbdRplDL" text="Petrys"/>
-    <string id="M1ORaYny" text="Pol"/>
-    <string id="PhdzZKu0" text="Ger"/>
-    <string id="QCiqeUHm" text="Sabila"/>
-    <string id="RfxXnZ8Z" text="Cadugan"/>
-    <string id="Ub0awU1n" text="Ewyn"/>
-    <string id="UgA0uoFA" text="Tabur"/>
-    <string id="W1yur1cf" text="Khachin"/>
-    <string id="w9fY8ab4" text="Arigun"/>
-    <string id="y9nJNtNx" text="Senon"/>
-  </strings>
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>
+        <string id="6liU5Bts" text="Surgai" />
+        <string id="6LRFHHqT" text="Imulir" />
+        <string id="7UkzXWTQ" text="Osarios" />
+        <string id="7xQv3Np7" text="Yarka" />
+        <string id="b7PVGEFM" text="Lath" />
+        <string id="dP5A3wwT" text="Boscoric" />
+        <string id="G9eRRrc0" text="Haldaea" />
+        <string id="I8Iy6Jtv" text="Ferionn" />
+        <string id="jboLCImM" text="Dewanos" />
+        <string id="jqaPJbpP" text="Urgil" />
+        <string id="KbdRplDL" text="Petrys" />
+        <string id="M1ORaYny" text="Pol" />
+        <string id="PhdzZKu0" text="Ger" />
+        <string id="QCiqeUHm" text="Sabila" />
+        <string id="RfxXnZ8Z" text="Cadugan" />
+        <string id="Ub0awU1n" text="Ewyn" />
+        <string id="UgA0uoFA" text="Tabur" />
+        <string id="W1yur1cf" text="Khachin" />
+        <string id="w9fY8ab4" text="Arigun" />
+        <string id="y9nJNtNx" text="Senon" />
+        <!--This translation has been made by the French community. You can join it at this address https://discord.gg/Ck3ZBD5-->
+        <!--Copyright © 2020, M&B Bannerlord Traduction FR-->
+    </strings>
 </base>
