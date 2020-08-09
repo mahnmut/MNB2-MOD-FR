@@ -1,6 +1,6 @@
 Ce Mod est fournis sans garantie de fonctionnement.
 
-Il est basé sur la version 1.4.0 dont voici une liste non exaustive des personnes ayant travaillé sur le projet : Drenaas, Gatsuu, Marteau, Sadness, Ser Meicer, Shao, Sorrow
+Il est basé sur la version 1.4.0 dont voici une liste non exaustive des personnes ayant travaillé sur le projet : Daneel, Drenaas, Gatsuu, Marteau, Sadness, Ser Meicer, Shao, Sorrow
 
 Passage en 1.4.2 : 	Caerbannog, Mahn
 
