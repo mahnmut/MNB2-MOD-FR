@@ -25,13 +25,19 @@ _Par exemple : C:\Program Files\Steam\steamapps\common\Mount & Blade II Bannerlo
 
 
 &nbsp;
+Ce projet est avant tout le fruit d'un travail communautaire et beaucoups de petites mains, parfois anonymes, y ont participé ce qui fait qu'on ne peux malheureusement pas citer tout le monde. Ce projet n'est pas exempt de défauts car il est impossible de garder une traduction constante quand tant de monde participe à l'effort de guerre mais c'est ce que nous avons de plus à jour pour pouvoir jouer en Français à Bannerlord Aujourd'hui. On espère que vous apprécierez. 
+
+Certaine phrases en anglais semble apparaitre dans le jeux malgré le fait qu'on les ai déjà bien traduite (par exemple certains dialogues avec des groupes de bandits.) Il est fort possible que cela vienne du jeu de base en lui même et non du mod.
+
+
+&nbsp;
 
 ----
 ##### Ce programme est sous licence Beerware (Révision 42) :
 > La Communauté Française de Mount and Blade II: Bannerlord a créé ces fichiers.
 > Tant que vous conservez cet avertissement, vous pouvez faire ce que vous
 > voulez de ce truc. Si on se rencontre un jour et que vous pensez que ce
-> truc vaut le coup, vous pouvez me payer une bière en retour.
+> truc vaut le coup, vous pouvez nous payer une bière en retour.
 
 
 &nbsp;
@@ -39,7 +45,7 @@ _Par exemple : C:\Program Files\Steam\steamapps\common\Mount & Blade II Bannerlo
 _Ensemble pour un monde où il coule plus de bière que de sang._
 
 [//]: #
-[Licence]: <https://github.com/mahnmut/MNB2-MOD-FR/blob/master/Licence.txts>
+[Licence]: <https://github.com/mahnmut/MNB2-MOD-FR/blob/master/Licence.txt>
 [release]: <https://github.com/mahnmut/MNB2-MOD-FR/releases/download/1.4.2.a/MNB2.MOD.FR.1.4.2.exe>
 [Version]: <https://github.com/mahnmut/MNB2-MOD-FR/releases>
 [innosetup]: <https://jrsoftware.org/isinfo.php>
