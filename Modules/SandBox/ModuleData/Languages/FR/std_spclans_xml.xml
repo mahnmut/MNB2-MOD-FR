@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="0m0IUnL1" text="fen Uvain" />
         <string id="0u8ipbgn" text="Les tribus connues sous le nom de Peuple de la Forêt pratiquent l'agriculture sur abattis-brûlis, dans les profondeurs des bois, hors d'atteinte des boyards sturgians. Ils brûlent des étendues d'arbres abattus, cultivent sur le sol vierge fertilisé par les cendres durant quelques années, jusqu'à l'épuisement du terrain, puis se déplacent. Il s'agit d'une utilisation inefficace des terres mais d'une utilisation très efficace de la main-d'œuvre, convenant à une population numériquement faible dans une vaste région. De plus, comme les parcelles sont difficiles à mesurer et à taxer, c'est une très bonne stratégie pour la population qui ne se soucie pas du gouvernement en place." />
         <string id="1sbJQR4H" text="Pillards" />

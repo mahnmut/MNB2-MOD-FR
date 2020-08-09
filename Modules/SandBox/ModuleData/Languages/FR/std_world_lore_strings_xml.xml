@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="2DpewE0u" text="La valeur du sang parlera toujours d'elle-même. Voyez Garios et ses scélérats se jouer de la populace... Quant aux partisans de Rhagaea ? Des moins que rien, ce n'est qu'une opportuniste." />
         <string id="3VSBVR8R" text="Quoi qu'il en soit, Lucon est issu de bonne famille, c'est indéniable. Il connaît nos lois et les respecte, vous savez qu'il respectera nos coutumes." />
         <string id="5BWAsyeB" text="La fortune m'a souri. Je suis né dans l'une des maisons les plus riches de Calradia. Mon père a dépensé beaucoup d'argent pour m'éduquer, afin que je puisse conserver cette richesse. Et la première chose la plus importante que j'ai apprise, c'est que les gens du peuple sont la source de ma richesse, donc je dois protéger mes gens." />

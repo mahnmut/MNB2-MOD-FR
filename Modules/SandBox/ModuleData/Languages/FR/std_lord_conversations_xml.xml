@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="5ypRJiWZ" text="Merci pour l'information" />
         <string id="62AkUCOw" text="Pourquoi ne défendez-vous pas..." />
         <string id="8xvSu9fX" text="Pardonnez-moi {?NPC.GENDER}ma dame{?}messire{\?}. Je ne sais pas ce qui m'a pris." />

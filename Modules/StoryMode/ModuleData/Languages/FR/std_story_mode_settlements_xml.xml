@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="rQge8OSi" text="Terrain d'entraînement" />
         <!--This translation has been made by the French community. You can join it at this address https://discord.gg/Ck3ZBD5-->
         <!--Copyright © 2020, M&B Bannerlord Traduction FR-->

@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="(" text="Baldimos" />
         <string id="3nilwlcM" text="Vous êtes {?PLAYER.GENDER}arrivée{?}arrivé{\?} {.a}{TUTORIAL_SETTLEMENT_NAME}. Pour explorer les lieux, vous pouvez entrer dans le bâtiment en appuyant sur le bouton en surbrillance à gauche." />
         <string id="3RqEmB15" text="Se déplacer en Calradia" />

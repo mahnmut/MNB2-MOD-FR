@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="07OrsbVH" text="Carreau puissant" />
         <string id="0bE9MxK4" text="Chapeau enrubanné méridional" />
         <string id="0e17RZrZ" text="Arbalète" />

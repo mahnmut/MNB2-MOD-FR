@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="00fZGqbJ" text="Ce fut une journée éprouvante pour prendre {ENEMY_SETTLEMENT}. Mais ça en valait la peine." />
         <string id="2AsFNABs" text="Chaque fois que nous renversons un autre groupe de ces bandits, je m'imagine que cela aurait pu être moi, si le destin avait été un peu différent." />
         <string id="2R19RV70" text="J'ai entendu dire que vous avez pris {SETTLEMENT_NAME}." />

@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="06V7fEV4" text="Appuyer sur ESC pour revenir en arrière" />
         <string id="2Q6Mm9Jo" text="Options de la manette" />
         <string id="2zcrC0h1" text="Jouabilité" />

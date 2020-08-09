@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="02FaqhzI" text="J'ai entendu parler de vous. On dit du bien de vous, passez me voir de temps en temps. Une amitié avec quelqu'un comme moi peut être très profitable pour quelqu'un comme vous." />
         <string id="0etg1Q9l" text="J'ai imposé de nombreux sacrifices à mes hommes au service {.de}{FIRST_NAME}. Je refuse qu'on remette en cause leur loyauté." />
         <string id="1jUa8olQ" text="Je ne m'attends pas à ce que vous déposiez les armes, mais je vais quand même vous donner la chance de le faire.[ib:warrior][if:idle_angry]" />

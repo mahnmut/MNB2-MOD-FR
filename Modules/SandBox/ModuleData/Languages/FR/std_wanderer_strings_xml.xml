@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="0dQLkzEw" text="Ce que vous appelez « honneur »... je doute que ce soit le terme approprié." />
         <string id="0FHF0OXK" text="Je suis chirurgien. J'ai été formé à l'académie impériale {.de}{IMPERIALCAPITAL}. J'ai eu beaucoup de patients riches et influents là-bas. Avec mon métier, je pensais que j'étais à l'abri des complots et dangers de l'Empire." />
         <string id="0reAi03W" text="J'étais bergère. Dans la plupart des villages, c'est un travail d'homme, puisqu'on est isolé parmi les collines. Mais dans notre village, il n'y avait qu'une poignée d'hommes. J'étais une très bonne frondeuse, mes jets étaient si précis que j'éloignais facilement les loups." />

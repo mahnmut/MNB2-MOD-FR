@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="1CCSLaXG" text="honorable" />
         <string id="2LhoHBb4" text="{?LORD.GENDER}froide et distante{?}froid et distant{\?}" />
         <string id="2oLzxPGu" text="{?LORD.GENDER}agressive et exigeante{?}agressif et exigeant{\?}" />

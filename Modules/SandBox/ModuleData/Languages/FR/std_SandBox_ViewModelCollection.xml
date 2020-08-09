@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="3CpNUnVl" text="Annuler" />
         <string id="5zeL8sa9" text="Vous avez gagné {A0} en influence." />
         <string id="6qYaQkDD" text="{COUNT} + {PRISONER_COUNT}p" />

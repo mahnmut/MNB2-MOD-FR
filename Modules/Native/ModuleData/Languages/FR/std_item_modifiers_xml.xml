@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="3FdaOPBi" text="{ITEMNAME} calciné{.es}" />
         <string id="3JaHZA3Y" text="Grand sac {.de}{ITEMNAME}" />
         <string id="4nprSS1a" text="{ITEMNAME} flexible{.s}" />

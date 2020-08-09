@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="03Q47XnC" text="Eh bien. J'aime en savoir un peu plus sur les gens avant que je ne les tue. Pourrais-tu me donner ton joli petit nom ?" />
         <string id="1BZmK6EP" text="À présent... je suppose que nous allons faire couler le sang, maintenant. Quelque chose à ajouter avant de commencer ?" />
         <string id="2V0eF42T" text="{STR_SALUTATION}... Cela fait plaisir de vous voir. Cela faisait trop longtemps." />

@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="0xC75dN6" text="Enemy Party" />
         <string id="sSJSTe5p" text="Groupe du Joueur" />
         <!--This translation has been made by the French community. You can join it at this address https://discord.gg/Ck3ZBD5-->

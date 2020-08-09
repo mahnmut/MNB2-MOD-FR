@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="2YYRyrOO" text="Partir..." />
         <string id="3nT5wWzb" text="Se rendre." />
         <string id="49qjBLr4" text="Voulez-vous continuer à piller ce village ?" />

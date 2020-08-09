@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="05P003ev" text="Quand j'étais petite, j'ai choisi de devenir guerrière, j'ai accompagné mes frères dans leurs raids et dans leurs batailles. J'ai grandi et suis devenue une adulte, j'ai été courtisée par l'un des meilleurs guerriers de notre vallée, toutes les filles rêvaient de l'épouser. Il ma fait une promesse, la promesse de ne jamais tenter de m’empêcher d'aller à la guerre, suite à quoi j'ai décidé de l'épouser. " />
         <string id="08SDOFly" text="Vous quittez la ville ? Je suis ici depuis trois jours dans l'attente que mon contact se montre, mais je ne pense pas qu'il le fera. J'ai peut-être attiré l'attention sur moi. " />
         <string id="0b8vP1ba" text="Vous avez sali la tradition sacrée du mariage ! Vous l'avez souillée avec du sang !" />

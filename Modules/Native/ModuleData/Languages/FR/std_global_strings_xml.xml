@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="03mPaWum" text="Royaume" />
         <string id="08oulGov" text="Lâcher l'arme dont vous êtes équipé." />
         <string id="0EDGnl1C" text="Seulement à distance" />

@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="0e17RZrZ" text="Arbalète" />
         <string id="0Uvkm46I" text="Octroie une épée efficace en duel et en estoc." />
         <string id="0yGhTKey" text="Octroie des flèches supplémentaires." />

@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="0xC75dN6" text="Groupe ennemi" />
         <string id="1cnJtNTt" text="({KEY}) Tirer" />
         <string id="1CPdu9K0" text="Pierre" />

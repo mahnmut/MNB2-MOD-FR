@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="066F7lnW" text="Chef rebelle Aserai" />
         <string id="07jVF3yT" text="Enfant citadin sturgian" />
         <string id="0YgGQzbw" text="Marchand sturgian aventurier" />

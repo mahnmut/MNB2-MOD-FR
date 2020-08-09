@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="03mPaWum" text="Royaume" />
         <string id="1b9N5akV" text="Les groupes peuvent être rassemblés pour former des armées (c'est la convocation du ban ou de l'arrière ban). Les armées ont un avantage sur un groupe unique car elles peuvent contenir un plus grand nombre de soldats et faire preuve d'une meilleure coordination. Le chef d'une armée devra d'abord la mettre en place en dépensant de l'{INFLUENCE_LINK}. Chaque armée dispose d'une statistique de Cohésion d'armée qui est cruciale pour son fonctionnement. Une armée sera automatiquement dissoute si sa cohésion tombe trop basse." />
         <string id="2aMyr5AK" text="Marchandises commerciales" />

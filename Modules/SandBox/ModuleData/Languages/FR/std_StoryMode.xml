@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="09z8Q08f" text="Votre famille était composée de petits fermiers, disposant d'à peine assez de terres pour subvenir à leurs besoins. Des gens comme eux étaient le pilier économique et militaire de l'empire." />
         <string id="0IeByuam" text="C'était une victoire, du genre de celle qui est presque aussi terrible qu'une défaite." />
         <string id="0LIb10KB" text="{EDUCATION_INTRO}" />

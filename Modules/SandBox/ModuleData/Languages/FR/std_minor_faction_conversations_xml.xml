@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="1mgx9gPc" text="Ils font ce qu'il faut pour survivre. Quand ils arrivent en ville, on les maudit, mais croyez moi, si vous vous retrouviez dans un lieu sans eau, et que vous aviez besoin d'un guide pour vous sortir de la mouise, vous les béniriez comme le plus grand cadeau que les Cieux puissent vous offrir." />
         <string id="2JDctkZH" text="Salutations. Pour autant que je sache, il n'y a aucune querelle entre nous, donc à moins que vous n'ayez quelque chose à nous dire, vous pouvez continuer votre route." />
         <string id="2K4ob83X" text="Ils parlent comme si ils étaient les seules âmes libres du monde, mais ce sont des chiens assoiffés de sang et vous pouvez les amadouer facilement en leur montrant une poignée de deniers." />

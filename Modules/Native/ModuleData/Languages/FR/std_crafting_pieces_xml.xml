@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="03YrcAtx" text="Poignée à deux mains enveloppée de cuir" />
         <string id="0gteBOD7" text="Tête de bardiche" />
         <string id="0kP9bf7n" text="Manche de faucille" />

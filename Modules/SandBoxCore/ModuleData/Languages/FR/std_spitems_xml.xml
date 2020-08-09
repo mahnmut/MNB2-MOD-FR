@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="02g6K4Yw" text="Turban tribal méridional" />
         <string id="0666zYUB" text="Adarga clouté" />
         <string id="0AS3253G" text="Masse d'armes méridionale" />

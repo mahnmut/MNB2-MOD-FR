@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="1VOXUsST" text="Personnalisez le symbole de votre bannière" />
         <string id="3CpNUnVl" text="Annuler" />
         <string id="Eg3m6vUS" text="Personnalisez votre bannière en choisissant le symbole de votre clan" />

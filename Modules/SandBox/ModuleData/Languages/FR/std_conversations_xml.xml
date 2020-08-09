@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="5qoYjNVs" text="De quoi aimeriez-vous discuter mon ami{?PLAYER.GENDER}e{?}{\?} ?" />
         <string id="A8VlEUMS" text="Bonjour {PLAYER.LINK}, ravi de vous voir." />
         <string id="ah9SN1u0" text="Nous nous rendons !" />

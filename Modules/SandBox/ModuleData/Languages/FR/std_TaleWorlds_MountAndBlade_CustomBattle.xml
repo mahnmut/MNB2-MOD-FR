@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="35IHscBa" text="ENNEMI" />
         <string id="4gOGGbeQ" text="Bataille Personnalisée" />
         <string id="BC7n6qxk" text="JOUEUR" />

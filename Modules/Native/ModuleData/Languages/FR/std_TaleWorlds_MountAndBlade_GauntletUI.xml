@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="074YAjOk" text="Vous avez été expulsé pour cause d'inactivité" />
         <string id="2SEofGth" text="Changer d'équipe" />
         <string id="4mMySbxI" text="Erreur non spécifiée" />

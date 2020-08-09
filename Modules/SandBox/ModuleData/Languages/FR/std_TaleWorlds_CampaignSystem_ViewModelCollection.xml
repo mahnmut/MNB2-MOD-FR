@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="05fdfc6e238429753ef282f2ce97c1f8" text="Quantité : " />
         <string id="08abd5af7774d311cadc3ed900b47754" text="Type : " />
         <string id="0Q4Xo2BQ" text="Sélectionner le nouveau chef de groupe" />

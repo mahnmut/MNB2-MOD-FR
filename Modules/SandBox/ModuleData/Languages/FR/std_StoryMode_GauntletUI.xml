@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="75nwCTEn" text="L'écran des clans est désactivé pendant le tutoriel." />
         <string id="lBQXP6Wj" text="Démarrer une Partie" />
         <string id="Rvr1bcu8" text="Suivant" />

@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="2ZarUUbw" text="{KILLERPLAYERNAME} a tué {KILLEDPLAYERNAME}!" />
         <string id="9CnRKZOb" text="{KILLEDPLAYERNAME} est mort !" />
         <string id="NqarFr4P" text="Options" />

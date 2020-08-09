@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="16hLiz40" text="Bêta testeur" />
         <string id="1CxYPryo" text="Ce badge a été attribué aux joueurs qui ont gagné 50 matchs durant la beta" />
         <string id="21oH4CWa" text="Chasseur de bug" />

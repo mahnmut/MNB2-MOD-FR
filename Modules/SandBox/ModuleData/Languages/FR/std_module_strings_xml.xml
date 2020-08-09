@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="7ZhNilg8" text="Facile (bonus de 5%)" />
         <string id="8UBfIenN" text="Normal" />
         <string id="9jSxo790" text="Réaliste" />

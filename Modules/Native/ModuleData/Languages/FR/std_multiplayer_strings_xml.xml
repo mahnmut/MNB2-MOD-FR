@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="03hsUIsL" text="Les chevaliers vlandians, s'entraînent pour la guerre presque tous les jours de leur vie, ils sont d'une puissance qu'il ne faut pas sous-estimer. Lorsqu'ils apparaissent sur le champ de bataille, ils inspirent la peur dans le cœur de leurs ennemis. Lorsqu'ils commencent à charger, même le sol tremble sous leurs lourds sabots tonitruants." />
         <string id="0dnD9cR4" text="La domination du légionnaire a disparu. De nos jours, quand on pense aux troupes de choc impériales, on imagine les fameux cataphractaires, blindés de la tête aux pieds dans le meilleur acier que les forges de l'Empire puissent forger. Maintenus comme soldats à plein temps aux frais du palais, ces cavaliers professionnels ne font que de s'entraîner avec des lances, des arcs composites recourbés, des épées et des haches." />
         <string id="1E5axt0j" text="Les clans battanians ont une tradition vivace qui veut que leurs membres les moins sociables aillent dans les bois pour vivre comme des animaux. Beaucoup d'entre eux reviennent pour se battre aux côtés de leur peuple lorsqu'ils partent à la guerre, mais n'ayant pas été entraînés avec les Kern, ils s'arment le plus souvent de javelots et se battent comme tirailleurs." />

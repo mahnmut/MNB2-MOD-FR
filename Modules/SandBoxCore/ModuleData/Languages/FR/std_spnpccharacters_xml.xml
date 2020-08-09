@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="0GKH29JG" text="Garde mercenaire" />
         <string id="0GkJB08d" text="Garde de caravane vétéran sturgian" />
         <string id="0Xku0LQD" text="Paysan sturgian" />

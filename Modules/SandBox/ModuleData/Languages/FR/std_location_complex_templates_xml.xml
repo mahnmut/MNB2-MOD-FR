@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="25pNV9E3" text="Centre du village" />
         <string id="DO7Vk4iw" text="Taverne" />
         <string id="e7i3UP8q" text="Maison" />

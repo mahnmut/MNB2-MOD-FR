@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="01zQKaF3" text="Forme yeux" />
         <string id="034LYlKi" text="Faites face aux murailles" />
         <string id="05w8Tl7n" text="Steppes" />

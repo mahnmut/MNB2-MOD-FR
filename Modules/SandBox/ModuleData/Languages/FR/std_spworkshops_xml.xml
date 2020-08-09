@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="6g08hTX5" text="Des céréales sont prises et brassées pour en faire de la bière. Peu de choses peuvent rendre les gens du peuple et les troupes aussi heureux que la bière." />
         <string id="7hx2Nlmd" text="Tannerie" />
         <string id="8MwqyFfS" text="Forge" />

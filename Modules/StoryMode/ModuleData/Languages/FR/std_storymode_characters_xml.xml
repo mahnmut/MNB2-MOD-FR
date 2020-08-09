@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="8AHT9pt5" text="Maître d'armes" />
         <string id="daOtjNZp" text="Arzagos" />
         <string id="IMwAoSax" text="Pillard de Radagos" />

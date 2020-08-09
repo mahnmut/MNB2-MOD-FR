@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="8eYtra7T" text="Détermine la difficulté du jeu" />
         <string id="fz2kQjFS" text="Choisissez la culture de votre personnage :" />
         <string id="K6GYskvJ" text="Culture :" />

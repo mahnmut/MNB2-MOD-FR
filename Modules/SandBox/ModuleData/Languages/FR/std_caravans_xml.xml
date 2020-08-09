@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="7bjyJDaK" text="Chef des mercenaires de la faction du joueur" />
         <string id="EsJ3Drv7" text="Leader des mercenaires sturgians" />
         <string id="GIRpmax8" text="Chef des mercenaires Aserai" />

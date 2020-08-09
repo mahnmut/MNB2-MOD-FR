@@ -4,6 +4,7 @@
         <tag language="Français" />
     </tags>
     <strings>
+        <string id="id" text="translation" />
         <string id="0CQgia2a" text="Culharn" />
         <string id="0YZQ8vr8" text="Ulman" />
         <string id="10urvYUQ" text="Belithor" />
