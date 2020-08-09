@@ -14,13 +14,17 @@
 #define MyAppName "Traduction Française de Mount & Blade 2"
 #define MyAppVersion "1.4.2"
 #define MyAppPublisher "Communauté"
-#define MyAppURL "https://discord.gg/Ck3ZBD5"
+#define MyAppURL "https://github.com/mahnmut/MNB2-MOD-FR"
+
 
 [Setup]
 AppId={{6FD55994-A440-41A0-91C7-8003E4AB602D}
 AppName={#MyAppName}
 AppVersion={#MyAppVersion}
 AppPublisher={#MyAppPublisher}
+AppPublisherURL={#MyAppURL}
+AppSupportURL=https://discord.gg/Ck3ZBD5
+AppUpdatesURL={#MyAppURL}
 DefaultDirName={code:MNBDIR}
 DirExistsWarning=no
 DefaultGroupName={#MyAppName}
@@ -31,7 +35,6 @@ Compression=lzma
 SolidCompression=yes
 WizardStyle=modern
 LicenseFile=Licence.txt
-AppSupportURL={#MyAppURL}
 UninstallFilesDir={app}\Modules\FrenchTranslation
 
 [Languages]

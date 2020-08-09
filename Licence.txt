@@ -9,3 +9,5 @@ Ce programme est sous licence Beerware (Révision 42) :
 La Communauté Française de Mount and Blade II: Bannerlord a créé ce fichier. Tant que vous conservez cet avertissement, vous pouvez faire ce que vous voulez de ce truc. Si on se rencontre un jour et que vous pensez que ce truc vaut le coup, vous pouvez me payer une bière en retour.
 
 Retrouvez nous sur le Discord historique : https://discord.gg/Ck3ZBD5
+
+Github : https://github.com/mahnmut/MNB2-MOD-FR
