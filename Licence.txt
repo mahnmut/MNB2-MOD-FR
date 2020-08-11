@@ -2,5 +2,5 @@ Ce Mod est fournis sans garantie de fonctionnement.
 
 Ce programme est sous licence Beerware (Révision 42) :
 
-La Communauté Française de Mount and Blade II: Bannerlord a créé ce fichier. Tant que vous conservez cet avertissement, vous pouvez faire ce que vous voulez de ce truc. Si on se rencontre un jour et que vous pensez que ce truc vaut le coup, vous pouvez me payer une bière en retour.
+La Communauté Française de Mount and Blade II: Bannerlord a créé ce fichier. Tant que vous conservez cet avertissement, vous pouvez faire ce que vous voulez de ce truc. Si on se rencontre un jour et que vous pensez que ce truc vaut le coup, vous pouvez nous payer une bière en retour.
 
