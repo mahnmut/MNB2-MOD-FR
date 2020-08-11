@@ -40,6 +40,7 @@ Passage en 1.4.2 : Caerbannog, Mahnmut
 PS : Certaines phrases en anglais semblent apparaître dans le jeu malgré le fait qu'on les ait déjà bien traduites (par exemple certains dialogues avec des groupes de bandits). Cela vient du jeu de base en lui même et non du mod car tous les textes n'ont pas encore été externalisés dans les fichiers à traduire. Espérons qu'ils le seront dans les prochaines versions de Bannerlord.
 
 Github : https://github.com/mahnmut/MNB2-MOD-FR
+
 Nexus : https://www.nexusmods.com/mountandblade2bannerlord/mods/2051?tab=description
 
 &nbsp;
