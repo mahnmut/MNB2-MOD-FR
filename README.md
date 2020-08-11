@@ -26,9 +26,18 @@ _Par exemple : C:\Program Files\Steam\steamapps\common\Mount & Blade II Bannerlo
 
 &nbsp;
 
-Ce projet est avant tout le fruit d'un travail communautaire et beaucoup de petites mains, parfois anonymes, y ont participé ce qui fait qu'on ne peut malheureusement pas citer tout le monde. Ce projet n'est pas exempt de défauts car il est impossible de garder une traduction constante quand tant de monde participe à l'effort de guerre mais c'est ce que nous avons de plus à jour pour pouvoir jouer en Français à Bannerlord Aujourd'hui. On espère que vous apprécierez!
+Ce mod est basé sur les fichiers de la traduction du mod "Bannerlord Traduction Francaise - French Translation --e1.4.0.0" qui ont été complétés afin de les faire fonctionner en version 1.4.2. Ce mod ne nécessite pas le précédent pour fonctionner.
 
-Certaines phrases en anglais semblent apparaître dans le jeu malgré le fait qu'on les ai déjà bien traduites (par exemple certains dialogues avec des groupes de bandits.) Il est fort possible que cela vienne du jeu de base en lui même et non du mod.
+Ce projet est avant tout le fruit d'un travail communautaire et beaucoup de petites mains, parfois anonymes, y ont participé ce qui fait qu'on ne peut malheureusement pas citer tout le monde. Ce projet n'est pas exempt de défauts car il est impossible de garder une traduction homogène quand tant de monde participe à l'effort de guerre mais c'est ce que nous avons de plus à jour pour pouvoir jouer en Français à Bannerlord aujourd'hui.
+On espère que vous apprécierez !
+
+Liste non exhaustive de personnes ayant travaillé sur le projet : 
+Akaria, Daneel, Drenaas, Gatsuu, Marteau, Sadness, Ser Meicer, Shao, Sorrow...
+
+Passage en 1.4.2 : Caerbannog, Mahnmut
+
+
+PS : Certaines phrases en anglais semblent apparaître dans le jeu malgré le fait qu'on les ait déjà bien traduites (par exemple certains dialogues avec des groupes de bandits). Cela vient du jeu de base en lui même et non du mod car tous les textes n'ont pas encore été externalisés dans les fichiers à traduire. Espérons qu'ils le seront dans les prochaines versions de Bannerlord.
 
 &nbsp;
 
