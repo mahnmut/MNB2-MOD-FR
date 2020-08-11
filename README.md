@@ -28,11 +28,11 @@ _Par exemple : C:\Program Files\Steam\steamapps\common\Mount & Blade II Bannerlo
 
 Ce mod est basé sur les fichiers de la traduction du mod "Bannerlord Traduction Francaise - French Translation --e1.4.0.0" qui ont été complétés afin de les faire fonctionner en version 1.4.2. Ce mod ne nécessite pas le précédent pour fonctionner.
 
-Ce projet est avant tout le fruit d'un travail communautaire et beaucoup de petites mains, parfois anonymes, y ont participé ce qui fait qu'on ne peut malheureusement pas citer tout le monde. Ce projet n'est pas exempt de défauts car il est impossible de garder une traduction homogène quand tant de monde participe à l'effort de guerre mais c'est ce que nous avons de plus à jour pour pouvoir jouer en Français à Bannerlord aujourd'hui.
+Ce projet est avant tout le fruit d'un travail communautaire et beaucoup de petites mains, parfois anonymes, y ont participé ce qui fait qu'on ne peut malheureusement pas citer tout le monde. Ce projet n'est pas exempt de défauts car il est impossible de garder une traduction homogène quand tant de monde participe à l'effort de guerre mais c'est ce que nous avons de plus à jour pour pouvoir jouer en Français à Bannerlord aujourd'hui. 
 On espère que vous apprécierez !
 
-Liste non exhaustive de personnes ayant travaillé sur le projet : 
-Akaria, Daneel, Drenaas, Gatsuu, Marteau, Sadness, Ser Meicer, Shao, Sorrow...
+Liste non exhaustive de personnes ayant travaillé sur le projet :  
+Akaria, Daneel, Drenaas, FerdeLance5s, Gatsuu, Kuro, LeGrandBatou, Marteau, Sadness, Ser Meicer, Shao, Slavyk, Sorrow, Ullysse, Zaekor...
 
 Passage en 1.4.2 : Caerbannog, Mahnmut
 
