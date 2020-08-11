@@ -1,5 +1,10 @@
 Ce Mod est fournis sans garantie de fonctionnement.
 
+Liste non exhaustive de personnes ayant travaillé sur le projet : 
+Akaria, Daneel, Drenaas, FerdeLance5s, Gatsuu, Kuro, LeGrandBatou, Marteau, Sadness, Ser Meicer, Shao, Slavyk, Sorrow, Ullysse, Zaekor...
+
+Passage en 1.4.2 : Caerbannog, Mahnmut
+
 Ce programme est sous licence Beerware (Révision 42) :
 
 La Communauté Française de Mount and Blade II: Bannerlord a créé ce fichier. Tant que vous conservez cet avertissement, vous pouvez faire ce que vous voulez de ce truc. Si on se rencontre un jour et que vous pensez que ce truc vaut le coup, vous pouvez nous payer une bière en retour.
