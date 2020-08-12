@@ -11,31 +11,34 @@
 ; Basé sur le travail de la communauté pour le Mod en version 1.4.0
 ;
 
-#define MyAppName "Traduction Française de Mount & Blade 2"
-#define MyAppVersion "1.4.2"
-#define MyAppPublisher "Communauté"
+#define MyAppName "Traduction Française de Mount & Blade 2 Bannerlord"
+#define MyAppVersion "1.4.2.1"
+#define MyAppPublisher "Communauté Française de Mount & Blade"
 #define MyAppURL "https://github.com/mahnmut/MNB2-MOD-FR"
+#define GameVersion "1.4.2"
 
 
 [Setup]
 AppId={{6FD55994-A440-41A0-91C7-8003E4AB602D}
+VersionInfoVersion={#MyAppVersion}
 AppName={#MyAppName}
 AppVersion={#MyAppVersion}
 AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
-AppSupportURL=https://discord.gg/Ck3ZBD5
+AppSupportURL=https://www.nexusmods.com/mountandblade2bannerlord/mods/2051
 AppUpdatesURL={#MyAppURL}
 DefaultDirName={code:MNBDIR}
 DirExistsWarning=no
 DefaultGroupName={#MyAppName}
 AllowNoIcons=yes
-OutputBaseFilename=MNB2 MOD FR {#MyAppVersion}
+OutputBaseFilename=MNB II MOD FR {#MyAppVersion}
 SetupIconFile=MNB2.ico
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern
 LicenseFile=Licence.txt
 UninstallFilesDir={app}\Modules\FrenchTranslation
+UsePreviousAppDir=false
 
 [Languages]
 Name: "french"; MessagesFile: "compiler:Languages\French.isl"
@@ -50,7 +53,7 @@ Type: filesandordirs; Name: "{app}\Modules\FrenchTranslation"
 Type: dirifempty; Name: "{app}\Modules\Native\ModuleData\Languages\FR"
 Type: dirifempty; Name: "{app}\Modules\SandBox\ModuleData\Languages\FR"
 Type: dirifempty; Name: "{app}\Modules\SandBoxCore\ModuleData\Languages\FR"
-Type: dirifempty; Name: "{app}\StoryMode\Native\ModuleData\Languages\FR"
+Type: dirifempty; Name: "{app}\Modules\StoryMode\ModuleData\Languages\FR"
 
 [Code]
 function GetEpicDir(const FileName, Section: string): string;
@@ -194,7 +197,7 @@ begin
           DividerPosition := Pos('=', Lines[SectionLine]);
           FinalString := Copy(Lines[SectionLine],DividerPosition+4,Length(Lines[SectionLine])-(DividerPosition+6));
           Log('Version = ' +FinalString );
-          CurrentVersion := ExpandConstant('{#MyAppVersion}') ;
+          CurrentVersion := ExpandConstant('{#GameVersion}') ;
           Log('Version = ' +CurrentVersion );
           Result := CompareInner(FinalString,CurrentVersion);
           Exit;
@@ -229,13 +232,13 @@ begin
      Log( 'Fichier2 = ' + VersionFile );
     if Not IsModable(VersionFile) then
       begin
-      if SuppressibleMsgBox('Attention, Le Mod est dans une version anterieure à celle du jeu, voulez vous arreter l`installation ?', mbConfirmation, MB_YESNO, IDNO) = IDYES then
-        Result := 'Arreté par l`utilisateur, Veuillez Télécharger la derniere version.';
+      if SuppressibleMsgBox('Attention, La traduction est dans une version anterieure à celle du jeu, voulez vous arreter l`installation ?', mbConfirmation, MB_YESNO, IDNO) = IDYES then
+        Result := 'Arreté par l`utilisateur, Veuillez verifier la version du jeu ou téléchargez une version plus récente de la traduction sur Nexusmods';
       end;
     end
     else
       begin
-        Result := 'Verification de version impossible. Verifiez que l`installation du jeu est complète et relancez l`installation du Mod';
+        Result := 'Verification de version impossible. Verifiez que l`installation du jeu est complète et relancez l`installation de la Traduction';
       end;
 end;
 
