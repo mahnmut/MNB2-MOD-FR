@@ -27,6 +27,7 @@ Il faut ensuite debloquer les 2 dll du mod avec la commande powershell Unblock-F
 
 
 &nbsp;
+
 Elles sont situées dans le dossier du jeu : _Modules\FrenchTranslation\bin\Win64_Shipping_Client_
 
 
