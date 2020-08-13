@@ -24,10 +24,6 @@ Préparation :
 _Par exemple : C:\Program Files\Steam\steamapps\common\Mount & Blade II Bannerlord\\_
 
 Il faut ensuite debloquer les 2 dll du mod avec la commande powershell Unblock-File.
-
-
-&nbsp;
-
 Elles sont situées dans le dossier du jeu : _Modules\FrenchTranslation\bin\Win64_Shipping_Client_
 
 
