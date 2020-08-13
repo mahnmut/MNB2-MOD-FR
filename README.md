@@ -1,4 +1,4 @@
-# ![icone](https://raw.githubusercontent.com/mahnmut/MNB2-MOD-FR/master/MNB2.ico) Mount and Blade II: Bannerlord Mod FR 
+# ![icone](https://raw.githubusercontent.com/mahnmut/MNB2-MOD-FR/master/MNB2.ico) Mount and Blade II: Bannerlord Traduction Française 
 
 Ce mod est possible grace à la contribution de nombreuses personnes.
 Plus d'informations dans le fichier [Licence][Licence].
