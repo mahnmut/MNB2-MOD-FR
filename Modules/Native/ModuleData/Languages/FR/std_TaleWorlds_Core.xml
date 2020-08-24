@@ -1,81 +1,79 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-    <tags>
-        <tag language="Français" />
-    </tags>
-    <strings>
-        <string id="id" text="translation" />
-        <string id="2wclahIJ" text="Armes de jet" />
-        <string id="4kvKQuXM" text="Peaux" />
-        <string id="5rj7xQE4" text="Arc" />
-        <string id="7HvtT8bm" text="Fer forgé" />
-        <string id="81YLbLok" text="Expérience du côté le plus sombre de l'humanité. Permet de savoir lorsqu'un garde souhaite un pot-de-vin, comment intimider quelqu'un, ou d'avoir une idée précise de ce qu'il est possible ou non de faire." />
-        <string id="8w0aaDbn" text="Fer" />
-        <string id="97EmbcHQ" text="Capacité à motiver. Permet de donner confiance aux individus et de susciter l'enthousiasme et le courage au sein de plus grands groupes." />
-        <string id="abxndmIh" text="Social" />
-        <string id="Aj3zqQq4" text="Indisponible" />
-        <string id="azjMBa86" text="Acier supérieur" />
-        <string id="Bn7IsMpu" text="INT " />
-        <string id="bVD9j0wI" text="La forme physique, la vitesse et l’équilibre." />
-        <string id="d2ApwXJr" text="END" />
-        <string id="EGeY1gfs" text="Charme" />
-        <string id="eoLbkhsY" text="Maîtrise du combat avec des armes à deux mains de longueur moyenne telles que les grandes haches et épées." />
-        <string id="ExjMoUiT" text="Bois dur" />
-        <string id="FLf5J3su" text="Connaissances des arcs et conditionnement physique pour tirer efficacement ces derniers." />
-        <string id="FQOFDrAu" text="Appréciation sur le comportement des troupes au contact de l'ennemi. Permet de prédire si une tactique peu orthodoxe fonctionnera et quand elle ne fonctionnera pas." />
-        <string id="GmcgoiGy" text="Commerce" />
-        <string id="gOpodlt1" text="Fer brut" />
-        <string id="H9Zamrao" text="Capacité à contrôler un cheval, à garder son équilibre lorsqu'il bouge soudainement ou de manière inattendue, ainsi que la connaissance générale des chevaux, y compris leurs soins et leur élevage." />
-        <string id="haax8kMa" text="Arme d'hast" />
-        <string id="haV3nLYA" text="Connaissances sur l'usage et l'entretien des arbalètes." />
-        <string id="hbaMnpVR" text="Connaissances sur comment rendre les choses suffisamment résistantes pour ne pas s'effondrer sous de puissantes forces. Utile pour construire autant les structures que les dispositifs qui les démolissent." />
-        <string id="HsLfmEmb" text="Commandement" />
-        <string id="HuXafdmR" text="CTRL" />
-        <string id="igg5sEh3" text="Connaissances sur comment stopper des saignements, soigner les os fracturés, retirer des armes enfoncées dans la chair, nettoyer les plaies afin d'éviter l'infection, et appliquer des cataplasmes pour soulager la douleur et apaiser l'inflammation." />
-        <string id="iKmXX7i3" text="Maîtrise de la pique, de la lance, du bâton et d'autres armes d'hast, aussi bien à une main qu'à deux mains." />
-        <string id="iQadPYNe" text="Charbon" />
-        <string id="Itv3fgJm" text="Céréales" />
-        <string id="jJ9sLOLb" text="La vigueur représente la capacité à se déplacer avec vitesse et la force. Elle est importante pour les combats en mêlée." />
-        <string id="JKH59XNp" text="Médecine" />
-        <string id="JZM1mQvb" text="Ruse" />
-        <string id="K8rCOQUZ" text="L'endurance est la capacité à pratiquer une activité physique éprouvante pendant une longue période." />
-        <string id="kmBxaJZd" text="Connaissances sur comment scruter la nature sauvage à la recherche de traces de vie. Suivre les pistes. Repérer des mouvements dans les broussaille. Et repérer un ennemi de l'autre côté de la vallée à partir d'un éclair lumineux reflété par leurs lances ou d'un nuage de poussières." />
-        <string id="kvOavzcs" text="Endurance" />
-        <string id="Kw6BkhIf" text="Minerai de fer" />
-        <string id="LJ6Krlbr" text="Exploration" />
-        <string id="LmwhFv5p" text="Viande" />
-        <string id="lsJMCkZy" text="Connaissances des marchandises les plus courantes sur les marchés et de leurs prix, ainsi que la capacité à repérer les biens défectueux, ou à se dire lésé en termes de quantité." />
-        <string id="m8o51fc7" text="Tactique" />
-        <string id="n3cjEB0X" text="Outils" />
-        <string id="NwTpATW5" text="Maîtrise du lancer de projectiles avec précision et puissance." />
-        <string id="p9i3zRm9" text="Équitation" />
-        <string id="PCZ23wvW" text="Ingénierie" />
-        <string id="PHoxdReD" text="SOC" />
-        <string id="PiHpR4QL" text="Une main" />
-        <string id="qwEJSBaH" text="Connaissances de ce qui fait la prospérité d'un fief. Aide à gérer un domaine ou à administrer une ville." />
-        <string id="skZS2UlW" text="Athlétisme" />
-        <string id="sOrJoxiC" text="Intelligence" />
-        <string id="t78atYqH" text="Deux mains" />
-        <string id="TeUtEGV0" text="L’intelligence représente une aptitude à la lecture et à l’apprentissage théorique." />
-        <string id="tH6Ooj0P" text="RSE" />
-        <string id="TTWL7RLe" text="Arbalète" />
-        <string id="UfuLKuaI" text="Acier" />
-        <string id="Uz1HHeKg" text="Arme aléatoire confectionnée" />
-        <string id="uZhHh7pm" text="{CURR_TEMPLATE_NAME} confectionné(e)" />
-        <string id="V0ZMJ0PX" text="Escroquerie" />
-        <string id="VajIVjkc" text="Capacité à se faire apprécier et obtenir la confiance des autres. Permet de deviner les motivations et les arguments pertinents." />
-        <string id="Ve8xoa3i" text="VIG" />
-        <string id="vLVAfcta" text="Acier Thamaskene" />
-        <string id="vx0OCvaj" text="Le contrôle représente la capacité à utiliser la force sans sacrifier la précision. Nécessaire pour utiliser les armes à distance." />
-        <string id="XMDTt96y" text="Le social est la capacité de comprendre les motivations des gens et de les influencer." />
-        <string id="xs0MpdCM" text="Forgeage" />
-        <string id="xWbkjccP" text="Connaissances sur la forge du métal, le tournage de hampes, la couture d'écailles, et d'autres compétences utiles dans l'assemblage d'armes et d'armures." />
-        <string id="yEkSSqIm" text="Maîtrise du combat avec des armes à une main avec ou sans bouclier." />
-        <string id="Ymw2PKBo" text="Intendance" />
-        <string id="YO5LUfiO" text="La ruse est la capacité de prédire ce que les autres feront et de déjouer leurs plans." />
-        <string id="YWkdD7Ki" text="Vigueur" />
-        <string id="zfRqM4mr" text="Contrôle" />
-        <!--This translation has been made by the French community. You can join it at this address https://discord.gg/Ck3ZBD5-->
-        <!--Copyright © 2020, M&B Bannerlord Traduction FR-->
-    </strings>
+  <tags>
+    <tag language="Français" />
+  </tags>
+  <strings>
+    <string id="2wclahIJ" text="Armes de jet" />
+    <string id="4kvKQuXM" text="Peaux" />
+    <string id="5rj7xQE4" text="Arc" />
+    <string id="7HvtT8bm" text="Fer forgé" />
+    <string id="81YLbLok" text="Expérience du côté le plus sombre de l'humanité. Permet de savoir lorsqu'un garde souhaite un pot-de-vin, comment intimider quelqu'un, ou d'avoir une idée précise de ce qu'il est possible ou non de faire." />
+    <string id="8w0aaDbn" text="Fer" />
+    <string id="97EmbcHQ" text="Capacité à motiver. Permet de donner confiance aux individus et de susciter l'enthousiasme et le courage au sein de plus grands groupes." />
+    <string id="Aj3zqQq4" text="Indisponible" />
+    <string id="azjMBa86" text="Acier supérieur" />
+    <string id="Bn7IsMpu" text="INT " />
+    <string id="bVD9j0wI" text="La forme physique, la vitesse et l’équilibre." />
+    <string id="d2ApwXJr" text="END" />
+    <string id="EGeY1gfs" text="Charme" />
+    <string id="eoLbkhsY" text="Maîtrise du combat avec des armes à deux mains de longueur moyenne telles que les grandes haches et épées." />
+    <string id="ExjMoUiT" text="Bois dur" />
+    <string id="FLf5J3su" text="Connaissances des arcs et conditionnement physique pour tirer efficacement ces derniers." />
+    <string id="FQOFDrAu" text="Appréciation sur le comportement des troupes au contact de l'ennemi. Permet de prédire si une tactique peu orthodoxe fonctionnera et quand elle ne fonctionnera pas." />
+    <string id="GmcgoiGy" text="Commerce" />
+    <string id="gOpodlt1" text="Fer brut" />
+    <string id="H9Zamrao" text="Capacité à contrôler un cheval, à garder son équilibre lorsqu'il bouge soudainement ou de manière inattendue, ainsi que la connaissance générale des chevaux, y compris leurs soins et leur élevage." />
+    <string id="haax8kMa" text="Arme d'hast" />
+    <string id="haV3nLYA" text="Connaissances sur l'usage et l'entretien des arbalètes." />
+    <string id="hbaMnpVR" text="Connaissances sur comment rendre les choses suffisamment résistantes pour ne pas s'effondrer sous de puissantes forces. Utile pour construire autant les structures que les dispositifs qui les démolissent." />
+    <string id="HsLfmEmb" text="Commandement" />
+    <string id="HuXafdmR" text="CTRL" />
+    <string id="igg5sEh3" text="Connaissances sur comment stopper des saignements, soigner les os fracturés, retirer des armes enfoncées dans la chair, nettoyer les plaies afin d'éviter l'infection, et appliquer des cataplasmes pour soulager la douleur et apaiser l'inflammation." />
+    <string id="iKmXX7i3" text="Maîtrise de la pique, de la lance, du bâton et d'autres armes d'hast, aussi bien à une main qu'à deux mains." />
+    <string id="iQadPYNe" text="Charbon" />
+    <string id="Itv3fgJm" text="Céréales" />
+    <string id="jJ9sLOLb" text="La vigueur représente la capacité à se déplacer avec vitesse et la force. Elle est importante pour les combats en mêlée." />
+    <string id="JKH59XNp" text="Médecine" />
+    <string id="JZM1mQvb" text="Ruse" />
+    <string id="K8rCOQUZ" text="L'endurance est la capacité à pratiquer une activité physique éprouvante pendant une longue période." />
+    <string id="kmBxaJZd" text="Connaissances sur comment scruter la nature sauvage à la recherche de traces de vie. Suivre les pistes. Repérer des mouvements dans les broussaille. Et repérer un ennemi de l'autre côté de la vallée à partir d'un éclair lumineux reflété par leurs lances ou d'un nuage de poussières." />
+    <string id="kvOavzcs" text="Endurance" />
+    <string id="Kw6BkhIf" text="Minerai de fer" />
+    <string id="LJ6Krlbr" text="Exploration" />
+    <string id="LmwhFv5p" text="Viande" />
+    <string id="lsJMCkZy" text="Connaissances des marchandises les plus courantes sur les marchés et de leurs prix, ainsi que la capacité à repérer les biens défectueux, ou à se dire lésé en termes de quantité." />
+    <string id="m8o51fc7" text="Tactique" />
+    <string id="n3cjEB0X" text="Outils" />
+    <string id="NwTpATW5" text="Maîtrise du lancer de projectiles avec précision et puissance." />
+    <string id="p9i3zRm9" text="Équitation" />
+    <string id="PCZ23wvW" text="Ingénierie" />
+    <string id="PHoxdReD" text="SOC" />
+    <string id="PiHpR4QL" text="Une main" />
+    <string id="qwEJSBaH" text="Connaissances de ce qui fait la prospérité d'un fief. Aide à gérer un domaine ou à administrer une ville." />
+    <string id="skZS2UlW" text="Athlétisme" />
+    <string id="smithingskill" text="Forgeage" />
+    <string id="socialskill" text="Social" />
+    <string id="sOrJoxiC" text="Intelligence" />
+    <string id="t78atYqH" text="Deux mains" />
+    <string id="TeUtEGV0" text="L’intelligence représente une aptitude à la lecture et à l’apprentissage théorique." />
+    <string id="tH6Ooj0P" text="RSE" />
+    <string id="TTWL7RLe" text="Arbalète" />
+    <string id="UfuLKuaI" text="Acier" />
+    <string id="Uz1HHeKg" text="Arme aléatoire confectionnée" />
+    <string id="uZhHh7pm" text="{CURR_TEMPLATE_NAME} confectionné(e)" />
+    <string id="V0ZMJ0PX" text="Escroquerie" />
+    <string id="VajIVjkc" text="Capacité à se faire apprécier et obtenir la confiance des autres. Permet de deviner les motivations et les arguments pertinents." />
+    <string id="Ve8xoa3i" text="VIG" />
+    <string id="vLVAfcta" text="Acier Thamaskene" />
+    <string id="vx0OCvaj" text="Le contrôle représente la capacité à utiliser la force sans sacrifier la précision. Nécessaire pour utiliser les armes à distance." />
+    <string id="XMDTt96y" text="Le social est la capacité de comprendre les motivations des gens et de les influencer." />
+    <string id="xWbkjccP" text="Connaissances sur la forge du métal, le tournage de hampes, la couture d'écailles, et d'autres compétences utiles dans l'assemblage d'armes et d'armures." />
+    <string id="yEkSSqIm" text="Maîtrise du combat avec des armes à une main avec ou sans bouclier." />
+    <string id="Ymw2PKBo" text="Intendance" />
+    <string id="YO5LUfiO" text="La ruse est la capacité de prédire ce que les autres feront et de déjouer leurs plans." />
+    <string id="YWkdD7Ki" text="Vigueur" />
+    <string id="ZBmz4niK" text="et" />
+    <string id="zfRqM4mr" text="Contrôle" />
+  </strings>
 </base>
