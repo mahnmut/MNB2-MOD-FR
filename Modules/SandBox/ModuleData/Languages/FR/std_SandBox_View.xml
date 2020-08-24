@@ -1,24 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-    <tags>
-        <tag language="Français" />
-    </tags>
-    <strings>
-        <string id="id" text="translation" />
-        <string id="171fTtIN" text="Bac à sable" />
-        <string id="6mN03uTP" text="Parties sauvegardées" />
-        <string id="9NuttOBC" text="Charger" />
-        <string id="A7349NHy" text="Décision critique du royaume" />
-        <string id="AbEh2y8o" text="Sauvegarder et quitter" />
-        <string id="bFzZwwjT" text="Examiner" />
-        <string id="bV75iwKa" text="Sauvegarder" />
-        <string id="e0KdfaNe" text="Sauvegarder sous" />
-        <string id="NqarFr4P" text="Options" />
-        <string id="PXT6aA4J" text="Options de campagne" />
-        <string id="RamV6yLM" text="Retour au menu principal" />
-        <string id="VHjIJGja" text="Vous devez être dans un royaume" />
-        <string id="XzZFhRwr" text="Revenir en jeu" />
-        <!--This translation has been made by the French community. You can join it at this address https://discord.gg/Ck3ZBD5-->
-        <!--Copyright © 2020, M&B Bannerlord Traduction FR-->
-    </strings>
+  <tags>
+    <tag language="Français" />
+  </tags>
+  <strings>
+    <string id="171fTtIN" text="Bac à sable"/>
+    <string id="6mN03uTP" text="Parties sauvegardées"/>
+    <string id="9NuttOBC" text="Charger"/>
+    <string id="A7349NHy" text="Décision critique du royaume"/>
+    <string id="AbEh2y8o" text="Sauvegarder et quitter"/>
+    <string id="bFzZwwjT" text="Examiner"/>
+    <string id="bV75iwKa" text="Sauvegarder"/>
+    <string id="e0KdfaNe" text="Sauvegarder sous"/>
+    <string id="NqarFr4P" text="Options"/>
+    <string id="PXT6aA4J" text="Options de campagne"/>
+    <string id="RamV6yLM" text="Retour au menu principal"/>
+    <string id="VHjIJGja" text="Vous devez être dans un royaume"/>
+    <string id="XzZFhRwr" text="Revenir en jeu"/>
+  </strings>
 </base>

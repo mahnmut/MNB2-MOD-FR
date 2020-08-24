@@ -1,29 +1,26 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-    <tags>
-        <tag language="Français" />
-    </tags>
-    <strings>
-        <string id="id" text="translation" />
-        <string id="5ypRJiWZ" text="Merci pour l'information" />
-        <string id="62AkUCOw" text="Pourquoi ne défendez-vous pas..." />
-        <string id="8xvSu9fX" text="Pardonnez-moi {?NPC.GENDER}ma dame{?}messire{\?}. Je ne sais pas ce qui m'a pris." />
-        <string id="fbM7drKO" text="Pourquoi ne pas assiéger..." />
-        <string id="fBt8X6Tw" text="Hé ! Que voulez-vous ? " />
-        <string id="GUIwjFKP" text="Très bien, suivons d'abord vos conseils." />
-        <string id="gZSdus34" text="Je vous offre la chance de choisir, rendez-vous ou mourez." />
-        <string id="HEJOdRwi" text="Pardonnez-moi {?NPC.GENDER}ma dame{?}messire{\?}. Je ne sais pas ce qui m'a pris." />
-        <string id="hjZkoJbc" text="Je pense que {ACTION} {SETTLEMENT} est plus logique pour le moment, pouvez-vous m'aider à faire cela. {AMOUNT}{GOLD_ICON}" />
-        <string id="HKMdHYb7" text="Je reste sur mes positions. Préparez-vous à vous battre !" />
-        <string id="JbWJ7Rxl" text="{POSSIBLE_TARGET}" />
-        <string id="ltS8zmH8" text="Êtes-vous devenu fou ? Je ne suis pas votre ennemi." />
-        <string id="M7O3AItb" text="Pardonnez-moi. Ça ne fait rien." />
-        <string id="RJbrrM0K" text="{REASON}" />
-        <string id="s61RscYw" text="Où ?" />
-        <string id="vsxVIDqT" text="Partez, dans ce cas." />
-        <string id="WzipKNWN" text="{s43}" />
-        <string id="ztuhSo8h" text="Pourquoi ne pas faire un raid..." />
-        <!--This translation has been made by the French community. You can join it at this address https://discord.gg/Ck3ZBD5-->
-        <!--Copyright © 2020, M&B Bannerlord Traduction FR-->
-    </strings>
+  <tags>
+    <tag language="Français" />
+  </tags>
+  <strings>
+    <string id="5ypRJiWZ" text="Merci pour l'information"/>
+    <string id="62AkUCOw" text="Pourquoi ne défendez-vous pas..."/>
+    <string id="8xvSu9fX" text="Pardonnez-moi {?NPC.GENDER}ma dame{?}messire{\?}. Je ne sais pas ce qui m'a pris."/>
+    <string id="fbM7drKO" text="Pourquoi ne pas assiéger..."/>
+    <string id="fBt8X6Tw" text="Hé ! Que voulez-vous ? "/>
+    <string id="GUIwjFKP" text="Très bien, suivons d'abord vos conseils."/>
+    <string id="gZSdus34" text="Je vous offre la chance de choisir, rendez-vous ou mourez."/>
+    <string id="HEJOdRwi" text="Pardonnez-moi {?NPC.GENDER}ma dame{?}messire{\?}. Je ne sais pas ce qui m'a pris."/>
+    <string id="hjZkoJbc" text="Je pense que {ACTION} {SETTLEMENT} est plus logique pour le moment, pouvez-vous m'aider à faire cela. {AMOUNT}{GOLD_ICON}"/>
+    <string id="HKMdHYb7" text="Je reste sur mes positions. Préparez-vous à vous battre !"/>
+    <string id="JbWJ7Rxl" text="{POSSIBLE_TARGET}"/>
+    <string id="ltS8zmH8" text="Êtes-vous devenu fou ? Je ne suis pas votre ennemi."/>
+    <string id="M7O3AItb" text="Pardonnez-moi. Ça ne fait rien."/>
+    <string id="RJbrrM0K" text="{REASON}"/>
+    <string id="s61RscYw" text="Où ?"/>
+    <string id="vsxVIDqT" text="Partez, dans ce cas."/>
+    <string id="WzipKNWN" text="{s43}"/>
+    <string id="ztuhSo8h" text="Pourquoi ne pas faire un raid..."/>
+  </strings>
 </base>

@@ -1,291 +1,289 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-    <tags>
-        <tag language="Français" />
-    </tags>
-    <strings>
-        <string id="id" text="translation" />
-        <string id="066F7lnW" text="Chef rebelle Aserai" />
-        <string id="07jVF3yT" text="Enfant citadin sturgian" />
-        <string id="0YgGQzbw" text="Marchand sturgian aventurier" />
-        <string id="14GLp866" text="Chef Aserai conservateur" />
-        <string id="1iIXidsU" text="Noble adolescent Aserai" />
-        <string id="1nwT4bZA" text="Enfant noble impérial" />
-        <string id="1OZBZZCi" text="{?NPC.GENDER}la Laie{?}le Sanglier{\?}" />
-        <string id="2edoy5Tf" text="Enfant villageoise vlandian" />
-        <string id="2g1DUtuy" text="chef sturgian sournois" />
-        <string id="2mb88jLa" text="Citadine adolescente Aserai" />
-        <string id="2U2Hy2Su" text="Cheveux clairs" />
-        <string id="37NYZMtc" text="Enfant citadine battanian" />
-        <string id="3F8NEunR" text="{FIRSTNAME} {?NPC.GENDER}la Teinturière{?}le Teinturier{\?}" />
-        <string id="3PjtHgT6" text="Artisan vlandian 1" />
-        <string id="3uBqZwN3" text="Noble adolescente battaniane" />
-        <string id="3wzexaA7" text="La Louve" />
-        <string id="4AKXWSGU" text="{FIRSTNAME} {?NPC.GENDER}la Vendeuse de laine{?}le Vendeur de laine{\?}" />
-        <string id="4GIoPUen" text="l'Épéiste" />
-        <string id="4K1UzutE" text="Enfant noble battaniane" />
-        <string id="4pS5hROu" text="Citadine adolescente khuzait" />
-        <string id="4rMhHOEm" text="Citadin adolescent sturgian" />
-        <string id="4SkTUVsz" text="Prédicatrice Aserai" />
-        <string id="58vdP9Ef" text="{FIRSTNAME} la Magasinière" />
-        <string id="5nthUXyw" text="Propriétaire terrien notable bourru sturgian" />
-        <string id="5p8KHxxC" text="Hors-la-loi audacieux battanian" />
-        <string id="5SEtj5Nl" text="Hors-la-loi impérial menaçant" />
-        <string id="5sgfnS5M" text="Villageois adolescent sturgian" />
-        <string id="5vCmUC9b" text="Hors-la-loi impérial audacieux" />
-        <string id="5XAnvlxe" text="Chef de gang masculin protecteur impérial " />
-        <string id="61bJ4Aat" text="Noble adolescente aseraie" />
-        <string id="6CAbkgS4" text="l'Ingénieure" />
-        <string id="7apnGFz7" text="la Noire" />
-        <string id="7hrmlfxh" text="de la Légion" />
-        <string id="7kMLQcAd" text="{FIRSTNAME} le Vendeur de dattes" />
-        <string id="7lg12a57" text="le Brave" />
-        <string id="8AiL0OHC" text="Enfant citadine sturgian" />
-        <string id="8mCL2HhJ" text="{FIRSTNAME} le Marchand de cuivre" />
-        <string id="8o5SDCCJ" text="le Requin" />
-        <string id="94i9lUZN" text="Hors-la-loi audacieux Khuzait" />
-        <string id="9BbsD1MH" text="Marchand sturgian affable" />
-        <string id="9CbxkUDb" text="Hors-la-loi menaçant battanian" />
-        <string id="a1ZMpdCN" text="Noble adolescent battanian" />
-        <string id="a2aO7j9H" text="Noble adolescente sturgiane" />
-        <string id="AB3pXgbL" text="Enfant villageois battanian" />
-        <string id="aDby4Ikv" text="Hors-la-loi menaçant sturgian" />
-        <string id="aDiMMgLH" text="{FIRSTNAME} l'Intendant" />
-        <string id="aE8abvsQ" text="le Chanceux" />
-        <string id="AeJaCIeh" text="Citadin adolescent battanian" />
-        <string id="aFDI0Saf" text="Prédicateur de la ruine Aserai" />
-        <string id="AGQ0Vlem" text="chaman Khuzait" />
-        <string id="agS5lIg7" text="le Sans-Père" />
-        <string id="akALDUs0" text="Long-Couteau" />
-        <string id="Alc7wRB0" text="Cheffe de gang impériale" />
-        <string id="aqVnsXfl" text="Noble adolescent Khuzait" />
-        <string id="aSDNmB9K" text="Citadin adolescent impérial" />
-        <string id="AUT4gHMP" text="Impérial rural notable bourru" />
-        <string id="azCSz9QH" text="de la Main" />
-        <string id="azo1MhLl" text="équipement_gang_chef" />
-        <string id="B0armbZ0" text="équipement_de_genre" />
-        <string id="bgH96Pqw" text="{FIRSTNAME} le Vigneron" />
-        <string id="BGvgEft6" text="Fitiwi Aserai" />
-        <string id="Bgw6ebdB" text="Citadine adolescente impériale" />
-        <string id="BH7xz7yB" text="Enfant noble impériale" />
-        <string id="BNtz2DYk" text="Villageois adolescent Aserai" />
-        <string id="bpw8fOs5" text="des Karakhuzaits" />
-        <string id="bRMqec9X" text="Enfant noble Khuzaite" />
-        <string id="bVBu4bRa" text="chef rebelle sturgian" />
-        <string id="bvjFhiDr" text="l’Érudit" />
-        <string id="C1CM5ejx" text="{FIRSTNAME} le Marchand de vin" />
-        <string id="C2jNLQiv" text="Enfant citadine Aserai" />
-        <string id="c5Kjcxsa" text="la Vagabonde" />
-        <string id="Cd8hwQy9" text="Enfant noble sturgiane" />
-        <string id="CePmep0z" text="Braconnier" />
-        <string id="CgFXUCbN" text="Marchand vlandian ironique" />
-        <string id="cM2J8FUX" text="Enfant noble Khuzait" />
-        <string id="cP1o8eUs" text="du Jawwal" />
-        <string id="CQOlMayc" text="la Loque" />
-        <string id="cSkuDBgn" text="Mystique battanian" />
-        <string id="cud22JY1" text="le Chirurgien" />
-        <string id="D104m5cP" text="Prédicatrice rebelle" />
-        <string id="d8r7iu0Z" text="chef rebelle impérial" />
-        <string id="dgWSNaac" text="Enfant villageoise Khuzait" />
-        <string id="DLaXd9Bm" text="Prédicatrice" />
-        <string id="dwSolSri" text="Villageoise adolescente sturgiane" />
-        <string id="Dy5JuSNG" text="Citadine adolescente battanian" />
-        <string id="eAdUxQf7" text="Marchand vlandian calme" />
-        <string id="ec89e3p2" text="Enfant villageoise sturgian" />
-        <string id="ECjabnlK" text="Khuzait menaçant hors-la-loi" />
-        <string id="EFrbyeN5" text="Chef de la main d'oeuvre impérial enjoué" />
-        <string id="Emz7apGQ" text="Équipement_artisan" />
-        <string id="eobXmmLg" text="de la Compagnie" />
-        <string id="Eou5itzp" text="Prédicateur puritain" />
-        <string id="EsKrdS5b" text="Chef de gang" />
-        <string id="f6nE1Qx2" text="Marchand impérial 10, sournois" />
-        <string id="fHafdaTP" text="Noble adolescent impérial" />
-        <string id="fJmGKlaO" text="Voleur de cheval" />
-        <string id="FtpxQYf0" text="{FIRSTNAME} le Volubile" />
-        <string id="fx7Pve2q" text="équipement_marchand" />
-        <string id="G8mawcBV" text="la Guérisseuse" />
-        <string id="GaakYUTl" text="Chef de gang impérial intimidant" />
-        <string id="GbIcQJ0A" text="Artisan vlandian 2" />
-        <string id="GbVKTFAI" text="Noble adolescente impériale" />
-        <string id="gED0ZMhi" text="Ilay" />
-        <string id="GEGnMwNK" text="artisan battanian conservateur" />
-        <string id="gMmijT4o" text="Enfant villageois impérial" />
-        <string id="GwGMjnEA" text="{FIRSTNAME} le Marchand de chevaux" />
-        <string id="gYNfal30" text="Prédicateur impérial messianique" />
-        <string id="H5Uuazxj" text="{FIRSTNAME} l'Évaluateur" />
-        <string id="H7KPlSmU" text="Enfant noble Aseraie" />
-        <string id="HexR178w" text="{FIRSTNAME} la Caravanière" />
-        <string id="hmKpx86o" text="Yeoman vlandian" />
-        <string id="hrMatilh" text="le Forgeron" />
-        <string id="htgi2PBK" text="chef rebelle vlandian" />
-        <string id="hthUYUrY" text="artisan Khuzait sournois" />
-        <string id="hvIsiu78" text="Villageoise adolescente impériale" />
-        <string id="HXqZbme3" text="Hors-la-loi audacieux sturgian" />
-        <string id="I2T60hED" text="Hors-la-loi menaçant vlandian" />
-        <string id="iAjo65QR" text="Marchande impériale 3, héritière" />
-        <string id="IaMyN5yr" text="Marchand sturgian prudent" />
-        <string id="iDxUTViN" text="{FIRSTNAME} le Mesureur" />
-        <string id="IfYvaBV3" text="Hors-la-loi audacieux Aserai" />
-        <string id="IgOTjF4i" text="de Ghilman" />
-        <string id="imiWg976" text="équipement_vagabond" />
-        <string id="iokd4Shp" text="Noble adolescente vlandiane" />
-        <string id="IUk8qHw4" text="Cheffe de gang Aserai effrayante" />
-        <string id="IVnvHF8S" text="de l'Eleftheroi" />
-        <string id="Ivx4uJVp" text="le Silencieux" />
-        <string id="j2nVPqIX" text="le Faucon" />
-        <string id="Ja1JeF5t" text="Enfant noble vlandiane" />
-        <string id="jepZ0btT" text="Concurrent confiant" />
-        <string id="jG3duO7A" text="des élus" />
-        <string id="jKAhAoVb" text="du peuple de la Forêt" />
-        <string id="JL8RBEu3" text="du Beni Zilal" />
-        <string id="JmtSy9Nz" text="Marchand impérial froid" />
-        <string id="jQt9cLzS" text="Marchand sturgian caustique" />
-        <string id="jrWM1QDN" text="chef Khuzait conservateur" />
-        <string id="JVeGkRa1" text="Chef Aserai sournois" />
-        <string id="JZBDbuGa" text="Citadin adolescent Aserai" />
-        <string id="K27WpkiE" text="Chef de gang sturgian" />
-        <string id="K42QfOpv" text="chef sturgian conservateur" />
-        <string id="k8aUr5cN" text="Villageois adolescent Khuzait" />
-        <string id="KAdVmQc5" text="Mystique impériale" />
-        <string id="Kcax8j1W" text="{FIRSTNAME} l'Affranchie" />
-        <string id="KkStFl12" text="des Peaux-de-Loups" />
-        <string id="KnTl4ESh" text="Vol-de-bétail" />
-        <string id="KphYbafC" text="Concurrent audacieux" />
-        <string id="KTObbG71" text="la Mauvaise" />
-        <string id="KY2zbWkj" text="la Véloce" />
-        <string id="LaDppi2W" text="Fier notable rural battanian" />
-        <string id="lbIgOHea" text="Marchande sturgian honorable" />
-        <string id="ldArPXQE" text="Mystique sturgian" />
-        <string id="LmlL8fVu" text="Hache sanglante" />
-        <string id="LuGD2OL1" text="Aserai éminent silencieux" />
-        <string id="LzLkTQc8" text="Notable rural Khuzait fier" />
-        <string id="mcbREzPt" text="des Gardiens" />
-        <string id="mpkyb5fY" text="Enfant citadin Khuzait" />
-        <string id="mtBA7sfk" text="Concurrent téméraire" />
-        <string id="muC2SGlM" text="des Désolations" />
-        <string id="N6aatixp" text="Chef de gang impérial ironique" />
-        <string id="n6iIPCux" text="Enfant villageois vlandian" />
-        <string id="NdhGw6eA" text="Marchande impériale 8, héritière" />
-        <string id="NFeQqybb" text="Villageoise adolescente Khuzait" />
-        <string id="NfObPWYk" text="{FIRSTNAME} la Bienfaitrice" />
-        <string id="nkdTDW0x" text="chef vlandian sournois" />
-        <string id="nqE62lQW" text="Dents noires" />
-        <string id="NSaetzNJ" text="le Charbonnier" />
-        <string id="ntkipfCV" text="le Bruyant" />
-        <string id="NWuGUi4p" text="la Panthère" />
-        <string id="NyJ6AvkI" text="chef battanian conservateur" />
-        <string id="OArAImbM" text="des Collines" />
-        <string id="OFWvD0xe" text="la Hyène" />
-        <string id="OIXub6bS" text="la Seule" />
-        <string id="oJJPZOKf" text="Vikrum" />
-        <string id="OzjuQYGH" text="des Skolderbrotva" />
-        <string id="pbcUnQS9" text="Voyant sturgian" />
-        <string id="PbPzMmbV" text="chef de l'empire conservateur" />
-        <string id="PGHtN3Jx" text="Serviable représentant des propriétaires terriens sturgian" />
-        <string id="Pk29f1iX" text="Marchand impérial prudent" />
-        <string id="pQykMa8u" text="Enfant citadine Khuzait" />
-        <string id="PSz6SqsS" text="Enfant noble battanian" />
-        <string id="pTuZB1Hj" text="Estomac-de-Fer" />
-        <string id="pywrXN0I" text="Enfant villageoise impériale" />
-        <string id="pZSAdyC0" text="le Boucher" />
-        <string id="q5QjQyde" text="le Fou" />
-        <string id="qeNv4ftk" text="{FIRSTNAME} le Courtier" />
-        <string id="QGcgQDqK" text="de la Fraternité" />
-        <string id="QguTscz7" text="artisan battanian rebelle" />
-        <string id="qHK7IZ1Q" text="chef Khuzait sournois" />
-        <string id="Qm5cstq3" text="Ulyk" />
-        <string id="qP11ARtb" text="{FIRSTNAME} l'Orpheline" />
-        <string id="qslA0bVb" text="le Rouge" />
-        <string id="QWbgE4bw" text="Œil de fer" />
-        <string id="QyQPJJ9B" text="la Maudite" />
-        <string id="qzpdvbhm" text="{FIRSTNAME} la Vendeuse de soie" />
-        <string id="qzuAtcoI" text="artisan Khuzait conservateur" />
-        <string id="R0NM6lfm" text="Raekel" />
-        <string id="reXz8NlZ" text="Marchand impérial 7, sournois" />
-        <string id="rgdi5Sxa" text="le Prince" />
-        <string id="rhKSDQbR" text="Citadin adolescent vlandian" />
-        <string id="rHp3tOCo" text="Enfant citadin Aserai" />
-        <string id="RJ3WezQ9" text="Artisan sturgian" />
-        <string id="rj6kf6Ic" text="chef Khuzait rebelle" />
-        <string id="rJxE1tbu" text="Enfant citadine impériale" />
-        <string id="RmvGYDaL" text="Enfant noble vlandian" />
-        <string id="RnQwMMYr" text="Noble adolescent vlandian" />
-        <string id="rnXXvPqO" text="Enfant villageois sturgian" />
-        <string id="Rp0gbdMM" text="Marchand Batannian prudent" />
-        <string id="rtsnnL2J" text="la Skjaldmö" />
-        <string id="sdzaip5J" text="le Savant" />
-        <string id="seS9ZZUW" text="le Faucon Gris" />
-        <string id="sk64gxdw" text="Digne prétendant" />
-        <string id="SOmBjgqW" text="Enfant noble Aserai" />
-        <string id="soML32uY" text="Marchand Khuzait prudent" />
-        <string id="sUxhqvD1" text="Cheffe de gang" />
-        <string id="SVS1QJcE" text="Enfant citadin battanian" />
-        <string id="T5O2nOfg" text="Prédicateur puritain impérial" />
-        <string id="t9e34kgH" text="le Voleur" />
-        <string id="TbWwahrd" text="Artisan rural Khuzait remarquable" />
-        <string id="TbyDQg2z" text="Enfant noble sturgian" />
-        <string id="TI9qplRf" text="chef battanian sournois" />
-        <string id="TmYMCahH" text="Cheffe de gang impériale menaçante" />
-        <string id="TuBXZ80e" text="Marchande sturgian sournoise" />
-        <string id="tuRVmKIE" text="chef impérial sournois" />
-        <string id="tvNIMvN5" text="marchand sturgian brusque" />
-        <string id="tx6xDvzx" text="Enfant villageois Aserai" />
-        <string id="TXUOeT7L" text="{FIRSTNAME} le Monnayeur" />
-        <string id="TyxXbqVw" text="le Faucon" />
-        <string id="TZEqvvzG" text="Citadin adolescent Khuzait" />
-        <string id="ucL7DjaP" text="Cheffe de gang sturgian" />
-        <string id="V2zwBILU" text="chef vlandian conservateur" />
-        <string id="V4SaGJay" text="Villageoise adolescente Aserai" />
-        <string id="VaN2tRyU" text="Chef de gang impérial bestial masculin" />
-        <string id="VKhh9i1l" text="du Brochet" />
-        <string id="VmuTQm20" text="Chef de gang masculin standard" />
-        <string id="vmwCdada" text="Jihan" />
-        <string id="VREbQSoS" text="Enfant citadin vlandian" />
-        <string id="vtXRptVa" text="le Doré" />
-        <string id="VWwDT1hV" text="artisan Khuzait rebelle" />
-        <string id="W0lWJ8k3" text="Equipement de prêcheur" />
-        <string id="W7aa22Yl" text="Brise-crâne" />
-        <string id="w85UE1ki" text="Noble rural battanian Fergus" />
-        <string id="waA4ph2S" text="{FIRSTNAME} le Saunier" />
-        <string id="wc9LrDL8" text="Enfant villageois Khuzait" />
-        <string id="WNyWySAH" text="du Brochet" />
-        <string id="wq09CQHe" text="Chef artisan Aserai" />
-        <string id="WU5GnkvR" text="le Poisson" />
-        <string id="wuVOYwug" text="Enfant villageoise battanian" />
-        <string id="WvwWX4me" text="Thorax-en-Tonneau" />
-        <string id="wXOz68g0" text="Notable rural impérial agréable" />
-        <string id="X2TtXlAq" text="Pericleia" />
-        <string id="x95hX9Qv" text="{FIRSTNAME} le Marchand d'encens" />
-        <string id="Xa2WYyjx" text="Chef de la main d'oeuvre impérial grossier" />
-        <string id="XBJtv4mD" text="la Vendeuse d'épices" />
-        <string id="XPwQab9R" text="Marchand sturgian honnête" />
-        <string id="XSI7xub4" text="Aserai éminent sérieux" />
-        <string id="xTQPfmS9" text="le Taureau" />
-        <string id="XuxARPTM" text="Breuvage-amer" />
-        <string id="xWcla2nG" text="Noble adolescente Khuzaite" />
-        <string id="y0nirhCT" text="Enfant villageoise Aserai" />
-        <string id="Y8h6CeMY" text="Marchand de l'Empire 6, prudent" />
-        <string id="yFcqoVhU" text="Villageois adolescent impérial" />
-        <string id="yHF3nWJC" text="Enfant citadine vlandian" />
-        <string id="ykTARD4b" text="le Marginal" />
-        <string id="ympFLeFM" text="Hors-la-loi menaçant Aserai" />
-        <string id="yNHehCab" text="Villageoise adolescente battanian" />
-        <string id="yr5pa0hs" text="Écorce-de-Saule" />
-        <string id="YTe7J6bY" text="Hors-la-loi audacieux vlandian" />
-        <string id="ZAa9OSfV" text="Marchant vlandian audacieux" />
-        <string id="ZCc3VFat" text="le Grisonnant" />
-        <string id="zCCuv0Bv" text="chef rebelle battanian" />
-        <string id="zChW5bUM" text="Prêcheur rebelle Aserai" />
-        <string id="zCQaPTOK" text="Mercenaire" />
-        <string id="ZFb9a3Rc" text="artisan sournois battanian" />
-        <string id="zkoc5QaI" text="Marchande impériale 9, héritière" />
-        <string id="zQbIvOFI" text="adolescent vlandian" />
-        <string id="ZrJA3BVo" text="marchant vlandian brusque" />
-        <string id="Zu3RUIrG" text="Villageois adolescent battanian" />
-        <string id="zXiMWnbX" text="{FIRSTNAME} l'Héritière" />
-        <string id="zXjdb1zT" text="Barbe-de-Givre" />
-        <string id="zYQCc3Ma" text="Enfant citadin impérial" />
-        <!--This translation has been made by the French community. You can join it at this address https://discord.gg/Ck3ZBD5-->
-        <!--Copyright © 2020, M&B Bannerlord Traduction FR-->
-    </strings>
+  <tags>
+    <tag language="Français" />
+  </tags>
+  <strings>
+    <string id="066F7lnW" text="Chef rebelle Aserai" />
+    <string id="07jVF3yT" text="Enfant citadin sturgian" />
+    <string id="0YgGQzbw" text="Marchand sturgian aventurier" />
+    <string id="14GLp866" text="Chef Aserai conservateur" />
+    <string id="1iIXidsU" text="Noble adolescent Aserai" />
+    <string id="1nwT4bZA" text="Enfant noble impérial" />
+    <string id="1OZBZZCi" text="{?NPC.GENDER}la Laie{?}le Sanglier{\?}" />
+    <string id="2edoy5Tf" text="Enfant villageoise vlandian" />
+    <string id="2g1DUtuy" text="chef sturgian sournois" />
+    <string id="2mb88jLa" text="Citadine adolescente Aserai" />
+    <string id="2U2Hy2Su" text="Cheveux clairs" />
+    <string id="37NYZMtc" text="Enfant citadine battanian" />
+    <string id="3F8NEunR" text="{FIRSTNAME} {?NPC.GENDER}la Teinturière{?}le Teinturier{\?}" />
+    <string id="3PjtHgT6" text="Artisan vlandian 1" />
+    <string id="3uBqZwN3" text="Noble adolescente battaniane" />
+    <string id="3wzexaA7" text="La Louve" />
+    <string id="4AKXWSGU" text="{FIRSTNAME} {?NPC.GENDER}la Vendeuse de laine{?}le Vendeur de laine{\?}" />
+    <string id="4GIoPUen" text="l'Épéiste" />
+    <string id="4K1UzutE" text="Enfant noble battaniane" />
+    <string id="4pS5hROu" text="Citadine adolescente khuzait" />
+    <string id="4rMhHOEm" text="Citadin adolescent sturgian" />
+    <string id="4SkTUVsz" text="Prédicatrice Aserai" />
+    <string id="58vdP9Ef" text="{FIRSTNAME} la Magasinière" />
+    <string id="5nthUXyw" text="Propriétaire terrien notable bourru sturgian" />
+    <string id="5p8KHxxC" text="Hors-la-loi audacieux battanian" />
+    <string id="5SEtj5Nl" text="Hors-la-loi impérial menaçant" />
+    <string id="5sgfnS5M" text="Villageois adolescent sturgian" />
+    <string id="5vCmUC9b" text="Hors-la-loi impérial audacieux" />
+    <string id="5XAnvlxe" text="Chef de gang masculin protecteur impérial " />
+    <string id="61bJ4Aat" text="Noble adolescente aseraie" />
+    <string id="6CAbkgS4" text="l'Ingénieure" />
+    <string id="7apnGFz7" text="la Noire" />
+    <string id="7hrmlfxh" text="de la Légion" />
+    <string id="7kMLQcAd" text="{FIRSTNAME} le Vendeur de dattes" />
+    <string id="7lg12a57" text="le Brave" />
+    <string id="8AiL0OHC" text="Enfant citadine sturgian" />
+    <string id="8mCL2HhJ" text="{FIRSTNAME} le Marchand de cuivre" />
+    <string id="8o5SDCCJ" text="le Requin" />
+    <string id="94i9lUZN" text="Hors-la-loi audacieux Khuzait" />
+    <string id="9BbsD1MH" text="Marchand sturgian affable" />
+    <string id="9CbxkUDb" text="Hors-la-loi menaçant battanian" />
+    <string id="a1ZMpdCN" text="Noble adolescent battanian" />
+    <string id="a2aO7j9H" text="Noble adolescente sturgiane" />
+    <string id="AB3pXgbL" text="Enfant villageois battanian" />
+    <string id="aDby4Ikv" text="Hors-la-loi menaçant sturgian" />
+    <string id="aDiMMgLH" text="{FIRSTNAME} l'Intendant" />
+    <string id="aE8abvsQ" text="le Chanceux" />
+    <string id="AeJaCIeh" text="Citadin adolescent battanian" />
+    <string id="aFDI0Saf" text="Prédicateur de la ruine Aserai" />
+    <string id="AGQ0Vlem" text="chaman Khuzait" />
+    <string id="agS5lIg7" text="le Sans-Père" />
+    <string id="akALDUs0" text="Long-Couteau" />
+    <string id="Alc7wRB0" text="Cheffe de gang impériale" />
+    <string id="aqVnsXfl" text="Noble adolescent Khuzait" />
+    <string id="aSDNmB9K" text="Citadin adolescent impérial" />
+    <string id="AUT4gHMP" text="Impérial rural notable bourru" />
+    <string id="azCSz9QH" text="de la Main" />
+    <string id="azo1MhLl" text="équipement_gang_chef" />
+    <string id="B0armbZ0" text="équipement_de_genre" />
+    <string id="bgH96Pqw" text="{FIRSTNAME} le Vigneron" />
+    <string id="BGvgEft6" text="Fitiwi Aserai" />
+    <string id="Bgw6ebdB" text="Citadine adolescente impériale" />
+    <string id="BH7xz7yB" text="Enfant noble impériale" />
+    <string id="BNtz2DYk" text="Villageois adolescent Aserai" />
+    <string id="bpw8fOs5" text="des Karakhuzaits" />
+    <string id="bRMqec9X" text="Enfant noble Khuzaite" />
+    <string id="bVBu4bRa" text="chef rebelle sturgian" />
+    <string id="bvjFhiDr" text="l’Érudit" />
+    <string id="C1CM5ejx" text="{FIRSTNAME} le Marchand de vin" />
+    <string id="C2jNLQiv" text="Enfant citadine Aserai" />
+    <string id="c5Kjcxsa" text="la Vagabonde" />
+    <string id="Cd8hwQy9" text="Enfant noble sturgiane" />
+    <string id="CePmep0z" text="Braconnier" />
+    <string id="CgFXUCbN" text="Marchand vlandian ironique" />
+    <string id="cM2J8FUX" text="Enfant noble Khuzait" />
+    <string id="cP1o8eUs" text="du Jawwal" />
+    <string id="CQOlMayc" text="la Loque" />
+    <string id="cSkuDBgn" text="Mystique battanian" />
+    <string id="cud22JY1" text="le Chirurgien" />
+    <string id="D104m5cP" text="Prédicatrice rebelle" />
+    <string id="d8r7iu0Z" text="chef rebelle impérial" />
+    <string id="dgWSNaac" text="Enfant villageoise Khuzait" />
+    <string id="DLaXd9Bm" text="Prédicatrice" />
+    <string id="dwSolSri" text="Villageoise adolescente sturgiane" />
+    <string id="Dy5JuSNG" text="Citadine adolescente battanian" />
+    <string id="eAdUxQf7" text="Marchand vlandian calme" />
+    <string id="ec89e3p2" text="Enfant villageoise sturgian" />
+    <string id="ECjabnlK" text="Khuzait menaçant hors-la-loi" />
+    <string id="EFrbyeN5" text="Chef de la main d'oeuvre impérial enjoué" />
+    <string id="Emz7apGQ" text="Équipement_artisan" />
+    <string id="eobXmmLg" text="de la Compagnie" />
+    <string id="Eou5itzp" text="Prédicateur puritain" />
+    <string id="EsKrdS5b" text="Chef de gang" />
+    <string id="f6nE1Qx2" text="Marchand impérial 10, sournois" />
+    <string id="fHafdaTP" text="Noble adolescent impérial" />
+    <string id="fJmGKlaO" text="Voleur de cheval" />
+    <string id="FtpxQYf0" text="{FIRSTNAME} le Volubile" />
+    <string id="fx7Pve2q" text="équipement_marchand" />
+    <string id="G8mawcBV" text="la Guérisseuse" />
+    <string id="GaakYUTl" text="Chef de gang impérial intimidant" />
+    <string id="GbIcQJ0A" text="Artisan vlandian 2" />
+    <string id="GbVKTFAI" text="Noble adolescente impériale" />
+    <string id="gED0ZMhi" text="Ilay" />
+    <string id="GEGnMwNK" text="artisan battanian conservateur" />
+    <string id="gMmijT4o" text="Enfant villageois impérial" />
+    <string id="GwGMjnEA" text="{FIRSTNAME} le Marchand de chevaux" />
+    <string id="gYNfal30" text="Prédicateur impérial messianique" />
+    <string id="H5Uuazxj" text="{FIRSTNAME} l'Évaluateur" />
+    <string id="H7KPlSmU" text="Enfant noble Aseraie" />
+    <string id="HexR178w" text="{FIRSTNAME} la Caravanière" />
+    <string id="hmKpx86o" text="Yeoman vlandian" />
+    <string id="hrMatilh" text="le Forgeron" />
+    <string id="htgi2PBK" text="chef rebelle vlandian" />
+    <string id="hthUYUrY" text="artisan Khuzait sournois" />
+    <string id="hvIsiu78" text="Villageoise adolescente impériale" />
+    <string id="HXqZbme3" text="Hors-la-loi audacieux sturgian" />
+    <string id="I2T60hED" text="Hors-la-loi menaçant vlandian" />
+    <string id="iAjo65QR" text="Marchande impériale 3, héritière" />
+    <string id="IaMyN5yr" text="Marchand sturgian prudent" />
+    <string id="iDxUTViN" text="{FIRSTNAME} le Mesureur" />
+    <string id="IfYvaBV3" text="Hors-la-loi audacieux Aserai" />
+    <string id="IgOTjF4i" text="de Ghilman" />
+    <string id="imiWg976" text="équipement_vagabond" />
+    <string id="iokd4Shp" text="Noble adolescente vlandiane" />
+    <string id="IUk8qHw4" text="Cheffe de gang Aserai effrayante" />
+    <string id="IVnvHF8S" text="de l'Eleftheroi" />
+    <string id="Ivx4uJVp" text="le Silencieux" />
+    <string id="j2nVPqIX" text="le Faucon" />
+    <string id="Ja1JeF5t" text="Enfant noble vlandiane" />
+    <string id="jepZ0btT" text="Concurrent confiant" />
+    <string id="jG3duO7A" text="des élus" />
+    <string id="jKAhAoVb" text="du peuple de la Forêt" />
+    <string id="JL8RBEu3" text="du Beni Zilal" />
+    <string id="JmtSy9Nz" text="Marchand impérial froid" />
+    <string id="jQt9cLzS" text="Marchand sturgian caustique" />
+    <string id="jrWM1QDN" text="chef Khuzait conservateur" />
+    <string id="JVeGkRa1" text="Chef Aserai sournois" />
+    <string id="JZBDbuGa" text="Citadin adolescent Aserai" />
+    <string id="K27WpkiE" text="Chef de gang sturgian" />
+    <string id="K42QfOpv" text="chef sturgian conservateur" />
+    <string id="k8aUr5cN" text="Villageois adolescent Khuzait" />
+    <string id="KAdVmQc5" text="Mystique impériale" />
+    <string id="Kcax8j1W" text="{FIRSTNAME} l'Affranchie" />
+    <string id="KkStFl12" text="des Peaux-de-Loups" />
+    <string id="KnTl4ESh" text="Vol-de-bétail" />
+    <string id="KphYbafC" text="Concurrent audacieux" />
+    <string id="KTObbG71" text="la Mauvaise" />
+    <string id="KY2zbWkj" text="la Véloce" />
+    <string id="LaDppi2W" text="Fier notable rural battanian" />
+    <string id="lbIgOHea" text="Marchande sturgian honorable" />
+    <string id="ldArPXQE" text="Mystique sturgian" />
+    <string id="LmlL8fVu" text="Hache sanglante" />
+    <string id="LuGD2OL1" text="Aserai éminent silencieux" />
+    <string id="LzLkTQc8" text="Notable rural Khuzait fier" />
+    <string id="mcbREzPt" text="des Gardiens" />
+    <string id="mpkyb5fY" text="Enfant citadin Khuzait" />
+    <string id="mtBA7sfk" text="Concurrent téméraire" />
+    <string id="muC2SGlM" text="des Désolations" />
+    <string id="N6aatixp" text="Chef de gang impérial ironique" />
+    <string id="n6iIPCux" text="Enfant villageois vlandian" />
+    <string id="NdhGw6eA" text="Marchande impériale 8, héritière" />
+    <string id="nDtjEazo" text="Mortœil" />
+    <string id="NFeQqybb" text="Villageoise adolescente Khuzait" />
+    <string id="NfObPWYk" text="{FIRSTNAME} la Bienfaitrice" />
+    <string id="nkdTDW0x" text="chef vlandian sournois" />
+    <string id="nqE62lQW" text="Dents noires" />
+    <string id="NSaetzNJ" text="le Charbonnier" />
+    <string id="ntkipfCV" text="le Bruyant" />
+    <string id="NWuGUi4p" text="la Panthère" />
+    <string id="NyJ6AvkI" text="chef battanian conservateur" />
+    <string id="OArAImbM" text="des Collines" />
+    <string id="OFWvD0xe" text="la Hyène" />
+    <string id="OIXub6bS" text="la Seule" />
+    <string id="oJJPZOKf" text="Vikrum" />
+    <string id="OzjuQYGH" text="des Skolderbrotva" />
+    <string id="pbcUnQS9" text="Voyant sturgian" />
+    <string id="PbPzMmbV" text="chef de l'empire conservateur" />
+    <string id="PGHtN3Jx" text="Serviable représentant des propriétaires terriens sturgian" />
+    <string id="Pk29f1iX" text="Marchand impérial prudent" />
+    <string id="pQykMa8u" text="Enfant citadine Khuzait" />
+    <string id="PSz6SqsS" text="Enfant noble battanian" />
+    <string id="pTuZB1Hj" text="Estomac-de-Fer" />
+    <string id="pywrXN0I" text="Enfant villageoise impériale" />
+    <string id="pZSAdyC0" text="le Boucher" />
+    <string id="q5QjQyde" text="le Fou" />
+    <string id="qeNv4ftk" text="{FIRSTNAME} le Courtier" />
+    <string id="QGcgQDqK" text="de la Fraternité" />
+    <string id="QguTscz7" text="artisan battanian rebelle" />
+    <string id="qHK7IZ1Q" text="chef Khuzait sournois" />
+    <string id="Qm5cstq3" text="Ulyk" />
+    <string id="qP11ARtb" text="{FIRSTNAME} l'Orpheline" />
+    <string id="qslA0bVb" text="le Rouge" />
+    <string id="QWbgE4bw" text="Œil de fer" />
+    <string id="QyQPJJ9B" text="la Maudite" />
+    <string id="qzpdvbhm" text="{FIRSTNAME} la Vendeuse de soie" />
+    <string id="qzuAtcoI" text="artisan Khuzait conservateur" />
+    <string id="R0NM6lfm" text="Raekel" />
+    <string id="reXz8NlZ" text="Marchand impérial 7, sournois" />
+    <string id="rgdi5Sxa" text="le Prince" />
+    <string id="rhKSDQbR" text="Citadin adolescent vlandian" />
+    <string id="rHp3tOCo" text="Enfant citadin Aserai" />
+    <string id="RJ3WezQ9" text="Artisan sturgian" />
+    <string id="rj6kf6Ic" text="chef Khuzait rebelle" />
+    <string id="rJxE1tbu" text="Enfant citadine impériale" />
+    <string id="RmvGYDaL" text="Enfant noble vlandian" />
+    <string id="RnQwMMYr" text="Noble adolescent vlandian" />
+    <string id="rnXXvPqO" text="Enfant villageois sturgian" />
+    <string id="Rp0gbdMM" text="Marchand Batannian prudent" />
+    <string id="rtsnnL2J" text="la Skjaldmö" />
+    <string id="sdzaip5J" text="le Savant" />
+    <string id="seS9ZZUW" text="le Faucon Gris" />
+    <string id="sk64gxdw" text="Digne prétendant" />
+    <string id="SOmBjgqW" text="Enfant noble Aserai" />
+    <string id="soML32uY" text="Marchand Khuzait prudent" />
+    <string id="sUxhqvD1" text="Cheffe de gang" />
+    <string id="SVS1QJcE" text="Enfant citadin battanian" />
+    <string id="T5O2nOfg" text="Prédicateur puritain impérial" />
+    <string id="t9e34kgH" text="le Voleur" />
+    <string id="TbWwahrd" text="Artisan rural Khuzait remarquable" />
+    <string id="TbyDQg2z" text="Enfant noble sturgian" />
+    <string id="TI9qplRf" text="chef battanian sournois" />
+    <string id="TmYMCahH" text="Cheffe de gang impériale menaçante" />
+    <string id="TuBXZ80e" text="Marchande sturgian sournoise" />
+    <string id="tuRVmKIE" text="chef impérial sournois" />
+    <string id="tvNIMvN5" text="marchand sturgian brusque" />
+    <string id="tx6xDvzx" text="Enfant villageois Aserai" />
+    <string id="TXUOeT7L" text="{FIRSTNAME} le Monnayeur" />
+    <string id="TyxXbqVw" text="le Faucon" />
+    <string id="TZEqvvzG" text="Citadin adolescent Khuzait" />
+    <string id="ucL7DjaP" text="Cheffe de gang sturgian" />
+    <string id="V2zwBILU" text="chef vlandian conservateur" />
+    <string id="V4SaGJay" text="Villageoise adolescente Aserai" />
+    <string id="VaN2tRyU" text="Chef de gang impérial bestial masculin" />
+    <string id="VKhh9i1l" text="du Brochet" />
+    <string id="VmuTQm20" text="Chef de gang masculin standard" />
+    <string id="vmwCdada" text="Jihan" />
+    <string id="VREbQSoS" text="Enfant citadin vlandian" />
+    <string id="vtXRptVa" text="le Doré" />
+    <string id="VWwDT1hV" text="artisan Khuzait rebelle" />
+    <string id="W0lWJ8k3" text="Equipement de prêcheur" />
+    <string id="W7aa22Yl" text="Brise-crâne" />
+    <string id="w85UE1ki" text="Noble rural battanian Fergus" />
+    <string id="waA4ph2S" text="{FIRSTNAME} le Saunier" />
+    <string id="wc9LrDL8" text="Enfant villageois Khuzait" />
+    <string id="WNyWySAH" text="du Brochet" />
+    <string id="wq09CQHe" text="Chef artisan Aserai" />
+    <string id="WU5GnkvR" text="le Poisson" />
+    <string id="wuVOYwug" text="Enfant villageoise battanian" />
+    <string id="WvwWX4me" text="Thorax-en-Tonneau" />
+    <string id="wXOz68g0" text="Notable rural impérial agréable" />
+    <string id="X2TtXlAq" text="Pericleia" />
+    <string id="x95hX9Qv" text="{FIRSTNAME} le Marchand d'encens" />
+    <string id="Xa2WYyjx" text="Chef de la main d'oeuvre impérial grossier" />
+    <string id="XBJtv4mD" text="la Vendeuse d'épices" />
+    <string id="XPwQab9R" text="Marchand sturgian honnête" />
+    <string id="XSI7xub4" text="Aserai éminent sérieux" />
+    <string id="xTQPfmS9" text="le Taureau" />
+    <string id="XuxARPTM" text="Breuvage-amer" />
+    <string id="xWcla2nG" text="Noble adolescente Khuzaite" />
+    <string id="y0nirhCT" text="Enfant villageoise Aserai" />
+    <string id="Y8h6CeMY" text="Marchand de l'Empire 6, prudent" />
+    <string id="yFcqoVhU" text="Villageois adolescent impérial" />
+    <string id="yHF3nWJC" text="Enfant citadine vlandian" />
+    <string id="ykTARD4b" text="le Marginal" />
+    <string id="ympFLeFM" text="Hors-la-loi menaçant Aserai" />
+    <string id="yNHehCab" text="Villageoise adolescente battanian" />
+    <string id="yr5pa0hs" text="Écorce-de-Saule" />
+    <string id="YTe7J6bY" text="Hors-la-loi audacieux vlandian" />
+    <string id="ZAa9OSfV" text="Marchant vlandian audacieux" />
+    <string id="ZCc3VFat" text="le Grisonnant" />
+    <string id="zCCuv0Bv" text="chef rebelle battanian" />
+    <string id="zChW5bUM" text="Prêcheur rebelle Aserai" />
+    <string id="zCQaPTOK" text="Mercenaire" />
+    <string id="ZFb9a3Rc" text="artisan sournois battanian" />
+    <string id="zkoc5QaI" text="Marchande impériale 9, héritière" />
+    <string id="zQbIvOFI" text="adolescent vlandian" />
+    <string id="ZrJA3BVo" text="marchant vlandian brusque" />
+    <string id="Zu3RUIrG" text="Villageois adolescent battanian" />
+    <string id="zXiMWnbX" text="{FIRSTNAME} l'Héritière" />
+    <string id="zXjdb1zT" text="Barbe-de-Givre" />
+    <string id="zYQCc3Ma" text="Enfant citadin impérial" />
+  </strings>
 </base>
