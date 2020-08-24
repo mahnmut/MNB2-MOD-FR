@@ -1,12 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-    <tags>
-        <tag language="Français" />
-    </tags>
-    <strings>
-        <string id="id" text="translation" />
-        <string id="rQge8OSi" text="Terrain d'entraînement" />
-        <!--This translation has been made by the French community. You can join it at this address https://discord.gg/Ck3ZBD5-->
-        <!--Copyright © 2020, M&B Bannerlord Traduction FR-->
-    </strings>
+  <tags>
+    <tag language="Français" />
+  </tags>
+  <strings>
+    <string id="rQge8OSi" text="Terrain d'entraînement"/>
+  </strings>
 </base>
