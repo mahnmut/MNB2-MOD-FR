@@ -1,64 +1,64 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Français" />
   </tags>
   <strings>
-    <string id="1B57e3WC" text="{HERO} a annulé la volonté du conseil {.de}{FACTION}" />
-    <string id="3aYSoETE" text="{MOTHER.LINK} a donné naissance à un bébé en bonne santé." />
-    <string id="6q9sb18u" text="{HERO_2.LINK} a été assassiné." />
-    <string id="7SHqWNzE" text="{COMMON_AREA} {.a}{SETTLEMENT} est maintenant débarrassé des voyous." />
-    <string id="7tx9sch3" text="Cachette repérée" />
-    <string id="8Klpa7Xa" text="{INSULTER.LINK} a juré de se venger {.de}{INSULTEE.LINK}." />
-    <string id="8wlvxzuP" text="{HERO_1.LINK} a rencontré {HERO_2.LINK}." />
-    <string id="a0qduLNq" text="{SETTLEMENT} est maintenant en sécurité." />
-    <string id="aheVbtmm" text="{ITEM} {.de}{FACTION}" />
-    <string id="aowJMil0" text="{.Le}{KINGDOM} a été détruit." />
-    <string id="AQK4ADS5" text="{HERO_1.LINK} a tué {HERO_2.LINK}" />
-    <string id="AxMrFoea" text="Siège {.de}{TOWN_NAME} par le groupe {.de}{LORD.LINK} {.de}{FACTION_NAME} !" />
-    <string id="bNAxWneP" text="{INSULTER.LINK} affirme que {INSULTEE.LINK} extorque de l'argent aux commerces." />
-    <string id="bNDUtygL" text="{INSULTER.LINK} affirme que {INSULTEE.LINK} amasse des marchandises pour faire monter les prix." />
-    <string id="Bovy7D7s" text="{MOTHER.LINK} a donné naissance, mais l'enfant est mort-né." />
-    <string id="bZvmjYPE" text="{.Le}{PARTY} défend {SETTLEMENT}" />
-    <string id="Cae69FRp" text="{SETTLEMENT} est en train d'être défendu par {.le}{PARTY}" />
-    <string id="cOnCiZeH" text="{HERO1} a attaqué la zone commune {.de}{HERO2} {.a}{SETTLEMENT}{ADDITIONAL_INFO}" />
-    <string id="dfAE3liA" text="Ralliement {.pclan}{CLAN_NAME} en faveur {.de}{FACTION}." />
-    <string id="dmqy8OyY" text="{INSULTER.LINK} dit que {INSULTEE.LINK} pratique les affaires de manière malhonnête." />
-    <string id="dzJOruIi" text="{COMMON_AREA} dans {SETTLEMENT} est perdu pour {HERO.LINK}." />
-    <string id="EHFibjkM" text="Siège {.de}{TOWN_NAME} par l'armée {.de}{LORD.LINK} {.de}{FACTION_NAME} !" />
-    <string id="ELFgdGJZ" text="{MOTHER.LINK} est tombée enceinte." />
-    <string id="eMRMptST" text="{MOTHER.LINK} a accouché." />
-    <string id="ExbVzTZA" text="{CLAN} a conclu un contrat pour se battre aux côtés {.de}{KINGDOM}." />
-    <string id="F3MPgmhR" text="{CLAIMANT.LINK} dit que {SETTLEMENT_NAME} devrait être la propriété {.pclan}{CLAIMANT_CLAN} et non {.pclan}{CURRENT_OWNER_CLAN}." />
-    <string id="FZdiWaBs" text="Le territoire {.de}{HERO} a été capturé." />
-    <string id="h5rkbVu3" text="{LORD.LINK} est désormais propriétaire {.de}{SETTLEMENT}." />
-    <string id="h78oPYTs" text="{INSULTER.LINK} accuse {INSULTEE.LINK} d'hérétique." />
-    <string id="hJFCi1zu" text="{.La}{FACTION1} et {.la}{FACTION2} ont fait la paix." />
-    <string id="hopvV6Ch" text="Déclaration de guerre {.de}{FACTION1_NAME} contre {.la}{FACTION2_NAME}" />
-    <string id="hP57Caab" text="{VICTOR_PARTY} {.de}{VICTOR_FACTION} a vaincu {DEFEATED_PARTY} {.de}{DEFEATED_FACTION}" />
-    <string id="Jo3Lux3w" text="{HERO_1.LINK} est responsable de la mort {.de}{HERO_2.LINK}" />
-    <string id="jZcV4gI7" text="{INSULTER.LINK} affirme que {INSULTEE.LINK} est un couard et qu'il est responsable de cette défaite" />
-    <string id="KbakhGqB" text="{HERO_1.LINK} a vaincu le groupe {.de}{HERO_2.LINK}." />
-    <string id="kcqSzPSL" text="{SETTLEMENT}" />
-    <string id="kMwv4QJK" text="{INSULTER.LINK} s'est disputé avec {INSULTEE.LINK} au cours d'un procès." />
-    <string id="kqwNCCbZ" text="Siège {.de}{TOWN_NAME} par l'armée {.de}{LORD.LINK} {.de}{FACTION_NAME} !" />
-    <string id="ksr1bSTC" text="{SETTLEMENT} est attaqué par {.le}{PARTY}" />
-    <string id="MoYYusXJ" text="{INSULTER.LINK} affirme que {INSULTEE.LINK} est responsable de la débâcle sur le champ de bataille dû au fait qu'il n'ai pas suivi les ordres." />
-    <string id="nPF738Cb" text="{INSULTER.LINK} a accusé {INSULTEE.LINK} d'avoir créé des troubles au sein de la population." />
-    <string id="orDGbYZE" text="{INSULTER.LINK} s'est disputé avec {INSULTEE.LINK}." />
-    <string id="P9RGAGFC" text="{MOTHER.LINK} est décédée durant l’accouchement." />
-    <string id="pBMMXwVa" text="{INSULTER.LINK} prétend que {INSULTEE.LINK} a tenté d'acquérir frauduleusement des terres." />
-    <string id="pHyqL3bw" text="{HERO.LINK} a pour parents {MOTHER.LINK} et {FATHER.LINK}." />
-    <string id="PLiydbpQ" text="{.Le}{PARTY} a commencé le pillage {.de}{SETTLEMENT}." />
-    <string id="PsU1ri42" text="{PARTY1} a affronté {PARTY2}." />
-    <string id="RpVrqXOU" text="{INSULTER.LINK} s'est disputé avec {INSULTEE.LINK} pour un fief." />
-    <string id="S0oFKYfB" text="{CLAN} ne sert plus {.le}{KINGDOM}." />
-    <string id="TsYCa2fZ" text="{.La}{FACTION1} a fait la paix avec {.la}{FACTION2}" />
-    <string id="WiiRaLyK" text="{INSULTER.LINK} dit que {INSULTEE.LINK} a causé une débâcle sur le champ de bataille en se comportant de manière imprudente." />
-    <string id="XRTcnnR2" text="{HERO.LINK} est {?HERO.GENDER}une fugitive{?}un fugitif{\?}." />
-    <string id="xss7eP0f" text="{.Le}{PARTY} pille {SETTLEMENT}" />
-    <string id="y8WlfdqZ" text="{LORD.LINK}" />
-    <string id="yUaE3eeX" text="{SETTLEMENT} a été nettoyé." />
-    <string id="ZQ0bn7l7" text="{HERO_1} est responsable de la mort {.de}{HERO_2}" />
+    <string id="1B57e3WC" text="{HERO} a annulé la volonté du conseil {.de}{FACTION}"/>
+    <string id="3aYSoETE" text="{MOTHER.LINK} a donné naissance à un bébé en bonne santé."/>
+    <string id="6q9sb18u" text="{HERO_2.LINK} a été assassiné."/>
+    <string id="7SHqWNzE" text="{COMMON_AREA} {.a}{SETTLEMENT} est maintenant débarrassé des voyous."/>
+    <string id="7tx9sch3" text="Cachette repérée"/>
+    <string id="8Klpa7Xa" text="{INSULTER.LINK} a juré de se venger {.de}{INSULTEE.LINK}."/>
+    <string id="8wlvxzuP" text="{HERO_1.LINK} a rencontré {HERO_2.LINK}."/>
+    <string id="a0qduLNq" text="{SETTLEMENT} est maintenant en sécurité."/>
+    <string id="aheVbtmm" text="{ITEM} {.de}{FACTION}"/>
+    <string id="aowJMil0" text="{.Le}{KINGDOM} a été détruit."/>
+    <string id="AQK4ADS5" text="{HERO_1.LINK} a tué {HERO_2.LINK}"/>
+    <string id="AxMrFoea" text="Siège {.de}{TOWN_NAME} par le groupe {.de}{LORD.LINK} {.de}{FACTION_NAME} !"/>
+    <string id="bNAxWneP" text="{INSULTER.LINK} affirme que {INSULTEE.LINK} extorque de l'argent aux commerces."/>
+    <string id="bNDUtygL" text="{INSULTER.LINK} affirme que {INSULTEE.LINK} amasse des marchandises pour faire monter les prix."/>
+    <string id="Bovy7D7s" text="{MOTHER.LINK} a donné naissance, mais l'enfant est mort-né."/>
+    <string id="bZvmjYPE" text="{.Le}{PARTY} défend {SETTLEMENT}"/>
+    <string id="Cae69FRp" text="{SETTLEMENT} est en train d'être défendu par {.le}{PARTY}"/>
+    <string id="cOnCiZeH" text="{HERO1} a attaqué la zone commune {.de}{HERO2} {.a}{SETTLEMENT}{ADDITIONAL_INFO}"/>
+    <string id="dfAE3liA" text="Ralliement {.pclan}{CLAN_NAME} en faveur {.de}{FACTION}."/>
+    <string id="dmqy8OyY" text="{INSULTER.LINK} dit que {INSULTEE.LINK} pratique les affaires de manière malhonnête."/>
+    <string id="dzJOruIi" text="{COMMON_AREA} dans {SETTLEMENT} est perdu pour {HERO.LINK}."/>
+    <string id="EHFibjkM" text="Siège {.de}{TOWN_NAME} par l'armée {.de}{LORD.LINK} {.de}{FACTION_NAME} !"/>
+    <string id="ELFgdGJZ" text="{MOTHER.LINK} est tombée enceinte."/>
+    <string id="eMRMptST" text="{MOTHER.LINK} a accouché."/>
+    <string id="ExbVzTZA" text="{CLAN} a conclu un contrat pour se battre aux côtés {.de}{KINGDOM}."/>
+    <string id="F3MPgmhR" text="{CLAIMANT.LINK} dit que {SETTLEMENT_NAME} devrait être la propriété {.pclan}{CLAIMANT_CLAN} et non {.pclan}{CURRENT_OWNER_CLAN}."/>
+    <string id="FZdiWaBs" text="Le territoire {.de}{HERO} a été capturé."/>
+    <string id="h5rkbVu3" text="{LORD.LINK} est désormais propriétaire {.de}{SETTLEMENT}."/>
+    <string id="h78oPYTs" text="{INSULTER.LINK} accuse {INSULTEE.LINK} d'hérétique."/>
+    <string id="hJFCi1zu" text="{.La}{FACTION1} et {.la}{FACTION2} ont fait la paix."/>
+    <string id="hopvV6Ch" text="Déclaration de guerre {.de}{FACTION1_NAME} contre {.la}{FACTION2_NAME}"/>
+    <string id="hP57Caab" text="{VICTOR_PARTY} {.de}{VICTOR_FACTION} a vaincu {DEFEATED_PARTY} {.de}{DEFEATED_FACTION}"/>
+    <string id="Jo3Lux3w" text="{HERO_1.LINK} est responsable de la mort {.de}{HERO_2.LINK}"/>
+    <string id="jZcV4gI7" text="{INSULTER.LINK} affirme que {INSULTEE.LINK} est un couard et qu'il est responsable de cette défaite"/>
+    <string id="KbakhGqB" text="{HERO_1.LINK} a vaincu le groupe {.de}{HERO_2.LINK}."/>
+    <string id="kcqSzPSL" text="{SETTLEMENT}"/>
+    <string id="kMwv4QJK" text="{INSULTER.LINK} s'est disputé avec {INSULTEE.LINK} au cours d'un procès."/>
+    <string id="kqwNCCbZ" text="Siège {.de}{TOWN_NAME} par l'armée {.de}{LORD.LINK} {.de}{FACTION_NAME} !"/>
+    <string id="ksr1bSTC" text="{SETTLEMENT} est attaqué par {.le}{PARTY}"/>
+    <string id="MoYYusXJ" text="{INSULTER.LINK} affirme que {INSULTEE.LINK} est responsable de la débâcle sur le champ de bataille dû au fait qu'il n'ai pas suivi les ordres."/>
+    <string id="nPF738Cb" text="{INSULTER.LINK} a accusé {INSULTEE.LINK} d'avoir créé des troubles au sein de la population."/>
+    <string id="orDGbYZE" text="{INSULTER.LINK} s'est disputé avec {INSULTEE.LINK}."/>
+    <string id="P9RGAGFC" text="{MOTHER.LINK} est décédée durant l’accouchement."/>
+    <string id="pBMMXwVa" text="{INSULTER.LINK} prétend que {INSULTEE.LINK} a tenté d'acquérir frauduleusement des terres."/>
+    <string id="pHyqL3bw" text="{HERO.LINK} a pour parents {MOTHER.LINK} et {FATHER.LINK}."/>
+    <string id="PLiydbpQ" text="{.Le}{PARTY} a commencé le pillage {.de}{SETTLEMENT}."/>
+    <string id="PsU1ri42" text="{PARTY1} a affronté {PARTY2}."/>
+    <string id="RpVrqXOU" text="{INSULTER.LINK} s'est disputé avec {INSULTEE.LINK} pour un fief."/>
+    <string id="S0oFKYfB" text="{CLAN} ne sert plus {.le}{KINGDOM}."/>
+    <string id="TsYCa2fZ" text="{.La}{FACTION1} a fait la paix avec {.la}{FACTION2}"/>
+    <string id="WiiRaLyK" text="{INSULTER.LINK} dit que {INSULTEE.LINK} a causé une débâcle sur le champ de bataille en se comportant de manière imprudente."/>
+    <string id="XRTcnnR2" text="{HERO.LINK} est {?HERO.GENDER}une fugitive{?}un fugitif{\?}."/>
+    <string id="xss7eP0f" text="{.Le}{PARTY} pille {SETTLEMENT}"/>
+    <string id="y8WlfdqZ" text="{LORD.LINK}"/>
+    <string id="yUaE3eeX" text="{SETTLEMENT} a été nettoyé."/>
+    <string id="ZQ0bn7l7" text="{HERO_1} est responsable de la mort {.de}{HERO_2}"/>
   </strings>
 </base>

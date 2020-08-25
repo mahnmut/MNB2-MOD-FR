@@ -1,113 +1,113 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Français" />
   </tags>
   <strings>
-    <string id="0m0IUnL1" text="fen Uvain" />
-    <string id="0u8ipbgn" text="Les tribus connues sous le nom de Peuple de la Forêt pratiquent l'agriculture sur abattis-brûlis, dans les profondeurs des bois, hors d'atteinte des boyards sturgians. Ils brûlent des étendues d'arbres abattus, cultivent sur le sol vierge fertilisé par les cendres durant quelques années, jusqu'à l'épuisement du terrain, puis se déplacent. Il s'agit d'une utilisation inefficace des terres mais d'une utilisation très efficace de la main-d'œuvre, convenant à une population numériquement faible dans une vaste région. De plus, comme les parcelles sont difficiles à mesurer et à taxer, c'est une très bonne stratégie pour la population qui ne se soucie pas du gouvernement en place." />
-    <string id="1sbJQR4H" text="Pillards" />
-    <string id="3o5s6L3y" text="dey Meroc" />
-    <string id="3PzgpFGq" text="Neutre" />
-    <string id="4Dbwdjbe" text="Hongeros" />
-    <string id="4rr3d8hY" text="Dolentos" />
-    <string id="4TiYXBqK" text="Les Ghilman sont une bande de mercenaires qui recrutent parmi les tribus du sud de Calradia et des terres de l'est. Ils sont légalement leurs propres esclaves et maîtres : chacun se « vend » lui-même à l'ordre et, ce faisant, devient copropriétaire. Ils sont connus pour leurs chevaux de race et leurs vêtements raffinés. Mais personne ne doit présumer, au vu de leurs mèches huilées, de leurs parfums et de leurs plumes de paon, qu'ils passent plus de temps à se pomponner qu'à s'entraîner. Leur compétence en tant qu'archers montés est sans égale. Et, en tant que lanciers, ils ne sont pas loin derrière les Vlandians et les cataphractaires impériaux." />
-    <string id="6BvGhzao" text="Karakhergit" />
-    <string id="6OEQJV6k" text="Julios" />
-    <string id="7bhNgOKd" text="Les Peaux-de-Loups sont les héritiers d'une longue tradition en Battania, où de grands guerriers retournent à la « vie sauvage » durant une partie de leur jeunesse, apprenant la vie dans les bois et à endurer l'adversité. Aussi longtemps qu'un Peau-de-Loup ne porte pas de vêtements cousus, ne mange pas de nourriture cuisinée et ne dort pas sous un toit, il sera exonéré des lois des hommes. Dans les faits, les Peaux-de-Loups actuels ont tendance à être des fils de familles riches qui prennent quelques années pour s'adonner à leur côté sauvage, détroussant les voyageurs et vivant brutalement, sans nécessairement respecter l'ancien code." />
-    <string id="7k9izAvC" text="Skolderbrotva" />
-    <string id="7WL1LWdf" text="Rats-du-Lac" />
-    <string id="8ba4tpRU" text="Jawwal" />
-    <string id="8Wi66Sp2" text="Prienicos" />
-    <string id="9NWQNInC" text="dey Molarn" />
-    <string id="9ORFG9l4" text="Chonis" />
-    <string id="9qAUWcfa" text="dey Gunric" />
-    <string id="9qAWNBvA" text="Les Eleftheroi, le peuple libre, vivent dans les steppes aux confins de l'Empire. Descendants d'esclaves en fuite et de débiteurs, ils sont rapidement devenus très appréciés des commandants impériaux locaux pour leur connaissance de cette zone frontalière. Leurs chefs reçurent des titres et leurs jeunes furent pris dans les suites d'archontes et d'empereurs. Mais bien qu'ils soient dorénavant très fidèles aux idées de l'Empire, ils demeurent franchement hostiles à son autorité réelle." />
-    <string id="9Y1u2onl" text="Banu Hulyan" />
-    <string id="9ZEdEWmi" text="Les Rats-du-Lac vivent dans les marais sur les rives du grand lac du Nord, dans des cahutes faits de bois provenant de navires échoués. Ils vivent du « nauvrage », c'est-à-dire qu'ils attirent les navires sur les bancs de sable à l'aide de phares et signaux factices. Parce qu'ils sont méprisés du reste de Calradia - « tous criminels, puant le marais, la boue et le poisson pourri » - ils méprisent tout autant le monde en retour. Bien que principalement Sturgians, leurs rangs ont été gonflés par des fugitifs, des débiteurs, et tous ceux qui préfèrent vivre selon le code des voleurs plutôt que par les lois des nobles." />
-    <string id="a4GxTbPD" text="Varros" />
-    <string id="A4wIVnM4" text="Gundaroving" />
-    <string id="a67wFbUw" text="fen Gruffendoc" />
-    <string id="Aft8nsgn" text="Banu Sarmal" />
-    <string id="ApJrV7bA" text="Sorados" />
-    <string id="AppNvfPv" text="Ormidoving" />
-    <string id="as2TiAIJ" text="la Fraternité des bois" />
-    <string id="b6SEM6Ab" text="Koltit" />
-    <string id="B8c2mNKj" text="La Braise Enflammée regroupe les descendants d'un mouvement rebelle qui s'est élevé, il y a près d'un siècle, après le renversement du jeune empereur Darusos, saint mais incapable, par l’un de ses généraux. Ils prétendent préparer la voie pour que le Ciel ramène Darusos et inaugure un âge d’or, mais comme tant d'autres mouvements rebelles en Calradia, ils ont été contraints de recourir à l'extorsion pour survivre." />
-    <string id="bhxVA9w7" text="La Dernière Légion qui a été créée après que l'empereur Arenicos ait promulgué ses réformes, suite à la désastreuse bataille de Pendraic, abolissant les dernières armées permanentes de l’Empire en faveur des escortes privées d'archontes qui étaient considérablement moins onéreuses et mieux à même de contrôler le territoire. La Légion est composée d'hommes qui ont détesté ce changement, ils aimaient l'ancienne armée, ses normes, l'histoire de ses unités et sa vie de camp et ils reprochent au nouveau système d'avoir détruit l'empire. Mais une armée ne tient pas debout si elle n'est pas payée régulièrement, ils acceptent ainsi les contrats des seigneurs impériaux et étrangers." />
-    <string id="bjemmmcF" text="Corenios" />
-    <string id="bsPd5zri" text="Les Skolderbrotva, ou Frères Boucliers, sont une compagnie de mercenaires pour ceux qui prennent le combat et l'entraînement très au sérieux. Ils sont principalement nordiques mais autorisent les recrues d'autres cultures, à condition qu'un Frère du Bouclier déjà en service se porte garant. Leurs règles sont presque monastiques : pas de femmes dans leurs campements et pas de divertissements, et aucun Frère n'est autorisé à passer la nuit dehors sans permission. Au combat, ils se battent à la lance et à la hache dans le style nordique, et sont appréciés par toutes les maisons nobles du nord." />
-    <string id="BxCRDt5m" text="Vizartos" />
-    <string id="cd0yDTM1" text="Lonalion" />
-    <string id="CibaXzG8" text="Phalentes" />
-    <string id="CRSFOSil" text="Urkhunait" />
-    <string id="CS4rSk99" text="dey Cortain" />
-    <string id="Ds2vQVwr" text="Avlonos" />
-    <string id="e6csp4ha" text="Bandits des steppes" />
-    <string id="eC6qIOzz" text="Eleftheroi" />
-    <string id="EnZHNc2k" text="Isyaroving" />
-    <string id="Eu932blQ" text="Kuloving" />
-    <string id="fvYgmrjG" text="Banu Sarran" />
-    <string id="fXENjJJL" text="Osticos" />
-    <string id="GCy0xb6U" text="la Compagnie" />
-    <string id="GgMVWlkr" text="Test Clan" />
-    <string id="gXeF1yKn" text="Harfit" />
-    <string id="H5iWxbbl" text="Ghilman" />
-    <string id="h7ujXmDx" text="Mestricaros" />
-    <string id="HMnHaJac" text="fen Morcar" />
-    <string id="hrWQWgaM" text="Pethros" />
-    <string id="j3KtHQzn" text="la Main" />
-    <string id="k3djFmuO" text="fen Penraic" />
-    <string id="kbGk2so8" text="Baltait" />
-    <string id="khnadIv1" text="la Fraternité" />
-    <string id="kkUQObZn" text="Bandits du désert" />
-    <string id="l6JtB97p" text="Banu Atij" />
-    <string id="LqTTchsa" text="la Légion du Trahi" />
-    <string id="lUfFxWlk" text="Banu Qaraz" />
-    <string id="LygSwU3i" text="dey Jelind" />
-    <string id="LZVzzczs" text="dey Fortes" />
-    <string id="m0teef5g" text="Tigrit" />
-    <string id="mddbprXj" text="Vagiroving" />
-    <string id="mOa9CX13" text="Bandits montagnards" />
-    <string id="mpjp1MT2" text="dey Arromanc" />
-    <string id="mtZu1l2j" text="la Braise Enflammée" />
-    <string id="MVHawAEp" text="la Main Cachée" />
-    <string id="nh4Y3LOc" text="Peaux-de-Loups" />
-    <string id="NObV048p" text="Beni Zilal" />
-    <string id="nQOf27Rx" text="La « Main Cachée » est une mafia qui domine les zones rurales, et parfois les villes, dans les parties méridionales de l'Empire. Ils prospèrent en se rendant utiles auprès des autorités : réprimant les troubles, réduisant au silence les prédicateurs gênants et volant les marchands rivaux de leurs employeurs. Beaucoup d'entre eux vont et viennent entre une vie respectable dans les villes et une vie criminelle en rase-campagne, passant deux ou trois mois par an comme brigand et homme de main, puis le reste en tant que « marchand » de biens volés, sachant pertinemment que personne ne les dérangera." />
-    <string id="o0Xm5Rqk" text="Inconnus" />
-    <string id="o4wKMT9x" text="Banu Habbab" />
-    <string id="o7ud4X2X" text="Peuple de la Forêt" />
-    <string id="ObBvcDhJ" text="fen Giall" />
-    <string id="OVQoC9fn" text="Comnos" />
-    <string id="pBUc2pL8" text="Pirates" />
-    <string id="pdz4YsEf" text="Maneolis" />
-    <string id="Q1nAHnV7" text="Khergit" />
-    <string id="qFntgcGy" text="dey Tihr" />
-    <string id="qoLWSdRE" text="fen Eingal" />
-    <string id="RWOYui01" text="Les Jawwal, ou « Vagabonds », sont la principale confédération bédouine du désert de Nahhas. Ils errent des régions montagneuses aux aires de pâturage des basses terres, déclarant d’immenses pans de désert comme leur « territoire » dans lesquels toute caravane doit s'offrir leur protection. Ils composent des poèmes sur leurs actes, et se moquent des autres clans des Banu Asera pour avoir renoncé à la « liberté » des tentes de laine noire au profit des maisons en pierres dans les oasis. Les autres clans les considèrent comme des pénibles fanfarons, bien qu'ils les respectent à contrecœur en tant que protecteurs des anciennes coutumes Aserai." />
-    <string id="s0AVQCbJ" text="Togaroving" />
-    <string id="sAbjtZbB" text="Bandits des forêts" />
-    <string id="Ssl38GEF" text="la Légion" />
-    <string id="tA3IRBgv" text="Impestores" />
-    <string id="tae3lhXh" text="La Compagnie est composée de Vlandians, principalement des conscrits locaux qui ne s’adaptent pas bien en temps de paix et qui ont opté pour une vie de guerre constante. Ils sont probablement les moins disciplinés et les plus versés dans la brigandage parmi les mercenaires de Calradia, ainsi qu'un fléau en rase-campagne où ils sont autorisés à circuler librement. Pourtant, comme tous les mercenaires, ils savent que leurs revenus futurs dépendent de leur réputation, aussi honorent-ils leurs contrats et mettent en pratique leurs compétences, notamment à l'arbalète, pour s'assurer que leurs employeurs en aient pour leur argent." />
-    <string id="tdGvElSy" text="Dionicos" />
-    <string id="txCNVmSV" text="Neretzes" />
-    <string id="UmVjzPI4" text="la Compagnie du Sanglier doré" />
-    <string id="UQHUu2bj" text="Leonipardes" />
-    <string id="UW8BjPXR" text="Argoros" />
-    <string id="vbLAA0RF" text="dey Valant" />
-    <string id="VpF6skYs" text="Arkit" />
-    <string id="W2HkbCeX" text="Ubroving" />
-    <string id="W9n5iPbB" text="Yanserit" />
-    <string id="wFR1ukg9" text="Banu Qild" />
-    <string id="xahrUc5n" text="La Fraternité des Bois a commencé comme un regroupement de paysans vlandians, se dissimulant dans les forêts, volant les riches et redonnant aux pauvres. Cependant, elle se heurta aux mêmes problèmes de tout mouvement rebelle de longue date, elle devait assurer un approvisionnement régulier en nourriture et veiller à ce qu'aucun pauvre n'ose les dénoncer contre un sac de pièces. Lentement mais sûrement, elle a commencé à recourir à l'extorsion, à la terreur et à la corruption des autorités locales afin de survivre, devenant pas si différente de n'importe quel autre groupe de bandits de Calradia." />
-    <string id="XJbDRBfd" text="Les Karakhergit sont une tribu nomade qui a résisté à tous les efforts de fédération des Khans Urkhunid centralisateurs à les maintenir en un même endroit, leur offrant terres arables et des serfs, et leur imposant taxes et levées de troupes. Ils sont traités par les autres clans par un mélange d'envie et de mépris. Ils commercent et parfois même se marient avec leurs frères sédentaires, mais ils pratiquent aussi un nombre limité d'enlèvements contre rançon, de razzia sur les troupeaux, et se moquent de ceux qui les blâment de poursuivre les épiques anciennes coutumes." />
-    <string id="xqkKtWqa" text="Elaches" />
-    <string id="xw0eTkkb" text="Vezhoving" />
-    <string id="yQcZrUYi" text="dey Folcun" />
-    <string id="zcLTthfN" text="la Braise" />
-    <string id="zvas3ieB" text="fen Derngil" />
-    <string id="zY2TQC9t" text="Banu Arbas" />
+    <string id="0m0IUnL1" text="fen Uvain"/>
+    <string id="0u8ipbgn" text="Les tribus connues sous le nom de Peuple de la Forêt pratiquent l'agriculture sur abattis-brûlis, dans les profondeurs des bois, hors d'atteinte des boyards sturgians. Ils brûlent des étendues d'arbres abattus, cultivent sur le sol vierge fertilisé par les cendres durant quelques années, jusqu'à l'épuisement du terrain, puis se déplacent. Il s'agit d'une utilisation inefficace des terres mais d'une utilisation très efficace de la main-d'œuvre, convenant à une population numériquement faible dans une vaste région. De plus, comme les parcelles sont difficiles à mesurer et à taxer, c'est une très bonne stratégie pour la population qui ne se soucie pas du gouvernement en place."/>
+    <string id="1sbJQR4H" text="Pillards"/>
+    <string id="3o5s6L3y" text="dey Meroc"/>
+    <string id="3PzgpFGq" text="Neutre"/>
+    <string id="4Dbwdjbe" text="Hongeros"/>
+    <string id="4rr3d8hY" text="Dolentos"/>
+    <string id="4TiYXBqK" text="Les Ghilman sont une bande de mercenaires qui recrutent parmi les tribus du sud de Calradia et des terres de l'est. Ils sont légalement leurs propres esclaves et maîtres : chacun se « vend » lui-même à l'ordre et, ce faisant, devient copropriétaire. Ils sont connus pour leurs chevaux de race et leurs vêtements raffinés. Mais personne ne doit présumer, au vu de leurs mèches huilées, de leurs parfums et de leurs plumes de paon, qu'ils passent plus de temps à se pomponner qu'à s'entraîner. Leur compétence en tant qu'archers montés est sans égale. Et, en tant que lanciers, ils ne sont pas loin derrière les Vlandians et les cataphractaires impériaux."/>
+    <string id="6BvGhzao" text="Karakhergit"/>
+    <string id="6OEQJV6k" text="Julios"/>
+    <string id="7bhNgOKd" text="Les Peaux-de-Loups sont les héritiers d'une longue tradition en Battania, où de grands guerriers retournent à la « vie sauvage » durant une partie de leur jeunesse, apprenant la vie dans les bois et à endurer l'adversité. Aussi longtemps qu'un Peau-de-Loup ne porte pas de vêtements cousus, ne mange pas de nourriture cuisinée et ne dort pas sous un toit, il sera exonéré des lois des hommes. Dans les faits, les Peaux-de-Loups actuels ont tendance à être des fils de familles riches qui prennent quelques années pour s'adonner à leur côté sauvage, détroussant les voyageurs et vivant brutalement, sans nécessairement respecter l'ancien code."/>
+    <string id="7k9izAvC" text="Skolderbrotva"/>
+    <string id="7WL1LWdf" text="Rats-du-Lac"/>
+    <string id="8ba4tpRU" text="Jawwal"/>
+    <string id="8Wi66Sp2" text="Prienicos"/>
+    <string id="9NWQNInC" text="dey Molarn"/>
+    <string id="9ORFG9l4" text="Chonis"/>
+    <string id="9qAUWcfa" text="dey Gunric"/>
+    <string id="9qAWNBvA" text="Les Eleftheroi, le peuple libre, vivent dans les steppes aux confins de l'Empire. Descendants d'esclaves en fuite et de débiteurs, ils sont rapidement devenus très appréciés des commandants impériaux locaux pour leur connaissance de cette zone frontalière. Leurs chefs reçurent des titres et leurs jeunes furent pris dans les suites d'archontes et d'empereurs. Mais bien qu'ils soient dorénavant très fidèles aux idées de l'Empire, ils demeurent franchement hostiles à son autorité réelle."/>
+    <string id="9Y1u2onl" text="Banu Hulyan"/>
+    <string id="9ZEdEWmi" text="Les Rats-du-Lac vivent dans les marais sur les rives du grand lac du Nord, dans des cahutes faits de bois provenant de navires échoués. Ils vivent du « nauvrage », c'est-à-dire qu'ils attirent les navires sur les bancs de sable à l'aide de phares et signaux factices. Parce qu'ils sont méprisés du reste de Calradia - « tous criminels, puant le marais, la boue et le poisson pourri » - ils méprisent tout autant le monde en retour. Bien que principalement Sturgians, leurs rangs ont été gonflés par des fugitifs, des débiteurs, et tous ceux qui préfèrent vivre selon le code des voleurs plutôt que par les lois des nobles."/>
+    <string id="a4GxTbPD" text="Varros"/>
+    <string id="A4wIVnM4" text="Gundaroving"/>
+    <string id="a67wFbUw" text="fen Gruffendoc"/>
+    <string id="Aft8nsgn" text="Banu Sarmal"/>
+    <string id="ApJrV7bA" text="Sorados"/>
+    <string id="AppNvfPv" text="Ormidoving"/>
+    <string id="as2TiAIJ" text="la Fraternité des bois"/>
+    <string id="b6SEM6Ab" text="Koltit"/>
+    <string id="B8c2mNKj" text="La Braise Enflammée regroupe les descendants d'un mouvement rebelle qui s'est élevé, il y a près d'un siècle, après le renversement du jeune empereur Darusos, saint mais incapable, par l’un de ses généraux. Ils prétendent préparer la voie pour que le Ciel ramène Darusos et inaugure un âge d’or, mais comme tant d'autres mouvements rebelles en Calradia, ils ont été contraints de recourir à l'extorsion pour survivre."/>
+    <string id="bhxVA9w7" text="La Dernière Légion qui a été créée après que l'empereur Arenicos ait promulgué ses réformes, suite à la désastreuse bataille de Pendraic, abolissant les dernières armées permanentes de l’Empire en faveur des escortes privées d'archontes qui étaient considérablement moins onéreuses et mieux à même de contrôler le territoire. La Légion est composée d'hommes qui ont détesté ce changement, ils aimaient l'ancienne armée, ses normes, l'histoire de ses unités et sa vie de camp et ils reprochent au nouveau système d'avoir détruit l'empire. Mais une armée ne tient pas debout si elle n'est pas payée régulièrement, ils acceptent ainsi les contrats des seigneurs impériaux et étrangers."/>
+    <string id="bjemmmcF" text="Corenios"/>
+    <string id="bsPd5zri" text="Les Skolderbrotva, ou Frères Boucliers, sont une compagnie de mercenaires pour ceux qui prennent le combat et l'entraînement très au sérieux. Ils sont principalement nordiques mais autorisent les recrues d'autres cultures, à condition qu'un Frère du Bouclier déjà en service se porte garant. Leurs règles sont presque monastiques : pas de femmes dans leurs campements et pas de divertissements, et aucun Frère n'est autorisé à passer la nuit dehors sans permission. Au combat, ils se battent à la lance et à la hache dans le style nordique, et sont appréciés par toutes les maisons nobles du nord."/>
+    <string id="BxCRDt5m" text="Vizartos"/>
+    <string id="cd0yDTM1" text="Lonalion"/>
+    <string id="CibaXzG8" text="Phalentes"/>
+    <string id="CRSFOSil" text="Urkhunait"/>
+    <string id="CS4rSk99" text="dey Cortain"/>
+    <string id="Ds2vQVwr" text="Avlonos"/>
+    <string id="e6csp4ha" text="Bandits des steppes"/>
+    <string id="eC6qIOzz" text="Eleftheroi"/>
+    <string id="EnZHNc2k" text="Isyaroving"/>
+    <string id="Eu932blQ" text="Kuloving"/>
+    <string id="fvYgmrjG" text="Banu Sarran"/>
+    <string id="fXENjJJL" text="Osticos"/>
+    <string id="GCy0xb6U" text="la Compagnie"/>
+    <string id="GgMVWlkr" text="Test Clan"/>
+    <string id="gXeF1yKn" text="Harfit"/>
+    <string id="H5iWxbbl" text="Ghilman"/>
+    <string id="h7ujXmDx" text="Mestricaros"/>
+    <string id="HMnHaJac" text="fen Morcar"/>
+    <string id="hrWQWgaM" text="Pethros"/>
+    <string id="j3KtHQzn" text="la Main"/>
+    <string id="k3djFmuO" text="fen Penraic"/>
+    <string id="kbGk2so8" text="Baltait"/>
+    <string id="khnadIv1" text="la Fraternité"/>
+    <string id="kkUQObZn" text="Bandits du désert"/>
+    <string id="l6JtB97p" text="Banu Atij"/>
+    <string id="LqTTchsa" text="la Légion du Trahi"/>
+    <string id="lUfFxWlk" text="Banu Qaraz"/>
+    <string id="LygSwU3i" text="dey Jelind"/>
+    <string id="LZVzzczs" text="dey Fortes"/>
+    <string id="m0teef5g" text="Tigrit"/>
+    <string id="mddbprXj" text="Vagiroving"/>
+    <string id="mOa9CX13" text="Bandits montagnards"/>
+    <string id="mpjp1MT2" text="dey Arromanc"/>
+    <string id="mtZu1l2j" text="la Braise Enflammée"/>
+    <string id="MVHawAEp" text="la Main Cachée"/>
+    <string id="nh4Y3LOc" text="Peaux-de-Loups"/>
+    <string id="NObV048p" text="Beni Zilal"/>
+    <string id="nQOf27Rx" text="La « Main Cachée » est une mafia qui domine les zones rurales, et parfois les villes, dans les parties méridionales de l'Empire. Ils prospèrent en se rendant utiles auprès des autorités : réprimant les troubles, réduisant au silence les prédicateurs gênants et volant les marchands rivaux de leurs employeurs. Beaucoup d'entre eux vont et viennent entre une vie respectable dans les villes et une vie criminelle en rase-campagne, passant deux ou trois mois par an comme brigand et homme de main, puis le reste en tant que « marchand » de biens volés, sachant pertinemment que personne ne les dérangera."/>
+    <string id="o0Xm5Rqk" text="Inconnus"/>
+    <string id="o4wKMT9x" text="Banu Habbab"/>
+    <string id="o7ud4X2X" text="Peuple de la Forêt"/>
+    <string id="ObBvcDhJ" text="fen Giall"/>
+    <string id="OVQoC9fn" text="Comnos"/>
+    <string id="pBUc2pL8" text="Pirates"/>
+    <string id="pdz4YsEf" text="Maneolis"/>
+    <string id="Q1nAHnV7" text="Khergit"/>
+    <string id="qFntgcGy" text="dey Tihr"/>
+    <string id="qoLWSdRE" text="fen Eingal"/>
+    <string id="RWOYui01" text="Les Jawwal, ou « Vagabonds », sont la principale confédération bédouine du désert de Nahhas. Ils errent des régions montagneuses aux aires de pâturage des basses terres, déclarant d’immenses pans de désert comme leur « territoire » dans lesquels toute caravane doit s'offrir leur protection. Ils composent des poèmes sur leurs actes, et se moquent des autres clans des Banu Asera pour avoir renoncé à la « liberté » des tentes de laine noire au profit des maisons en pierres dans les oasis. Les autres clans les considèrent comme des pénibles fanfarons, bien qu'ils les respectent à contrecœur en tant que protecteurs des anciennes coutumes Aserai."/>
+    <string id="s0AVQCbJ" text="Togaroving"/>
+    <string id="sAbjtZbB" text="Bandits des forêts"/>
+    <string id="Ssl38GEF" text="la Légion"/>
+    <string id="tA3IRBgv" text="Impestores"/>
+    <string id="tae3lhXh" text="La Compagnie est composée de Vlandians, principalement des conscrits locaux qui ne s’adaptent pas bien en temps de paix et qui ont opté pour une vie de guerre constante. Ils sont probablement les moins disciplinés et les plus versés dans la brigandage parmi les mercenaires de Calradia, ainsi qu'un fléau en rase-campagne où ils sont autorisés à circuler librement. Pourtant, comme tous les mercenaires, ils savent que leurs revenus futurs dépendent de leur réputation, aussi honorent-ils leurs contrats et mettent en pratique leurs compétences, notamment à l'arbalète, pour s'assurer que leurs employeurs en aient pour leur argent."/>
+    <string id="tdGvElSy" text="Dionicos"/>
+    <string id="txCNVmSV" text="Neretzes"/>
+    <string id="UmVjzPI4" text="la Compagnie du Sanglier doré"/>
+    <string id="UQHUu2bj" text="Leonipardes"/>
+    <string id="UW8BjPXR" text="Argoros"/>
+    <string id="vbLAA0RF" text="dey Valant"/>
+    <string id="VpF6skYs" text="Arkit"/>
+    <string id="W2HkbCeX" text="Ubroving"/>
+    <string id="W9n5iPbB" text="Yanserit"/>
+    <string id="wFR1ukg9" text="Banu Qild"/>
+    <string id="xahrUc5n" text="La Fraternité des Bois a commencé comme un regroupement de paysans vlandians, se dissimulant dans les forêts, volant les riches et redonnant aux pauvres. Cependant, elle se heurta aux mêmes problèmes de tout mouvement rebelle de longue date, elle devait assurer un approvisionnement régulier en nourriture et veiller à ce qu'aucun pauvre n'ose les dénoncer contre un sac de pièces. Lentement mais sûrement, elle a commencé à recourir à l'extorsion, à la terreur et à la corruption des autorités locales afin de survivre, devenant pas si différente de n'importe quel autre groupe de bandits de Calradia."/>
+    <string id="XJbDRBfd" text="Les Karakhergit sont une tribu nomade qui a résisté à tous les efforts de fédération des Khans Urkhunid centralisateurs à les maintenir en un même endroit, leur offrant terres arables et des serfs, et leur imposant taxes et levées de troupes. Ils sont traités par les autres clans par un mélange d'envie et de mépris. Ils commercent et parfois même se marient avec leurs frères sédentaires, mais ils pratiquent aussi un nombre limité d'enlèvements contre rançon, de razzia sur les troupeaux, et se moquent de ceux qui les blâment de poursuivre les épiques anciennes coutumes."/>
+    <string id="xqkKtWqa" text="Elaches"/>
+    <string id="xw0eTkkb" text="Vezhoving"/>
+    <string id="yQcZrUYi" text="dey Folcun"/>
+    <string id="zcLTthfN" text="la Braise"/>
+    <string id="zvas3ieB" text="fen Derngil"/>
+    <string id="zY2TQC9t" text="Banu Arbas"/>
   </strings>
 </base>
