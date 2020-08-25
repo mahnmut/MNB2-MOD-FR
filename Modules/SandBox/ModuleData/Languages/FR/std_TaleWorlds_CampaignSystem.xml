@@ -102,7 +102,7 @@
     <string id="1REltXXz" text="J'aiderai si je le peux."/>
     <string id="1rKPr3bJ" text="Vous n'avez aucun compagnon disponible à assigner à cette quête !"/>
     <string id="1s54uxsA" text="Désolé, je n'ai aucun animal pour vous cette fois."/>
-    <string id="1sETvu7b" text="You have to take healthy troops."/>
+    <string id="1sETvu7b" text="Vous devez prendre des troupes en bonne santé."/>
     <string id="1TX57OIu" text="Réduit la consommation de nourriture de votre groupe de 20%."/>
     <string id="1V6DRayw" text="Vous n'avez pas {BRIBE_COST} deniers."/>
     <string id="1V9GeKr8" text="Peuh... Je n'ai pas besoin d'autres hommes. Merci."/>
@@ -970,7 +970,7 @@
     <string id="dFcgXnQq" text="S'évader"/>
     <string id="DFkzQHRQ" text="« Pour toutes les soies de la Padishah{newline}Pour tous les deniers de l'Empereur{newline}Pour toutes les épices du lointain Orient... »"/>
     <string id="Dfl5WJfN" text="Assez parlé. En marche."/>
-    <string id="dfwCjiRx" text="Trade Tax from {A0}"/>
+    <string id="dfwCjiRx" text="Taxe commerciale de {A0}"/>
     <string id="dfyNVkFV" text="Devoirs de la Couronne"/>
     <string id="DG3JbOa2" text="Pour les décisions du royaume, le coût d'influence du souverain supplantant le résultat de la décision populaire est réduit de 20%."/>
     <string id="dGakGflE" text="Oui, votre Seigneurie, je le ferai avec plaisir."/>
@@ -1059,7 +1059,7 @@
     <string id="e3e79n9B" text="C'est tout ce à quoi je m'attendais capitaine. Je suis heureux que vous m'ayez emmené avec vous."/>
     <string id="E57VFXqU" text="Je veux bien."/>
     <string id="E5bgLJcs" text="Brise-Crâne"/>
-    <string id="E5XGVJGE" text="threshold "/>
+    <string id="E5XGVJGE" text="seuil"/>
     <string id="E8wdxbui" text="Très bien, j'accepte et je vous libère mais payez moi immédiatement."/>
     <string id="E9s2bjqw" text="Je ne peux qu'espérer qu'un jour vous puissiez changer d'avis."/>
     <string id="EA9YX6BQ" text="Votre clan est maintenant en guerre contre le seigneur {.de}{ISSUEGIVER.LINK}. Votre accord avec {ISSUEGIVER.LINK} a été annulé."/>
@@ -1099,7 +1099,7 @@
     <string id="eJuvk4om" text="Sage décision.[ib:closed][rb:positive]"/>
     <string id="EkkNQb5N" text="J'aime quand un guerrier inspire la peur dans le cœur de ses ennemis. Êtes-vous ce genre d'homme ?"/>
     <string id="Ekqj9IFR" text="Navigateur des prairies"/>
-    <string id="eL9RlPbj" text="Increase your speed damage bonus with polearms while mounted by 20%."/>
+    <string id="eL9RlPbj" text="Augmente de 20% votre bonus de dégâts de vitesse avec les armes d'hast lorsque vous êtes monté."/>
     <string id="elJCacQO" text="J'y travaille."/>
     <string id="eM1qFKNs" text="Tireur d'élite"/>
     <string id="emH1yQAs" text="d'échelon 1-2."/>
@@ -1116,7 +1116,7 @@
     <string id="EOaOlh39" text="En temps voulu. Ne soyons pas trop hâtifs."/>
     <string id="eOdr8GFs" text="-50% de troupes abandonnées lors d'une retraite. "/>
     <string id="EOQcQa5l" text="Conséquences"/>
-    <string id="EPbHr2DX" text="two healthy babies"/>
+    <string id="EPbHr2DX" text="deux bébés en bonne santé"/>
     <string id="epcc2knY" text="Eh bien, vous partez, non ? Il ne vous serait pas difficile de récupérer les {SELECTED_GOOD} dont nous avons besoin. Si vous pouviez m'apporter, disont... {SELECTED_AMOUNT} unités {.de}{SELECTED_GOOD} au lieu de les vendre aux marchands, je paierais volontiers {REWARD_AMOUNT}{GOLD_ICON} pour eux. Avec cela, les marchands devraient baisser leurs prix."/>
     <string id="EpmoBw3Z" text="Barter screen goes here"/>
     <string id="epnk9qIt" text="Nous nous opposons à une déclaration de guerre"/>
@@ -1504,7 +1504,7 @@
     <string id="ikDX1Fd7" text="Renvoyer les troupes"/>
     <string id="iKYSgoZx" text="Vous êtes un beau diable, je vous l'accorde."/>
     <string id="il2khBNl" text="Vous venez de piller ce groupe."/>
-    <string id="IL3QWZ93" text="{QUEST_GIVER.LINK}, un artisan {.de}{SETTLEMENT}, vous a raconté qu'un marchand {COUNTER_OFFER.LINK} demande des sommes d'argent absurdes pour des matières premières qu'{?QUEST_GIVER.GENDER}elle{?}il{\?} a besoin pour reprendre son travail. Il faudrait lui rapporter {REQUESTED_AMOUNT} unités {.de}{REQUESTED_GOOD}."/>
+    <string id="IL3QWZ93" text="{QUEST_GIVER.LINK}, un artisan {.de}{SETTLEMENT}, vous a raconté qu'un marchand {COUNTER_OFFER.LINK} demande des sommes d'argent absurdes pour des matières premières dont {?QUEST_GIVER.GENDER}elle{?}il{\?} a besoin pour reprendre son travail. Il faudrait lui rapporter {REQUESTED_AMOUNT} unités {.de}{REQUESTED_GOOD}."/>
     <string id="ilfezZHl" text="{SETTLEMENT} a été donné à {LEADER.NAME} {.pclan}{CLAN} avec un soutien égal de tous les votants."/>
     <string id="Ilh6hVTu" text="Logistique"/>
     <string id="IlRC9Drl" text="secte religieuse"/>
