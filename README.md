@@ -29,7 +29,7 @@ Elles sont situées dans le dossier du jeu : _Modules\FrenchTranslation\bin\Win6
 
 &nbsp;
 
-Ce mod est basé sur les fichiers de la traduction du mod "Bannerlord Traduction Francaise - French Translation --e1.4.0.0" qui ont été complétés afin de les faire fonctionner en version 1.4.3. Ce mod ne nécessite pas le précédent pour fonctionner.
+Ce mod est basé sur les fichiers de la traduction du mod "Bannerlord Traduction Francaise - French Translation --e1.4.0.0" qui ont été complétés afin de les faire fonctionner en version 1.5.0. Ce mod ne nécessite pas le précédent pour fonctionner.
 
 Ce projet est avant tout le fruit d'un travail communautaire et beaucoup de petites mains, parfois anonymes, y ont participé ce qui fait qu'on ne peut malheureusement pas citer tout le monde. Ce projet n'est pas exempt de défauts car il est impossible de garder une traduction homogène quand tant de monde participe à l'effort de guerre mais c'est ce que nous avons de plus à jour pour pouvoir jouer en Français à Bannerlord aujourd'hui. 
 On espère que vous apprécierez !
