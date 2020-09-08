@@ -4,52 +4,48 @@
     <tag language="Français" />
   </tags>
   <strings>
-    <string id="09gOOa0h" text="Rôdeur"/>
-    <string id="4C4WiTb2" text="Varyag"/>
-    <string id="6aqDcMPr" text="Armure maximum (55)"/>
-    <string id="8qg72H8Z" text="Guerrier tribal"/>
-    <string id="afhXdjBU" text="Nomade"/>
-    <string id="bHx8jaeI" text="Guerrier"/>
-    <string id="CAYZDsAj" text="Légionnaire"/>
-    <string id="cbnvgVhH" text="Pillard"/>
-    <string id="coursercavalryman" text="Cheval"/>
-    <string id="Cp7dI87a" text="Avant-garde"/>
-    <string id="DMxJJWxt" text="Recrue"/>
-    <string id="Dq1sCO1y" text="Arbalétrier"/>
-    <string id="eFWJjaBC" text="Personnage multijoueur"/>
-    <string id="eIk6jaOG" text="Lancier d'infanterie"/>
-    <string id="eM1qFKNs" text="Tireur d'élite"/>
-    <string id="eU0uANvZ" text="Archer monté"/>
-    <string id="fS5BIf3J" text="Assermenté"/>
-    <string id="ft6QaIms" text="Cataphractaire"/>
-    <string id="g9VIbA9s" text="Sergent"/>
-    <string id="gLlheMwd" text="Paysan conscrit"/>
-    <string id="guardnoun" text="Garde"/>
-    <string id="gytrdYMU" text="Mamelouk"/>
-    <string id="hchDYAKL" text="Lancier"/>
-    <string id="HCzbW0hE" text="Guerrier de clan"/>
-    <string id="huntertroop" text="Chasseur"/>
-    <string id="ieiqOaZp" text="Archer"/>
-    <string id="ixqTFMVA" text="Cavalier"/>
-    <string id="j5I7tYSd" text="Fiann"/>
-    <string id="k1Xr4rKn" text="Druzhinnik"/>
-    <string id="lar4lfKR" text="Garde du Khan"/>
-    <string id="LLKreyq7" text="Sauvageon"/>
-    <string id="LNfQk4MM" text="Armure minimum (0)"/>
-    <string id="My0a4Miq" text="Vougier"/>
-    <string id="naBbiK9v" text="Piétaille"/>
-    <string id="NJRUb0C1" text="Garde palatin"/>
-    <string id="nt7wUxIa" text="Bédouin"/>
-    <string id="q1tbZIR9" text="Armure moyenne amélioré (37)"/>
-    <string id="RssJTUpL" text="Berserker"/>
-    <string id="s9oED1IR" text="Tirailleur"/>
-    <string id="steppebowtroop" text="Arc des steppes"/>
-    <string id="Tm3CY9tC" text="Armure légère améliorée (12)"/>
-    <string id="TNQaD5p2" text="Archer milicien"/>
-    <string id="veterantroop" text="Vétéran"/>
-    <string id="WtEoXblx" text="Chevalier"/>
-    <string id="XeXJAB6a" text="Menavliaton"/>
-    <string id="yDiWi6SO" text="Sauvage"/>
-    <string id="ZKdiaaFo" text="Brigand"/>
+    <string id="09gOOa0h" text="Rôdeur" />
+    <string id="4C4WiTb2" text="Varyag" />
+    <string id="8qg72H8Z" text="Guerrier tribal" />
+    <string id="afhXdjBU" text="Nomade" />
+    <string id="bHx8jaeI" text="Guerrier" />
+    <string id="CAYZDsAj" text="Légionnaire" />
+    <string id="cbnvgVhH" text="Pillard" />
+    <string id="coursercavalryman" text="Cheval" />
+    <string id="Cp7dI87a" text="Avant-garde" />
+    <string id="DMxJJWxt" text="Recrue" />
+    <string id="Dq1sCO1y" text="Arbalétrier" />
+    <string id="eFWJjaBC" text="Personnage multijoueur" />
+    <string id="eIk6jaOG" text="Lancier d'infanterie" />
+    <string id="eM1qFKNs" text="Tireur d'élite" />
+    <string id="eU0uANvZ" text="Archer monté" />
+    <string id="fS5BIf3J" text="Assermenté" />
+    <string id="ft6QaIms" text="Cataphractaire" />
+    <string id="g9VIbA9s" text="Sergent" />
+    <string id="gLlheMwd" text="Paysan conscrit" />
+    <string id="guardnoun" text="Garde" />
+    <string id="gytrdYMU" text="Mamelouk" />
+    <string id="hchDYAKL" text="Lancier" />
+    <string id="HCzbW0hE" text="Guerrier de clan" />
+    <string id="huntertroop" text="Chasseur" />
+    <string id="ieiqOaZp" text="Archer" />
+    <string id="ixqTFMVA" text="Cavalier" />
+    <string id="j5I7tYSd" text="Fiann" />
+    <string id="k1Xr4rKn" text="Druzhinnik" />
+    <string id="lar4lfKR" text="Garde du Khan" />
+    <string id="LLKreyq7" text="Sauvageon" />
+    <string id="My0a4Miq" text="Vougier" />
+    <string id="naBbiK9v" text="Piétaille" />
+    <string id="NJRUb0C1" text="Garde palatin" />
+    <string id="nt7wUxIa" text="Bédouin" />
+    <string id="RssJTUpL" text="Berserker" />
+    <string id="s9oED1IR" text="Tirailleur" />
+    <string id="steppebowtroop" text="Arc des steppes" />
+    <string id="TNQaD5p2" text="Archer milicien" />
+    <string id="veterantroop" text="Vétéran" />
+    <string id="WtEoXblx" text="Chevalier" />
+    <string id="XeXJAB6a" text="Menavliaton" />
+    <string id="yDiWi6SO" text="Sauvage" />
+    <string id="ZKdiaaFo" text="Brigand" />
   </strings>
 </base>

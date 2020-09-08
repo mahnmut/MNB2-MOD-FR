@@ -29,7 +29,6 @@
     <string id="2QzgefNF" text="Poids visage" />
     <string id="2Rf2ChRD" text="Profondeur sourcils" />
     <string id="2uynGJbP" text="Transfert de troupes" />
-    <string id="39kMNdA5" text="Suppression de drapeau" />
     <string id="3AInGztr" text="Torse" />
     <string id="3APdsKEi" text="Couteaux de lancer" />
     <string id="3aX5gXmJ" text="Couleur de la peau" />
@@ -45,6 +44,7 @@
     <string id="4NaOKslb" text="-" />
     <string id="4PrfimcK" text="Badge" />
     <string id="4wLU6s4S" text="Abdomen" />
+    <string id="52YN6m2B" text="Dégâts d'arme d'hast renforcée délivrés!" />
     <string id="5LpufKs7" text="Suivez-moi" />
     <string id="5mSKBidd" text="Forme nez" />
     <string id="5odwu8qB" text="Classé" />
@@ -110,6 +110,7 @@
     <string id="bYCfMbYk" text="Changer votre équipe" />
     <string id="c1zu1b3M" text="Vous avez quitté le groupe." />
     <string id="c2tGH5II" text="Limite de temps d'échauffement (minutes)" />
+    <string id="captainasgame" text="Capitaine" />
     <string id="cBZ6OlKW" text="Javelot" />
     <string id="ccROnOY3" text="Dégâts reçus avec la lance couchée !" />
     <string id="CFI2aDtg" text="Armure de monture" />
@@ -120,8 +121,9 @@
     <string id="Cl3TziQE" text="Votre monture a reçu {DAMAGE} dégâts de chute." />
     <string id="CoxEyDa8" text="Gantelet" />
     <string id="cPbHqGrI" text="Expulser un joueur" />
+    <string id="cSui4APH" text="Objectif Détruit" />
+    <string id="d1ogH1v1" text="Château de Tsagaan" />
     <string id="d3RJm2zW" text="Hauteur mâchoire" />
-    <string id="DdOgvhsV" text="Expulser" />
     <string id="DHlVSaZW" text="Vitesse de déplacement relative : {SPEED} m/s" />
     <string id="DKqLY1aJ" text="Équiper" />
     <string id="dojUqbv8" text="Longueur nez" />
@@ -142,10 +144,8 @@
     <string id="f5y9qyDb" text="Bras" />
     <string id="F6dUDgg3" text="Défaite" />
     <string id="F6l8hFEA" text="Falaises d'Akkalat" />
-    <string id="F70rOpkK" text="Capitaine" />
     <string id="fFLBT9wb" text="Torse" />
     <string id="FFNJTsDL" text="Expulser un joueur" />
-    <string id="fFULSlYb" text="Dégâts additionnels dûs aux compétences : {EXTRA_DAMAGE}" />
     <string id="fGFMqlGz" text="Genre" />
     <string id="FgJpTBp1" text="Les tirs alliés à distance blessent le joueur" />
     <string id="fjD2tRXW" text="Avancée menton" />
@@ -177,7 +177,6 @@
     <string id="ig0lsiwY" text="Soldats" />
     <string id="iJXH3841" text="Éparse" />
     <string id="IKn1YxU2" text="Pourcentage de gain en deniers des attaquants" />
-    <string id="imTtoHqW" text="Enregistrer comme Coop" />
     <string id="ImWyFyld" text="Position bouche" />
     <string id="irGCyJaY" text="Nombre de tués" />
     <string id="iTau5cxh" text="Moyen" />
@@ -212,6 +211,7 @@
     <string id="likop0am" text="Commencer un vote" />
     <string id="LkiQDpi5" text="Taille oreille" />
     <string id="LmkYgWnF" text="Taille yeux" />
+    <string id="Lz6ggWch" text="Réduction de dégâts des bonus et effets : {MODIFIED_DAMAGE}" />
     <string id="M1RCJ9DM" text="Troisième aide" />
     <string id="m3zVR2UH" text="Montrer souris : [{KEY_NAME}]" />
     <string id="m5UdbzHr" text="Pas de région sélectionnée" />
@@ -219,6 +219,9 @@
     <string id="MH9Pi3ao" text="Faites face à la direction" />
     <string id="mjhOYJWg" text="Le carquois est vide." />
     <string id="MnM0L4AV" text="Pas en Multijoueur" />
+    <string id="MnvK3eK2" text="Objectif atteint" />
+    <string id="mountnoun" text="Monter" />
+    <string id="mountverb" text="Monter" />
     <string id="MQqaKRtn" text="{SHORTCUT} Mouvement" />
     <string id="MS795wWa" text="Premier coup" />
     <string id="MW8rlyfL" text="Lancer" />
@@ -227,6 +230,7 @@
     <string id="NqarFr4P" text="Options" />
     <string id="nt5MOuwo" text="Dune" />
     <string id="nUR7rs6y" text="Passez directement à l'action dans cette version médiévale d'un mode de jeu JcJ classique. " />
+    <string id="nx5W7jN0" text="Dégâts d'arme d'hast renforcée reçus !" />
     <string id="nXE6eV8W" text="Lac" />
     <string id="NxeQasMb" text="{SHORTCUT} Tirez" />
     <string id="o5Ead68n" text="Quitter sans sauvegarder" />
@@ -240,6 +244,7 @@
     <string id="OviaJ1tA" text="Autres" />
     <string id="ox8XcxfR" text="Forme oreille" />
     <string id="OZHFucP5" text="Grimacer/Sourire" />
+    <string id="OzifZbSB" text="Type de match" />
     <string id="pa4yXyDa" text="{PLAYER_COUNT} contre {PLAYER_COUNT}" />
     <string id="pagmdsCK" text="Hauteur paupières" />
     <string id="PbLuHcJg" text="Dégâts absorbés : {ABSORBED_DAMAGE}" />
@@ -273,6 +278,7 @@
     <string id="R4Gqskgq" text="Victoire" />
     <string id="rbYITcao" text="Bouche" />
     <string id="rbz1Bwbv" text="Inventaire" />
+    <string id="RDsOaEtS" text="Dégâts supplémentaires des bonus et effets : {MODIFIED_DAMAGE}" />
     <string id="RJEHDWmu" text="·   Achetez des réapparitions limitées en utilisant de l'or {newline} ·   Gardez les points de contrôle sur la carte pour épuiser le moral de l'ennemi{newline}·   Tuez toute l'équipe ennemie ou épuisez son moral pour gagner" />
     <string id="RlDVtPpB" text="Profondeur yeux" />
     <string id="rLozutts" text="Demande d'ami" />
@@ -281,8 +287,10 @@
     <string id="Rvr1bcu8" text="Suivant" />
     <string id="Sbna6UGb" text="Visage d'enfant" />
     <string id="sBU9vyF1" text="Coup à la tête !" />
+    <string id="scoreboardkick" text="Expulser" />
     <string id="SdxEH6b1" text="Lèvre inférieure" />
     <string id="SfJgnzdq" text="Couper le son" />
+    <string id="siegemultiplayergametype" text="Siège" />
     <string id="sisK3HPI" text="Vous êtes muet." />
     <string id="SN2ojCFr" text="Peau entière" />
     <string id="SNLShTzq" text="Score" />
@@ -319,7 +327,6 @@
     <string id="u8j8nN5U" text="Faites face à l'ennemi" />
     <string id="UbMCCh8L" text="Arête nez" />
     <string id="uCyQNvq1" text="Écheveau" />
-    <string id="uGM8DWrm" text="Monter" />
     <string id="UHIZLFBn" text="Tué {TROOP_NAME}" />
     <string id="Umb8XsZH" text="Perforant" />
     <string id="umhwsoqb" text="Choisissez la troupe désirée au début du tour et pour les prochaines apparitions en utilisant des deniers." />
@@ -364,6 +371,7 @@
     <string id="WxM16s2Y" text="Forêt de Druimmor" />
     <string id="wxzhtvZR" text="Temps de réapparition des défenseurs" />
     <string id="x1QEJna0" text="Plus large" />
+    <string id="xhnV76OL" text="Débarquement de Skala" />
     <string id="xILeUbY3" text="Panneau d'administration" />
     <string id="Xj2FCkQl" text="Liste des serveurs personnalisés" />
     <string id="xoXWGYVI" text="·   Utilisez divers engins de siège pour attaquer ou défendre les points de contrôle {newline}·   Les points d'apparition avancent au fur et à mesure que les points de contrôle sont capturés {newline}·   Assaillez avec succès et tenez le drapeau du donjon ou repoussez l'ennemi pour gagner" />
@@ -375,11 +383,11 @@
     <string id="xXQN7Go6" text="Bridage yeux" />
     <string id="XZU9SyQW" text="Jeu rapide" />
     <string id="XzZFhRwr" text="Retour au jeu" />
-    <string id="Ybvu10zM" text="Siège" />
     <string id="ycCmfxhJ" text="Cinquième tué" />
     <string id="yClOSxT8" text="Définition nez" />
     <string id="yfa7tpbK" text="Tout" />
     <string id="YhDDXj0I" text="Canyon" />
+    <string id="YNkPy4ta" text="Match de clan" />
     <string id="YoNYyLba" text="Lance" />
     <string id="yQtzabbe" text="Fermer" />
     <string id="YRabuUqx" text="Encerclement de Baravenos" />

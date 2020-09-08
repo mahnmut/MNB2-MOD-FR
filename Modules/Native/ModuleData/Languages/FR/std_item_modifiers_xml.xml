@@ -4,44 +4,44 @@
     <tag language="Français" />
   </tags>
   <strings>
-    <string id="3FdaOPBi" text="{ITEMNAME} calciné{.es}"/>
-    <string id="3JaHZA3Y" text="Grand sac {.de}{ITEMNAME}"/>
-    <string id="4nprSS1a" text="{ITEMNAME} flexible{.s}"/>
-    <string id="582QaBL6" text="{ITEMNAME} léger{.es}"/>
-    <string id="5yVgXqQr" text="{ITEMNAME} usé{.es}"/>
-    <string id="6MVH4JVN" text="{ITEMNAME} empesé{.es}"/>
-    <string id="85WO1MKG" text="{ITEMNAME} de bonne facture"/>
-    <string id="8Pd6fLoy" text="{ITEMNAME} fragmenté{.es}"/>
-    <string id="8Tal0XIj" text="{ITEMNAME} de maître"/>
-    <string id="ajjSonIo" text="{ITEMNAME} robuste{.s}"/>
-    <string id="ajLElAyS" text="{ITEMNAME} lesté{.es}"/>
-    <string id="B14fVQHG" text="{ITEMNAME} teinté{.es}"/>
-    <string id="BA9c7gPb" text="{ITEMNAME} épais{.es}"/>
-    <string id="bAdxUq7s" text="{ITEMNAME} de qualité"/>
-    <string id="br0N6SSH" text="{ITEMNAME} fissuré{.es}"/>
-    <string id="bWhJwHA1" text="{ITEMNAME} desserré{.es}"/>
-    <string id="bXYcvUcR" text="{ITEMNAME} abîmé{.es}"/>
-    <string id="CAP1BUjL" text="{ITEMNAME} durci{.es}"/>
-    <string id="CCKZv6GM" text="{ITEMNAME} ébréché{.es}"/>
-    <string id="dXjbxaKQ" text="{ITEMNAME} en décomposition"/>
-    <string id="eb4miTUB" text="{ITEMNAME} tordu{.es}"/>
-    <string id="fdgcpipH" text="{ITEMNAME} équilibré{.es}"/>
-    <string id="geUpgQI5" text="{ITEMNAME} boiteux"/>
-    <string id="H30eaZdf" text="{ITEMNAME} lourd{.es}"/>
-    <string id="l7QEpVwU" text="{ITEMNAME} rouillé{.es}"/>
-    <string id="O0EcDd0a" text="{ITEMNAME} effiloché{.es}"/>
-    <string id="Pbb94NdW" text="{ITEMNAME} déchiré{.es}"/>
-    <string id="PobRGG9S" text="{ITEMNAME} cabossé{.es}"/>
-    <string id="Q5HVyNWJ" text="{ITEMNAME} ajusté{.es}"/>
-    <string id="rpUIBrOu" text="{ITEMNAME} souple{.s}"/>
-    <string id="RwBOv1Mz" text="{ITEMNAME} rudimentaire{.s}"/>
-    <string id="SbNbqhOX" text="{ITEMNAME} déchiré{.es}"/>
-    <string id="TePk4BSJ" text="{ITEMNAME} frappé{.es}"/>
-    <string id="w3jn7Ahz" text="{ITEMNAME} noble{.s}"/>
-    <string id="WbaIorOh" text="{ITEMNAME} calibré{.es}"/>
-    <string id="WK5y3PyJ" text="{ITEMNAME} rapide{.s}"/>
-    <string id="xeb1b5PQ" text="{ITEMNAME} raffiné{.es}"/>
-    <string id="y3TvYqhG" text="{ITEMNAME} ancienne"/>
-    <string id="zbs4c6sG" text="{ITEMNAME} renforcé{.es}"/>
+    <string id="3FdaOPBi" text="{ITEMNAME} calciné{.es}" />
+    <string id="3JaHZA3Y" text="Grand sac {.de}{ITEMNAME}" />
+    <string id="4nprSS1a" text="{ITEMNAME} flexible{.s}" />
+    <string id="582QaBL6" text="{ITEMNAME} léger{.es}" />
+    <string id="5yVgXqQr" text="{ITEMNAME} usé{.es}" />
+    <string id="6MVH4JVN" text="{ITEMNAME} empesé{.es}" />
+    <string id="85WO1MKG" text="{ITEMNAME} de bonne facture" />
+    <string id="8Pd6fLoy" text="{ITEMNAME} fragmenté{.es}" />
+    <string id="8Tal0XIj" text="{ITEMNAME} de maître" />
+    <string id="ajjSonIo" text="{ITEMNAME} robuste{.s}" />
+    <string id="ajLElAyS" text="{ITEMNAME} lesté{.es}" />
+    <string id="B14fVQHG" text="{ITEMNAME} teinté{.es}" />
+    <string id="BA9c7gPb" text="{ITEMNAME} épais{.es}" />
+    <string id="bAdxUq7s" text="{ITEMNAME} de qualité" />
+    <string id="br0N6SSH" text="{ITEMNAME} fissuré{.es}" />
+    <string id="bWhJwHA1" text="{ITEMNAME} desserré{.es}" />
+    <string id="bXYcvUcR" text="{ITEMNAME} abîmé{.es}" />
+    <string id="CAP1BUjL" text="{ITEMNAME} durci{.es}" />
+    <string id="CCKZv6GM" text="{ITEMNAME} ébréché{.es}" />
+    <string id="dXjbxaKQ" text="{ITEMNAME} en décomposition" />
+    <string id="eb4miTUB" text="{ITEMNAME} tordu{.es}" />
+    <string id="fdgcpipH" text="{ITEMNAME} équilibré{.es}" />
+    <string id="geUpgQI5" text="{ITEMNAME} boiteux" />
+    <string id="H30eaZdf" text="{ITEMNAME} lourd{.es}" />
+    <string id="l7QEpVwU" text="{ITEMNAME} rouillé{.es}" />
+    <string id="O0EcDd0a" text="{ITEMNAME} effiloché{.es}" />
+    <string id="Pbb94NdW" text="{ITEMNAME} déchiré{.es}" />
+    <string id="PobRGG9S" text="{ITEMNAME} cabossé{.es}" />
+    <string id="Q5HVyNWJ" text="{ITEMNAME} ajusté{.es}" />
+    <string id="rpUIBrOu" text="{ITEMNAME} souple{.s}" />
+    <string id="RwBOv1Mz" text="{ITEMNAME} rudimentaire{.s}" />
+    <string id="SbNbqhOX" text="{ITEMNAME} déchiré{.es}" />
+    <string id="TePk4BSJ" text="{ITEMNAME} frappé{.es}" />
+    <string id="w3jn7Ahz" text="{ITEMNAME} noble{.s}" />
+    <string id="WbaIorOh" text="{ITEMNAME} calibré{.es}" />
+    <string id="WK5y3PyJ" text="{ITEMNAME} rapide{.s}" />
+    <string id="xeb1b5PQ" text="{ITEMNAME} raffiné{.es}" />
+    <string id="y3TvYqhG" text="{ITEMNAME} ancienne" />
+    <string id="zbs4c6sG" text="{ITEMNAME} renforcé{.es}" />
   </strings>
 </base>

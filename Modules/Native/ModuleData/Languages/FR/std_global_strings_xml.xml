@@ -130,6 +130,7 @@
     <string id="cAkgnVr5" text="Num Lock" />
     <string id="CbwmI1JY" text="Active la profondeur de champ." />
     <string id="combatkick" text="Coup de pied / Frapper" />
+    <string id="controlgamekey" text="Control" />
     <string id="cp80Mq2W" text=";" />
     <string id="Crf6Z1S5" text="Page haut" />
     <string id="CsEtp6Az" text="Groupe 3" />
@@ -294,6 +295,7 @@
     <string id="MkKL3Y4P" text="Pavé numérique 7" />
     <string id="mLtHlKzD" text="Alt droite" />
     <string id="MNsKxGzK" text="Cache pour streaming de texture" />
+    <string id="mS1cpD6w" text="Active la souris lorsque le tableau des scores est ouvert." />
     <string id="mueocuFG" text="Afficher les indicateurs" />
     <string id="mWnA4X5D" text="Sélectionner l'ordre 6" />
     <string id="MXHkvySm" text="F7" />
@@ -326,6 +328,7 @@
     <string id="PADeKaAu" text="Menu contextuel de la carte" />
     <string id="PksJtzwJ" text="Espace" />
     <string id="Pkw17hO0" text="Vitesse de combat" />
+    <string id="PmbKYDON" text="Acclamation" />
     <string id="pnEeRPAk" text="Audio Groupe 7" />
     <string id="pNocZkrx" text="Active la vision des dégâts encaissés" />
     <string id="PPFFxlsX" text="Choisir comment effectuer des blocages." />
@@ -369,6 +372,7 @@
     <string id="rYCYUZu5" text="Audio Groupe 5" />
     <string id="s4r1xdg0" text="Audio Groupe 6" />
     <string id="s533kEjf" text="Volume de la musique" />
+    <string id="s5EnYLUp" text="Acclamation sur clic. Ouvre la roue d'acclamation en maintenant le clic." />
     <string id="s6qTeIw1" text="Définit la sensibilité pour le déplacement de la souris et le contrôle de la caméra." />
     <string id="s7yWjpeB" text="Adaptateur sélectionné" />
     <string id="sAa2SIgO" text="Vous pouvez basculer entre différents modes de mixage mieux adaptés à la configuration de vos enceintes." />
@@ -424,6 +428,7 @@
     <string id="urSa4wQG" text="Montrer les bannières sur les troupes amies" />
     <string id="uRXlSUVh" text="N" />
     <string id="uSGPBRFS" text="Zoomer" />
+    <string id="USKys6FV" text="Afficher la souris" />
     <string id="UTU6yVsp" text="Reprendre le temps sur la carte de campagne." />
     <string id="uUHUfeQr" text="Sélectionner le groupe 6" />
     <string id="UwJIMaRi" text="Qualité des shaders" />
@@ -509,7 +514,6 @@
     <string id="ZaaPPemL" text="Sélectionner l'ordre 8" />
     <string id="ZeIsxhk4" text="Définit la technique de filtrage des ombres." />
     <string id="ZewnkWoO" text="G" />
-    <string id="zfRqM4mr" text="Control" />
     <string id="Zgs47DHB" text="Verrouillage majuscule" />
     <string id="ZIKuUbUG" text="Définit le nombre de simulations de ragdolls simultanées." />
     <string id="znSZmZvV" text="Déplacement à droite sur la carte" />

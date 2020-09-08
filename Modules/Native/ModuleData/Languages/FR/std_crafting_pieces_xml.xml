@@ -1,683 +1,683 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Français" />
   </tags>
   <strings>
-    <string id="03YrcAtx" text="Poignée à deux mains enveloppée de cuir"/>
-    <string id="0gteBOD7" text="Tête de bardiche"/>
-    <string id="0kP9bf7n" text="Manche de faucille"/>
-    <string id="0LJtoZtW" text="Garde de cimeterre fourchue et gravée"/>
-    <string id="0SpLcthg" text="Tête de gourdin à pointes des hautes-terres"/>
-    <string id="0Y0kaTwm" text="Lame de spatha"/>
-    <string id="13lb5at6" text="Manche en acajou enveloppée de peau"/>
-    <string id="19a3jJ1s" text="Lame de grand sabre striée"/>
-    <string id="1ajbJdao" text="Pommeau droit"/>
-    <string id="1auabxxv" text="Garde plate arrondie"/>
-    <string id="1e9OaUWk" text="Tête de masse légère orientale"/>
-    <string id="1Ia3Wxbf" text="Lame de falx en acier supérieur"/>
-    <string id="1nGcpiom" text="Pommeau arrondi ornementé"/>
-    <string id="1NSafswc" text="Tête de hache gallogaich"/>
-    <string id="1pvLe1Mh" text="Pommeau d'ild"/>
-    <string id="1rGNXUaJ" text="Tête d'atgeir en acier supérieur"/>
-    <string id="1T0XBYlc" text="Manche de hache à deux mains en chêne durci"/>
-    <string id="1yEQNTG1" text="Longue tête de shestopyor"/>
-    <string id="1zRo3td4" text="Poignée en corne boulonnée à deux mains"/>
-    <string id="22f2NR2N" text="Long manche noueux en frêne"/>
-    <string id="26KZ6S7F" text="Pommeau décoré oriental"/>
-    <string id="29OXRdZu" text="Garde étroite conique"/>
-    <string id="2FLWuksh" text="Poignée battania"/>
-    <string id="2Fq1t169" text="Poignée à deux mains septentrionale"/>
-    <string id="2LrkLq5M" text="Garde de dague longue septentrionale"/>
-    <string id="2MNfdGZQ" text="Poignée d'épée longue en corne renforcée recouverte de cuir supérieur"/>
-    <string id="2mo4gsuh" text="Lame de rasoir de guerre"/>
-    <string id="2noNmMPc" text="Garde large somptueuse impériale "/>
-    <string id="2OWBegq6" text="Garde d'épée de guerre épaisse gravée"/>
-    <string id="2XBuTBru" text="Poignée longue en forme de sablier septentrionale"/>
-    <string id="35tXR29a" text="Poignée longue simple orientale"/>
-    <string id="37DVF96v" text="Garde de dague en forme croissant de lune"/>
-    <string id="38vt2VVz" text="Pommeau large"/>
-    <string id="3aXHbrFV" text="Longue poignée en bambou avec pointe en métal"/>
-    <string id="3cIsT4ZK" text="Garde de poignard large"/>
-    <string id="3ged5Ozt" text="Glaive exceptionnel oriental"/>
-    <string id="3Q3FFqu0" text="Tête de masse royale légère"/>
-    <string id="3tCye4Iw" text="Pommeau de longue lance"/>
-    <string id="3uUaFQ9Y" text="Garde en forme de marteau avec gravures"/>
-    <string id="3VCyUu2h" text="Garde de dague orientale fine"/>
-    <string id="3VoW9qZs" text="Poignée d'épée dorée"/>
-    <string id="3wn1WbIx" text="Lame longue de kaskara striée"/>
-    <string id="3wXjMEwI" text="Poignée d'épée recouverte de cuir segmentée"/>
-    <string id="3Y7plSBX" text="Lame d'épée large en fer"/>
-    <string id="3ZyRhmke" text="Poignée de sabre courte"/>
-    <string id="45k6EEUu" text="Pommeau en fer"/>
-    <string id="47UEgMpD" text="Poignée en chêne avec pommeau pointu"/>
-    <string id="4FnOKgB6" text="Garde de dague impériale en croissant"/>
-    <string id="4Ilo91CO" text="Tête de hache de bataille occidentale"/>
-    <string id="4MZvoVyI" text="Pommeau de lance riveté à bout rond"/>
-    <string id="4OefdTD1" text="Lame de gladius courte et striée"/>
-    <string id="4Olvmpen" text="Poignée à une main en cuir rugueux torsadée"/>
-    <string id="4t0EyE1B" text="Poignée à deux mains en cuir tissé"/>
-    <string id="4TvA6YaC" text="Poignée d'épée marbrée"/>
-    <string id="4VIUHmbP" text="Manche décorée de masse en acier"/>
-    <string id="4XytssVk" text="Garde demi-lune"/>
-    <string id="4z3U5ubo" text="Garde d'épée de guerre dorée"/>
-    <string id="57DBqJd1" text="Manche de masse recouvert de cuir épais"/>
-    <string id="5ALE9Joh" text="Tête de faux de guerre"/>
-    <string id="5GR6xb8a" text="Poignée d'outil"/>
-    <string id="5KvdG6ep" text="Garde chevaleresque dorée en forme de croissant"/>
-    <string id="5NeanDJM" text="Pommeau en anneau"/>
-    <string id="5o5DaSHZ" text="Lame de poignard large"/>
-    <string id="5V0QR20o" text="Poignée à une main recouverte en cuir brut cloutée"/>
-    <string id="5Xoa1EFa" text="Lame d'épée au plat gravée"/>
-    <string id="61A1VUw8" text="Garde en bronze arrondie"/>
-    <string id="61hjmt0T" text="Pommeau triangulaire"/>
-    <string id="62biJ5O5" text="Poignée a une main en cuir des hautes-terres"/>
-    <string id="6BMAGMRu" text="Garde plate"/>
-    <string id="6Da4uzZO" text="Garde chevaleresque large gravée"/>
-    <string id="6HybYLtu" text="Poignée à une main septentrionale recouverte de cuir"/>
-    <string id="6I4lZs47" text="Pommeau de lance"/>
-    <string id="6PD2rBbf" text="Poignée à une main conique en cuir"/>
-    <string id="6xkt7bxz" text="Tête de masse lourde royale"/>
-    <string id="6ZW9fOUJ" text="Garde de kaskara dorée"/>
-    <string id="71588OX7" text="Manche en bambou"/>
-    <string id="7EZbFRaG" text="Manche renforcé en pin"/>
-    <string id="7JjctWr3" text="Garde de marteau chevaleresque gravée"/>
-    <string id="7lRnhAgf" text="Poignée d'épée à deux mains septentrionale en forme de sablier "/>
-    <string id="7ZWtiHKj" text="Longue lame de guerre"/>
-    <string id="85jApGfe" text="Garde de dague arrondie"/>
-    <string id="87BmkiMO" text="Manche de masse noueux"/>
-    <string id="89QyC7eD" text="Garde étroite septentrionale"/>
-    <string id="8gW1o7iH" text="Pommeau lobé occidental"/>
-    <string id="8OaZSfaZ" text="Poignée d'épée en cuir brut fendu"/>
-    <string id="8olqutaL" text="Poignée d'épée à deux mains septentrionale"/>
-    <string id="8S6ZYPFD" text="Tête de hache ronde en acier de bonne qualité"/>
-    <string id="8T7gNbfM" text="Tête de lance percée en forme de feuille"/>
-    <string id="8x9klENe" text="Garde de manche renforcée par des rivets segmentés"/>
-    <string id="8yb60cDi" text="Manche de longue lance en acajou"/>
-    <string id="8ZbL3exH" text="Pommeau arrondis"/>
-    <string id="9aYBy1RN" text="Tête de lance à fine feuille d'acier"/>
-    <string id="9HgtH0Nb" text="Garde de lance ondulée"/>
-    <string id="9HMxA4AU" text="Manche de masse en fer"/>
-    <string id="9JMatUNQ" text="Poignée à deux mains usée septentrionale"/>
-    <string id="9JxsngjD" text="Garde de kaskara en argent gravée"/>
-    <string id="9PgS5SzW" text="Poignée à une main en fer renforcée en forme de corne"/>
-    <string id="9phikaHT" text="Garde de dague en forme de croissant orientale"/>
-    <string id="9qaanOpL" text="Pommeau septentrional"/>
-    <string id="9T2KA9sk" text="Poignée en acier décorée en or"/>
-    <string id="9Y1zUaE7" text="Pommeau rond impérial"/>
-    <string id="A06HEqvF" text="Accessoire de lance en aile"/>
-    <string id="a0erBuF1" text="Tête de hache avec crochet"/>
-    <string id="A1m12E8N" text="Garde de dague longue"/>
-    <string id="a4qSDsmb" text="Garde d'épée à deux mains dorée impériale"/>
-    <string id="a860bQ4f" text="Pommeau plat"/>
-    <string id="AA4WhCGw" text="Garde de dague plate"/>
-    <string id="aaEv3sBU" text="Manche de javeline en chêne"/>
-    <string id="aalvbENh" text="Pommeau du désert"/>
-    <string id="abLXJ3L3" text="Pommeau de masse façonné"/>
-    <string id="aBnaaaHv" text="Lame de scramasaxe longue"/>
-    <string id="Ac4kblsm" text="Poignée à deux mains recouverte de peau septentrionale"/>
-    <string id="aFxc3ZVL" text="Garde en disque concave"/>
-    <string id="AGfMPOWB" text="Manche de masse angulaire en acier supérieur"/>
-    <string id="aGtEhibt" text="Pommeau rond septentrional"/>
-    <string id="aj59KGOS" text="Poignée à deux mains recouverte de cuir brut"/>
-    <string id="ajVcY9v6" text="Tête de hache avec petit marteau"/>
-    <string id="AkfEFzkk" text="Garde en bol"/>
-    <string id="AKJzOQkF" text="Lame de sabre septentrionale"/>
-    <string id="aKpVHE2g" text="Garde en forme d'ailes recouverte de fourrure"/>
-    <string id="ALO9gw69" text="Tête de hache à deux mains petite et carré"/>
-    <string id="alti0PsZ" text="Lame d'épée de guerre pointue"/>
-    <string id="AM6iuDAv" text="Garde de dague en forme de diamant"/>
-    <string id="AO2BfABx" text="Pommeau champignon"/>
-    <string id="Ao7c1VrC" text="Pommeau triangulaire septentrionale"/>
-    <string id="AObgGzg9" text="Poignée à une main en corne boulonnée"/>
-    <string id="aPr8NPdo" text="Tête d'arme d'hast en fer occidentale"/>
-    <string id="aQa3tp6Q" text="Manche long en pin décoré"/>
-    <string id="artqaNEi" text="Garde arrondie en fer"/>
-    <string id="ASGZJW85" text="Poignée à une main de spatha en fer segmentée"/>
-    <string id="aTnuOUCC" text="Lame de kaskara en acier thamaskene"/>
-    <string id="AtNVVwTF" text="Manche court en pin"/>
-    <string id="aUJaQmN1" text="Poignée à deux mains renforcée parée de bijoux "/>
-    <string id="aVBGVt7N" text="Poignée effilée"/>
-    <string id="Aw7Veoaa" text="Poignée angulaire en fer recouverte de cuir brut"/>
-    <string id="az6t2tOm" text="Garde striée septentrionale"/>
-    <string id="azjW7lAg" text="Garde d'ild gravée"/>
-    <string id="aZp1ur9Q" text="Pommeau en forme de calice"/>
-    <string id="b1KGhVwD" text="Garde concave septentrionale"/>
-    <string id="b30mn7KF" text="Lame de khanjar"/>
-    <string id="b994mQnI" text="Garde de dague ailée en laiton"/>
-    <string id="b9bboB3v" text="Tête de masse d'infanterie méridionale"/>
-    <string id="baQ99nza" text="Manche long en frêne"/>
-    <string id="bCCYhnbY" text="Poignée en cuir naturel"/>
-    <string id="bCZ6V3uY" text="Garde de dague à tête de serpent"/>
-    <string id="bEbyObu7" text="Poignée à une main dorée parée de bijou"/>
-    <string id="Bej5R7tP" text="Garde de dague en forme de couronne"/>
-    <string id="bEQETxjB" text="Pommeau strié"/>
-    <string id="bfE00BnK" text="Manche de masse pommelée en fer"/>
-    <string id="bfueDx6s" text="Manche de grande hache en chêne lourdement renforcé"/>
-    <string id="bGaOu7rO" text="Garde de dague plate orientale"/>
-    <string id="bGfs8gNv" text="Lame d'épée dorsale septentrionale"/>
-    <string id="bjQ8J71a" text="Tête de glaive longue"/>
-    <string id="BKHKQ15N" text="Pommeau turquoise"/>
-    <string id="bki9u9FW" text="Lame d'épée avec un cercle dorée"/>
-    <string id="BL96pnde" text="Poignée à une main recouverte de cuir brut"/>
-    <string id="blaVlvm2" text="Lame d'épée de guerre courte décorée"/>
-    <string id="bM8kSewD" text="Garde striée septentrionale"/>
-    <string id="booEob1z" text="Pommeau en anneau"/>
-    <string id="bP6SBz4s" text="Garde en or pressée impériale"/>
-    <string id="bPUXlfs8" text="Poignée d'ild décorée orientale"/>
-    <string id="BQ3hMy9D" text="Pommeau à tête de cheval"/>
-    <string id="bQkJSHCt" text="Poignée à deux mains en bronze avec spirale en argent"/>
-    <string id="bQzz8mc3" text="Manche de hache de lancer en pin"/>
-    <string id="BtXFrrVj" text="Garde concave épaisse"/>
-    <string id="BXW4LeQT" text="Lame courte à gouttière"/>
-    <string id="bZbW2UEE" text="Garde de dague large orientale"/>
-    <string id="bzr1DEgS" text="Garde de dague étoilée méridionale"/>
-    <string id="c1YI2Nxt" text="Lame de spatha en fer"/>
-    <string id="C2hTDlWq" text="Lame de sabre lourde"/>
-    <string id="C89rbAz6" text="Lame d'épée chevaleresque"/>
-    <string id="cag70E1F" text="Tête de pernach"/>
-    <string id="cbHjFPEb" text="Poignée d'épée bâtarde recouverte de cuir supérieur des hautes-terres"/>
-    <string id="CdBAvJdP" text="Tête de kontos"/>
-    <string id="CE1IQiEU" text="Poignée d'épée recouverte de cuir supérieur en spirale"/>
-    <string id="cEU66ABf" text="Tête de hache de combat septentrionale"/>
-    <string id="cFTzptut" text="Poignée en acajou"/>
-    <string id="CiZRwdet" text="Garde plate orientale"/>
-    <string id="cK6D7cyn" text="Grande tête de francisque"/>
-    <string id="CKKaarrY" text="Poignée en fer recouverte de cuir"/>
-    <string id="CODGBskg" text="Lame de sabre longue"/>
-    <string id="cuxuEx40" text="Garde à facettes ovale"/>
-    <string id="czhTpYo8" text="Lame de sabre en fer"/>
-    <string id="d2kOHsY7" text="Poignée de glaive décorée"/>
-    <string id="d4aLa7tz" text="Pommeau haut"/>
-    <string id="d4bVwnK8" text="Poignée à deux mains recouverte de cuir écrasé"/>
-    <string id="dafrn0mR" text="Lame de spatha en acier Thamaskene"/>
-    <string id="dbmuyJcf" text="Pommeau à facettes méridional"/>
-    <string id="dBVMNui8" text="Poignée à deux mains effilée renforcée de fer"/>
-    <string id="dCco8dRt" text="Garde de dague plate"/>
-    <string id="Dd7fJ9aL" text="Poignée d'épée longue fendue recouverte de cuir brut"/>
-    <string id="DEpwMMql" text="Garde de dague perforée méridionale"/>
-    <string id="dgjXkbuA" text="Pommeau owlseye"/>
-    <string id="DiAHIRxm" text="Garde de sabre gravée"/>
-    <string id="DID87A6l" text="Poignée recouverte de cuir tissé"/>
-    <string id="Dix4EYD8" text="Tête de maillet"/>
-    <string id="DkhuNoTH" text="Poignée à une main en bois"/>
-    <string id="dlnciENS" text="Garde en bois"/>
-    <string id="DLvSnz8U" text="Garde gravée des hautes-terres"/>
-    <string id="dnd2hafw" text="Poignée grossière enveloppée"/>
-    <string id="do4vZhh4" text="Garde mince et effilée"/>
-    <string id="dpft1I1B" text="Garde fine occidentale"/>
-    <string id="Dsf9JE8N" text="Crochet en bois"/>
-    <string id="dTkiV4i6" text="Pommeau bateau"/>
-    <string id="dtSrK9bs" text="Lame de scramasaxe large"/>
-    <string id="DVe5SkQA" text="Double ailes crochues septentrional"/>
-    <string id="dvm8sTr9" text="Pommeau en bois"/>
-    <string id="DXLlcbf9" text="Manche de javeline en frêne"/>
-    <string id="dXRt8jY4" text="Tête de menavlion"/>
-    <string id="DzncFcGk" text="Pommeau de kheshigs"/>
-    <string id="e1DF7wbz" text="Manche en frêne durci"/>
-    <string id="E7cNp0rF" text="Pommeau de lance riveté"/>
-    <string id="eapPaDKi" text="Garde d'épée de guerre épaisse en argent "/>
-    <string id="EBlx3VId" text="Lame grossière des hautes-terres"/>
-    <string id="EbucFMZq" text="Garde de dague large orientale"/>
-    <string id="eBxzZ1SW" text="Poignée à une main renforcée parée de bijoux"/>
-    <string id="edg8bnXX" text="Garde de dague striée septentrionale"/>
-    <string id="eeFrva8L" text="Pommeau troué"/>
-    <string id="ELpWa0K5" text="Manche de pique en chêne séché"/>
-    <string id="eLrbkvTV" text="Garde de grande épée septentrionale"/>
-    <string id="emryrbYV" text="Pommeau tressé"/>
-    <string id="emUoygLE" text="Tête de harpon"/>
-    <string id="euI3vluL" text="Garde de sabre large"/>
-    <string id="f0syWNR7" text="Lame de poignard"/>
-    <string id="f4GSe3UB" text="Tête de pelle"/>
-    <string id="faZasq1G" text="Pommeau en anneau oriental"/>
-    <string id="fd6Lnv1l" text="Garde de gladius dorée"/>
-    <string id="fdR6zYiP" text="Tête de francisque"/>
-    <string id="fEkKXof4" text="Aile boulonnée"/>
-    <string id="fhbGCsdC" text="Tête de masse lourde orientale"/>
-    <string id="fHKHwvsW" text="Pommeau avec bande en bronze"/>
-    <string id="fnz6wUVy" text="Pommeau de lance rond à pointes"/>
-    <string id="fo040lyg" text="Poignée enveloppée"/>
-    <string id="fOrRdtNK" text="Tête de hache avec petit éperon"/>
-    <string id="fRVQzcoY" text="Poignée à une main enveloppée de cuir épais et brut"/>
-    <string id="Ft5A2Eb4" text="Poignée à deux mains renforcée recouverte de cuir orientale"/>
-    <string id="ftwNaFZh" text="Double ailes crochues"/>
-    <string id="fuIxmJ2g" text="Lame en bois lourde"/>
-    <string id="FxCfO3zN" text="Manche de masse renforcée en fer"/>
-    <string id="FyaygeEx" text="Tête de gourdin"/>
-    <string id="g2r3QKOB" text="Tête de hache petite méridionale"/>
-    <string id="g5Va1lfk" text="Garde du désert effilée"/>
-    <string id="g60SQjOR" text="Poignée d'épée longue effilée gainée de cuir"/>
-    <string id="G8Fb2RPa" text="Lame de fauchon pointue"/>
-    <string id="G9cBw5sV" text="Pommeau rond des hautes-terres"/>
-    <string id="GA4AaQQk" text="Poignée à une main renforcée en bois"/>
-    <string id="Gewh8Bzr" text="Poignée à deux mains couverte de fourrure"/>
-    <string id="GI6XD77j" text="Pommeau décoré impérial"/>
-    <string id="gIm5Lnh8" text="Manche de javeline en acajou"/>
-    <string id="GLnI8ozz" text="Poignée en séquoia"/>
-    <string id="GMwWb6SE" text="Tête de lance en bois"/>
-    <string id="gPXRnvas" text="Garde circulaire"/>
-    <string id="GQ9JwKBt" text="Poignée à deux mains recouverte de cuir brut"/>
-    <string id="GqwD99cu" text="Pommeau embelli"/>
-    <string id="GsBQCQEF" text="Manche en pin renforcé"/>
-    <string id="gSdybwMN" text="Grande tête de hache percée septentrionale"/>
-    <string id="gTMThdRJ" text="Pommeau noble"/>
-    <string id="gTzMtKYu" text="Lame de fauchon à tête étoilé"/>
-    <string id="GWJV4Vll" text="Poigne d'épée bâtarde en cuir avec anneaux en laiton "/>
-    <string id="gwkR6TZL" text="Lame de kaskara décorée"/>
-    <string id="GXhZ8NKv" text="Lame large à gouttière septentrionale"/>
-    <string id="gXUXjtuL" text="Lame de kama"/>
-    <string id="GyOxvJpB" text="Pommeau arrondis"/>
-    <string id="gZzEkk5t" text="Poignée à deux mains recouverte de cuir fin des hautes-terres"/>
-    <string id="H2xibh6p" text="Poignée cloutée impériale"/>
-    <string id="h4DmfRfb" text="Pommeau chevaleresque"/>
-    <string id="H6hlPsgV" text="Poignée à une main recouverte de peau"/>
-    <string id="HaNPlFBt" text="Long manche en bois dur enveloppé"/>
-    <string id="hD5LzC6b" text="Poignée à une main angulaire en fer"/>
-    <string id="he3725oa" text="Pommeau de lance conique"/>
-    <string id="HF2WJagx" text="Poignée d'épée de guerre enveloppée de cuir décoré"/>
-    <string id="HHVH0IoH" text="Manche en séquoia durcie recouverte de fourrure"/>
-    <string id="Hj151a5b" text="Garde en croissant effilée"/>
-    <string id="hk3d4d35" text="Manche de masse en séquoia"/>
-    <string id="hKKIijPr" text="Garde de dague circulaire concave"/>
-    <string id="HmsEarnz" text="Pommeau en forme de larme"/>
-    <string id="hN0kTfhB" text="Poignée en fer renforcée recouverte de cuir écrasé"/>
-    <string id="hRfqLq4V" text="Lame de fauchon"/>
-    <string id="hRtzRR6C" text="Tête de masse légère impériale"/>
-    <string id="hSSk6tTn" text="Tête de hache de lancer"/>
-    <string id="huaGi2zw" text="Garde de dague concave septentrionale"/>
-    <string id="HuYwPEmh" text="Pommeau ornementé"/>
-    <string id="hVBKOOY1" text="Poignée à deux mains en laiton angulaire clouté"/>
-    <string id="hvCj5TID" text="Garde en croissant pointue"/>
-    <string id="HwCYBWq2" text="Lame de spatha à pointe aiguisée"/>
-    <string id="hWTFaw0E" text="Pommeau en acier"/>
-    <string id="hyNitMsQ" text="Lame d'acier supérieur des hautes-terres"/>
-    <string id="HysmKS5a" text="Lame de dague large striée"/>
-    <string id="i7d3En7L" text="Lame à double crochet"/>
-    <string id="i9Ja7Uib" text="Garde de dague épaisse avec gravures"/>
-    <string id="I9yrLqPc" text="Tête de masse en acier à bride orientale"/>
-    <string id="IAltuLvf" text="Poignée conique à une main septentrionale"/>
-    <string id="Ibaju3oe" text="Pommeau en tête d'aigle"/>
-    <string id="ibU7mZKx" text="Manche de grande hache en frêne"/>
-    <string id="iFhr5nGq" text="Tête de hache impérial"/>
-    <string id="IftwekS7" text="Garde d'épée de guerre en bronze avec gravures"/>
-    <string id="il1M66Z8" text="Poigne à une main enveloppée de cuir"/>
-    <string id="iMbT3L4I" text="Lame de faux"/>
-    <string id="In69b7aL" text="Poignée en fer à une main décorée recouverte de cuir"/>
-    <string id="indl9fEW" text="Poignée à une main recouverte de cuir épais relié"/>
-    <string id="IR8UeIRp" text="Tête de masse de cataphractaire"/>
-    <string id="ittUjlRb" text="Garde en diamant"/>
-    <string id="IUlApNGp" text="Lame de falx longue"/>
-    <string id="iuQE1xwL" text="Lame de spatha étroite"/>
-    <string id="IvUO8nJc" text="Garde large de dague incurvée"/>
-    <string id="IWrTsX3V" text="Poignée à une main recouverte de cuir rouge"/>
-    <string id="IxCaIvUk" text="Grande tête de hache large septentrionale avec cou décoré"/>
-    <string id="iznpu0ih" text="Poignée kaskara à une main recouverte de cuir écrasé"/>
-    <string id="Izstbt9y" text="Lame décorée des hautes-terres"/>
-    <string id="IZw8FnwW" text="Grande tête d'ascia"/>
-    <string id="j2pkA2Yr" text="Garde couronnée méridionale"/>
-    <string id="J3ADekEw" text="Manche de grande hache en chêne"/>
-    <string id="J5Tu73Mb" text="Hampe de lance en pin durci"/>
-    <string id="JabA2SWF" text="Poignée en frêne renforcée"/>
-    <string id="JanWod6k" text="Garde d'épée de guerre étroite"/>
-    <string id="JbP7zdes" text="Garde lobée méridionale"/>
-    <string id="JCYmlrKF" text="Manche de masse renforcée en acier"/>
-    <string id="JdboLXbG" text="Tête de marteau"/>
-    <string id="JfRydy7M" text="Garde de couperet à crête"/>
-    <string id="jfyCVJya" text="Poignée à deux mains en acier sombre"/>
-    <string id="JIj91e96" text="Poignée à deux mains recouverte de peaux liées"/>
-    <string id="jMRMazLr" text="Manche décoré de masse en pin"/>
-    <string id="jN4PPWjp" text="Garde à croissant boutonné"/>
-    <string id="joN8ZeJ6" text="Pommeau roue"/>
-    <string id="jqiXcEyD" text="Longue poignée recouverte"/>
-    <string id="jre8aFdB" text="Garde pointue de dague occidentale"/>
-    <string id="Js1FKwrL" text="Tête de javelot"/>
-    <string id="JSba9OCN" text="Garde arrondie de dague en fer"/>
-    <string id="jupH2NfE" text="Poignée angulaire d'épée bâtarde incrustée d'or"/>
-    <string id="jZnVKvJN" text="Pommeau à trois branches"/>
-    <string id="jZTWkSDw" text="Poignée d'épée bâtarde en laiton"/>
-    <string id="jzzZDEw7" text="Longue poignée avec fil de fer"/>
-    <string id="k2MQ9kL0" text="Manche de masse en acier"/>
-    <string id="k66YIIWR" text="Lame kaskara étroite en acier supérieur"/>
-    <string id="kaoSz0Cx" text="Poignée biseautée à deux mains recouverte de cuir"/>
-    <string id="kbh6i0M7" text="Pommeau de glaive supérieur"/>
-    <string id="Kcm4b7Qb" text="Garde ailée en laiton"/>
-    <string id="KeTioaJE" text="Manche de masse renforcé en fer"/>
-    <string id="KFqa2uF1" text="Lame d'espadon large"/>
-    <string id="Kh7AB6a4" text="Poignée à une main septentrionale en forme de sablier"/>
-    <string id="KhHXgQJb" text="Tête de hache commune en fer forgé"/>
-    <string id="khO8Li1D" text="Poignée longue recouverte de peau"/>
-    <string id="kIbtwQRF" text="Lame de spatha en acier supérieur"/>
-    <string id="kiEZmxjT" text="Poignée à deux mains étrangleuse en acier supérieur"/>
-    <string id="kjw9c4M2" text="Manche de masse angulaire en acier"/>
-    <string id="kNhcSC6i" text="Tête barbée septentrionale"/>
-    <string id="KNisROi1" text="Lame skaen large"/>
-    <string id="Knv8oS4x" text="Poignée épaisse à une main enveloppée de cuir"/>
-    <string id="koX9okuG" text="Aucun"/>
-    <string id="kp8hUsXA" text="Garde septentrionale rectangulaire gravée"/>
-    <string id="kuROzU1J" text="Lame d'épée de guerre"/>
-    <string id="KyKh5jCE" text="Poignée en bambou"/>
-    <string id="l13RibeF" text="Grande poignée de hache renforcée en acier"/>
-    <string id="l1YxVZil" text="Garde de dague en bronze à boutons"/>
-    <string id="L3vLdPJT" text="Tête de gourdin à pointes améliorée"/>
-    <string id="L4PDF4MY" text="Garde d'épée de guerre avec gravures dorées"/>
-    <string id="L9wMZ9HB" text="Garde de hampe morningstar"/>
-    <string id="lcjkq4bA" text="Pommeau décoré méridional"/>
-    <string id="Ld1nfdj4" text="Lame de sabre en acier supérieur"/>
-    <string id="LddmrrGM" text="Poignée longue à deux mains orientale"/>
-    <string id="Ldq6AOrb" text="Poignée à deux mains recouverte de cuir brut liée par un anneau de fer"/>
-    <string id="LDRnfLRh" text="Pommeau septentrional décoré"/>
-    <string id="ldvppRXj" text="Pommeau à motifs"/>
-    <string id="LEdJzFrZ" text="Poignée angulaire biseautée à une main"/>
-    <string id="lF10mZnb" text="Poignée à une main enveloppée de fil de fer"/>
-    <string id="LFfUtZrT" text="Tête de marteau"/>
-    <string id="Lh1E9EsS" text="Poignée à deux mains impériale renforcée en acier"/>
-    <string id="lLZfWq7i" text="Poignée à étranglement du désert"/>
-    <string id="lmxaWsmn" text="Poignée à deux mains enveloppée de cuir"/>
-    <string id="LNDbMUK0" text="Tête de vouge"/>
-    <string id="lOiyLjqK" text="Garde à croissant impériale"/>
-    <string id="lpqDjWsL" text="Poignée à une main recouverte de cuir fin"/>
-    <string id="lpVGz11R" text="Poignée à une main septentrionale recouverte de fourrure"/>
-    <string id="LryUJnu7" text="Pommeau lisse"/>
-    <string id="LSOXMCAW" text="Manche en pin"/>
-    <string id="LSrJljDL" text="Tête d'herminette"/>
-    <string id="ltbHzq5B" text="Tête de lance rivetée et renforcée"/>
-    <string id="lv9oJyKJ" text="Pommeau plat oriental"/>
-    <string id="LwM5byQG" text="Pommeau de lance en fer"/>
-    <string id="lYEaqL9y" text="Poignée à une main recouverte de fourrure liée"/>
-    <string id="LYSMiV6V" text="Longue poignée recouverte de peau"/>
-    <string id="LzHkkphU" text="Poignée à une main recouverte de cuir brut"/>
-    <string id="lZoqaYmx" text="Tête de gourdin à pointe"/>
-    <string id="M08i7S6M" text="Garde de dague conique du désert"/>
-    <string id="m0uOH4el" text="Garde de dague impériale incurvée"/>
-    <string id="m2Xz2K5v" text="Poignée à deux mains septentrionale recouverte de fourrure"/>
-    <string id="m6CVEgTU" text="Tête de hache de bataille à pointes"/>
-    <string id="m8eUrnVj" text="Garde de dague occidentale fine"/>
-    <string id="mak3naEe" text="Lame d'espadon large à gouttière"/>
-    <string id="MCRppfbZ" text="Manche de javeline en pin"/>
-    <string id="mcYSvJfA" text="Branche d'arbre"/>
-    <string id="MDL2CcCH" text="Épines longues pondérées"/>
-    <string id="MGD7zTLf" text="Pommeau rond à facettes"/>
-    <string id="Mh5MDpsk" text="Poignée à deux mains méridionale recouverte de cuir écrasé"/>
-    <string id="MJRzaazz" text="Poignée à deux mains plaquée en acier"/>
-    <string id="MKtMbBJD" text="Poignée haute à une main"/>
-    <string id="mm24JNyb" text="Poignée en forme de sablier septentrionale"/>
-    <string id="mm6b54ZD" text="Garde large concave"/>
-    <string id="MpVC0RXl" text="Lance triangulaire septentrionale"/>
-    <string id="mQCQF6TL" text="Garde étroite de dague septentrionale"/>
-    <string id="MRqIJXqv" text="Garde de dague en diamant méridionale"/>
-    <string id="mrTkURKV" text="Tête de fourche crantée"/>
-    <string id="mSNaSLiC" text="Lame d'épée de guerre en acier thamaskene"/>
-    <string id="mSplbvgI" text="Doubles crochets"/>
-    <string id="mTDuVvVN" text="Grande poignée plate"/>
-    <string id="mU8oVsFW" text="Tête de morningstar"/>
-    <string id="muv8N0Wo" text="Garde d'épée en bronze avec gravures"/>
-    <string id="mVjshtzg" text="Pommeau à chapeau conique"/>
-    <string id="mYP1ovEy" text="Garde percée du désert"/>
-    <string id="N1qLYlxF" text="Lame kaskara en acier supérieur"/>
-    <string id="N3VXsh2z" text="Lame de paramerion en acier"/>
-    <string id="NAHHwS3G" text="Large pointe de lance en forme de feuille"/>
-    <string id="nazL7Z3e" text="Poignée à deux mains boulonnée méridionale"/>
-    <string id="NfPgejKk" text="Tête de hache sparth percée"/>
-    <string id="nGP3FlHm" text="Hampe en acajou"/>
-    <string id="Nhhmj7bz" text="Manche en érable dur"/>
-    <string id="Nk924YlG" text="Poignée à une main décorée en acier supérieur"/>
-    <string id="nKb9goqQ" text="Garde fine"/>
-    <string id="NLs9M1D6" text="Garde ovale orientale"/>
-    <string id="NmkDgmWW" text="Manche de masse de cavalier en acier"/>
-    <string id="NO6FhjbJ" text="Poignée orange recouverte de cuir"/>
-    <string id="NQb8boHt" text="Hampe en frêne renforcé"/>
-    <string id="nr3K4od2" text="Tête de pilum"/>
-    <string id="nRKOX66b" text="Tête de lance dentelé en acier supérieur"/>
-    <string id="NS83CCvb" text="Tête de hache commune en fer"/>
-    <string id="ntIEIQ0N" text="Tête de shishpar léger"/>
-    <string id="Num2tkFb" text="Poignée longue plaquée"/>
-    <string id="NuXH8rip" text="Garde en bronze stratifié"/>
-    <string id="nVrg9Uda" text="Poignée d'épée en corne enveloppée de cuir"/>
-    <string id="Nz4mg7JT" text="Garde de cimeterre dorée"/>
-    <string id="nZ5e678J" text="Pommeau cerclé"/>
-    <string id="NzjHzhwC" text="Garde en diamant à boutons"/>
-    <string id="o2kFafbu" text="Tête de masse orientale en acier"/>
-    <string id="O2kPKeuK" text="Lame d'épée avec gravure en or"/>
-    <string id="OBeOZ27b" text="Tête de glaive"/>
-    <string id="oGPHQt1J" text="Grande poignée de couperet à deux mains"/>
-    <string id="OHHpwD0F" text="Lame de sabre droite"/>
-    <string id="OHl66gsX" text="Garde de dague bollock en bronze"/>
-    <string id="OJ7iPw5M" text="Grande poignée de hache en frêne renforcée"/>
-    <string id="OlnvawN6" text="Grande garde d'épée en bronze"/>
-    <string id="OlUuoUBe" text="Poignée orientale en fer fin recouverte de cuir"/>
-    <string id="ooBWHpxP" text="Poignée angulaire orientale recouverte de cuir"/>
-    <string id="OPfm5y7W" text="Garde dorée chevaleresque à tête de lion"/>
-    <string id="OphcYYyN" text="Pommeau de lance riveté en acier supérieur"/>
-    <string id="opUK4WmL" text="Garde de dague plate arrondie"/>
-    <string id="orwoyDlX" text="Grande tête de hache sparth"/>
-    <string id="OryiZr9d" text="Kontarion"/>
-    <string id="OTtMvvJK" text="Lame d'épée striée"/>
-    <string id="ow1aK4DJ" text="Hampe en chêne enveloppé"/>
-    <string id="oW5N04JL" text="Lame en acier des hautes-terres"/>
-    <string id="OW7w3Mth" text="Pommeau en éventail"/>
-    <string id="Oxew9WCe" text="Tête de lance impériale"/>
-    <string id="Oz6xANFb" text="Pommeau orné des hautes-terres"/>
-    <string id="p1Uz3dqs" text="Poigne rouge rivetée de kaskara"/>
-    <string id="p2aqirUu" text="Poignée flissa recouverte de cuir fin"/>
-    <string id="p2xjr5Bp" text="Lame en bois"/>
-    <string id="p3jlcHNo" text="Pommeau de lance long"/>
-    <string id="pb4zUxzA" text="Lame makhaira"/>
-    <string id="PbxZzhZx" text="Garde étroite de scramasaxe"/>
-    <string id="PjMeZcwO" text="Garde de dague plate"/>
-    <string id="pkmy6zB2" text="Garde étoilée méridionale"/>
-    <string id="pocRP9dq" text="Hampe en frêne"/>
-    <string id="PQ8rR13R" text="Lame longue de cimeterre en acier supérieur"/>
-    <string id="PqoJ1ZeB" text="Lame de sabre décorée"/>
-    <string id="PQThPvP6" text="Lame de spatha courte décorée"/>
-    <string id="PsKP5j6A" text="Garde à boutons"/>
-    <string id="pT5C12yT" text="Manche de hache à deux mains clouté en frêne"/>
-    <string id="PUAi75mb" text="Pommeau rond impérial"/>
-    <string id="PuRJZS03" text="Poignée d'épée à deux mains de style méridional"/>
-    <string id="PvB0pW1Q" text="Lame émoussée à gouttière"/>
-    <string id="pX4nTZOI" text="Large kaskara en acier supérieur"/>
-    <string id="pXxv7YJv" text="Poignée d'acajou recouvert de cuir"/>
-    <string id="PZYq0hBO" text="Garde de dague en bronze superposé"/>
-    <string id="Q6kGQNzP" text="Poigne de fer à deux mains segmentée "/>
-    <string id="q7jHkLam" text="Lame d'épée étroite"/>
-    <string id="Q9Gfv68h" text="Poignée de sabre à deux mains"/>
-    <string id="qbYoAvs6" text="Poignée à une main liée recouverte de peau"/>
-    <string id="QCE1sAu3" text="Lame d'épée large"/>
-    <string id="QH0oIiIz" text="Lame de poignard large"/>
-    <string id="QIo60ZKh" text="Épée de guerre longue"/>
-    <string id="qjxXq3P5" text="Garde de dague gravée des hautes-terres"/>
-    <string id="QNe7mQlZ" text="Tête de râteau"/>
-    <string id="Qqb0VZ1a" text="Manche en frêne à deux mains enveloppé de cuir"/>
-    <string id="qQrmuHQ9" text="Tête de masse de cavalerie lourde"/>
-    <string id="qQtLUC7Q" text="Garde de falx en bronze"/>
-    <string id="qSV6C2tp" text="Tête d'épée"/>
-    <string id="qtZNUUqG" text="Poignée à une main en bois septentrionale"/>
-    <string id="Qw9HWSY7" text="Lame de flissa en fer"/>
-    <string id="QwfDN06p" text="Tête de lance chevaleresque"/>
-    <string id="QXqd6MLV" text="Poignée d'épée à deux mains recouverte de cuir fin relié en bronze"/>
-    <string id="qYxzdFAa" text="Longue poignée en chêne recouverte de cuir"/>
-    <string id="qZYeu55z" text="Manche de masse long en fer"/>
-    <string id="r1U1w2zp" text="Poigne d'épée en cuir fin et bronze"/>
-    <string id="r3R6RM9G" text="Tête de pique courte"/>
-    <string id="R62maL2H" text="Tête de guisarme"/>
-    <string id="R7OBSozV" text="Lame courte et épaisse"/>
-    <string id="R8hEAwUZ" text="Poignée enroulée brute"/>
-    <string id="r8KoZCBy" text="Garde de dague mince et effilé"/>
-    <string id="RB3oxhaV" text="Garde longue d'arme"/>
-    <string id="RBoqow67" text="Pommeau ovoïde"/>
-    <string id="RdVX1jC0" text="Lame kaskara gravée"/>
-    <string id="reHxxC6K" text="Manche de marteau de forgeron"/>
-    <string id="Rh3h5NIg" text="Petit manche de hache de lancer en pin"/>
-    <string id="rkEbLbYf" text="Poignée longue en cuir renforcée orientale"/>
-    <string id="rKnBJPfp" text="Lame d'épée large de cavalerie en acier supérieur"/>
-    <string id="rL2zMQ2l" text="Garde à bras larges"/>
-    <string id="rn6tttI2" text="Pommeau ornemental méridional"/>
-    <string id="rSs1M2EJ" text="Tête de masse en spirale"/>
-    <string id="RWljioj5" text="Poignée a une main en corne de fer recouverte de cuir"/>
-    <string id="RWm1h40B" text="Pommeau des hautes-terres"/>
-    <string id="RXjhTS9s" text="Hampe en chêne enveloppé"/>
-    <string id="S2MYKoII" text="Grand pommeau oriental"/>
-    <string id="s50O60ed" text="Garde incurvée impériale"/>
-    <string id="S75vUGzK" text="Tête de lance en acier supérieur"/>
-    <string id="S9zZO7qJ" text="Tête de pique en acier supérieur"/>
-    <string id="SaPaeTr4" text="Poignée à deux mains en bois"/>
-    <string id="saYgR9C6" text="Poignée à deux mains de grande qualité des hautes-terres"/>
-    <string id="SEsx3kZz" text="Tête de bardiche lourde"/>
-    <string id="SgJH5KtP" text="Lame de sica"/>
-    <string id="SgknWcu2" text="Poignée à une main recouverte de peau"/>
-    <string id="sHwhgRzK" text="Pommeau en croissant"/>
-    <string id="SJiam61q" text="Courte poignée noueuse"/>
-    <string id="SJssgxmf" text="Lame d'ild décorée"/>
-    <string id="sNJNDDKN" text="Petite tête de hache"/>
-    <string id="sq7G99xP" text="Garde de la couronne"/>
-    <string id="SqR5K74b" text="Poignée supérieure des hautes-terres"/>
-    <string id="SR7a3qlO" text="Tête de hache de combat à tête arrondie"/>
-    <string id="SraI0yxb" text="Poignée longue en chêne durci"/>
-    <string id="sUlksgjL" text="Garde de lance enroulée de cuir et cloutée"/>
-    <string id="SVBYn9KW" text="Fourche en fer"/>
-    <string id="sw5rAz73" text="Tête de masse orientale légère"/>
-    <string id="swb45HVS" text="Lame montagnarde"/>
-    <string id="T1aiDuOp" text="Tête étroite de menavlon"/>
-    <string id="T1xFTaOf" text="Longue lame de cimeterre décorée"/>
-    <string id="T62Cmrrh" text="Pommeau à facettes"/>
-    <string id="tgJ3dSOx" text="Longue lance en chêne"/>
-    <string id="TKQl9boE" text="Poignée d'épée fine avec décorations dorées"/>
-    <string id="TKVxb6QD" text="Tête de lance de feuille en acier de thamaskene"/>
-    <string id="tLa3nYAQ" text="Pommeau calice à facettes"/>
-    <string id="TLtaGEcB" text="Lame large de makhaira"/>
-    <string id="tnaGywrE" text="Poignée a deux mains en cuir brut en forme de sablier"/>
-    <string id="tNtulHAv" text="Grande tête de hache septentrionale"/>
-    <string id="tq0eDwck" text="Garde de dague arrondie"/>
-    <string id="trGnmFsh" text="Tête de masse impériale"/>
-    <string id="tRJC72Qh" text="Poignée à une main en cuir croisé"/>
-    <string id="tSaAzzYe" text="Lame étroite striée"/>
-    <string id="tSgZoxsu" text="Poignée à une main en bois renforcée de fer"/>
-    <string id="tSQbGb4m" text="Hampe en acajou extra long"/>
-    <string id="TUbTwW9U" text="Lame spatha à crête plate"/>
-    <string id="Tui9qvOZ" text="Tête de tzikurion"/>
-    <string id="U30HpvtI" text="Tête de lance triangulaire en fer septentrionale"/>
-    <string id="u89rP5qY" text="Pommeau à large rebord"/>
-    <string id="uAfTaa3p" text="Poignée à une main en cuir orientale"/>
-    <string id="Udo97SZC" text="Pommeau décoré oriental"/>
-    <string id="ueCf3sde" text="Poignée à une main fine enveloppée de cuir"/>
-    <string id="ugQrq53t" text="Pommeau en éventail"/>
-    <string id="Uhc0KIdz" text="Manche de lance en pin"/>
-    <string id="uIciSK8t" text="Poignée de noble ronde décorée méridionale"/>
-    <string id="uKu7rTrW" text="Poignée à une main étroite à enveloppe serrée"/>
-    <string id="UKWwPPkx" text="Lame d'épée avec empreinte de pétales dorés"/>
-    <string id="ukYW8FVm" text="Pommeau de sabre rond"/>
-    <string id="uLqEw8LB" text="Longue poignée impériale cloutée"/>
-    <string id="uQsJQLJH" text="Poignée courte en peau septentrionale"/>
-    <string id="usVYZYYD" text="Pommeau noble septentrional"/>
-    <string id="USWfzbuW" text="Grande tête de hache septentrionale"/>
-    <string id="uuover9F" text="Lame d'épée d'armes courte"/>
-    <string id="uvmvs2SP" text="Poignée longue de couperet"/>
-    <string id="uwG8iwBc" text="Lance longue des prairies"/>
-    <string id="V0khEGns" text="Pommeau plat"/>
-    <string id="v22onVb2" text="Lame de flissa légèrement striée"/>
-    <string id="V3JMuFEg" text="Manche de masse nouée"/>
-    <string id="V6YQykoc" text="Garde à pointe pour dague en croissant"/>
-    <string id="V9Kbq6vj" text="Pointe émoussée d'entraînement"/>
-    <string id="VbpiYB68" text="Lame courte à gouttière décorée"/>
-    <string id="VccYBtB0" text="Tête de hachette septentrionale"/>
-    <string id="VeHazKzb" text="Poignée en bois dur enveloppée de cuir"/>
-    <string id="Vf2wKojF" text="Ailes émoussées"/>
-    <string id="VfzFTGd8" text="Petite tête d'embout rond"/>
-    <string id="vGda3CNV" text="Poignée d'épée bâtarde en cuir ornée d'or"/>
-    <string id="VgMDYLje" text="Poignée à deux mains en cuir brut bombé"/>
-    <string id="vJieQpnH" text="Poignée à une main boulonnée méridionale"/>
-    <string id="VJmu4Yag" text="Protection de lance décorative"/>
-    <string id="vJtBlaeS" text="Poignée d'épée à deux mains extra longue enveloppée de cuir"/>
-    <string id="VL00fQvj" text="Poignée renforcée pour hache"/>
-    <string id="vPMsDf85" text="Poignée en chêne recouverte de cuir"/>
-    <string id="vx2VIbmb" text="Lame longue décorée pour épée de guerre"/>
-    <string id="vxqrW5GN" text="Lame de faucille"/>
-    <string id="W5tvNbjY" text="Pommeau ornemental oriental"/>
-    <string id="wait0O6m" text="Tête de rasoir de guerre"/>
-    <string id="WAtAGKhV" text="Ailes à double pointes"/>
-    <string id="Wd3bU57P" text="Pommeau à croissant en bronze"/>
-    <string id="we4ykbNe" text="Poignée à une main en cuir liée au fer avec un renflement"/>
-    <string id="weIT4gUP" text="Lame fine à gouttière pour épée de guerre"/>
-    <string id="wfK63ZQn" text="Pommeau de sabre"/>
-    <string id="wgWSJzGD" text="Poignée à deux mains en cuir biseauté"/>
-    <string id="wHMdRIl6" text="Poignée à une main en cuir brut segmenté"/>
-    <string id="Wkhv9ESv" text="Manche de hache de lancer en chêne durci"/>
-    <string id="wKJM541b" text="Garde à pointes tranchantes"/>
-    <string id="WkLj6xAo" text="Pommeau trapézoïdal"/>
-    <string id="WkTkxQfw" text="Tête de hache dentelée rectangulaire"/>
-    <string id="Wl1m0LbL" text="Poignée renforcée gravée et incrustée d'argent"/>
-    <string id="WNch6azL" text="Lame de cimeterre en fer"/>
-    <string id="wQGWxeCc" text="Lame de sabre épaisse"/>
-    <string id="wsVbMK6L" text="Lame plate de tournoi"/>
-    <string id="wVcrqv4p" text="Poignée en bois"/>
-    <string id="wvLoXrFV" text="Grand pommeau occidental"/>
-    <string id="WXBkfAbb" text="Garde de dague rectangulaire brodée septentrionale"/>
-    <string id="WxnqOG8s" text="Garde large concave"/>
-    <string id="wXUjru6o" text="Garde de sabre large à boutons"/>
-    <string id="X7OrRebK" text="Tête de hache étroite de sparth"/>
-    <string id="xb6e2YaV" text="Garde de dague ovale orientale"/>
-    <string id="XbaFle0M" text="Doubles ailettes de lance orientales"/>
-    <string id="xbazdytG" text="Poignée à deux mains en acier méridionale"/>
-    <string id="xbB9Ga5X" text="Lame fuselée septentrionale"/>
-    <string id="XetKl5yO" text="Garde de sabre dorée"/>
-    <string id="XI5QgznO" text="Garde de couperet conique"/>
-    <string id="xJaVK4D0" text="Ailettes à sanglier"/>
-    <string id="xKGpbQjJ" text="Hampe en acajou enveloppée de cuir"/>
-    <string id="Xo7l8eae" text="Lame émoussée"/>
-    <string id="xoSaQWhX" text="Garde en croissant occidentale"/>
-    <string id="XSabsFbx" text="Tête de pique pondérée lestée"/>
-    <string id="XtneitaD" text="Lame d'épée de guerre en acier supérieur"/>
-    <string id="xVHbBpb9" text="Poignée de cimeterre en acier segmenté"/>
-    <string id="xWZuE1aE" text="Garde de dague épaisse concave"/>
-    <string id="XxhFx0yw" text="Manche de hache courte enveloppé de cuir"/>
-    <string id="xYgJN0Ja" text="Lame de cimeterre décorée"/>
-    <string id="xZ70rbRt" text="Pommeau rond en bois"/>
-    <string id="Y0gbKTgZ" text="Tête de fourche militaire sturgian"/>
-    <string id="Y4tIQnS4" text="Tête de lance courte"/>
-    <string id="y5A3HGua" text="Lame de paramerion en acier supérieur"/>
-    <string id="ybjDbw8p" text="Poignée longue en chêne pour masse"/>
-    <string id="ybk4YYeV" text="Tête de hache à une main percée"/>
-    <string id="yD9v5GS0" text="Manche en pin décoré"/>
-    <string id="YDG2spCf" text="Poignée de noble orientale en cuir"/>
-    <string id="yFm0f44p" text="Garde à pointe occidentale"/>
-    <string id="YFy0t1NY" text="Tête de masse occidentale à pointes"/>
-    <string id="Yi2PlMln" text="Pommeau riveté pour lance longue"/>
-    <string id="yilLfxCc" text="Garde à rebords"/>
-    <string id="ykTYTbek" text="Lame pour couteau de lancer"/>
-    <string id="YkWqmDEK" text="Lame de fauchon à tête large"/>
-    <string id="YKXNxxvY" text="Poignée à deux mains septentrionale"/>
-    <string id="ylUAAsQt" text="Poignée à une main enveloppée de cuir brut"/>
-    <string id="yMWzpgjz" text="Poignée angulaire à deux mains enveloppée de fil"/>
-    <string id="YQLEkXb7" text="Ailette à crochet singulier"/>
-    <string id="ysby6FNF" text="Pommeau de lance en acier thamaskene riveté"/>
-    <string id="YTZblGJ0" text="Poignée a deux mains en corne renforcée de cuir"/>
-    <string id="YUDKID1R" text="Manche de masse renforcée en frêne"/>
-    <string id="yUyJ39ot" text="Poignée de spatha en acier"/>
-    <string id="YwKrIR6s" text="Double crochets énormes recouverts de fourrure"/>
-    <string id="yWvSjlnb" text="Tête de masse en acier supérieur orientale"/>
-    <string id="YxoUpPRb" text="Ailes crochues rivetées"/>
-    <string id="yzsneaL6" text="Pommeau arrondi cerclé"/>
-    <string id="zAdloN6Y" text="Lame d'épée courte à large crête"/>
-    <string id="ZAoWK9Gt" text="Tête de lance impériale arrondie"/>
-    <string id="ZbSKazZG" text="Lame seax courte"/>
-    <string id="Zc2Mb991" text="Tête de shestopyor"/>
-    <string id="ZCJ0aNYt" text="Garde à tête de serpent"/>
-    <string id="ZcUNAfKT" text="Tête de lance extra longue en acier supérieur"/>
-    <string id="zCYuj3yr" text="Lame d'épée à pointe striée"/>
-    <string id="ZfEiEOsK" text="Garde de dague couronnée méridionale"/>
-    <string id="ZgCUNieQ" text="Tête de fourche"/>
-    <string id="Zgy40Qc4" text="Poignée longue en acajou"/>
-    <string id="zIbAD527" text="Pommeau en pointe"/>
-    <string id="ZJrqEfBF" text="Lame kaskara conique"/>
-    <string id="ZJwQmyQR" text="Poignée d'épée bâtarde couverte de cuir et de laiton"/>
-    <string id="zKaNmT8r" text="Garde de poignard en demi-lune"/>
-    <string id="ZKrpvDu6" text="Poignée d'épée bâtarde renforcée d'acier mi-enveloppée"/>
-    <string id="ZKsIpbg6" text="Poignée à deux mains reliée de fil mi-couverte de cuir"/>
-    <string id="ZmFx0XvN" text="Poignée à une main renversée septentrionale"/>
-    <string id="Zmtfwmh1" text="Garde de dague étroite conique"/>
-    <string id="zoQhOBku" text="Pommeau rond à pointes"/>
-    <string id="zoxF4ikz" text="Longue poignée en frêne enveloppée de cuir"/>
-    <string id="Zp625kEP" text="Poignée en bois à deux mains septentrionale"/>
-    <string id="ZUp9mm79" text="Tête de lance dentelée"/>
-    <string id="ZxZ7AJ1r" text="Tête de hache de bataille méridionale"/>
+    <string id="03YrcAtx" text="Poignée à deux mains enveloppée de cuir" />
+    <string id="0gteBOD7" text="Tête de bardiche" />
+    <string id="0kP9bf7n" text="Manche de faucille" />
+    <string id="0LJtoZtW" text="Garde de cimeterre fourchue et gravée" />
+    <string id="0SpLcthg" text="Tête de gourdin à pointes des hautes-terres" />
+    <string id="0Y0kaTwm" text="Lame de spatha" />
+    <string id="13lb5at6" text="Manche en acajou enveloppée de peau" />
+    <string id="19a3jJ1s" text="Lame de grand sabre striée" />
+    <string id="1ajbJdao" text="Pommeau droit" />
+    <string id="1auabxxv" text="Garde plate arrondie" />
+    <string id="1e9OaUWk" text="Tête de masse légère orientale" />
+    <string id="1Ia3Wxbf" text="Lame de falx en acier supérieur" />
+    <string id="1nGcpiom" text="Pommeau arrondi ornementé" />
+    <string id="1NSafswc" text="Tête de hache gallogaich" />
+    <string id="1pvLe1Mh" text="Pommeau d'ild" />
+    <string id="1rGNXUaJ" text="Tête d'atgeir en acier supérieur" />
+    <string id="1T0XBYlc" text="Manche de hache à deux mains en chêne durci" />
+    <string id="1yEQNTG1" text="Longue tête de shestopyor" />
+    <string id="1zRo3td4" text="Poignée en corne boulonnée à deux mains" />
+    <string id="22f2NR2N" text="Long manche noueux en frêne" />
+    <string id="26KZ6S7F" text="Pommeau décoré oriental" />
+    <string id="29OXRdZu" text="Garde étroite conique" />
+    <string id="2FLWuksh" text="Poignée battania" />
+    <string id="2Fq1t169" text="Poignée à deux mains septentrionale" />
+    <string id="2LrkLq5M" text="Garde de dague longue septentrionale" />
+    <string id="2MNfdGZQ" text="Poignée d'épée longue en corne renforcée recouverte de cuir supérieur" />
+    <string id="2mo4gsuh" text="Lame de rasoir de guerre" />
+    <string id="2noNmMPc" text="Garde large somptueuse impériale " />
+    <string id="2OWBegq6" text="Garde d'épée de guerre épaisse gravée" />
+    <string id="2XBuTBru" text="Poignée longue en forme de sablier septentrionale" />
+    <string id="35tXR29a" text="Poignée longue simple orientale" />
+    <string id="37DVF96v" text="Garde de dague en forme croissant de lune" />
+    <string id="38vt2VVz" text="Pommeau large" />
+    <string id="3aXHbrFV" text="Longue poignée en bambou avec pointe en métal" />
+    <string id="3cIsT4ZK" text="Garde de poignard large" />
+    <string id="3ged5Ozt" text="Glaive exceptionnel oriental" />
+    <string id="3Q3FFqu0" text="Tête de masse royale légère" />
+    <string id="3tCye4Iw" text="Pommeau de longue lance" />
+    <string id="3uUaFQ9Y" text="Garde en forme de marteau avec gravures" />
+    <string id="3VCyUu2h" text="Garde de dague orientale fine" />
+    <string id="3VoW9qZs" text="Poignée d'épée dorée" />
+    <string id="3wn1WbIx" text="Lame longue de kaskara striée" />
+    <string id="3wXjMEwI" text="Poignée d'épée recouverte de cuir segmentée" />
+    <string id="3Y7plSBX" text="Lame d'épée large en fer" />
+    <string id="3ZyRhmke" text="Poignée de sabre courte" />
+    <string id="45k6EEUu" text="Pommeau en fer" />
+    <string id="47UEgMpD" text="Poignée en chêne avec pommeau pointu" />
+    <string id="4FnOKgB6" text="Garde de dague impériale en croissant" />
+    <string id="4Ilo91CO" text="Tête de hache de bataille occidentale" />
+    <string id="4MZvoVyI" text="Pommeau de lance riveté à bout rond" />
+    <string id="4OefdTD1" text="Lame de gladius courte et striée" />
+    <string id="4Olvmpen" text="Poignée à une main en cuir rugueux torsadée" />
+    <string id="4t0EyE1B" text="Poignée à deux mains en cuir tissé" />
+    <string id="4TvA6YaC" text="Poignée d'épée marbrée" />
+    <string id="4VIUHmbP" text="Manche décorée de masse en acier" />
+    <string id="4XytssVk" text="Garde demi-lune" />
+    <string id="4z3U5ubo" text="Garde d'épée de guerre dorée" />
+    <string id="57DBqJd1" text="Manche de masse recouvert de cuir épais" />
+    <string id="5ALE9Joh" text="Tête de faux de guerre" />
+    <string id="5GR6xb8a" text="Poignée d'outil" />
+    <string id="5KvdG6ep" text="Garde chevaleresque dorée en forme de croissant" />
+    <string id="5NeanDJM" text="Pommeau en anneau" />
+    <string id="5o5DaSHZ" text="Lame de poignard large" />
+    <string id="5V0QR20o" text="Poignée à une main recouverte en cuir brut cloutée" />
+    <string id="5Xoa1EFa" text="Lame d'épée au plat gravée" />
+    <string id="61A1VUw8" text="Garde en bronze arrondie" />
+    <string id="61hjmt0T" text="Pommeau triangulaire" />
+    <string id="62biJ5O5" text="Poignée a une main en cuir des hautes-terres" />
+    <string id="6BMAGMRu" text="Garde plate" />
+    <string id="6Da4uzZO" text="Garde chevaleresque large gravée" />
+    <string id="6HybYLtu" text="Poignée à une main septentrionale recouverte de cuir" />
+    <string id="6I4lZs47" text="Pommeau de lance" />
+    <string id="6PD2rBbf" text="Poignée à une main conique en cuir" />
+    <string id="6xkt7bxz" text="Tête de masse lourde royale" />
+    <string id="6ZW9fOUJ" text="Garde de kaskara dorée" />
+    <string id="71588OX7" text="Manche en bambou" />
+    <string id="7EZbFRaG" text="Manche renforcé en pin" />
+    <string id="7JjctWr3" text="Garde de marteau chevaleresque gravée" />
+    <string id="7lRnhAgf" text="Poignée d'épée à deux mains septentrionale en forme de sablier " />
+    <string id="7ZWtiHKj" text="Longue lame de guerre" />
+    <string id="85jApGfe" text="Garde de dague arrondie" />
+    <string id="87BmkiMO" text="Manche de masse noueux" />
+    <string id="89QyC7eD" text="Garde étroite septentrionale" />
+    <string id="8gW1o7iH" text="Pommeau lobé occidental" />
+    <string id="8OaZSfaZ" text="Poignée d'épée en cuir brut fendu" />
+    <string id="8olqutaL" text="Poignée à deux mains divisée Nordique" />
+    <string id="8S6ZYPFD" text="Tête de hache ronde en acier de bonne qualité" />
+    <string id="8T7gNbfM" text="Tête de lance percée en forme de feuille" />
+    <string id="8x9klENe" text="Garde de manche renforcée par des rivets segmentés" />
+    <string id="8yb60cDi" text="Manche de longue lance en acajou" />
+    <string id="8ZbL3exH" text="Pommeau arrondis" />
+    <string id="9aYBy1RN" text="Tête de lance à fine feuille d'acier" />
+    <string id="9HgtH0Nb" text="Garde de lance ondulée" />
+    <string id="9HMxA4AU" text="Manche de masse en fer" />
+    <string id="9JMatUNQ" text="Poignée à deux mains usée septentrionale" />
+    <string id="9JxsngjD" text="Garde de kaskara en argent gravée" />
+    <string id="9PgS5SzW" text="Poignée à une main en fer renforcée en forme de corne" />
+    <string id="9phikaHT" text="Garde de dague en forme de croissant orientale" />
+    <string id="9qaanOpL" text="Pommeau septentrional" />
+    <string id="9T2KA9sk" text="Poignée en acier décorée en or" />
+    <string id="9Y1zUaE7" text="Pommeau rond impérial" />
+    <string id="A06HEqvF" text="Accessoire de lance en aile" />
+    <string id="a0erBuF1" text="Tête de hache avec crochet" />
+    <string id="A1m12E8N" text="Garde de dague longue" />
+    <string id="a4qSDsmb" text="Garde d'épée à deux mains dorée impériale" />
+    <string id="a860bQ4f" text="Pommeau plat" />
+    <string id="AA4WhCGw" text="Garde de dague plate" />
+    <string id="aaEv3sBU" text="Manche de javeline en chêne" />
+    <string id="aalvbENh" text="Pommeau du désert" />
+    <string id="abLXJ3L3" text="Pommeau de masse façonné" />
+    <string id="aBnaaaHv" text="Lame de scramasaxe longue" />
+    <string id="Ac4kblsm" text="Poignée à deux mains recouverte de peau septentrionale" />
+    <string id="aFxc3ZVL" text="Garde en disque concave" />
+    <string id="AGfMPOWB" text="Manche de masse angulaire en acier supérieur" />
+    <string id="aGtEhibt" text="Pommeau rond septentrional" />
+    <string id="aj59KGOS" text="Poignée à deux mains recouverte de cuir brut" />
+    <string id="ajVcY9v6" text="Tête de hache avec petit marteau" />
+    <string id="AkfEFzkk" text="Garde en bol" />
+    <string id="AKJzOQkF" text="Lame de sabre septentrionale" />
+    <string id="aKpVHE2g" text="Garde en forme d'ailes recouverte de fourrure" />
+    <string id="ALO9gw69" text="Tête de hache à deux mains petite et carré" />
+    <string id="alti0PsZ" text="Lame d'épée de guerre pointue" />
+    <string id="AM6iuDAv" text="Garde de dague en forme de diamant" />
+    <string id="AO2BfABx" text="Pommeau champignon" />
+    <string id="Ao7c1VrC" text="Pommeau triangulaire septentrionale" />
+    <string id="AObgGzg9" text="Poignée à une main en corne boulonnée" />
+    <string id="aPr8NPdo" text="Tête d'arme d'hast en fer occidentale" />
+    <string id="aQa3tp6Q" text="Manche long en pin décoré" />
+    <string id="artqaNEi" text="Garde arrondie en fer" />
+    <string id="ASGZJW85" text="Poignée à une main de spatha en fer segmentée" />
+    <string id="aTnuOUCC" text="Lame de kaskara en acier thamaskene" />
+    <string id="AtNVVwTF" text="Manche court en pin" />
+    <string id="aUJaQmN1" text="Poignée à deux mains renforcée parée de bijoux " />
+    <string id="aVBGVt7N" text="Poignée effilée" />
+    <string id="Aw7Veoaa" text="Poignée angulaire en fer recouverte de cuir brut" />
+    <string id="az6t2tOm" text="Garde striée septentrionale" />
+    <string id="azjW7lAg" text="Garde d'ild gravée" />
+    <string id="aZp1ur9Q" text="Pommeau en forme de calice" />
+    <string id="b1KGhVwD" text="Garde concave septentrionale" />
+    <string id="b30mn7KF" text="Lame de khanjar" />
+    <string id="b994mQnI" text="Garde de dague ailée en laiton" />
+    <string id="b9bboB3v" text="Tête de masse d'infanterie méridionale" />
+    <string id="baQ99nza" text="Manche long en frêne" />
+    <string id="bCCYhnbY" text="Poignée en cuir naturel" />
+    <string id="bCZ6V3uY" text="Garde de dague à tête de serpent" />
+    <string id="bEbyObu7" text="Poignée à une main dorée parée de bijou" />
+    <string id="Bej5R7tP" text="Garde de dague en forme de couronne" />
+    <string id="bEQETxjB" text="Pommeau strié" />
+    <string id="bfE00BnK" text="Manche de masse pommelée en fer" />
+    <string id="bfueDx6s" text="Manche de grande hache en chêne lourdement renforcé" />
+    <string id="bGaOu7rO" text="Garde de dague plate orientale" />
+    <string id="bGfs8gNv" text="Lame d'épée dorsale septentrionale" />
+    <string id="bjQ8J71a" text="Tête de glaive longue" />
+    <string id="BKHKQ15N" text="Pommeau turquoise" />
+    <string id="bki9u9FW" text="Lame d'épée avec un cercle dorée" />
+    <string id="BL96pnde" text="Poignée à une main recouverte de cuir brut" />
+    <string id="blaVlvm2" text="Lame d'épée de guerre courte décorée" />
+    <string id="bM8kSewD" text="Garde striée septentrionale" />
+    <string id="booEob1z" text="Pommeau en anneau" />
+    <string id="bP6SBz4s" text="Garde en or pressée impériale" />
+    <string id="bPUXlfs8" text="Poignée d'ild décorée orientale" />
+    <string id="BQ3hMy9D" text="Pommeau à tête de cheval" />
+    <string id="bQkJSHCt" text="Poignée à deux mains en bronze avec spirale en argent" />
+    <string id="bQzz8mc3" text="Manche de hache de lancer en pin" />
+    <string id="BtXFrrVj" text="Garde concave épaisse" />
+    <string id="BXW4LeQT" text="Lame courte à gouttière" />
+    <string id="bZbW2UEE" text="Garde de dague large orientale" />
+    <string id="bzr1DEgS" text="Garde de dague étoilée méridionale" />
+    <string id="c1YI2Nxt" text="Lame de spatha en fer" />
+    <string id="C2hTDlWq" text="Lame de sabre lourde" />
+    <string id="C89rbAz6" text="Lame d'épée chevaleresque" />
+    <string id="cag70E1F" text="Tête de pernach" />
+    <string id="cbHjFPEb" text="Poignée d'épée bâtarde recouverte de cuir supérieur des hautes-terres" />
+    <string id="CdBAvJdP" text="Tête de kontos" />
+    <string id="CE1IQiEU" text="Poignée d'épée recouverte de cuir supérieur en spirale" />
+    <string id="cEU66ABf" text="Tête de hache de combat septentrionale" />
+    <string id="cFTzptut" text="Poignée en acajou" />
+    <string id="CiZRwdet" text="Garde plate orientale" />
+    <string id="cK6D7cyn" text="Grande tête de francisque" />
+    <string id="CKKaarrY" text="Poignée en fer recouverte de cuir" />
+    <string id="CODGBskg" text="Lame de sabre longue" />
+    <string id="cuxuEx40" text="Garde à facettes ovale" />
+    <string id="czhTpYo8" text="Lame de sabre en fer" />
+    <string id="d2kOHsY7" text="Poignée de glaive décorée" />
+    <string id="d4aLa7tz" text="Pommeau haut" />
+    <string id="d4bVwnK8" text="Poignée à deux mains recouverte de cuir écrasé" />
+    <string id="dafrn0mR" text="Lame de spatha en acier Thamaskene" />
+    <string id="dbmuyJcf" text="Pommeau à facettes méridional" />
+    <string id="dBVMNui8" text="Poignée à deux mains effilée renforcée de fer" />
+    <string id="dCco8dRt" text="Garde de dague plate" />
+    <string id="Dd7fJ9aL" text="Poignée d'épée longue fendue recouverte de cuir brut" />
+    <string id="DEpwMMql" text="Garde de dague perforée méridionale" />
+    <string id="dgjXkbuA" text="Pommeau owlseye" />
+    <string id="DiAHIRxm" text="Garde de sabre gravée" />
+    <string id="DID87A6l" text="Poignée recouverte de cuir tissé" />
+    <string id="Dix4EYD8" text="Tête de maillet" />
+    <string id="DkhuNoTH" text="Poignée à une main en bois" />
+    <string id="dlnciENS" text="Garde en bois" />
+    <string id="DLvSnz8U" text="Garde gravée des hautes-terres" />
+    <string id="dnd2hafw" text="Poignée grossière enveloppée" />
+    <string id="do4vZhh4" text="Garde mince et effilée" />
+    <string id="dpft1I1B" text="Garde fine occidentale" />
+    <string id="Dsf9JE8N" text="Crochet en bois" />
+    <string id="dTkiV4i6" text="Pommeau bateau" />
+    <string id="dtSrK9bs" text="Lame de scramasaxe large" />
+    <string id="DVe5SkQA" text="Double ailes crochues septentrional" />
+    <string id="dvm8sTr9" text="Pommeau en bois" />
+    <string id="DXLlcbf9" text="Manche de javeline en frêne" />
+    <string id="dXRt8jY4" text="Tête de menavlion" />
+    <string id="DzncFcGk" text="Pommeau de kheshigs" />
+    <string id="e1DF7wbz" text="Manche en frêne durci" />
+    <string id="E7cNp0rF" text="Pommeau de lance riveté" />
+    <string id="eapPaDKi" text="Garde d'épée de guerre épaisse en argent " />
+    <string id="EBlx3VId" text="Lame grossière des hautes-terres" />
+    <string id="EbucFMZq" text="Garde de dague large orientale" />
+    <string id="eBxzZ1SW" text="Poignée à une main renforcée parée de bijoux" />
+    <string id="edg8bnXX" text="Garde de dague striée septentrionale" />
+    <string id="eeFrva8L" text="Pommeau troué" />
+    <string id="ELpWa0K5" text="Manche de pique en chêne séché" />
+    <string id="eLrbkvTV" text="Garde de grande épée septentrionale" />
+    <string id="emryrbYV" text="Pommeau tressé" />
+    <string id="emUoygLE" text="Tête de harpon" />
+    <string id="euI3vluL" text="Garde de sabre large" />
+    <string id="f0syWNR7" text="Lame de poignard" />
+    <string id="f4GSe3UB" text="Tête de pelle" />
+    <string id="faZasq1G" text="Pommeau en anneau oriental" />
+    <string id="fd6Lnv1l" text="Garde de gladius dorée" />
+    <string id="fdR6zYiP" text="Tête de francisque" />
+    <string id="fEkKXof4" text="Aile boulonnée" />
+    <string id="fhbGCsdC" text="Tête de masse lourde orientale" />
+    <string id="fHKHwvsW" text="Pommeau avec bande en bronze" />
+    <string id="fnz6wUVy" text="Pommeau de lance rond à pointes" />
+    <string id="fo040lyg" text="Poignée enveloppée" />
+    <string id="fOrRdtNK" text="Tête de hache avec petit éperon" />
+    <string id="fRVQzcoY" text="Poignée à une main enveloppée de cuir épais et brut" />
+    <string id="Ft5A2Eb4" text="Poignée à deux mains renforcée recouverte de cuir orientale" />
+    <string id="ftwNaFZh" text="Double ailes crochues" />
+    <string id="fuIxmJ2g" text="Lame en bois lourde" />
+    <string id="FxCfO3zN" text="Manche de masse renforcée en fer" />
+    <string id="FyaygeEx" text="Tête de gourdin" />
+    <string id="g2r3QKOB" text="Tête de hache petite méridionale" />
+    <string id="g5Va1lfk" text="Garde du désert effilée" />
+    <string id="g60SQjOR" text="Poignée d'épée longue effilée gainée de cuir" />
+    <string id="G8Fb2RPa" text="Lame de fauchon pointue" />
+    <string id="G9cBw5sV" text="Pommeau rond des hautes-terres" />
+    <string id="GA4AaQQk" text="Poignée à une main renforcée en bois" />
+    <string id="Gewh8Bzr" text="Poignée à deux mains couverte de fourrure" />
+    <string id="GI6XD77j" text="Pommeau décoré impérial" />
+    <string id="gIm5Lnh8" text="Manche de javeline en acajou" />
+    <string id="GLnI8ozz" text="Poignée en séquoia" />
+    <string id="GMwWb6SE" text="Tête de lance en bois" />
+    <string id="gPXRnvas" text="Garde circulaire" />
+    <string id="GQ9JwKBt" text="Poignée à deux mains recouverte de cuir brut" />
+    <string id="GqwD99cu" text="Pommeau embelli" />
+    <string id="GsBQCQEF" text="Manche en pin renforcé" />
+    <string id="gSdybwMN" text="Grande tête de hache percée septentrionale" />
+    <string id="gTMThdRJ" text="Pommeau noble" />
+    <string id="gTzMtKYu" text="Lame de fauchon à tête étoilé" />
+    <string id="GWJV4Vll" text="Poigne d'épée bâtarde en cuir avec anneaux en laiton " />
+    <string id="gwkR6TZL" text="Lame de kaskara décorée" />
+    <string id="GXhZ8NKv" text="Lame large à gouttière septentrionale" />
+    <string id="gXUXjtuL" text="Lame de kama" />
+    <string id="GyOxvJpB" text="Pommeau arrondis" />
+    <string id="gZzEkk5t" text="Poignée à deux mains recouverte de cuir fin des hautes-terres" />
+    <string id="H2xibh6p" text="Poignée cloutée impériale" />
+    <string id="h4DmfRfb" text="Pommeau chevaleresque" />
+    <string id="H6hlPsgV" text="Poignée à une main recouverte de peau" />
+    <string id="HaNPlFBt" text="Long manche en bois dur enveloppé" />
+    <string id="hD5LzC6b" text="Poignée à une main angulaire en fer" />
+    <string id="he3725oa" text="Pommeau de lance conique" />
+    <string id="HF2WJagx" text="Poignée d'épée de guerre enveloppée de cuir décoré" />
+    <string id="HHVH0IoH" text="Manche en séquoia durcie recouverte de fourrure" />
+    <string id="Hj151a5b" text="Garde en croissant effilée" />
+    <string id="hk3d4d35" text="Manche de masse en séquoia" />
+    <string id="hKKIijPr" text="Garde de dague circulaire concave" />
+    <string id="HmsEarnz" text="Pommeau en forme de larme" />
+    <string id="hN0kTfhB" text="Poignée en fer renforcée recouverte de cuir écrasé" />
+    <string id="hRfqLq4V" text="Lame de fauchon" />
+    <string id="hRtzRR6C" text="Tête de masse légère impériale" />
+    <string id="hSSk6tTn" text="Tête de hache de lancer" />
+    <string id="huaGi2zw" text="Garde de dague concave septentrionale" />
+    <string id="HuYwPEmh" text="Pommeau ornementé" />
+    <string id="hVBKOOY1" text="Poignée à deux mains en laiton angulaire clouté" />
+    <string id="hvCj5TID" text="Garde en croissant pointue" />
+    <string id="HwCYBWq2" text="Lame de spatha à pointe aiguisée" />
+    <string id="hWTFaw0E" text="Pommeau en acier" />
+    <string id="hyNitMsQ" text="Lame d'acier supérieur des hautes-terres" />
+    <string id="HysmKS5a" text="Lame de dague large striée" />
+    <string id="i7d3En7L" text="Lame à double crochet" />
+    <string id="i9Ja7Uib" text="Garde de dague épaisse avec gravures" />
+    <string id="I9yrLqPc" text="Tête de masse en acier à bride orientale" />
+    <string id="IAltuLvf" text="Poignée conique à une main septentrionale" />
+    <string id="Ibaju3oe" text="Pommeau en tête d'aigle" />
+    <string id="ibU7mZKx" text="Manche de grande hache en frêne" />
+    <string id="iFhr5nGq" text="Tête de hache impérial" />
+    <string id="IftwekS7" text="Garde d'épée de guerre en bronze avec gravures" />
+    <string id="il1M66Z8" text="Poigne à une main enveloppée de cuir" />
+    <string id="iMbT3L4I" text="Lame de faux" />
+    <string id="In69b7aL" text="Poignée en fer à une main décorée recouverte de cuir" />
+    <string id="indl9fEW" text="Poignée à une main recouverte de cuir épais relié" />
+    <string id="IR8UeIRp" text="Tête de masse de cataphractaire" />
+    <string id="ittUjlRb" text="Garde en diamant" />
+    <string id="IUlApNGp" text="Lame de falx longue" />
+    <string id="iuQE1xwL" text="Lame de spatha étroite" />
+    <string id="IvUO8nJc" text="Garde large de dague incurvée" />
+    <string id="IWrTsX3V" text="Poignée à une main recouverte de cuir rouge" />
+    <string id="IxCaIvUk" text="Grande tête de hache large septentrionale avec cou décoré" />
+    <string id="iznpu0ih" text="Poignée kaskara à une main recouverte de cuir écrasé" />
+    <string id="Izstbt9y" text="Lame décorée des hautes-terres" />
+    <string id="IZw8FnwW" text="Grande tête d'ascia" />
+    <string id="j2pkA2Yr" text="Garde couronnée méridionale" />
+    <string id="J3ADekEw" text="Manche de grande hache en chêne" />
+    <string id="J5Tu73Mb" text="Hampe de lance en pin durci" />
+    <string id="JabA2SWF" text="Poignée en frêne renforcée" />
+    <string id="JanWod6k" text="Garde d'épée de guerre étroite" />
+    <string id="JbP7zdes" text="Garde lobée méridionale" />
+    <string id="JCYmlrKF" text="Manche de masse renforcée en acier" />
+    <string id="JfRydy7M" text="Garde de couperet à crête" />
+    <string id="jfyCVJya" text="Poignée à deux mains en acier sombre" />
+    <string id="JIj91e96" text="Poignée à deux mains recouverte de peaux liées" />
+    <string id="jMRMazLr" text="Manche décoré de masse en pin" />
+    <string id="jN4PPWjp" text="Garde à croissant boutonné" />
+    <string id="joN8ZeJ6" text="Pommeau roue" />
+    <string id="jqiXcEyD" text="Longue poignée recouverte" />
+    <string id="jre8aFdB" text="Garde pointue de dague occidentale" />
+    <string id="Js1FKwrL" text="Tête de javelot" />
+    <string id="JSba9OCN" text="Garde arrondie de dague en fer" />
+    <string id="jupH2NfE" text="Poignée angulaire d'épée bâtarde incrustée d'or" />
+    <string id="jZnVKvJN" text="Pommeau à trois branches" />
+    <string id="jZTWkSDw" text="Poignée d'épée bâtarde en laiton" />
+    <string id="jzzZDEw7" text="Longue poignée avec fil de fer" />
+    <string id="k2MQ9kL0" text="Manche de masse en acier" />
+    <string id="k66YIIWR" text="Lame kaskara étroite en acier supérieur" />
+    <string id="kaoSz0Cx" text="Poignée biseautée à deux mains recouverte de cuir" />
+    <string id="kbh6i0M7" text="Pommeau de glaive supérieur" />
+    <string id="Kcm4b7Qb" text="Garde ailée en laiton" />
+    <string id="KeTioaJE" text="Manche de masse renforcé en fer" />
+    <string id="KFqa2uF1" text="Lame d'espadon large" />
+    <string id="Kh7AB6a4" text="Poignée à une main septentrionale en forme de sablier" />
+    <string id="KhHXgQJb" text="Tête de hache commune en fer forgé" />
+    <string id="khO8Li1D" text="Poignée longue recouverte de peau" />
+    <string id="kIbtwQRF" text="Lame de spatha en acier supérieur" />
+    <string id="kiEZmxjT" text="Poignée à deux mains étrangleuse en acier supérieur" />
+    <string id="kjw9c4M2" text="Manche de masse angulaire en acier" />
+    <string id="kNhcSC6i" text="Tête barbée septentrionale" />
+    <string id="KNisROi1" text="Lame skaen large" />
+    <string id="Knv8oS4x" text="Poignée épaisse à une main enveloppée de cuir" />
+    <string id="koX9okuG" text="Aucun" />
+    <string id="kp8hUsXA" text="Garde septentrionale rectangulaire gravée" />
+    <string id="kuROzU1J" text="Lame d'épée de guerre" />
+    <string id="KyKh5jCE" text="Poignée en bambou" />
+    <string id="l13RibeF" text="Grande poignée de hache renforcée en acier" />
+    <string id="l1YxVZil" text="Garde de dague en bronze à boutons" />
+    <string id="L3vLdPJT" text="Tête de gourdin à pointes améliorée" />
+    <string id="L4PDF4MY" text="Garde d'épée de guerre avec gravures dorées" />
+    <string id="L9wMZ9HB" text="Garde de hampe morningstar" />
+    <string id="lcjkq4bA" text="Pommeau décoré méridional" />
+    <string id="Ld1nfdj4" text="Lame de sabre en acier supérieur" />
+    <string id="LddmrrGM" text="Poignée longue à deux mains orientale" />
+    <string id="Ldq6AOrb" text="Poignée à deux mains recouverte de cuir brut liée par un anneau de fer" />
+    <string id="LDRnfLRh" text="Pommeau septentrional décoré" />
+    <string id="ldvppRXj" text="Pommeau à motifs" />
+    <string id="LEdJzFrZ" text="Poignée angulaire biseautée à une main" />
+    <string id="lF10mZnb" text="Poignée à une main enveloppée de fil de fer" />
+    <string id="LFfUtZrT" text="Tête de marteau" />
+    <string id="Lh1E9EsS" text="Poignée à deux mains impériale renforcée en acier" />
+    <string id="lLZfWq7i" text="Poignée à étranglement du désert" />
+    <string id="lmxaWsmn" text="Poignée à deux mains enveloppée de cuir" />
+    <string id="LNDbMUK0" text="Tête de vouge" />
+    <string id="lOiyLjqK" text="Garde à croissant impériale" />
+    <string id="lpqDjWsL" text="Poignée à une main recouverte de cuir fin" />
+    <string id="lpVGz11R" text="Poignée à une main septentrionale recouverte de fourrure" />
+    <string id="LryUJnu7" text="Pommeau lisse" />
+    <string id="LSOXMCAW" text="Manche en pin" />
+    <string id="LSrJljDL" text="Tête d'herminette" />
+    <string id="ltbHzq5B" text="Tête de lance rivetée et renforcée" />
+    <string id="lv9oJyKJ" text="Pommeau plat oriental" />
+    <string id="LwM5byQG" text="Pommeau de lance en fer" />
+    <string id="lYEaqL9y" text="Poignée à une main recouverte de fourrure liée" />
+    <string id="LYSMiV6V" text="Longue poignée recouverte de peau" />
+    <string id="LzHkkphU" text="Poignée à une main recouverte de cuir brut" />
+    <string id="lZoqaYmx" text="Tête de gourdin à pointe" />
+    <string id="M08i7S6M" text="Garde de dague conique du désert" />
+    <string id="m0uOH4el" text="Garde de dague impériale incurvée" />
+    <string id="m2Xz2K5v" text="Poignée à deux mains septentrionale recouverte de fourrure" />
+    <string id="m6CVEgTU" text="Tête de hache de bataille à pointes" />
+    <string id="m8eUrnVj" text="Garde de dague occidentale fine" />
+    <string id="mak3naEe" text="Lame d'espadon large à gouttière" />
+    <string id="MCRppfbZ" text="Manche de javeline en pin" />
+    <string id="mcYSvJfA" text="Branche d'arbre" />
+    <string id="MDL2CcCH" text="Épines longues pondérées" />
+    <string id="MGD7zTLf" text="Pommeau en roue facettée" />
+    <string id="Mh5MDpsk" text="Poignée à deux mains méridionale recouverte de cuir écrasé" />
+    <string id="MJRzaazz" text="Poignée à deux mains plaquée en acier" />
+    <string id="MKtMbBJD" text="Poignée haute à une main" />
+    <string id="mm24JNyb" text="Poignée en forme de sablier septentrionale" />
+    <string id="mm6b54ZD" text="Garde large concave" />
+    <string id="MpVC0RXl" text="Lance triangulaire septentrionale" />
+    <string id="mQCQF6TL" text="Garde étroite de dague septentrionale" />
+    <string id="MRqIJXqv" text="Garde de dague en diamant méridionale" />
+    <string id="mrTkURKV" text="Tête de fourche crantée" />
+    <string id="mSNaSLiC" text="Lame d'épée de guerre en acier thamaskene" />
+    <string id="mSplbvgI" text="Doubles crochets" />
+    <string id="mTDuVvVN" text="Grande poignée plate" />
+    <string id="mU8oVsFW" text="Tête de morningstar" />
+    <string id="muv8N0Wo" text="Garde d'épée en bronze avec gravures" />
+    <string id="mVjshtzg" text="Pommeau à chapeau conique" />
+    <string id="mYP1ovEy" text="Garde percée du désert" />
+    <string id="N1qLYlxF" text="Lame kaskara en acier supérieur" />
+    <string id="N3VXsh2z" text="Lame de paramerion en acier" />
+    <string id="NAHHwS3G" text="Large pointe de lance en forme de feuille" />
+    <string id="nazL7Z3e" text="Poignée à deux mains boulonnée méridionale" />
+    <string id="NfPgejKk" text="Tête de hache sparth percée" />
+    <string id="nGP3FlHm" text="Hampe en acajou" />
+    <string id="Nhhmj7bz" text="Manche en érable dur" />
+    <string id="Nk924YlG" text="Poignée à une main décorée en acier supérieur" />
+    <string id="nKb9goqQ" text="Garde fine" />
+    <string id="NLs9M1D6" text="Garde ovale orientale" />
+    <string id="NmkDgmWW" text="Manche de masse de cavalier en acier" />
+    <string id="NO6FhjbJ" text="Poignée orange recouverte de cuir" />
+    <string id="NQb8boHt" text="Hampe en frêne renforcé" />
+    <string id="nr3K4od2" text="Tête de pilum" />
+    <string id="nRKOX66b" text="Tête de lance dentelé en acier supérieur" />
+    <string id="NS83CCvb" text="Tête de hache commune en fer" />
+    <string id="ntIEIQ0N" text="Tête de shishpar léger" />
+    <string id="Num2tkFb" text="Poignée longue plaquée" />
+    <string id="NuXH8rip" text="Garde en bronze stratifié" />
+    <string id="nVrg9Uda" text="Poignée d'épée en corne enveloppée de cuir" />
+    <string id="Nz4mg7JT" text="Garde de cimeterre dorée" />
+    <string id="nZ5e678J" text="Pommeau cerclé" />
+    <string id="NzjHzhwC" text="Garde en diamant à boutons" />
+    <string id="o2kFafbu" text="Tête de masse orientale en acier" />
+    <string id="O2kPKeuK" text="Lame d'épée avec gravure en or" />
+    <string id="OBeOZ27b" text="Tête de glaive" />
+    <string id="oGPHQt1J" text="Grande poignée de couperet à deux mains" />
+    <string id="OHHpwD0F" text="Lame de sabre droite" />
+    <string id="OHl66gsX" text="Garde de dague bollock en bronze" />
+    <string id="OJ7iPw5M" text="Grande poignée de hache en frêne renforcée" />
+    <string id="OlnvawN6" text="Grande garde d'épée en bronze" />
+    <string id="OlUuoUBe" text="Poignée orientale en fer fin recouverte de cuir" />
+    <string id="ooBWHpxP" text="Poignée angulaire orientale recouverte de cuir" />
+    <string id="OPfm5y7W" text="Garde dorée chevaleresque à tête de lion" />
+    <string id="OphcYYyN" text="Pommeau de lance riveté en acier supérieur" />
+    <string id="opUK4WmL" text="Garde de dague plate arrondie" />
+    <string id="orwoyDlX" text="Grande tête de hache sparth" />
+    <string id="OryiZr9d" text="Kontarion" />
+    <string id="OTtMvvJK" text="Lame d'épée striée" />
+    <string id="ow1aK4DJ" text="Hampe en chêne enveloppé" />
+    <string id="oW5N04JL" text="Lame en acier des hautes-terres" />
+    <string id="OW7w3Mth" text="Pommeau en éventail" />
+    <string id="Oxew9WCe" text="Tête de lance impériale" />
+    <string id="Oz6xANFb" text="Pommeau orné des hautes-terres" />
+    <string id="p1Uz3dqs" text="Poigne rouge rivetée de kaskara" />
+    <string id="p2aqirUu" text="Poignée flissa recouverte de cuir fin" />
+    <string id="p2xjr5Bp" text="Lame en bois" />
+    <string id="p3jlcHNo" text="Pommeau de lance long" />
+    <string id="pb4zUxzA" text="Lame makhaira" />
+    <string id="PbxZzhZx" text="Garde étroite de scramasaxe" />
+    <string id="PjMeZcwO" text="Garde de dague plate" />
+    <string id="pkmy6zB2" text="Garde étoilée méridionale" />
+    <string id="PmPxx2gK" text="Tête rasoir courbée" />
+    <string id="pocRP9dq" text="Hampe en frêne" />
+    <string id="PQ8rR13R" text="Lame longue de cimeterre en acier supérieur" />
+    <string id="PqoJ1ZeB" text="Lame de sabre décorée" />
+    <string id="PQThPvP6" text="Lame de spatha courte décorée" />
+    <string id="PsKP5j6A" text="Garde à boutons" />
+    <string id="pT5C12yT" text="Manche de hache à deux mains clouté en frêne" />
+    <string id="PUAi75mb" text="Pommeau rond impérial" />
+    <string id="PuRJZS03" text="Poignée d'épée à deux mains de style méridional" />
+    <string id="PvB0pW1Q" text="Lame émoussée à gouttière" />
+    <string id="pX4nTZOI" text="Large kaskara en acier supérieur" />
+    <string id="pXxv7YJv" text="Poignée d'acajou recouvert de cuir" />
+    <string id="PZYq0hBO" text="Garde de dague en bronze superposé" />
+    <string id="Q6kGQNzP" text="Poigne de fer à deux mains segmentée " />
+    <string id="q7jHkLam" text="Lame d'épée étroite" />
+    <string id="Q9Gfv68h" text="Poignée de sabre à deux mains" />
+    <string id="qbYoAvs6" text="Poignée à une main liée recouverte de peau" />
+    <string id="QCE1sAu3" text="Lame d'épée large" />
+    <string id="QH0oIiIz" text="Lame de poignard large" />
+    <string id="QIo60ZKh" text="Épée de guerre longue" />
+    <string id="qjxXq3P5" text="Garde de dague gravée des hautes-terres" />
+    <string id="QNe7mQlZ" text="Tête de râteau" />
+    <string id="Qqb0VZ1a" text="Manche en frêne à deux mains enveloppé de cuir" />
+    <string id="qQrmuHQ9" text="Tête de masse de cavalerie lourde" />
+    <string id="qQtLUC7Q" text="Garde de falx en bronze" />
+    <string id="qSV6C2tp" text="Tête d'épée" />
+    <string id="qtZNUUqG" text="Poignée à une main en bois septentrionale" />
+    <string id="Qw9HWSY7" text="Lame de flissa en fer" />
+    <string id="QwfDN06p" text="Tête de lance chevaleresque" />
+    <string id="QXqd6MLV" text="Poignée d'épée à deux mains recouverte de cuir fin relié en bronze" />
+    <string id="qYxzdFAa" text="Longue poignée en chêne recouverte de cuir" />
+    <string id="qZYeu55z" text="Manche de masse long en fer" />
+    <string id="r1U1w2zp" text="Poigne d'épée en cuir fin et bronze" />
+    <string id="r3R6RM9G" text="Tête de pique courte" />
+    <string id="R62maL2H" text="Tête de guisarme" />
+    <string id="R7OBSozV" text="Lame courte et épaisse" />
+    <string id="R8hEAwUZ" text="Poignée enroulée brute" />
+    <string id="r8KoZCBy" text="Garde de dague mince et effilé" />
+    <string id="RB3oxhaV" text="Garde longue d'arme" />
+    <string id="RBoqow67" text="Pommeau ovoïde" />
+    <string id="RdVX1jC0" text="Lame kaskara gravée" />
+    <string id="reHxxC6K" text="Manche de marteau de forgeron" />
+    <string id="Rh3h5NIg" text="Petit manche de hache de lancer en pin" />
+    <string id="rkEbLbYf" text="Poignée longue en cuir renforcée orientale" />
+    <string id="rKnBJPfp" text="Lame d'épée large de cavalerie en acier supérieur" />
+    <string id="rL2zMQ2l" text="Garde à bras larges" />
+    <string id="rn6tttI2" text="Pommeau ornemental méridional" />
+    <string id="rSs1M2EJ" text="Tête de masse en spirale" />
+    <string id="RWljioj5" text="Poignée a une main en corne de fer recouverte de cuir" />
+    <string id="RWm1h40B" text="Pommeau des hautes-terres" />
+    <string id="RXjhTS9s" text="Hampe en chêne enveloppé" />
+    <string id="S2MYKoII" text="Grand pommeau oriental" />
+    <string id="s50O60ed" text="Garde incurvée impériale" />
+    <string id="S75vUGzK" text="Tête de lance en acier supérieur" />
+    <string id="S9zZO7qJ" text="Tête de pique en acier supérieur" />
+    <string id="SaPaeTr4" text="Poignée à deux mains en bois" />
+    <string id="saYgR9C6" text="Poignée à deux mains de grande qualité des hautes-terres" />
+    <string id="SEsx3kZz" text="Tête de bardiche lourde" />
+    <string id="SgJH5KtP" text="Lame de sica" />
+    <string id="SgknWcu2" text="Poignée à une main recouverte de peau" />
+    <string id="sHwhgRzK" text="Pommeau en croissant" />
+    <string id="SJiam61q" text="Courte poignée noueuse" />
+    <string id="SJssgxmf" text="Lame d'ild décorée" />
+    <string id="sNJNDDKN" text="Petite tête de hache" />
+    <string id="sq7G99xP" text="Garde de la couronne" />
+    <string id="SqR5K74b" text="Poignée supérieure des hautes-terres" />
+    <string id="SR7a3qlO" text="Tête de hache de combat à tête arrondie" />
+    <string id="SraI0yxb" text="Poignée longue en chêne durci" />
+    <string id="sUlksgjL" text="Garde de lance enroulée de cuir et cloutée" />
+    <string id="SVBYn9KW" text="Fourche en fer" />
+    <string id="sw5rAz73" text="Tête de masse orientale légère" />
+    <string id="swb45HVS" text="Lame montagnarde" />
+    <string id="T1aiDuOp" text="Tête étroite de menavlon" />
+    <string id="T1xFTaOf" text="Longue lame de cimeterre décorée" />
+    <string id="T62Cmrrh" text="Pommeau à facettes" />
+    <string id="tgJ3dSOx" text="Longue lance en chêne" />
+    <string id="TKQl9boE" text="Poignée d'épée fine avec décorations dorées" />
+    <string id="TKVxb6QD" text="Tête de lance de feuille en acier de thamaskene" />
+    <string id="tLa3nYAQ" text="Pommeau calice à facettes" />
+    <string id="TLtaGEcB" text="Lame large de makhaira" />
+    <string id="tnaGywrE" text="Poignée a deux mains en cuir brut en forme de sablier" />
+    <string id="tNtulHAv" text="Grande tête de hache septentrionale" />
+    <string id="tq0eDwck" text="Garde de dague arrondie" />
+    <string id="trGnmFsh" text="Tête de masse impériale" />
+    <string id="tRJC72Qh" text="Poignée à une main en cuir croisé" />
+    <string id="tSaAzzYe" text="Lame étroite striée" />
+    <string id="tSgZoxsu" text="Poignée à une main en bois renforcée de fer" />
+    <string id="tSQbGb4m" text="Hampe en acajou extra long" />
+    <string id="TUbTwW9U" text="Lame spatha à crête plate" />
+    <string id="Tui9qvOZ" text="Tête de tzikurion" />
+    <string id="U30HpvtI" text="Tête de lance triangulaire en fer septentrionale" />
+    <string id="u89rP5qY" text="Pommeau à large rebord" />
+    <string id="uAfTaa3p" text="Poignée à une main en cuir orientale" />
+    <string id="Udo97SZC" text="Pommeau décoré oriental" />
+    <string id="ueCf3sde" text="Poignée à une main fine enveloppée de cuir" />
+    <string id="ugQrq53t" text="Pommeau en éventail" />
+    <string id="Uhc0KIdz" text="Manche de lance en pin" />
+    <string id="uIciSK8t" text="Poignée de noble ronde décorée méridionale" />
+    <string id="uKu7rTrW" text="Poignée à une main étroite à enveloppe serrée" />
+    <string id="UKWwPPkx" text="Lame d'épée avec empreinte de pétales dorés" />
+    <string id="ukYW8FVm" text="Pommeau de sabre rond" />
+    <string id="uLqEw8LB" text="Longue poignée impériale cloutée" />
+    <string id="uQsJQLJH" text="Poignée courte en peau septentrionale" />
+    <string id="usVYZYYD" text="Pommeau noble septentrional" />
+    <string id="USWfzbuW" text="Grande tête de hache septentrionale" />
+    <string id="uuover9F" text="Lame d'épée d'armes courte" />
+    <string id="uvmvs2SP" text="Poignée longue de couperet" />
+    <string id="uwG8iwBc" text="Lance longue des prairies" />
+    <string id="V0khEGns" text="Pommeau plat" />
+    <string id="v22onVb2" text="Lame de flissa légèrement striée" />
+    <string id="V3JMuFEg" text="Manche de masse nouée" />
+    <string id="V6YQykoc" text="Garde à pointe pour dague en croissant" />
+    <string id="V9Kbq6vj" text="Pointe émoussée d'entraînement" />
+    <string id="VbpiYB68" text="Lame courte à gouttière décorée" />
+    <string id="VccYBtB0" text="Tête de hachette septentrionale" />
+    <string id="VeHazKzb" text="Poignée en bois dur enveloppée de cuir" />
+    <string id="Vf2wKojF" text="Ailes émoussées" />
+    <string id="VfzFTGd8" text="Petite tête d'embout rond" />
+    <string id="vGda3CNV" text="Poignée d'épée bâtarde en cuir ornée d'or" />
+    <string id="VgMDYLje" text="Poignée à deux mains en cuir brut bombé" />
+    <string id="vJieQpnH" text="Poignée à une main boulonnée méridionale" />
+    <string id="VJmu4Yag" text="Protection de lance décorative" />
+    <string id="vJtBlaeS" text="Poignée d'épée à deux mains extra longue enveloppée de cuir" />
+    <string id="VL00fQvj" text="Poignée renforcée pour hache" />
+    <string id="vPMsDf85" text="Poignée en chêne recouverte de cuir" />
+    <string id="vx2VIbmb" text="Lame longue décorée pour épée de guerre" />
+    <string id="vxqrW5GN" text="Lame de faucille" />
+    <string id="W5tvNbjY" text="Pommeau ornemental oriental" />
+    <string id="wait0O6m" text="Tête de rasoir de guerre" />
+    <string id="WAtAGKhV" text="Ailes à double pointes" />
+    <string id="Wd3bU57P" text="Pommeau à croissant en bronze" />
+    <string id="we4ykbNe" text="Poignée à une main en cuir liée au fer avec un renflement" />
+    <string id="weIT4gUP" text="Lame fine à gouttière pour épée de guerre" />
+    <string id="wfK63ZQn" text="Pommeau de sabre" />
+    <string id="wgWSJzGD" text="Poignée à deux mains en cuir biseauté" />
+    <string id="wHMdRIl6" text="Poignée à une main en cuir brut segmenté" />
+    <string id="Wkhv9ESv" text="Manche de hache de lancer en chêne durci" />
+    <string id="wKJM541b" text="Garde à pointes tranchantes" />
+    <string id="WkLj6xAo" text="Pommeau trapézoïdal" />
+    <string id="WkTkxQfw" text="Tête de hache dentelée rectangulaire" />
+    <string id="Wl1m0LbL" text="Poignée renforcée gravée et incrustée d'argent" />
+    <string id="WNch6azL" text="Lame de cimeterre en fer" />
+    <string id="wQGWxeCc" text="Lame de sabre épaisse" />
+    <string id="wsVbMK6L" text="Lame plate de tournoi" />
+    <string id="wVcrqv4p" text="Poignée en bois" />
+    <string id="wvLoXrFV" text="Grand pommeau occidental" />
+    <string id="WXBkfAbb" text="Garde de dague rectangulaire brodée septentrionale" />
+    <string id="WxnqOG8s" text="Garde large concave" />
+    <string id="wXUjru6o" text="Garde de sabre large à boutons" />
+    <string id="X1FY4VYe" text="Tête marteau forgée" />
+    <string id="X7OrRebK" text="Tête de hache étroite de sparth" />
+    <string id="xb6e2YaV" text="Garde de dague ovale orientale" />
+    <string id="XbaFle0M" text="Doubles ailettes de lance orientales" />
+    <string id="xbazdytG" text="Poignée à deux mains en acier méridionale" />
+    <string id="xbB9Ga5X" text="Lame fuselée septentrionale" />
+    <string id="XetKl5yO" text="Garde de sabre dorée" />
+    <string id="XI5QgznO" text="Garde de couperet conique" />
+    <string id="xJaVK4D0" text="Ailettes à sanglier" />
+    <string id="xKGpbQjJ" text="Hampe en acajou enveloppée de cuir" />
+    <string id="Xo7l8eae" text="Lame émoussée" />
+    <string id="xoSaQWhX" text="Garde en croissant occidentale" />
+    <string id="XSabsFbx" text="Tête de pique pondérée lestée" />
+    <string id="XtneitaD" text="Lame d'épée de guerre en acier supérieur" />
+    <string id="xVHbBpb9" text="Poignée de cimeterre en acier segmenté" />
+    <string id="xWZuE1aE" text="Garde de dague épaisse concave" />
+    <string id="XxhFx0yw" text="Manche de hache courte enveloppé de cuir" />
+    <string id="xYgJN0Ja" text="Lame de cimeterre décorée" />
+    <string id="xZ70rbRt" text="Pommeau rond en bois" />
+    <string id="Y0gbKTgZ" text="Tête de fourche militaire sturgian" />
+    <string id="Y4tIQnS4" text="Tête de lance courte" />
+    <string id="y5A3HGua" text="Lame de paramerion en acier supérieur" />
+    <string id="ybjDbw8p" text="Poignée longue en chêne pour masse" />
+    <string id="yD9v5GS0" text="Manche en pin décoré" />
+    <string id="YDG2spCf" text="Poignée de noble orientale en cuir" />
+    <string id="yFm0f44p" text="Garde à pointe occidentale" />
+    <string id="YFy0t1NY" text="Tête de masse occidentale à pointes" />
+    <string id="Yi2PlMln" text="Pommeau riveté pour lance longue" />
+    <string id="yilLfxCc" text="Garde à rebords" />
+    <string id="ykTYTbek" text="Lame pour couteau de lancer" />
+    <string id="YkWqmDEK" text="Lame de fauchon à tête large" />
+    <string id="YKXNxxvY" text="Poignée à deux mains Nordique" />
+    <string id="ylUAAsQt" text="Poignée à une main enveloppée de cuir brut" />
+    <string id="yMWzpgjz" text="Poignée angulaire à deux mains enveloppée de fil" />
+    <string id="YQLEkXb7" text="Ailette à crochet singulier" />
+    <string id="ysby6FNF" text="Pommeau de lance en acier thamaskene riveté" />
+    <string id="YTZblGJ0" text="Poignée a deux mains en corne renforcée de cuir" />
+    <string id="YUDKID1R" text="Manche de masse renforcée en frêne" />
+    <string id="yUyJ39ot" text="Poignée de spatha en acier" />
+    <string id="YwKrIR6s" text="Double crochets énormes recouverts de fourrure" />
+    <string id="yWvSjlnb" text="Tête de masse en acier supérieur orientale" />
+    <string id="YxoUpPRb" text="Ailes crochues rivetées" />
+    <string id="yzsneaL6" text="Pommeau arrondi cerclé" />
+    <string id="zAdloN6Y" text="Lame d'épée courte à large crête" />
+    <string id="ZAoWK9Gt" text="Tête de lance impériale arrondie" />
+    <string id="ZbSKazZG" text="Lame seax courte" />
+    <string id="Zc2Mb991" text="Tête de shestopyor" />
+    <string id="ZCJ0aNYt" text="Garde à tête de serpent" />
+    <string id="ZcUNAfKT" text="Tête de lance extra longue en acier supérieur" />
+    <string id="zCYuj3yr" text="Lame d'épée à pointe striée" />
+    <string id="ZfEiEOsK" text="Garde de dague couronnée méridionale" />
+    <string id="ZgCUNieQ" text="Tête de fourche" />
+    <string id="Zgy40Qc4" text="Poignée longue en acajou" />
+    <string id="zIbAD527" text="Pommeau en pointe" />
+    <string id="ZJrqEfBF" text="Lame kaskara conique" />
+    <string id="ZJwQmyQR" text="Poignée d'épée bâtarde couverte de cuir et de laiton" />
+    <string id="zKaNmT8r" text="Garde de poignard en demi-lune" />
+    <string id="ZKrpvDu6" text="Poignée d'épée bâtarde renforcée d'acier mi-enveloppée" />
+    <string id="ZKsIpbg6" text="Poignée à deux mains reliée de fil mi-couverte de cuir" />
+    <string id="ZmFx0XvN" text="Poignée à une main divisée nordique" />
+    <string id="Zmtfwmh1" text="Garde de dague étroite conique" />
+    <string id="zoQhOBku" text="Pommeau rond à pointes" />
+    <string id="zoxF4ikz" text="Longue poignée en frêne enveloppée de cuir" />
+    <string id="Zp625kEP" text="Poignée en bois à deux mains septentrionale" />
+    <string id="ZUp9mm79" text="Tête de lance dentelée" />
+    <string id="ZxZ7AJ1r" text="Tête de hache de bataille méridionale" />
   </strings>
 </base>

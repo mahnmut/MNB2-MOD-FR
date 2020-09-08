@@ -127,6 +127,7 @@
     <string id="4rRsmX8i" text="Bien. Parfois, il est préférable de tondre les moutons plutôt que les manger." />
     <string id="4Skg9QhO" text="Trébuchet" />
     <string id="4smaJqhw" text="Annexe" />
+    <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} et {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}sont{?}est{\?} à la tête du combat." />
     <string id="4WD0kJSR" text="Arrr... Vous feriez mieux de ne pas jouer avec nous." />
     <string id="4wYguFLZ" text="Résoudre un problème" />
     <string id="4Y5T7wp1" text="Impossible d'expulser les membres de la famille du clan." />
@@ -335,7 +336,6 @@
     <string id="b5t34yLX" text="Harnais pour chevaux" />
     <string id="b6biU4f1" text="Créer un nouveau groupe" />
     <string id="B6g1ukB7" text="Échelon I" />
-    <string id="b6zBcSp2" text="La ville est en plein essor. Les murailles, les rues et les maisons sont bien entretenus." />
     <string id="b778BvfW" text="Cet article est {PERCENTAGE}% plus cher que la moyenne" />
     <string id="b7aDfCR9" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} et {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}se défendent{?}se défend{\?}." />
     <string id="b7bWCXbk" text="Filez maintenant, petits moutons. Et faites attention aux autres meutes de loups." />
@@ -361,7 +361,7 @@
     <string id="bfsJfrtk" text="{LEFT}{RIGHT}" />
     <string id="BftxIurV" text="Vous devez prendre la décision {DECISION_NAME}." />
     <string id="bg6x6Hbv" text="Casque" />
-    <string id="Bg83jhCR" text="Il est clair que la ville traverse une période difficile." />
+    <string id="Bg83jhCR" text="La ville traverse manifestement une période difficile. Les gens ont l'air mal nourris et les bâtiments sont mal entretenus." />
     <string id="bg8co4he" text="Abattre{newline}Cette action ne pourra pas être annulée." />
     <string id="bgjiFSHZ" text="Battanians" />
     <string id="bGyrPe8c" text="Production" />
@@ -616,17 +616,15 @@
     <string id="FRZfpryn" text="Présenter la proposition de donner fief à quelqu'un d'autre" />
     <string id="FS78CuPs" text="Les capacités liées à l'attribut {ATTRIBUTE_NAME} sont :" />
     <string id="FVEvjlis" text="Limite de taille du groupe dépassée" />
-    <string id="FvlyWloX" text="Le village est en plein essor. Des sacs de céréales et des charrettes chargées témoignent de la générosité des champs." />
     <string id="FvYhaE3z" text="Bannière" />
     <string id="fwbD1Jqo" text="Acheter" />
     <string id="FwlZRESM" text="+{BONUS_AMOUNT} de bonus aux milices" />
     <string id="fWwYUOVs" text="Nous allons accepter votre offre." />
     <string id="FxoVjLvl" text="Boucliers&amp;Distance" />
     <string id="FxPzcyLN" text="{SUPPORTERNAME} soutient {CANDIDATENAME}" />
-    <string id="FZBqNCvd" text="personne" />
     <string id="G0AWk1rX" text="Échelle" />
     <string id="g0gDsalr" text="Impulsif" />
-    <string id="g1KLcfxT" text="Le village est prospère. Les gens ont l'air bien nourris et satisfaits. Des animaux en pleine forme tirent des charrues et transportent les récoltes." />
+    <string id="g1KLcfxT" text="Le village est prospère. Des sacs de céréales pleins à craquer, des animaux en bonne santé et des charrettes chargées témoignent de la richesse des champs." />
     <string id="G4XXubLg" text="émira" />
     <string id="G5yvspkZ" text="Retraite impossible, le duel continue!" />
     <string id="g7zo28KR" text="Vous avez rencontré {.le}{PARTY}. Ils n'ont aucune chance face à votre pouvoir écrasant. Ils se rendent." />
@@ -690,7 +688,7 @@
     <string id="hbeUbpEA" text="Êtes-vous sûr de vouloir annuler ?" />
     <string id="HcAV8x7p" text="Membre du groupe" />
     <string id="HCZ5XSEL" text="{?IS_POSITIVE}+{?}-{\?} {NUMBER}" />
-    <string id="HD2wzAxz" text="Les Sturgians descendent des tribus établies dans le grand nord de Calradia. Talentueux aventuriers et cynégètes de renom, ils sont en quête de richesses et de fortunes. À mesure que l'empire s’étendait parmi leurs forêts hiémales, ils développèrent un commerce de fastueuses et de luxueuses fourrures d'animaux forestiers qu'ils avaient pour coutume de chasser. Les chefs sturgians, autrefois simples meneurs d'hommes, devinrent princes. Aussi se mirent-ils à se guerroyer l'un l'autre, chacun engageant des mercenaires nordiques immigrés afin de prévaloir sur les autres." />
+    <string id="HD2wzAxz" text="Les Sturgiens sont les descendants des tribus étrangères du nord de Calradia. Lorsque l'empire s'est étendu dans leurs forêts froides, ils y ont trouvé un marché pour les luxueuses fourrures des animaux des bois qu'ils chassaient et piégeaient traditionnellement. Les chefs sturgiens sont devenus des princes, rivalisant pour dominer avec l'aide des mercenaires du Nord qui ont migré dans leur royaume. Ce sont de bons chasseurs et explorateurs, qui voyagent loin à la recherche de possibilités de commerce et de pillage." />
     <string id="hDktLs4a" text="Vous avez agi avec sagesse et respect. Vous pouvez partir." />
     <string id="HdTVkcII" text="Améliorer ses relations. Fréquenter les nobles. Faire du troc." />
     <string id="HEQ2zEei" text="Annuler" />
@@ -713,7 +711,6 @@
     <string id="hometab" text="Accueil" />
     <string id="HP9wMk1T" text="Impossible d'accéder à l'écran du groupe pour le moment !" />
     <string id="HPe7HaZx" text="Rançonner des prisonniers" />
-    <string id="hpNFob32" text="La ville est pauvre. Les gens sont mal nourris." />
     <string id="hqIIEur1" text="Vous avez rencontré l'{ARMY}." />
     <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} et {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}attendent{?}attend{\?} que d'autres machines de siège arrivent." />
     <string id="HuCClZqT" text="Salaire" />
@@ -738,7 +735,7 @@
     <string id="I8xMpWxO" text="Téméraire" />
     <string id="IagYTD5O" text="Prospérité" />
     <string id="IbGNaL0H" text="{HERO.LINK}   Niveau : {LEVEL}" />
-    <string id="IbkODMHV" text="Repérer les traces et les cachettes. Voyager sur des terrains difficiles. (Éclaireur)" />
+    <string id="IbkODMHV" text="Repère les traces et les cachettes. Voyage sur des terrains difficiles. (Éclaireur)" />
     <string id="IcgVKFxZ" text="Dirigeant" />
     <string id="iCirZbD8" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} et {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}tirent{?}tire{\?} depuis les murailles du château." />
     <string id="icmyseoo" text="Mon Seigneur," />
@@ -852,6 +849,7 @@
     <string id="k8QpbFnj" text="Cape" />
     <string id="k9QvIYaR" text="Les points de Focalisation sont utilisés pour augmenter le taux d'apprentissage de n'importe quelle compétence." />
     <string id="ka7vAxgo" text="Charger la formation ennemie : {TARGET_FORMATION}" />
+    <string id="KafFddmO" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} et {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}protègent{?}protège{\?} le général." />
     <string id="KawqKhwh" text="Armure lourde" />
     <string id="KC5AZohd" text="Salutations, voyageur. Bienvenue dans notre forêt. Nous allons devoir percevoir un petit droit de passage." />
     <string id="KcQiDE6b" text="Peut être vendu {.a}{SETTLEMENT_NAME} pour {SELL_PRICE}" />
@@ -912,7 +910,6 @@
     <string id="LBy6YDMV" text="Regrouper" />
     <string id="Lc1vIEnM" text="Les loups et les moutons se déplacent de la même façon en glissant le long des lignes sur le plateau, une case par tour." />
     <string id="LEC8NhCV" text="Politique" />
-    <string id="lfkwsa5f" text="Pister" />
     <string id="lfMgaBiJ" text="Faites en sorte qu'il vaille la peine de ne pas vous tuer." />
     <string id="Lg3zeoYi" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} et {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}protègent{?}protège{\?} {#IS_LEFT}{#}le flanc gauche{#}plusieurs côtés{\#}{?IS_MIDDLE}le centre{?}{\?}{?IS_RIGHT}le flanc droit{?}{\?}{#IS_LEFT}{#}{#}s{\#}." />
     <string id="lh1yhgXw" text="Équipement de cheval V" />
@@ -941,7 +938,6 @@
     <string id="LymKjMLk" text="Vos hommes viennent de rejoindre votre groupe" />
     <string id="lZ1IDnpP" text="Donner tout" />
     <string id="LZhRP3PM" text="Attendre d'autres machines de siège" />
-    <string id="LZjdxXex" text="Le village est pauvre. Les gens sont mal nourris. Les animaux sont malades ou mourants. Les terres cultivées sont envahies par les mauvaises herbes, faute de main-d'œuvre pour les cultiver." />
     <string id="Lzmtqif5" text="Taille de l'armée" />
     <string id="lznqF0oO" text="Démanteler" />
     <string id="M00MeRJD" text="Coton" />
@@ -995,7 +991,6 @@
     <string id="MxG4217V" text="Villageois" />
     <string id="MxmOWsHj" text="Encyclopédie" />
     <string id="mXxVf2rb" text="Livre" />
-    <string id="mz8PnI3s" text="Os touché : {BONE}." />
     <string id="mZR7eYHa" text="Bouclier I" />
     <string id="N0MCVBXb" text="Oubliez cela" />
     <string id="n3cjEB0X" text="Outils" />
@@ -1125,7 +1120,6 @@
     <string id="PJEuE208" text="Milice :" />
     <string id="PJNW1UWK" text="Marchand" />
     <string id="pJR9zz06" text="Les troupes qui sont prêtes à être améliorées sont marquées par une icône spéciale.{newline}{newline}Certains soldats peuvent avoir deux voies d'amélioration possibles." />
-    <string id="pkyASW0A" text="Groupe / Portée des paiements" />
     <string id="pLZeP6L6" text="Partir à l'assaut des murailles{?IS_GENERAL_SIDE}{?} depuis le côté {SIDE_STRING}{\?}" />
     <string id="pm0yiOmv" text="Gagné : {DENAR_AMOUNT}{GOLD_ICON}" />
     <string id="PMnSk81U" text="Vous avez donc l'intention de vous battre, petit mouton ? Voyons voir vos cornes alors." />
@@ -1270,6 +1264,7 @@
     <string id="SdXS4lxN" text="Bonus de chef de faction" />
     <string id="SEBZa2Lh" text="Booste la cohésion" />
     <string id="SeQ0Q7r6" text="Problème en cours" />
+    <string id="settlementtrack" text="Pister" />
     <string id="sfcbd6QS" text="Vous avez réalisé {CURRENT_PROGRESS} points sur les {TARGET_PROGRESS} nécessaires pour réussir cette tentative de persuasion." />
     <string id="SFddKpPz" text="Pingre" />
     <string id="SFg3xgCM" text="Près d'ici" />
@@ -1346,6 +1341,7 @@
     <string id="TxeKpK3Y" text="Votre relation avec {HERO.NAME} est dorénavant de {VALUE} (augmentation de {MAGNITUDE})." />
     <string id="tXl9REtA" text="Milice {.de}{SETTLEMENT_NAME}" />
     <string id="Tyc4aAdz" text="Rejoindre la bataille sans mener d'hommes." />
+    <string id="u3c9M8vx" text="une archone" />
     <string id="U7er3V9s" text="Objets" />
     <string id="U7Z7f7ZT" text="Époux(se)" />
     <string id="U8TPlwW9" text="Enchanté {PLAYER.LINK}. Je vous suis reconnaissant pour ce que vous venez de faire. J'espère qu'un jour je trouverai un moyen de vous rendre la pareille." />
@@ -1360,7 +1356,6 @@
     <string id="uCikaIoq" text="Splendide. Vous voyez, mes gars et moi, nous ne sommes pas des hommes cruels. Un peu cupides cependant, on ne peut pas le nier, alors soyez généreux.[ib:hip][rb:trivial]" />
     <string id="UckVajhO" text="Renommée gagnée : + {RENOWN}" />
     <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}" />
-    <string id="Ue3JhJvE" text="Extra d'armure" />
     <string id="ufnnUxKb" text="Cuir" />
     <string id="uFuDwaYp" text="{HOUR} {?PLURAL}heures{?}heure{\?}" />
     <string id="ug4LiPbb" text="Armes à distance IV" />
@@ -1452,7 +1447,6 @@
     <string id="VyPwh1CT" text="Reprendre dans le groupe" />
     <string id="vZzDCjDr" text="Actuellement, personne n'est prêt à être recruté dans cette ville." />
     <string id="W1seGc3t" text="Cartouche" />
-    <string id="w2j9LGvZ" text="Taille de la cible" />
     <string id="W2WXkiAh" text="Rançonneur" />
     <string id="w3v2S03V" text="Votre relation avec {HERO_NAME} va &lt;a style=&quot;IncreaseStyle&quot; &gt;&lt;b&gt;augmenter&lt;/b&gt;&lt;/a&gt;" />
     <string id="W4iKIM2s" text="Petit bouclier" />
@@ -1617,7 +1611,6 @@
     <string id="zfCoeglY" text="Musicien" />
     <string id="zg0q1aqD" text="Vous ne pouvez pas dissoudre une garnison" />
     <string id="Zg5Zmgui" text="Nous revenons à notre village depuis le marché {.de}{TOWN}." />
-    <string id="zgRwrWSC" text="Ratio de paiement" />
     <string id="ZhiB1EOM" text="En prison {.a}{SETTLEMENT_NAME}" />
     <string id="ZlJIpfWg" text="Bonus de vitesse : {SPEED_BONUS}%." />
     <string id="ZMdOAbTd" text="Assaillants" />

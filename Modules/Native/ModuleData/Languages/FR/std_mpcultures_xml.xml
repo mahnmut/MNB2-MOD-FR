@@ -4,13 +4,13 @@
     <tag language="Français" />
   </tags>
   <strings>
-    <string id="0B27RrYJ" text="Battania"/>
-    <string id="1sbJQR4H" text="Pillards"/>
-    <string id="3PzgpFGq" text="Neutre"/>
-    <string id="aseraifaction" text="Aserai"/>
-    <string id="empirefaction" text="Empire"/>
-    <string id="FjwRsf1C" text="Vlandia"/>
-    <string id="PjO7oY16" text="Sturgia"/>
-    <string id="sZLd6VHi" text="Khuzait"/>
+    <string id="0B27RrYJ" text="Battania" />
+    <string id="1sbJQR4H" text="Pillards" />
+    <string id="3PzgpFGq" text="Neutre" />
+    <string id="aseraifaction" text="Aserai" />
+    <string id="empirefaction" text="Empire" />
+    <string id="FjwRsf1C" text="Vlandia" />
+    <string id="PjO7oY16" text="Sturgia" />
+    <string id="sZLd6VHi" text="Khuzait" />
   </strings>
 </base>

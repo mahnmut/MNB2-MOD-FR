@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Français" />
@@ -15,6 +15,7 @@
     <string id="azjMBa86" text="Acier supérieur" />
     <string id="Bn7IsMpu" text="INT " />
     <string id="bVD9j0wI" text="La forme physique, la vitesse et l’équilibre." />
+    <string id="controlskill" text="Contrôle" />
     <string id="d2ApwXJr" text="END" />
     <string id="EGeY1gfs" text="Charme" />
     <string id="eoLbkhsY" text="Maîtrise du combat avec des armes à deux mains de longueur moyenne telles que les grandes haches et épées." />
@@ -74,6 +75,5 @@
     <string id="YO5LUfiO" text="La ruse est la capacité de prédire ce que les autres feront et de déjouer leurs plans." />
     <string id="YWkdD7Ki" text="Vigueur" />
     <string id="ZBmz4niK" text="et" />
-    <string id="zfRqM4mr" text="Contrôle" />
   </strings>
 </base>

@@ -4,12 +4,12 @@
     <tag language="Français" />
   </tags>
   <strings>
-    <string id="2ZarUUbw" text="{KILLERPLAYERNAME} a tué {KILLEDPLAYERNAME}!"/>
-    <string id="9CnRKZOb" text="{KILLEDPLAYERNAME} est mort !"/>
-    <string id="NqarFr4P" text="Options"/>
-    <string id="ODQmOrIw" text="Crédits"/>
-    <string id="xsC8Ierj" text="({BATTLE_COMBATANT})"/>
-    <string id="YbpzLHzk" text="Quitter le jeu"/>
-    <string id="YDYnuBmC" text="Multijoueur"/>
+    <string id="2ZarUUbw" text="{KILLERPLAYERNAME} a tué {KILLEDPLAYERNAME}!" />
+    <string id="9CnRKZOb" text="{KILLEDPLAYERNAME} est mort !" />
+    <string id="NqarFr4P" text="Options" />
+    <string id="ODQmOrIw" text="Crédits" />
+    <string id="xsC8Ierj" text="({BATTLE_COMBATANT})" />
+    <string id="YbpzLHzk" text="Quitter le jeu" />
+    <string id="YDYnuBmC" text="Multijoueur" />
   </strings>
 </base>
