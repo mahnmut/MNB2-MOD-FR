@@ -124,7 +124,7 @@
     <string id="7rGaUG0W" text="Capuche de fourrure orientale" />
     <string id="7S6BjECG" text="Harnais de mule avec sacs" />
     <string id="7sgW3eHd" text="Habit en fourrure oriental" />
-    <string id="7yGwvnUA" text="Tunique septentrionale" />
+    <string id="7yGwvnUA" text="Tunique légère" />
     <string id="85q9uY76" text="Harnais en écailles des hautes-terres" />
     <string id="89bCqb0Z" text="Bouclier carré en osier d'entraînement" />
     <string id="89OWzLBb" text="Ascia à manche en bambou" />
@@ -613,6 +613,8 @@
     <string id="NmLEZfiI" text="Javelines orientales" />
     <string id="nNGCuIUf" text="Coiffe ouverte en mailles impériale" />
     <string id="Nqa2maO2" text="Manteau en cuir tissé" />
+    <string id="nTc20R1R" text="Marteau improvisé" />
+    <string id="nTjEUF9z" text="Grand bouclier rond rudimentaire" />
     <string id="NtsdmmW9" text="Dattes" />
     <string id="nUarDXVH" text="Chapel de fer rond sur cuir impérial" />
     <string id="NUHzapSv" text="Tunique longue en chanvre" />
@@ -678,6 +680,7 @@
     <string id="QA5zGCKf" text="Épée à gouttière décorée" />
     <string id="QaKohN0V" text="Mailles sur cuir déchiré impériales" />
     <string id="qaraQjXa" text="Chapel rond sur rembourrage impérial" />
+    <string id="QaysED62" text="Tunique avec tissu enroulé" />
     <string id="Qazvdg1P" text="Coiffe en tissu impériale" />
     <string id="qc0P0b2r" text="Casque à lunettes sur mailles" />
     <string id="QcKpipVr" text="Adarga" />
@@ -715,6 +718,7 @@
     <string id="RaTK0SBu" text="Bouclier de cavalier en amande occidental" />
     <string id="Rcc0JW6H" text="Spatha en acier thamaskene" />
     <string id="RcCtV0aS" text="Arc en if forestier" />
+    <string id="RddFH0BA" text="Grand bouclier rond cerclé de fer" />
     <string id="rdKSIamN" text="Flèches perforantes" />
     <string id="REYaHXQb" text="Armure de cavalerie sturgian" />
     <string id="rF7Xm7C0" text="Écu lourd" />
@@ -995,6 +999,7 @@
     <string id="Zvxydvao" text="Robe de riche impériale" />
     <string id="Zwb65ufG" text="Argile" />
     <string id="Zx4h7jDy" text="Mannequin d'armure minimum" />
+    <string id="ZYQrmlKH" text="Cotte de mailles des hautes terres" />
     <string id="zZ2G7uIO" text="Chapel de fer sur mailles" />
   </strings>
 </base>
