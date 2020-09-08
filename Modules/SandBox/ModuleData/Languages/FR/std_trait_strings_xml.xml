@@ -4,87 +4,87 @@
     <tag language="Français" />
   </tags>
   <strings>
-    <string id="1CCSLaXG" text="honorable"/>
-    <string id="2LhoHBb4" text="{?LORD.GENDER}froide et distante{?}froid et distant{\?}"/>
-    <string id="2oLzxPGu" text="{?LORD.GENDER}agressive et exigeante{?}agressif et exigeant{\?}"/>
-    <string id="3ojhI49j" text="{?LORD.GENDER}glaciale{?}glacial{\?}"/>
-    <string id="4Kb43rdf" text="{?LORD.GENDER}loyale{?}loyal{\?}"/>
-    <string id="52I465OW" text="ambitieux et manipulateur"/>
-    <string id="5L4ox55u" text="Toujours {?NOTABLE.GENDER}la première{?}le premier{\?} à risquer sa tête pour la cause."/>
-    <string id="5ogR7oUW" text="{?LORD.GENDER}noble et généreuse{?}noble et généreux{\?}"/>
-    <string id="6okDQlyn" text="{?LORD.GENDER}prudente{?}prudent{\?}"/>
-    <string id="6tOrCXWu" text="{?NOTABLE.GENDER}Bienveillante{?}Bienveillant{\?} avec ceux qui l'ont bien servi."/>
-    <string id="85SsQ1xA" text="indigne de confiance"/>
-    <string id="8aAbnMIo" text="{?LORD.GENDER}froide{?}froid{\?}"/>
-    <string id="8D5Lx2LY" text="un coeur tendre"/>
-    <string id="9bUlUrVI" text="féroce et {?LORD.GENDER}cruelle{?}cruel{\?}"/>
-    <string id="A27HuUiz" text="{?LORD.GENDER}audacieuse{?}audacieux{\?}"/>
-    <string id="aDkmS7iN" text="du genre à agir sans réfléchir"/>
-    <string id="AgE2Wffg" text="{?LORD.GENDER}une bonne amie mais une dangereuse ennemie{?}un bon ami mais un dangereux ennemi{\?}"/>
-    <string id="bSQF8nac" text="{?LORD.GENDER}ambitieuse{?}ambitieux{\?}"/>
-    <string id="bYa051Bs" text="perfide, {?LORD.GENDER}agressive et ambitieuse{?}agressif et ambitieux{\?}"/>
-    <string id="CaSahkj4" text="peu honorable à tous égards"/>
-    <string id="CUR5ZZtd" text="juste mais impitoyable"/>
-    <string id="Dkmja15D" text="N'est pas digne de confiance."/>
-    <string id="Dz3kGpkM" text="{?LORD.GENDER}dérangée, mauvaise et dangereuse à connaître{?}dérangé, mauvais et dangereux à connaître{\?}"/>
-    <string id="dZ7OtsDv" text="{?LORD.GENDER}prudente{?}prudent{\?} mais digne de confiance"/>
-    <string id="etdkWOLn" text="perfide"/>
-    <string id="euinlzab" text="{?LORD.GENDER}craintive{?}craintif{\?}"/>
-    <string id="fgkQSbUE" text="un peu gredin, mais un cœur en or"/>
-    <string id="FNzGHbvb" text="{?LORD.GENDER}encline{?}enclin{\?} à de violentes rages"/>
-    <string id="GMMg8AwD" text="impitoyable"/>
-    <string id="gZMm5J4u" text="N'agit jamais dans la hâte... Dispose toujours d'un plan."/>
-    <string id="hFtm7jZT" text="complètement {?LORD.GENDER}conventionnelle{?}conventionnel{\?}"/>
-    <string id="HNoD0Xcw" text="brave, mais facilement {?LORD.GENDER}enragée et rancunière{?}enragé et rancunier{\?}"/>
-    <string id="HTBQ3E3Q" text="{?LORD.GENDER}généreuse{?}généreux{\?} envers ses amis"/>
-    <string id="isnEHNXl" text="Défend ce en quoi {?NOTABLE.GENDER}elle{?}il{\?} croit."/>
-    <string id="jFLPNGdH" text="brave et {?LORD.GENDER}courageuse{?}courageux{\?}"/>
-    <string id="jqiKsw34" text="perfide mais d'un coeur tendre"/>
-    <string id="JWTKNySw" text="avare"/>
-    <string id="KFvms0sR" text="quelqu'un qui aime prendre des risques calculés."/>
-    <string id="kKFLfWbJ" text="moralisateur"/>
-    <string id="KxjSILpL" text="du genre à profiter du moindre avantage"/>
-    <string id="L3b9ZsLs" text="{?LORD.GENDER}dépensière{?}dépensier{\?}"/>
-    <string id="LCs7NMyz" text="Vous ne le verrez pas sauter dans la mêlée."/>
-    <string id="LfmWyPEk" text="{?LORD.GENDER}conventionnelle{?}conventionnel{\?}"/>
-    <string id="LtBwSe0J" text="{?LORD.GENDER}gentille et prévenante{?}gentil et prévenant{\?} - certains diraient d'un coeur tendre"/>
-    <string id="mH8FHX9r" text="{?LORD.GENDER}prudente mais dangereuse{?}prudent mais dangereux{\?}"/>
-    <string id="MoQbaOOk" text="{?LORD.GENDER}cruelle{?}cruel{\?} et perfide"/>
-    <string id="MVnA7tkN" text="honorable, colérique et {?LORD.GENDER}cruelle{?}cruel{\?}, incapable aussi bien de rompre un serment que de pardonner un camouflet"/>
-    <string id="mWkCWB6j" text="{?LORD.GENDER}gentille mais prudente{?}gentil mais prudent{\?}"/>
-    <string id="nnDG8Ryc" text="brave mais {?LORD.GENDER}entêtée{?}entêté{\?}"/>
-    <string id="NOEYSbeR" text="honorable, mais rigide et {?LORD.GENDER}cruelle{?}cruel{\?}"/>
-    <string id="nYHM3bmc" text="brave et {?LORD.GENDER}miséricordieuse{?}miséricordieux{\?}"/>
-    <string id="OuXZbyeS" text="attentif, bienveillant et généreux envers ceux qui lui sont loyal"/>
-    <string id="OwOdbwc5" text="Fonce parfois sans réfléchir."/>
-    <string id="peI78GmJ" text="Je ne sais pas quoi penser de celui la..."/>
-    <string id="ppTLY8tm" text="juste et honnête, mais ingrat"/>
-    <string id="PW3Ya1AQ" text="acariâtre"/>
-    <string id="Q3TaYO39" text="le genre qui s'efforce d'être juste et équitable"/>
-    <string id="QtcN7aEk" text="{?LORD.GENDER}audacieuse et ambitieuse{?}audacieux et ambitieux{\?}"/>
-    <string id="qXwYcJHa" text="respectable et {?LORD.GENDER}gentille{?}gentil{\?}"/>
-    <string id="QzNHs8Ch" text="brave et {?LORD.GENDER}passionnée{?}passionné{\?}, quoique parfois {?LORD.GENDER}inconsciente{?}inconscient{\?} de la situation."/>
-    <string id="RaecCLdK" text="brave, {?LORD.GENDER}généreuse et une amie précieuse{?}généreux et un ami précieux{\?}"/>
-    <string id="Raq3TcUa" text="{?LORD.GENDER}attentive{?}attentif{\?} aux autres"/>
-    <string id="raQIsPly" text="du genre à épargner ses ennemis, mais à être {?LORD.GENDER}indélicate{?}indélicat{\?} avec ses amis"/>
-    <string id="rarG5Bqa" text="serviable"/>
-    <string id="S6XcP7Wz" text="ni {?LORD.GENDER}la meilleure amie, ni la pire ennemie{?}le meilleur ami, ni le pire ennemi{\?}"/>
-    <string id="tc1PuNa8" text="{?LORD.GENDER}loyale{?}loyal{\?} envers ses amis, mais est aussi {?LORD.GENDER}cruelle et manipulatrice{?}cruel et manipulateur{\?}"/>
-    <string id="TGQD4r5Z" text="{?LORD.GENDER}vaillante{?}vaillant{\?}"/>
-    <string id="UoYPTOPV" text="traître, mais au moins non {?LORD.GENDER}cruelle{?}cruel{\?}"/>
-    <string id="URWSOAfG" text="sadique"/>
-    <string id="Vis2eo0Y" text="Un penchant pour la cruauté, c'est indéniable."/>
-    <string id="VnaT2Ipq" text="{?LORD.GENDER}gentille{?}gentil{\?}"/>
-    <string id="VujjcI1C" text="Celui-là a un bon cœur, ça ne fait aucun doute."/>
-    <string id="WAzdB4DL" text="{?LORD.GENDER}maligne et magouilleuse{?}malin et magouilleur{\?}"/>
-    <string id="WbyybDP6" text="Ne se rappelle pas toujours de {?NOTABLE.GENDER}celle{?}celui{\?} qui lui a rendu service."/>
-    <string id="wVfZh5eN" text="{?LORD.GENDER}dotée{?}doté{\?} d'un féroce et dangereux tempérament"/>
-    <string id="XPU5mqSi" text="rusé{?LORD.GENDER}e{?}{\?}"/>
-    <string id="xSbcea2l" text="peu fiable"/>
-    <string id="Y8WpovVO" text="respectable mais {?LORD.GENDER}prudente{?}prudent{\?}"/>
-    <string id="YeK2rAWJ" text="{?LORD.GENDER}cruelle{?}cruel{\?}"/>
-    <string id="yl2q8dL8" text="impitoyable"/>
-    <string id="Yyw81AGG" text="sympathique mais {?LORD.GENDER}manipulatrice{?}manipulateur{\?}"/>
-    <string id="znOeRtlb" text="{?LORD.GENDER}une intrigante{?}un intrigant{\?}"/>
+    <string id="1CCSLaXG" text="honorable" />
+    <string id="2LhoHBb4" text="{?LORD.GENDER}froide et distante{?}froid et distant{\?}" />
+    <string id="2oLzxPGu" text="{?LORD.GENDER}agressive et exigeante{?}agressif et exigeant{\?}" />
+    <string id="3ojhI49j" text="{?LORD.GENDER}glaciale{?}glacial{\?}" />
+    <string id="4Kb43rdf" text="{?LORD.GENDER}loyale{?}loyal{\?}" />
+    <string id="52I465OW" text="ambitieux et manipulateur" />
+    <string id="5L4ox55u" text="Toujours {?NOTABLE.GENDER}la première{?}le premier{\?} à risquer sa tête pour la cause." />
+    <string id="5ogR7oUW" text="{?LORD.GENDER}noble et généreuse{?}noble et généreux{\?}" />
+    <string id="6okDQlyn" text="{?LORD.GENDER}prudente{?}prudent{\?}" />
+    <string id="6tOrCXWu" text="{?NOTABLE.GENDER}Bienveillante{?}Bienveillant{\?} avec ceux qui l'ont bien servi." />
+    <string id="85SsQ1xA" text="indigne de confiance" />
+    <string id="8aAbnMIo" text="{?LORD.GENDER}froide{?}froid{\?}" />
+    <string id="8D5Lx2LY" text="un coeur tendre" />
+    <string id="9bUlUrVI" text="féroce et {?LORD.GENDER}cruelle{?}cruel{\?}" />
+    <string id="A27HuUiz" text="{?LORD.GENDER}audacieuse{?}audacieux{\?}" />
+    <string id="aDkmS7iN" text="du genre à agir sans réfléchir" />
+    <string id="AgE2Wffg" text="{?LORD.GENDER}une bonne amie mais une dangereuse ennemie{?}un bon ami mais un dangereux ennemi{\?}" />
+    <string id="bSQF8nac" text="{?LORD.GENDER}ambitieuse{?}ambitieux{\?}" />
+    <string id="bYa051Bs" text="perfide, {?LORD.GENDER}agressive et ambitieuse{?}agressif et ambitieux{\?}" />
+    <string id="CaSahkj4" text="peu honorable à tous égards" />
+    <string id="CUR5ZZtd" text="juste mais impitoyable" />
+    <string id="Dkmja15D" text="N'est pas digne de confiance." />
+    <string id="Dz3kGpkM" text="{?LORD.GENDER}dérangée, mauvaise et dangereuse à connaître{?}dérangé, mauvais et dangereux à connaître{\?}" />
+    <string id="dZ7OtsDv" text="{?LORD.GENDER}prudente{?}prudent{\?} mais digne de confiance" />
+    <string id="etdkWOLn" text="perfide" />
+    <string id="euinlzab" text="{?LORD.GENDER}craintive{?}craintif{\?}" />
+    <string id="fgkQSbUE" text="un peu gredin, mais un cœur en or" />
+    <string id="FNzGHbvb" text="{?LORD.GENDER}encline{?}enclin{\?} à de violentes rages" />
+    <string id="GMMg8AwD" text="impitoyable" />
+    <string id="gZMm5J4u" text="N'agit jamais dans la hâte... Dispose toujours d'un plan." />
+    <string id="hFtm7jZT" text="complètement {?LORD.GENDER}conventionnelle{?}conventionnel{\?}" />
+    <string id="HNoD0Xcw" text="brave, mais facilement {?LORD.GENDER}enragée et rancunière{?}enragé et rancunier{\?}" />
+    <string id="HTBQ3E3Q" text="{?LORD.GENDER}généreuse{?}généreux{\?} envers ses amis" />
+    <string id="isnEHNXl" text="Défend ce en quoi {?NOTABLE.GENDER}elle{?}il{\?} croit." />
+    <string id="jFLPNGdH" text="brave et {?LORD.GENDER}courageuse{?}courageux{\?}" />
+    <string id="jqiKsw34" text="perfide mais d'un coeur tendre" />
+    <string id="JWTKNySw" text="avare" />
+    <string id="KFvms0sR" text="quelqu'un qui aime prendre des risques calculés." />
+    <string id="kKFLfWbJ" text="moralisateur" />
+    <string id="KxjSILpL" text="du genre à profiter du moindre avantage" />
+    <string id="L3b9ZsLs" text="{?LORD.GENDER}dépensière{?}dépensier{\?}" />
+    <string id="LCs7NMyz" text="Vous ne le verrez pas sauter dans la mêlée." />
+    <string id="LfmWyPEk" text="{?LORD.GENDER}conventionnelle{?}conventionnel{\?}" />
+    <string id="LtBwSe0J" text="{?LORD.GENDER}gentille et prévenante{?}gentil et prévenant{\?} - certains diraient d'un coeur tendre" />
+    <string id="mH8FHX9r" text="{?LORD.GENDER}prudente mais dangereuse{?}prudent mais dangereux{\?}" />
+    <string id="MoQbaOOk" text="{?LORD.GENDER}cruelle{?}cruel{\?} et perfide" />
+    <string id="MVnA7tkN" text="honorable, colérique et {?LORD.GENDER}cruelle{?}cruel{\?}, incapable aussi bien de rompre un serment que de pardonner un camouflet" />
+    <string id="mWkCWB6j" text="{?LORD.GENDER}gentille mais prudente{?}gentil mais prudent{\?}" />
+    <string id="nnDG8Ryc" text="brave mais {?LORD.GENDER}entêtée{?}entêté{\?}" />
+    <string id="NOEYSbeR" text="honorable, mais rigide et {?LORD.GENDER}cruelle{?}cruel{\?}" />
+    <string id="nYHM3bmc" text="brave et {?LORD.GENDER}miséricordieuse{?}miséricordieux{\?}" />
+    <string id="OuXZbyeS" text="attentif, bienveillant et généreux envers ceux qui lui sont loyal" />
+    <string id="OwOdbwc5" text="Fonce parfois sans réfléchir." />
+    <string id="peI78GmJ" text="Je ne sais pas quoi penser de celui la..." />
+    <string id="ppTLY8tm" text="juste et honnête, mais ingrat" />
+    <string id="PW3Ya1AQ" text="acariâtre" />
+    <string id="Q3TaYO39" text="le genre qui s'efforce d'être juste et équitable" />
+    <string id="QtcN7aEk" text="{?LORD.GENDER}audacieuse et ambitieuse{?}audacieux et ambitieux{\?}" />
+    <string id="qXwYcJHa" text="respectable et {?LORD.GENDER}gentille{?}gentil{\?}" />
+    <string id="QzNHs8Ch" text="brave et {?LORD.GENDER}passionnée{?}passionné{\?}, quoique parfois {?LORD.GENDER}inconsciente{?}inconscient{\?} de la situation." />
+    <string id="RaecCLdK" text="brave, {?LORD.GENDER}généreuse et une amie précieuse{?}généreux et un ami précieux{\?}" />
+    <string id="Raq3TcUa" text="{?LORD.GENDER}attentive{?}attentif{\?} aux autres" />
+    <string id="raQIsPly" text="du genre à épargner ses ennemis, mais à être {?LORD.GENDER}indélicate{?}indélicat{\?} avec ses amis" />
+    <string id="rarG5Bqa" text="serviable" />
+    <string id="S6XcP7Wz" text="ni {?LORD.GENDER}la meilleure amie, ni la pire ennemie{?}le meilleur ami, ni le pire ennemi{\?}" />
+    <string id="tc1PuNa8" text="{?LORD.GENDER}loyale{?}loyal{\?} envers ses amis, mais est aussi {?LORD.GENDER}cruelle et manipulatrice{?}cruel et manipulateur{\?}" />
+    <string id="TGQD4r5Z" text="{?LORD.GENDER}vaillante{?}vaillant{\?}" />
+    <string id="UoYPTOPV" text="traître, mais au moins non {?LORD.GENDER}cruelle{?}cruel{\?}" />
+    <string id="URWSOAfG" text="sadique" />
+    <string id="Vis2eo0Y" text="Un penchant pour la cruauté, c'est indéniable." />
+    <string id="VnaT2Ipq" text="{?LORD.GENDER}gentille{?}gentil{\?}" />
+    <string id="VujjcI1C" text="Celui-là a un bon cœur, ça ne fait aucun doute." />
+    <string id="WAzdB4DL" text="{?LORD.GENDER}maligne et magouilleuse{?}malin et magouilleur{\?}" />
+    <string id="WbyybDP6" text="Ne se rappelle pas toujours de {?NOTABLE.GENDER}celle{?}celui{\?} qui lui a rendu service." />
+    <string id="wVfZh5eN" text="{?LORD.GENDER}dotée{?}doté{\?} d'un féroce et dangereux tempérament" />
+    <string id="XPU5mqSi" text="rusé{?LORD.GENDER}e{?}{\?}" />
+    <string id="xSbcea2l" text="peu fiable" />
+    <string id="Y8WpovVO" text="respectable mais {?LORD.GENDER}prudente{?}prudent{\?}" />
+    <string id="YeK2rAWJ" text="{?LORD.GENDER}cruelle{?}cruel{\?}" />
+    <string id="yl2q8dL8" text="impitoyable" />
+    <string id="Yyw81AGG" text="sympathique mais {?LORD.GENDER}manipulatrice{?}manipulateur{\?}" />
+    <string id="znOeRtlb" text="{?LORD.GENDER}une intrigante{?}un intrigant{\?}" />
   </strings>
 </base>

@@ -4,9 +4,9 @@
     <tag language="Français" />
   </tags>
   <strings>
-    <string id="75nwCTEn" text="L'écran des clans est désactivé pendant le tutoriel."/>
-    <string id="lBQXP6Wj" text="Démarrer une Partie"/>
-    <string id="Rvr1bcu8" text="Suivant"/>
-    <string id="UjERCi2F" text="Cette fonctionnalité est désactivée."/>
+    <string id="75nwCTEn" text="L'écran des clans est désactivé pendant le tutoriel." />
+    <string id="lBQXP6Wj" text="Démarrer une Partie" />
+    <string id="Rvr1bcu8" text="Suivant" />
+    <string id="UjERCi2F" text="Cette fonctionnalité est désactivée." />
   </strings>
 </base>

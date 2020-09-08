@@ -4,7 +4,7 @@
     <tag language="Français" />
   </tags>
   <strings>
-    <string id="0xC75dN6" text="Enemy Party"/>
-    <string id="sSJSTe5p" text="Groupe du Joueur"/>
+    <string id="0xC75dN6" text="Enemy Party" />
+    <string id="sSJSTe5p" text="Groupe du Joueur" />
   </strings>
 </base>

@@ -4,8 +4,8 @@
     <tag language="Français" />
   </tags>
   <strings>
-    <string id="Rvr1bcu8" text="Suivant"/>
-    <string id="sf_menu_storymode_new_game" text="Campagne"/>
-    <string id="WXAaWZVf" text="Précédent"/>
+    <string id="Rvr1bcu8" text="Suivant" />
+    <string id="sf_menu_storymode_new_game" text="Campagne" />
+    <string id="WXAaWZVf" text="Précédent" />
   </strings>
 </base>

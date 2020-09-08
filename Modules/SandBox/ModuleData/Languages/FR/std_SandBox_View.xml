@@ -4,18 +4,18 @@
     <tag language="Français" />
   </tags>
   <strings>
-    <string id="171fTtIN" text="Bac à sable"/>
-    <string id="6mN03uTP" text="Parties sauvegardées"/>
-    <string id="9NuttOBC" text="Charger"/>
-    <string id="A7349NHy" text="Décision critique du royaume"/>
-    <string id="AbEh2y8o" text="Sauvegarder et quitter"/>
-    <string id="bFzZwwjT" text="Examiner"/>
-    <string id="bV75iwKa" text="Sauvegarder"/>
-    <string id="e0KdfaNe" text="Sauvegarder sous"/>
-    <string id="NqarFr4P" text="Options"/>
-    <string id="PXT6aA4J" text="Options de campagne"/>
-    <string id="RamV6yLM" text="Retour au menu principal"/>
-    <string id="VHjIJGja" text="Vous devez être dans un royaume"/>
-    <string id="XzZFhRwr" text="Revenir en jeu"/>
+    <string id="171fTtIN" text="Bac à sable" />
+    <string id="6mN03uTP" text="Parties sauvegardées" />
+    <string id="9NuttOBC" text="Charger" />
+    <string id="A7349NHy" text="Décision critique du royaume" />
+    <string id="AbEh2y8o" text="Sauvegarder et quitter" />
+    <string id="bFzZwwjT" text="Examiner" />
+    <string id="bV75iwKa" text="Sauvegarder" />
+    <string id="e0KdfaNe" text="Sauvegarder sous" />
+    <string id="NqarFr4P" text="Options" />
+    <string id="PXT6aA4J" text="Options de campagne" />
+    <string id="RamV6yLM" text="Retour au menu principal" />
+    <string id="VHjIJGja" text="Vous devez être dans un royaume" />
+    <string id="XzZFhRwr" text="Revenir en jeu" />
   </strings>
 </base>

@@ -1,56 +1,56 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Français" />
   </tags>
   <strings>
-    <string id="7ZhNilg8" text="Facile (bonus de 5%)"/>
-    <string id="8UBfIenN" text="Normal"/>
-    <string id="9jSxo790" text="Réaliste"/>
-    <string id="AQfVclN8" text="Prix"/>
-    <string id="B0uvwKae" text="Choisissez si les héros peuvent mourir sur le champ de bataille."/>
-    <string id="bLwIgxXa" text="Difficultés de recrutement"/>
-    <string id="cA1D2Ua3" text="Vous aurez besoin d'une meilleure relation avec les notables pour accéder à toutes leurs troupes."/>
-    <string id="carorTAF" text="Réduit à 2/3 (facile)"/>
-    <string id="cUHlzCRx" text="Activer la mort des héros"/>
-    <string id="D9GkBqyW" text="Vous pouvez quitter le camp d'entraînement en maintenant [{LEAVE_KEY}]{newline}Vous pouvez y revenir à tout moment depuis la carte de campagne."/>
-    <string id="DFMhzFGV" text="Garder un certain nombre de chevaux dans votre inventaire peut accélérer considérablement votre groupe car ils augmenteront votre capacité de transport et les hommes à pied monteront les chevaux disponibles. Les chevaux de traits et les mules ne sont utiles que pour le transport de marchandises."/>
-    <string id="EGwqzjpa" text="Vous pouvez maintenir la touche tab enfoncée pour quitter la zone en cours."/>
-    <string id="F8TaKnjh" text="Lorsque vous êtes dans une ville ou un village, maintenir la touche Alt enfoncée permet de voir des marqueurs sur les personnes et les points d'intérêt importants."/>
-    <string id="fbaQp3ox" text="Active l'attribution automatique des compétences aux membres de votre clan."/>
-    <string id="hEYfasE1" text="Taux de dégâts reçus par votre personnage."/>
-    <string id="HMFb1gaq" text="Égalitariste"/>
-    <string id="hR6Zo6pD" text="Oligarchique"/>
-    <string id="HVrobtL5" text="Nom du nouveau royaume :{newline} - Ne peut pas inclure de chiffres.{newline} - Ne peut pas être plus long que {MAX_LETTER_COUNT} caractères.{newline} - Ne peut pas être plus court que {MIN_LETTER_COUNT} caractères."/>
-    <string id="IgeL6qHr" text="Recevez un ratio de dégâts de vos alliés qui ne se trouvent pas sous votre commandement."/>
-    <string id="IWD56KMc" text="Vitesse de déplacement sur la carte"/>
-    <string id="JaHlwYmo" text="Lorsque vous regardez l'info-bulle, vous pouvez appuyer sur la touche Alt pour voir une version étendue de cette même info-bulle."/>
-    <string id="JMhKt2W1" text="Difficile"/>
-    <string id="k4CF68S6" text="Nous nous abstiendrons"/>
-    <string id="k71J6bVH" text="Victoires"/>
-    <string id="KbPD5cEw" text="Réduit à 1/3 (très facile)"/>
-    <string id="KM7uAbL8" text="Dégâts reçus par le joueur"/>
-    <string id="LfpteADn" text="Détermine la difficulté de l'IA en combat"/>
-    <string id="mD89ih8N" text="Changer le nom du Clan"/>
-    <string id="N6fz1efb" text="Ignorer le tutoriel au début du jeu."/>
-    <string id="NaMPa4ML" text="Autoritaire"/>
-    <string id="Oea9a5nY" text="Dégâts reçus par les troupes alliées"/>
-    <string id="qc9Llr3x" text="Héros"/>
-    <string id="QGA2TilH" text="Dans les fenêtres du jeu, vous pouvez faire un clic droit sur un élément pour ouvrir l'encyclopédie à son sujet. Cela fonctionne pour les portraits de troupes, les icônes de ville et la plupart des autres éléments du jeu."/>
-    <string id="QUZku1Jr" text="Les pénalités de vitesse du groupe seront plus efficaces sur la carte de campagne."/>
-    <string id="QzmJL5I7" text="Facile (1 en plus)"/>
-    <string id="raD9MK3O" text="Difficulté"/>
-    <string id="ReNnVfEn" text="Changer le nom du Royaume"/>
-    <string id="RZFAxCMp" text="Très facile (bonus de 10%)"/>
-    <string id="sp8Kred0" text="Le membre doit être dans le groupe du joueur pour faire cette action."/>
-    <string id="sYVFg9ai" text="Difficulté de l'IA en combat"/>
-    <string id="TZ9ugd1p" text="Attribution automatique de Compétences aux membres du clan"/>
-    <string id="UcgNVM0P" text="Très facile (2 supplémentaires)"/>
-    <string id="UfQotsfo" text="Rang #"/>
-    <string id="veterandifficulty" text="Vétéran"/>
-    <string id="vGF5S2hE" text="Classement"/>
-    <string id="wip6jLEM" text="Taux de dégâts reçus par vos troupes."/>
-    <string id="ZcyJePFm" text="Dégâts reçus par les groupes alliées"/>
-    <string id="ZWiFWA2W" text="Ignorer le tutoriel principal de l'histoire"/>
+    <string id="7ZhNilg8" text="Facile (bonus de 5%)" />
+    <string id="8UBfIenN" text="Normal" />
+    <string id="9jSxo790" text="Réaliste" />
+    <string id="AQfVclN8" text="Prix" />
+    <string id="B0uvwKae" text="Choisissez si les héros peuvent mourir sur le champ de bataille." />
+    <string id="bLwIgxXa" text="Difficultés de recrutement" />
+    <string id="cA1D2Ua3" text="Vous aurez besoin d'une meilleure relation avec les notables pour accéder à toutes leurs troupes." />
+    <string id="carorTAF" text="Réduit à 2/3 (facile)" />
+    <string id="cUHlzCRx" text="Activer la mort au combat" />
+    <string id="D9GkBqyW" text="Vous pouvez quitter le camp d'entraînement en maintenant [{LEAVE_KEY}]{newline}Vous pouvez y revenir à tout moment depuis la carte de campagne." />
+    <string id="DFMhzFGV" text="Le fait de garder un certain nombre de chevaux dans votre inventaire peut accélérer considérablement votre groupe, car ils augmenteront votre capacité de charge et les fantassins monteront les chevaux de réserve. Les chevaux de bât et les mules ne sont cependant utiles que pour le transport de marchandises." />
+    <string id="EGwqzjpa" text="Vous pouvez maintenir la touche tab enfoncée pour quitter la zone en cours." />
+    <string id="F8TaKnjh" text="Lorsque vous êtes dans une ville ou un village, maintenir la touche Alt enfoncée permet de voir des marqueurs sur les personnes et les points d'intérêt importants." />
+    <string id="fbaQp3ox" text="Active l'attribution automatique des compétences aux membres de votre clan." />
+    <string id="hEYfasE1" text="Taux de dégâts reçus par votre personnage." />
+    <string id="HMFb1gaq" text="Égalitariste" />
+    <string id="hR6Zo6pD" text="Oligarchique" />
+    <string id="HVrobtL5" text="Nom du nouveau royaume :{newline} - Ne peut pas inclure de chiffres.{newline} - Ne peut pas être plus long que {MAX_LETTER_COUNT} caractères.{newline} - Ne peut pas être plus court que {MIN_LETTER_COUNT} caractères." />
+    <string id="IgeL6qHr" text="Recevez un ratio de dégâts de vos alliés qui ne se trouvent pas sous votre commandement." />
+    <string id="IWD56KMc" text="Vitesse de déplacement sur la carte" />
+    <string id="JaHlwYmo" text="Lorsque vous regardez l'info-bulle, vous pouvez appuyer sur la touche Alt pour voir une version étendue de cette même info-bulle." />
+    <string id="JMhKt2W1" text="Difficile" />
+    <string id="k4CF68S6" text="Nous nous abstiendrons" />
+    <string id="k71J6bVH" text="Victoires" />
+    <string id="KbPD5cEw" text="Réduit à 1/3 (très facile)" />
+    <string id="KM7uAbL8" text="Dégâts reçus par le joueur" />
+    <string id="LfpteADn" text="Détermine la difficulté de l'IA en combat" />
+    <string id="mD89ih8N" text="Changer le nom du Clan" />
+    <string id="N6fz1efb" text="Ignorer le tutoriel au début du jeu." />
+    <string id="NaMPa4ML" text="Autoritaire" />
+    <string id="Oea9a5nY" text="Dégâts reçus par les troupes alliées" />
+    <string id="qc9Llr3x" text="Héros" />
+    <string id="QGA2TilH" text="Dans les fenêtres du jeu, vous pouvez faire un clic droit sur un élément pour ouvrir l'encyclopédie à son sujet. Cela fonctionne pour les portraits de troupes, les icônes de ville et la plupart des autres éléments du jeu." />
+    <string id="QUZku1Jr" text="Les pénalités de vitesse du groupe seront plus efficaces sur la carte de campagne." />
+    <string id="QzmJL5I7" text="Facile (1 en plus)" />
+    <string id="raD9MK3O" text="Difficulté" />
+    <string id="ReNnVfEn" text="Changer le nom du Royaume" />
+    <string id="RZFAxCMp" text="Très facile (bonus de 10%)" />
+    <string id="sp8Kred0" text="Le membre doit être dans le groupe du joueur pour faire cette action." />
+    <string id="sYVFg9ai" text="Difficulté de l'IA en combat" />
+    <string id="TZ9ugd1p" text="Attribution automatique de Compétences aux membres du clan" />
+    <string id="UcgNVM0P" text="Très facile (2 supplémentaires)" />
+    <string id="UfQotsfo" text="Rang #" />
+    <string id="veterandifficulty" text="Vétéran" />
+    <string id="vGF5S2hE" text="Classement" />
+    <string id="wip6jLEM" text="Taux de dégâts reçus par vos troupes." />
+    <string id="ZcyJePFm" text="Dégâts reçus par les groupes alliées" />
+    <string id="ZWiFWA2W" text="Ignorer le tutoriel principal de l'histoire" />
   </strings>
 </base>
