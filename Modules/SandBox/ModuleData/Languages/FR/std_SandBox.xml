@@ -355,7 +355,7 @@
     <string id="BurJvC9s" text="Déguerpissez de ma vue." />
     <string id="bUweVtkk" text="Pourquoi {OWNER.LINK} ne fait-il rien contre les voleurs qui exercent leur métier dans la rue ? Se pourrait-il qu'{?OWNER.GENDER}elle{?}il{\?} obtienne une part de leur butin ?" />
     <string id="bUzU50P8" text="Quoi ? Pourquoi ? Ai-je fait quelque chose de mal ?[ib:closed]" />
-    <string id="bvhWLb4C" text="Vous avez battu I'hôte de jeux et avez récupéré le souvenir. {QUEST_GIVER.LINK} &quot;Merci d'avoir résolu ce problème avec tant de doigté... Veuillez accepter ces {GOLD}{GOLD_ICON} deniers avec notre gratitude.&quot ;" />
+    <string id="bvhWLb4C" text="Vous avez battu l'hôte de jeux et avez récupéré le souvenir. {QUEST_GIVER.LINK} &quot;Merci d'avoir résolu ce problème avec tant de doigté... Veuillez accepter ces {GOLD}{GOLD_ICON} deniers avec notre gratitude.&quot;" />
     <string id="bWVmR6WS" text="Je vous remercie.[rb:positive][rf:happy]" />
     <string id="bXdzsTdb" text="Oui... Je suis fatigué de me battre avec vous. Je pourrais vous offrir une trêve de quarante jours. Si vous tenez votre parole et ne molester pas mes terres et mes sujets, nous pourrons nous reparler..." />
     <string id="BYuzbj3L" text="Adieu, mon mari. Bon voyage et revenez-moi vite.[rb:positive]." />
@@ -730,7 +730,7 @@
     <string id="LaBQQ7ue" text="{NOTABLE.LINK} dit qu'un poisson pourrit toujours à partir de la tête. Eh bien, regardez autour de vous. Je pense que nous savons où il veut en venir." />
     <string id="lbNl0a8t" text="En outre," />
     <string id="lcVauEKV" text="La manche est terminée, vous êtes éliminé{?PLAYER.GENDER}e{?}{\?} du tournoi." />
-    <string id="LD4tGYCA" text="Il s'agit d'un titre de propriété d'une parcelle de terre agricole. Ce n'est pas une grande parcelle de valeur, mais je préfère ne pas avoir à expliquer à mes hommes pourquoi ils ne la sèmeront pas cette année. Vous pouvez trouver l'homme qui me l'a prise à la taverne {.de}{TARGET_SETTLEMENT}. Ils l'appellent &quot;l'Hôte de jeu&quot ;. Soyez direct sur ce que vous faites. Il n'est pas en mesure de travailler la terre. Je n'imagine pas qu'il refusera une chance d'en tirer plus d'argent." />
+    <string id="LD4tGYCA" text="Il s'agit d'un titre de propriété d'une parcelle de terre agricole. Ce n'est pas une grande parcelle de valeur, mais je préfère ne pas avoir à expliquer à mes hommes pourquoi ils ne la sèmeront pas cette année. Vous pouvez trouver l'homme qui me l'a prise à la taverne {.de}{TARGET_SETTLEMENT}. Ils l'appellent &quot;l'Hôte de jeu&quot;. Soyez direct sur ce que vous faites. Il n'est pas en mesure de travailler la terre. Je n'imagine pas qu'il refusera une chance d'en tirer plus d'argent." />
     <string id="LD62sm4B" text="Oui, {?PLAYER.GENDER}ma dame{?}messire{\?}. De quoi voulez-vous parler ?" />
     <string id="LdCte9H0" text="Je combattrai moi-même le gang adverse à vos côtés." />
     <string id="ldJDR7t1" text="Nos royaumes devraient faire la paix." />

@@ -10,7 +10,7 @@
 ;
 
 #define MyAppName "Traduction Française de Mount & Blade 2 Bannerlord"
-#define MyAppVersion "1.5.1.0"
+#define MyAppVersion "1.5.1.1"
 #define MyAppPublisher "Communauté Française de Mount & Blade"
 #define MyAppURL "https://www.nexusmods.com/mountandblade2bannerlord/mods/2051?tab=description"
 #define GameVersion "1.5.1"
