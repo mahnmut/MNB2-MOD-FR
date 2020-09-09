@@ -1155,7 +1155,7 @@
     <string id="Wpyr3Vts" text="{REFUSE_BARTER_LINE}" />
     <string id="wql79Eta" text="Bien ! Nous savons que l'espion va à {TARGET_SETTLEMENT}. Il devrait errer sur le marché en essayant de recueillir des informations sous couvert de faire la conversation. Il suffit de parler aux gens de la ville pour découvrir de qui il s'agit." />
     <string id="wqzyHirl" text="Regardez tout autour de vous. Des gens qui gagnent de l'argent vous donnent le poing, drapés de soie, sentant le vin et le parfum. Mais est-ce que ce sont des gens honnêtes ? Je ne pense pas." />
-    <string id="wrEKw6ip" text="Coucou, coucou, dit moi la vérité. "Dans le nid d'un autre oiseau je me suis glissé". Coucou, coucou, dis moi quelque chose d'avisé. "Il y a un roi en Battanie qui m'a imité "." />
+    <string id="wrEKw6ip" text="Coucou, coucou, dit moi la vérité.&quot;Dans le nid d'un autre oiseau je me suis glissé&quot;. Coucou, coucou, dis moi quelque chose d'avisé. &quot;Il y a un roi en Battanie qui m'a imité&quot;." />
     <string id="WrnvRayQ" text="Épargnons-nous des désagréments, et je vous paierai ce montant." />
     <string id="WSJxl2Hu" text="Ce que je veux dire, c'est que... Vous n'avez pas besoin de participer à ça. Je vais doubler tout ce qu'{?QUEST_GIVER.GENDER}elle{?}il{\?} vous paie si vous vous joignez à nous." />
     <string id="WSrGHkal" text="Je vais envoyer un de mes traqueurs et {REQUIRED_TROOP_AMOUNT} de mes hommes pour retrouver votre fille." />
