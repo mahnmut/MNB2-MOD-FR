@@ -19,7 +19,7 @@
     <string id="30PC7qqc" text="Je trouve que c'est un bon moyen d'obtenir des informations utiles." />
     <string id="36X0Ptyo" text="C'est fascinant. Dites-m'en plus." />
     <string id="37gFwKgg" text="Un homme d'expérience nous serait utile, à mes gars et moi." />
-    <string id="3tsuUf0H" text="Et il a eu raison de le dire ! Bonne journée, monsieur." />
+    <string id="3tsuUf0H" text="Et il a eu raison de le dire ! Bonne journée, messire." />
     <string id="3Yax10rQ" text="Eh bien, les légendes pourraient avoir raison puisque je m'en suis bien sorti et que j'ai rendu mon maître très riche. Les lois impériales interdisent formellement de tuer dans l'arène, mais personne ne va fouiner dans les fêtes privées des riches. Plus d'une vingtaine de mes compagnons esclaves ont dû sentir ma lame dans leur poitrine." />
     <string id="4dJ0KhjB" text="Mais c'est peut-être mieux ainsi. Quiconque gagnera la guerre fera au moins un bon meneur d'hommes... Vous cherchez des épées à louer ? Je suis prêt à affronter n'importe qui pour tuer l'ennui et échapper à mon épouse. " />
     <string id="4m5w7HIP" text="Si vous commandez des guerriers et que vous faites le vœu d'honorer votre parole et vos dettes, je suis prêt à vous servir. " />
@@ -127,7 +127,7 @@
     <string id="jb3TXFa9" text="Une tragédie, ma chère, mais Caldaria en est rempli. Bonne journée." />
     <string id="jEtASKar" text="Si vous transportez beaucoup de fournitures, je peux vous promettre - pour autant que quiconque puisse promettre quoi que ce soit dans ce monde incertain - que je rembourserai mon salaire au centuple." />
     <string id="jIC9xW8W" text="C'est bon à entendre. Naturellement, j'espère une compensation en argent pour mon sang et ma sueur." />
-    <string id="JIl4An61" text="Bien plus qu'un voleur de cheval, mon bon monsieur. Je suis le prince des voleurs de chevaux ! J'ai volé des juments Aserais au milieu des tentes et les ai montées à travers les dunes, sous la lune. J'ai volé des étalons vlandiens dans leurs écuries, de robustes poney Khuzaits et des hongres impériaux étincellants. Y a-t-il un barde en cette maison ? Avez-vous bien retenu tout ceci, ou dois-je recommencer?" />
+    <string id="JIl4An61" text="Bien plus qu'un voleur de cheval, mon bon messire. Je suis le prince des voleurs de chevaux ! J'ai volé des juments Aserais au milieu des tentes et les ai montées à travers les dunes, sous la lune. J'ai volé des étalons vlandiens dans leurs écuries, de robustes poney Khuzaits et des hongres impériaux étincellants. Y a-t-il un barde en cette maison ? Avez-vous bien retenu tout ceci, ou dois-je recommencer?" />
     <string id="Jk83lyZl" text="J'ai fui Sarghert. Dans une taverne de Bostrum, j'ai trouvé un chirurgien qui a accepté de me prendre comme apprenti. J'ai suivi les armées de l'Empire et j'ai découvert que mes connaissances était utile dans les casernes de Sarghert. Je suis devenu apprenti chirurgien, en retirant des flèches des cages thoraciques ou en trépanant un crâne." />
     <string id="JrHYSBL1" text="Me voici donc, cherchant à gagner ma vie par le seul moyen que je connaisse - verser le sang des autres. Vous avez du travail ?" />
     <string id="jW6UlCAi" text="Nous parlons avec les esprits, n'est-ce pas ? Je ne vais pas interrompre votre conversation." />
@@ -148,7 +148,7 @@
     <string id="LnHkGgsd" text="C'est gentil à vous de le dire." />
     <string id="M5mMHrDL" text="Bonjour, étranger ! Prends un verre de ma part, car un jour comme aujourd'hui, il n'est pas convenable que quelqu'un reste morose et sobre en ma présence !" />
     <string id="m7KEC7wT" text="Bien. Pouvez-vous... Pouvez-vous me donner {NPCPAYMENT}{GOLD_ICON} d'avance ? J'ai besoin de meilleures bottes." />
-    <string id="MigoHjvo" text="Notre propre monde et l'Au-Delà sont l'ombre de l'un pour l'autre, voyez-vous. Chaque fois que je vois les esprits, ils me disent de suivre quelqu'un - une caravane, un groupe de pilleurs, une bande de mercenaires. Je me joins à ce groupe, et ils me conduisent à un autre. C'est ainsi que j'ai traversé Calradia et que je la traverserai à nouveau. En ce moment, ils me disent de vous suivre." />
+    <string id="MigoHjvo" text="Notre propre monde et l'Au-Delà sont l'ombre de l'un pour l'autre, voyez-vous. Chaque fois que je vois les esprits, ils me disent de suivre quelqu'un - une caravane, un groupe de pillards, une bande de mercenaires. Je me joins à ce groupe, et ils me conduisent à un autre. C'est ainsi que j'ai traversé Calradia et que je la traverserai à nouveau. En ce moment, ils me disent de vous suivre." />
     <string id="mjiaqseL" text="J'ai entendu dire que la malchance est contagieuse. Au revoir." />
     <string id="MjSlFqAl" text="Oui ? Sachez que je n'ai pas l'habitude de parler aux étrangers dans les tavernes." />
     <string id="mk0l1BfB" text="On peut dire cela. J'ai servi dans les légions de l'empire durant deux décennies. Il fut un temps où il était digne d'être appelés « légions ». Nous avons servi ensemble pendant des années, le même groupe d'hommes sous un seul étendard, et nous mourrions plutôt que de voir ces étendards vaciller ou tomber. Mais Drosios Neretzes a conduit la dernière des véritables légions dans une embuscade dans les bois battaniens. Vous avez peut-être déjà entendu cette histoire." />
@@ -253,7 +253,7 @@
     <string id="yjkGHRkA" text="Tout cela est très intéressant pour un érudit, je suppose, mais pas pour moi. Bonne journée." />
     <string id="ySwWQmYW" text="Alors la dernière chose que je veux, ma dame, est d'être vu en train de vous parler." />
     <string id="yTnm04Hh" text="Je peux me permettre de payer {NPCPAYMENT}{GOLD_ICON} deniers. Préparez-vous." />
-    <string id="YWQTQ5OH" text="Vous êtes mon poil à gratter. Bonne journée, monsieur." />
+    <string id="YWQTQ5OH" text="Vous êtes mon poil à gratter. Bonne journée, messire." />
     <string id="yYHCwEeo" text="Même maintenant, j'ai l'impression d'avoir fait un choix judicieux en achetant ce poivre - judicieux, mais malchanceux. Tellement de chance ! Si je n'avais pas saisi cette opportunité, d'autres marchands se seraient moqués de moi, telle une femme trop craintive pour prendre la suite du commerce d'un homme. Maintenant, ils désapprouve l'imprudente femme à qui manque le jugement d'un homme. " />
     <string id="Z3b8jrxn" text="J'ai commencé à les voir après la disparition de ma mère. Au début, nous pensions que les pillards ou les loups l'avaient prise. C'est ça, la vie dans la steppe, où nous vivions. Mais les esprits m'ont dit qu'elle n'avait pas été enlevée, mais qu'elle était partie pour l'Enfer, rassembler les esprits de ma famille. Je dois être prêt à diriger la cérémonie pour son retour." />
     <string id="zbji14tF" text="Je suis un guide et un éclaireur." />
