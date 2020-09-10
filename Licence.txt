@@ -3,7 +3,7 @@
 Liste non exhaustive de personnes ayant travaillé sur le projet : 
 Akaria, Daneel, Drenaas, FerdeLance5s, Gatsuu, Kuro, LeGrandBatou, Marteau, Sadness, Ser Meicer, Shao, Slavyk, Sorrow, Ullysse, Zaekor...
 
-Passage en 1.5.1 : Caerbannog, Mahnmut
+Passage en 1.5.2 : Caerbannog, Mahnmut
 
 Ce programme est sous licence Beerware (Révision 42) :
 

@@ -6,21 +6,22 @@
 ; retour.
 ; ----------------------------------------------------------------------------
 ;
-; Basé sur le travail de la communauté pour le Mod en version 1.5.1
+; Basé sur le travail de la communauté pour le Mod en version 1.5.2
 ;
 
+#define GameVersion "1.5.2"
+#define MinorVersion "0"
 #define MyAppName "Traduction Française de Mount & Blade 2 Bannerlord"
-#define MyAppVersion "1.5.1.1"
 #define MyAppPublisher "Communauté Française de Mount & Blade"
 #define MyAppURL "https://www.nexusmods.com/mountandblade2bannerlord/mods/2051?tab=description"
-#define GameVersion "1.5.1"
+
 
 
 [Setup]
 AppId={{6FD55994-A440-41A0-91C7-8003E4AB602D}
-VersionInfoVersion={#MyAppVersion}
+VersionInfoVersion={#GameVersion}.{#MinorVersion}
 AppName={#MyAppName}
-AppVersion={#MyAppVersion}
+AppVersion={#GameVersion}.{#MinorVersion}
 AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
 AppSupportURL=https://www.nexusmods.com/mountandblade2bannerlord/mods/2051
@@ -29,7 +30,7 @@ DefaultDirName={code:MNBDIR}
 DirExistsWarning=no
 DefaultGroupName={#MyAppName}
 AllowNoIcons=yes
-OutputBaseFilename=MNB II MOD FR {#MyAppVersion}
+OutputBaseFilename=MNB II MOD FR {#GameVersion}.{#MinorVersion}
 SetupIconFile=MNB2.ico
 Compression=lzma
 SolidCompression=yes
