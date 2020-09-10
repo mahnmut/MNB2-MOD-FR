@@ -1333,7 +1333,7 @@
     <string id="fzKFQuFT" text="Peut-être que vous ne convenez pas à ce groupe après tout." />
     <string id="G14cbf5j" text="Les troupes de votre formation gagnent +2% de dégâts supplémentaires en mêlée." />
     <string id="g2WxNCYs" text="-50% sur la durée de désorganisation. " />
-    <string id="g4jzOBYX" text="Agilité de la forêt battanian" />
+    <string id="g4jzOBYX" text="Agilité de la forêt battanienne" />
     <string id="G4kpabSf" text="{ISSUE_GIVER.LINK}, un marchand {.de}{ISSUE_SETTLEMENT}, vous a parlé des récentes attaques sur les villageois du coin et leurs caravanes, il vous demande de vous occuper de détruire la cachette de ces scélérats. Vous demandez à {COMPANION.LINK} de prendre {TROOP_COUNT} de vos meilleurs soldats et de s'en occuper. Ils devraient vous faire rapport dans {RETURN_DAYS} jour(s)." />
     <string id="g5bRX0dd" text="Vous avez vaincu le large groupe de bandits dont {QUEST_GIVER.LINK} vous a parlé et {?QUEST_GIVER.GENDER}elle{?}il{\?} vous envoie ses salutations avec les {REWARD_GOLD}{GOLD_ICON} {?QUEST_GIVER.GENDER}qu'elle{?}qu'il{\?} a promis ainsi que quelques marchandises comme récompense." />
     <string id="g5bzJjd5" text="Transférer {PRISONER.NAME}" />

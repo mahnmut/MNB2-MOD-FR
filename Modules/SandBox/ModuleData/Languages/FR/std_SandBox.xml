@@ -418,7 +418,7 @@
     <string id="DGKgQycl" text="Salutations. Comment puis-je vous aider ?" />
     <string id="dgNCuuUL" text="Bonjour, {PLAYER.NAME}. Il est bon de vous revoir." />
     <string id="DgxVa0OP" text="{?NOTABLE.GENDER}Dame{?}Seigneur{\?} {NOTABLE.LINK}..." />
-    <string id="dhi3ggBC" text="Que l'on fasse savoir que vous êtes à présent {?PLAYER.GENDER}une{?}un{\?} Battanian. Vous pouvez cultiver notre sol et siéger dans nos conseils. Qui se dispute avec vous, se dispute avec nous tous." />
+    <string id="dhi3ggBC" text="Que l'on fasse savoir que vous êtes à présent {?PLAYER.GENDER}une{?}un{\?} {?PLAYER.GENDER}Battanienne{?}Battanien{\?}. Vous pouvez cultiver notre sol et siéger dans nos conseils. Qui se dispute avec vous, se dispute avec nous tous." />
     <string id="dlBFVkDj" text="À propos de la tâche que vous m'avez confiée..." />
     <string id="DlJt6YLY" text="J'en serais honoré. On se voit dehors.[DEBUG]" />
     <string id="dlOCK6Ro" text="Après cet hiver, les vaches sont trop devenues trop maigres pour tirer la charrue. Je ne sais pas où je trouverai l'argent pour en louer une." />

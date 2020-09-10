@@ -14,7 +14,7 @@
     <string id="3L7Rkswm" text="Vous pouvez déposer les armes, mais j'espère que vous ne le ferez pas. Je prendrai un malin plaisir à vous transpercer jusqu'à vous voir hurler de douleur.[ib:warrior][if:idle_angry]" />
     <string id="3PsQTf0z" text="Je vous ai coincé. Rendez vous, ou nous attaquerons.[ib:warrior][if:idle_angry]" />
     <string id="3TGug4Vb" text="Je connais votre nom. On dit que vous êtes {?PLAYER.GENDER}une guerrière courageuse{?}un guerrier courageux{\?}. Je ne peux qu'espérer que votre honneur et votre compassion correspondent à vos valeurs." />
-    <string id="3UucAOBW" text="Je suis {CONVERSATION_CHARACTER.LINK}, un chef des Battanians." />
+    <string id="3UucAOBW" text="Je suis {CONVERSATION_CHARACTER.LINK}, un chef des Battaniens." />
     <string id="48g7K7Zi" text="Quand vous vous trouvez sur ces routes, mon ami{?PLAYER.GENDER}e{?}{\?}, sachez que rien n'échappe à l'attention de la Main Cachée. Les seigneurs et les empereurs vont et viennent, mais nous, nous demeurons." />
     <string id="49sxmwcX" text="Tenez votre langue ! Vous en aurez bientôt besoin, pour implorer pitié" />
     <string id="4Jo8JMZm" text="Ma Dame" />
@@ -24,7 +24,7 @@
     <string id="62vceTar" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.pclan}{CLAN_NAME}." />
     <string id="6acfbHiE" text="Je retiendrai votre nom. Mais vous allez devoir gagner ma confiance, {?PLAYER.GENDER}étrangère{?}étranger{\?}, car le monde est un lieu de traîtrises, et nous vivons des temps bien incertains." />
     <string id="6l8ty6Dr" text="Ravi de vous rencontrer." />
-    <string id="6LlDlGSb" text="Haute-Reine des Battanians" />
+    <string id="6LlDlGSb" text="Haute-Reine des Battaniens" />
     <string id="6UBdsXlo" text="Peut-être qu'un jour nous nous rencontrerons sur un champ de bataille. Vous connaîtrez le Ghilman par la splendeur de nos chevaux et le chatoiement de notre acier. Si nous sommes de votre côté, vous pourrez vous réjouir. Si nous sommes votre ennemi, vous pourrez vous épargner bien des soucis en vous enfuyant avant le début du combat." />
     <string id="7lWtkqHv" text="Je me souviendrai de votre nom." />
     <string id="7pQ3y21E" text="Merci encore pour votre aide." />
@@ -176,7 +176,7 @@
     <string id="RajD4RC1" text="Je n'ai jamais entendu parler de vous." />
     <string id="rCNUXFTN" text="Je me rends ! Félicitations pour votre victoire.[rf:angry][rb:trivial]" />
     <string id="reg1AUxr" text="Mon enfant" />
-    <string id="rhTUDKhJ" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.pclan}{CLAN_NAME}. Il n'y a pas un clan des Battanians qui n'ait pas apporté le crâne d'un de ses champions à notre collection de gobelets." />
+    <string id="rhTUDKhJ" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.pclan}{CLAN_NAME}. Il n'y a pas un clan des Battaniens qui n'ait pas apporté le crâne d'un de ses champions à notre collection de gobelets." />
     <string id="RNZ9LOxc" text="Mon ami" />
     <string id="rPrBa7gK" text="Mon époux" />
     <string id="rUzbs0Zr" text="khatun des Khuzaits" />
@@ -201,9 +201,9 @@
     <string id="Tvy4UvJC" text="reine des Vlandians" />
     <string id="TzPC5L5X" text="Je suis toujours à la recherche de bons combattants. Si vous vous demandez qui je suis, je suppose que vous avez ouïe dire que je sais prendre soin de mes hommes." />
     <string id="U4p70l9B" text="Je suis {CONVERSATION_CHARACTER.LINK}, un chef de clan de Khuzait." />
-    <string id="U770Bvy8" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.pclan}{CLAN_NAME}. La renommée de notre famille est sans égale dans les chansons des Battanians." />
+    <string id="U770Bvy8" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.pclan}{CLAN_NAME}. La renommée de notre famille est sans égale dans les chansons des Battaniens." />
     <string id="U9u8Qeu4" text="Vous avez peut-être entendu parler des Peaux-de-Loups, voyageur. Nous sommes des bêtes. Sachez que tant que nous ne mangeons pas de viande cuite, que nous ne portons pas de tissu et que nous ne dormons pas sous un toit, les lois des hommes ne nous concernent pas. Alors, soyez prudents avec nous." />
-    <string id="Ua0T0A7t" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.pclan}{CLAN_NAME}, l'une des plus anciennes lignées des Battanians." />
+    <string id="Ua0T0A7t" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.pclan}{CLAN_NAME}, l'une des plus anciennes lignées des Battaniens." />
     <string id="UB4sqrWx" text="Mère" />
     <string id="UehvSvLD" text="Ce travail que je vous ai donné... Je dirais que vous m'avez laissé tomber." />
     <string id="ufa20b2l" text="Je ne traite qu'avec ceux qui sont fidèles à leurs serments. Si vous êtes de ceux qui n'accordent pas de valeur à leur parole, ne me faites pas perdre mon temps." />
@@ -212,7 +212,7 @@
     <string id="vN4spwD1" text="Sachez que si jamais vous me croisez, vous finirez comme nourriture pour les chacals." />
     <string id="vNnMHR84" text="C'est tout à votre honneur {?PLAYER.GENDER}ma Dame{?}mon Seigneur{\?}. Je ne l'oublierai pas.[if:happy][rb:very_positive]" />
     <string id="VOExVZtX" text="Je suis désolé. Je n'apprécie pas les massacres, mais je ne peux pas vous laisser partir au combat un jour de plus." />
-    <string id="VUn8mQ5n" text="Haut-Roi des Battanians" />
+    <string id="VUn8mQ5n" text="Haut-Roi des Battaniens" />
     <string id="w7EY8rbd" text="Changeons de sujet." />
     <string id="WbAAkcbw" text="C'est un honneur de vous rencontrer, Madame." />
     <string id="WFwoWAic" text="Je me rends ! Je me rends ! Rappelez vos chiens ![rf:angry][rb:trivial]" />

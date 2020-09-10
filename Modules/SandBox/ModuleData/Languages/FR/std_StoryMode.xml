@@ -34,7 +34,7 @@
     <string id="2TptWc4m" text="Serviteurs d'un baron" />
     <string id="2XhW49TX" text="Vous les avez chassés avec des flèches" />
     <string id="2YYRyrOO" text="Partez..." />
-    <string id="3BjIb3CG" text="Ou peut-être était-ce simplement Raganvad. Il était en colère quand le roi des Battanians, Caladog, est arrivé. Les Battanians avaient pris leur temps pour dépouiller les corps de l'avant-garde impériale et les Sturgians étaient en colère contre eux, alors Raganvad l'a traité de lâche. Caladog s'est moqué de lui et est parti." />
+    <string id="3BjIb3CG" text="Ou peut-être était-ce simplement Raganvad. Il était en colère quand le roi des Battaniens, Caladog, est arrivé. Les Battaniens avaient pris leur temps pour dépouiller les corps de l'avant-garde impériale et les Sturgians étaient en colère contre eux, alors Raganvad l'a traité de lâche. Caladog s'est moqué de lui et est parti." />
     <string id="3deb2lMd" text="Pour restaurer l'Empire, vous devez capturer 2/3 des fiefs de culture impériale." />
     <string id="3dhvmJDp" text="Eh bien... On dirait qu'on vous a rendu votre famille, donc ma part de notre marché est remplie. Je vais me faire discret maintenant." />
     <string id="3G64Ej64" text="Un acheteur ? Je peux vous aider pour bien plus que cela." />
@@ -134,7 +134,7 @@
     <string id="aMBoh7gL" text="Ils se retournèrent et s'emmêlèrent tandis que nos flèches pleuvaient sur eux, tel un poisson frénétique dans sa marre lorsque vous resserrez le filet. Puis, quand ils furent considérablement affaiblis, nous avons pris nos falx et nos épées et avons commencé la récolte. Oh, il y a eu quelques frictions plus tard avec les Sturgians, à propos du butin de la guerre, mais c'était le bon vieux temps !" />
     <string id="aTncHUfL" text="montiez la garde avec la garnison." />
     <string id="atUTLABh" text="Vous avez choisi de soutenir {.le}{KINGDOM} en leur présentant la Bannière du Dragon, sur les conseils {.de}{MENTOR.LINK}." />
-    <string id="aVzcyhhy" text="Votre père était un barde, sillonnant les cités du continent, allant de châteaux en châteaux pour gagner sa vie en chantant un jour les louanges d'un noble battanians et en se moquant de ses ennemis, puis un autre jour allant trouvant l'hospitalité chez son adversaire pour y faire le contraire. Vous avez appris de lui qu'une langue agile pouvait vous sauver d'une vie laborieuse dans les champs, pour peu que vous tâchiez de ménager votre esprit." />
+    <string id="aVzcyhhy" text="Votre père était un barde, sillonnant les cités du continent, allant de châteaux en châteaux pour gagner sa vie en chantant un jour les louanges d'un noble battaniens et en se moquant de ses ennemis, puis un autre jour allant trouvant l'hospitalité chez son adversaire pour y faire le contraire. Vous avez appris de lui qu'une langue agile pouvait vous sauver d'une vie laborieuse dans les champs, pour peu que vous tâchiez de ménager votre esprit." />
     <string id="awgBkdXx" text="Vous devriez retourner au menu du village et faire vos préparatifs pour chasser les pillards et renseignez-vous sur la tâche que le Chef a pour vous." />
     <string id="AxKDQJ4G" text="Vous avez dit à {MENTOR.LINK} que vous créeriez votre propre royaume pour détruire l'Empire. {?MENTOR.GENDER}Elle{?}Il{\?} espère pouvoir parler avec vous une fois que vous aurez réussi." />
     <string id="Ay0G3f7I" text="Votre famille s'est arrangée pour que vous accompagniez un strategos impérial. On ne vous a pas confié de responsabilités majeures, principalement de transporter des messages et soigner son cheval, mais cela vous a donné une chance de voir comment les campagnes étaient planifiées et les hommes déployés au combat." />
@@ -185,7 +185,7 @@
     <string id="CITG915d" text="a rejoint les effectifs d'un commandant." />
     <string id="cNwejsNl" text="Une légende bien pratique, hein ? Bien sûr, les Calradians ont été vaincus à de nombreuses reprises, mais je suppose que ce n'étaient pas de « vrais fils de l'Empire ». Pourtant, on peut dire que cela représente la force et l'endurance de cet Empire." />
     <string id="cOgmdp9e" text="Refuser" />
-    <string id="CRmUZvaW" text="Neretzes a peut-être été imprudent en envoyant notre infanterie dans les collines pour prendre d'assaut le fort battanian. Mais il pensait pouvoir s'emparer du col rapidement, avant que l'ennemi ait le temps d'y envoyer des renforts. S'il avait agi autrement et qu'il s'était trompé, les gens auraient dit qu'il était hésitant." />
+    <string id="CRmUZvaW" text="Neretzes a peut-être été imprudent en envoyant notre infanterie dans les collines pour prendre d'assaut le fort battanien. Mais il pensait pouvoir s'emparer du col rapidement, avant que l'ennemi ait le temps d'y envoyer des renforts. S'il avait agi autrement et qu'il s'était trompé, les gens auraient dit qu'il était hésitant." />
     <string id="cRvSuYC8" text="Choisissez une autre arme ou allez dans une autre zone d'entraînement." />
     <string id="csUq1RCC" text="Vous étiez employé comme assistant aux écuries de la ville. Les superviseurs ont reconnu que vous aviez un don avec les chevaux et vous avez été autorisé à leur permettre de faire de l'exercice et même à débourrer les poulains." />
     <string id="CvBoRaFv" text="Vous avez réussi à vous saisir d'un couteau dans la confusion créée par l'attaque. Vous avez poignardé un des pillards qui vous bloquait le chemin." />
@@ -210,7 +210,7 @@
     <string id="DsCkf6Pb" text="En grandissant, vous avez passé la plupart de votre temps..." />
     <string id="duD8SJDb" text="Nos chevaliers ont repéré une masse d'infanterie légère d'Aserai dispersée dans une vallée, et les ont chargés. Ils n'étaient pas prêts à affronter l'assaut et ont été mis en déroute. Mais alors, un tas de Khuzait a débarqué et a gardé ses distances, donnant du fil à retordre aux chevaliers, tirant sur leurs chevaux sous leurs yeux. C'est alors que nous sommes arrivés." />
     <string id="DuQvj7zd" text="{newline}+{VALUE} à {TRAIT_NAME}" />
-    <string id="dWVsS3D8" text="Le plus brave et courageux enfant de notre clan, Nimr, dirigeait un grand groupe de guerriers Aserai pour se battre pour l'Empire, pour l'or et la gloire. Je les ai accompagnés. Quand nous avons vu les archers battaniansdescendre des collines, Nimr était prêt. Il a donné le mot : nous avons tenu nos boucliers au-dessus de nos têtes alors que les flèches pleuvaient, puis jeté nos javelots et chargé. Nous les avons réduits à néant." />
+    <string id="dWVsS3D8" text="Le plus brave et courageux enfant de notre clan, Nimr, dirigeait un grand groupe de guerriers Aserai pour se battre pour l'Empire, pour l'or et la gloire. Je les ai accompagnés. Quand nous avons vu les archers battaniensdescendre des collines, Nimr était prêt. Il a donné le mot : nous avons tenu nos boucliers au-dessus de nos têtes alors que les flèches pleuvaient, puis jeté nos javelots et chargé. Nous les avons réduits à néant." />
     <string id="DyE3luNM" text="Vous devez avoir au moins {NUMBER} membres dans votre groupe pour négocier avec le groupe de pilleurs. Retournez au village pour recruter plus de troupes." />
     <string id="Dz9T60U2" text="Maintenant, les choses ont changé, bien sûr. Vous choisissez la faction avec laquelle vous pensez pouvoir travailler au mieux." />
     <string id="E31IJyqs" text="Recruter des troupes" />
@@ -335,7 +335,7 @@
     <string id="iZKtGI6Y" text="Votre famille s'est arrangée pour que vous accompagniez un petit baron du royaume Vlandian. On ne vous a pas confié de responsabilités majeures, principalement de transporter des messages et soigner son cheval, mais cela vous a donné une chance de voir comment les campagnes étaient planifiées et les hommes déployés au combat." />
     <string id="j2dW9fZt" text="Attaquez par le haut." />
     <string id="J4qetbZb" text="J'ai trouvé cette étrange pièce de métal. Elle n'a pas l'air très précieuse, mais elle pourrait être l'artefact dont {TACTEOS.NAME} parlait. Peut-être que nous pouvons le vendre à un des clans nobles pour un prix élevé." />
-    <string id="j6py5Rv5" text="Vos parents étaient des guérisseurs qui cueillaient des herbes et soignaient les malades. En tant que gardiens de la tradition battanian, ils étaient également chargés de régler de nombreux litiges entre les clans." />
+    <string id="j6py5Rv5" text="Vos parents étaient des guérisseurs qui cueillaient des herbes et soignaient les malades. En tant que gardiens de la tradition battanienne, ils étaient également chargés de régler de nombreux litiges entre les clans." />
     <string id="j9f9Ts7i" text="J'ai une meilleure idée. Nous aurions de meilleures chances si nous nous séparions maintenant. Je vais prendre {RADAGOS.NAME} et aller trouver le marché aux esclaves et chercher un moyen de libérer les enfants. Cependant, nous devons faire attention à ne pas mettre leur vie en danger et il pourrait être préférable de les acheter tout simplement. Mais pour cela, nous devons avoir les poches pleines." />
     <string id="jAs3kDXh" text="Votre famille était proche d'un noyan des Khuzaits, partageant leurs repas dans la yourte du chef. Votre père aidait son chef à gérer les affaires du clan et il a combattu au cœur des lanciers cuirassés, au centre de la ligne de bataille Khuzait." />
     <string id="jeWV2uV3" text="{EXP_VALUE} niveau de Compétence et {FOCUS_VALUE} point de Focalisation sur {SKILL_ONE}, {SKILL_TWO} et {SKILL_THREE}{newline}{ATTR_VALUE} point d'attribut vers {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}" />
@@ -367,7 +367,7 @@
     <string id="kdR3CeL8" text="La petite force de mon mari a tenu bon et a été rejointe par des traînards et des fugitifs. Il a décrit la marche de retour - pas de nourriture, peu d'eau, marcher jour et nuit pour devancer les cavaliers de l'ennemi. Mais ils ont survécu - la seule force impériale organisée à le faire." />
     <string id="Ke7f4XSC" text="Je vous présente la Bannière du Dragon de Calradios." />
     <string id="KfaqPpbK" text="Vous alliez à pied avec d'autres jeunes pour emmener les moutons, les chèvres ou le bétail dans les pâturages près du village. Vous étiez en charge de chasser des bêtes errantes et avez toujours gardé une grande pierre à portée de main, pour pouvoir repousser les éventuels prédateurs si nécessaire." />
-    <string id="kg9YtrOg" text="Vos parents formaient une famille de forgerons, un art respecté et honoré chez les Battanians. Ils pouvaient se faire orfèvres en produisant des bijoux travaillés et précis de forme géométrique, comme ils pouvaient se faire armuriers minutieux, capables de produire des lames équilibrées et affûtées, appréciées des guerriers et de l'aristocratie battanian." />
+    <string id="kg9YtrOg" text="Vos parents formaient une famille de forgerons, un art respecté et honoré chez les Battaniens. Ils pouvaient se faire orfèvres en produisant des bijoux travaillés et précis de forme géométrique, comme ils pouvaient se faire armuriers minutieux, capables de produire des lames équilibrées et affûtées, appréciées des guerriers et de l'aristocratie battanienne." />
     <string id="KhL2ctsi" text="Vous êtes prêt à partir maintenant. Parlez à nouveau au Chef. Il avait dit avoir une tâche pour vous." />
     <string id="kIklPYto" text="Êtes-vous prêt à partir d'ici?" />
     <string id="kJwV17Jx" text="Oui. Nous n'oublierons jamais ce jour... Le jour où nous avons appris que les vieillards qui prétendaient avoir le droit de nous gouverner n'étaient que des incompétents ignares." />
@@ -376,12 +376,12 @@
     <string id="kNXet6Um" text="d'avoir eu une mésaventure mémorable en ville." />
     <string id="kTaYz2mo" text="Vous avez parlé avec {HERO.NAME}." />
     <string id="kvTEeUWO" text="Mauvaise route !" />
-    <string id="kw9sltab" text="Les Battanians avaient prévu une embuscade dans un col boisé pour l'avant-garde impériale, alors les Vlandians et les Sturgians devaient balayer leurs flancs dans la bataille. Nos éclaireurs ont trouvé l'embuscade Battanian, mais Neretzes n'a pas écouté et est tombé dedans." />
+    <string id="kw9sltab" text="Les Battaniens avaient prévu une embuscade dans un col boisé pour l'avant-garde impériale, alors les Vlandians et les Sturgians devaient balayer leurs flancs dans la bataille. Nos éclaireurs ont trouvé l'embuscade Battanienne, mais Neretzes n'a pas écouté et est tombé dedans." />
     <string id="kwW6v202" text="Aller à la position de tir." />
     <string id="KXj8bsao" text="Alors... Si vous avez l'intention d'utiliser la bannière pour sauver l'Empire, je vais vous dire ce que je sais. Mais si vous voulez reculer, et non avancer, alors je ne vous aiderai pas." />
     <string id="KXtaJNo4" text="{newline}+{VALUE} de renommée" />
     <string id="kYtRsxSL" text="Nous avons combattu les Vlandiens. Nous avons gagné, mais il y a eu un grand massacre. Le cheval de mon mari a été tué et il a été projeté, il est donc morts au milieu d'un tas de cadavres de Vlandiens. Ailleurs sur le terrain, l'empereur se faisait couper la tête par une hache sturgienne, et n'était donc pas en mesure de nous payer." />
-    <string id="KYW1UiKm" text="Les Khergits n'ont jamais été les plus riches des clans, mais nous les rattrapons par notre valeur. Quand la nouvelle s'est répandue que l'Empereur promettait de l'argent pour les hommes qui se battraient à ses côtés contre les Sturgians, les Battanians et d'autres, bien sûr, nos jeunes braves garçons ont saisi leur chance. Mon mari, le plus courageux et le meilleur de tous, les a conduits." />
+    <string id="KYW1UiKm" text="Les Khergits n'ont jamais été les plus riches des clans, mais nous les rattrapons par notre valeur. Quand la nouvelle s'est répandue que l'Empereur promettait de l'argent pour les hommes qui se battraient à ses côtés contre les Sturgians, les Battaniens et d'autres, bien sûr, nos jeunes braves garçons ont saisi leur chance. Mon mari, le plus courageux et le meilleur de tous, les a conduits." />
     <string id="kz5PJbV1" text="Je le ferai. Pour vos nombreux crimes, {RADAGOS.NAME}, votre vie est condamnée." />
     <string id="kzgbBrYo" text="Lorsque vous quittez la cachette, {RADAGOS.LINK} vient à vous et demande à parler." />
     <string id="L1V8L2N1" text="Oui. L'Empereur Neretzes avait proposé d'engager nos guerriers en tant que mercenaires. Je n'ai rien vu de mal là-dedans." />
@@ -389,13 +389,13 @@
     <string id="LbSvq3be" text="Autre chose, {?PLAYER.GENDER}ma sœur{?}mon frère{\?}. Nous voulons que les gens nous prennent au sérieux. Nous allons peut-être bientôt mener des hommes au combat. Donnons à notre famille un nom et une bannière, comme le font les nobles." />
     <string id="lD5Ob3R4" text="Peut-être était-ce une histoire d'amour, ou peut-être avez-vous triché aux dés, ou peut-être que vous avez mal choisi vos mots lorsque vous buviez avec des personnes dangereuses. Quoi qu'il en soit, vous vous êtes mis dans le genre de problèmes dont seule une langue acérée, ou des pieds rapides vous permettaient de rester en vie." />
     <string id="Lep5YKdt" text="Alors que l'avant-garde de Neretzes se faisait massacrer, nous avons rencontré les Vlandiens. Mais les Vlandiens ont amené beaucoup d'arbalétriers, et nos archers à cheval ont subi de lourdes pertes. Finalement, les cataphractes impériaux blindés se sont pointés et ont roulé sur les arbalètes. Mais nous avons été pris dans une mêlée avec les chevaliers vlandiens, et c'est là que les choses ont commencé à saigner." />
-    <string id="lIArdHty" text="Oui. Le jour où mon père est mort, merci à la trahison battanian." />
+    <string id="lIArdHty" text="Oui. Le jour où mon père est mort, merci à la trahison battanienne." />
     <string id="lJiEsNiQ" text="Quelques heures après avoir quitté le terrain d'entraînement, vous tombez sur un homme blessé, allongé sous un arbre. Vous partagez votre eau avec lui et essayez de panser ses blessures du mieux que vous le pouvez. Il vous dit qu'il est un médecin itinérant. Pour vous remercier de votre aide, il vous remet un petit artefact en bronze qui, dit-il, lui a été donné en paiement par un guerrier qui a seulement dit qu'il était lié à la « Folie de Neretzes ». Il pense qu'il pourrait avoir une grande valeur. Vous êtes décidé à en savoir plus." />
     <string id="lLJh7WAT" text="Vous avez travaillé sur le marché, en vendant des babioles et des boissons aux clients très occupés." />
     <string id="Lmfi0cYk" text="Vous avez encouragé les quelques voyageurs de l'auberge à s'évader de manière coordonnée. Les pillards ont tué ou capturé la plupart d'entre eux, mais vous et votre frère avez pu vous en échapper." />
     <string id="lmG7uRK2" text="D'accord" />
     <string id="lnAhXvbo" text="Il y a ce médecin errant qui passe par ici de temps en temps. Il s'appelle Tacteos. Il soigne les gens gratuitement... Nous l'aimons beaucoup." />
-    <string id="LpH8SYFL" text="Votre famille était proche d'un chef des Battanians, s'asseyant à la table dans son grand hall. Votre père a aidé son chef à gérer les affaires du clan et s'est entraîné avec les armes traditionnelles de l'élite des Battanians : l'épée à deux mains, ou la falx, et l'arc." />
+    <string id="LpH8SYFL" text="Votre famille était proche d'un chef des Battaniens, s'asseyant à la table dans son grand hall. Votre père a aidé son chef à gérer les affaires du clan et s'est entraîné avec les armes traditionnelles de l'élite des Battaniens : l'épée à deux mains, ou la falx, et l'arc." />
     <string id="LrItHItu" text="D'accord, mon frère, fais attention. Sois prudent." />
     <string id="Lwdkj0hG" text="Oui, j'ai l'intention d'utiliser la bannière pour aider à sauver l'Empire." />
     <string id="MafIe9yI" text="Jeunesse d'adulte" />
@@ -440,7 +440,7 @@
     <string id="oMbOIPc9" text="avez rejoint les tirailleurs." />
     <string id="OMrnTIe0" text="Vous sauvez plusieurs prisonniers que les pilleurs avaient capturés. Ils ont l'air déshydratés et épuisés. Vous leur donnez un peu d'eau et de pain et peu de temps après, l'un d'entre eux chancelle et vient vers vous." />
     <string id="ORnjaMlM" text="Vous avez été vaincu par les pilleurs, mais votre frère vous a sauvé. Il semble qu'ils ne partiront pas, alors vous devriez attaquer à nouveau une fois que vous serez prêt.{newline}Vous devez avoir au moins avoir {NUMBER} membres dans votre groupe. Si vous n'en avez pas assez, retournez au village et recrutez d'autres troupes." />
-    <string id="Os79KwFa" text="J'étais à l'avant-garde. Neretzes savait apparemment que les battanians avaient prévu une embuscade, les éclaireurs Khuzait l'avaient dit. Mais il n'a jamais pris la peine de nous informer. Nous sommes donc allés le long d'un beau ruisseau boisé, jusqu'à ce que les flèches battanians aient commencé à se faire entendre de tous côtés." />
+    <string id="Os79KwFa" text="J'étais à l'avant-garde. Neretzes savait apparemment que les battaniens avaient prévu une embuscade, les éclaireurs Khuzait l'avaient dit. Mais il n'a jamais pris la peine de nous informer. Nous sommes donc allés le long d'un beau ruisseau boisé, jusqu'à ce que les flèches battaniennes aient commencé à se faire entendre de tous côtés." />
     <string id="OS8YjyE5" text="Vous devriez récupérer tous les morceaux de la Bannière du Dragon avant de décider de votre voie." />
     <string id="OwcgxRXB" text="Effondrement {.de}{FACTION}, sous le poids de la guerre. Ses clans ont fait défection pour rejoindre les royaumes environnants." />
     <string id="oX2aoilb" text="{MENTOR.NAME} connaît désormais l'ascension de votre {KINGDOM_NAME}. Des rumeurs disent que {MENTOR.NAME} prévoit de détruire vos progrès. Soyez prêts !" />
@@ -539,7 +539,7 @@
     <string id="taOCFKtZ" text="Vous devez recruter plus de troupes pour traiter avec le groupe de pillard. Retournez dans le village pour recruter plus de troupes." />
     <string id="TB20aFsf" text="Vous savez probablement que je suis {CONVERSATION_HERO.FIRSTNAME}. Je ne suis pas certain du pourquoi vous êtes venu me voir, mais sachez que mon ancienne vie, celle de petit toutou impérial, est terminée. [rb:trivial]" />
     <string id="tBGtavMG" text="La plupart de ceux qui y sont allés étaient des Khergits. C'est un jeune clan. Leur lignée n'est pas comme la nôtre. Ils ont toujours cherché à faire leurs preuves. Quoi qu'il en soit, à la bataille, leur noyan, Gotug, a été tué aux côtés de la plupart des hommes de sa maison. Qu'est-ce que je peux dire ? La soif de gloire est dangereuse, tant pour l'assoiffé que pour ceux qui l'entourent." />
-    <string id="TbNRtUjb" text="Vous avez chassé un animal dangereux." />
+    <string id="TbNRtUjb" text="d'avoir chassé un animal dangereux." />
     <string id="TcRH7abK" text="Lorsque vous aurez récupéré toutes les pièces, revenez me voir et je vous aiderai à les mettre en usage." />
     <string id="TeMExjrH" text="Cette option est désactivée pendant la phase du tutoriel." />
     <string id="tGEStbxb" text="Membres d'une tribu" />
@@ -548,7 +548,7 @@
     <string id="tI8ZLtoA" text="réparer des projets." />
     <string id="TIaVyqMx" text="Heureux que vous ayez trouvé ce dont vous aviez besoin. Maintenant, à propos de ce que j'ai mentionné tout à l'heure... " />
     <string id="TkgLEDRM" text="Marchands" />
-    <string id="TKpFB4qN" text="L'empereur Neretzes a dirigé une armée accompagnée de Khuzaits et d'Aserais pour combattre une coalition de Sturgians, de Battanians et de Vlandians." />
+    <string id="TKpFB4qN" text="L'empereur Neretzes a dirigé une armée accompagnée de Khuzaits et d'Aserais pour combattre une coalition de Sturgians, de Battaniens et de Vlandians." />
     <string id="tkXKef0Z" text="Moi aussi, je verrais bien l'Empire détruit." />
     <string id="TLRyyRaW" text="Montant acheté de {GRAIN}" />
     <string id="TNxWBS07" text="Le combat commencera dans {REMAINING_TIME} {?REMAINING_TIME&gt;1}secondes{?}seconde{\?}..." />
@@ -556,7 +556,7 @@
     <string id="tRIrbTvv" text="Voyous urbains" />
     <string id="TRwgSLD2" text="cueillir des herbes dans la nature." />
     <string id="tsjQtWsO" text="Encore une fois, merci de m'avoir sauvé. J'espère que nos chemins se croiseront à nouveau !" />
-    <string id="tTb28jyU" text="De nombreux Battanians se battent en tant que Kern, des troupes polyvalentes qui peuvent à la fois harceler l'ennemi avec leurs javelots et se joindre à la dernière charge en hurlant, une fois l'ennemi affaibli." />
+    <string id="tTb28jyU" text="De nombreux Battaniens se battent en tant que Kern, des troupes polyvalentes qui peuvent à la fois harceler l'ennemi avec leurs javelots et se joindre à la dernière charge en hurlant, une fois l'ennemi affaibli." />
     <string id="tTLvo8sM" text="Échelon du clan" />
     <string id="tVlZTOst" text="Vous avez choisi un chemin différent." />
     <string id="tWwXEWh6" text="Utilisez le portrait pour parler et entrer dans la mission." />
@@ -581,7 +581,7 @@
     <string id="uw2kKrQk" text="{EXP_VALUE} niveau de Compétence et {FOCUS_VALUE} point de Focalisation sur {SKILL_ONE}{newline}{ATTR_VALUE} point d'attribut sur {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}" />
     <string id="uYjEknNX" text="L'exécution de {VICTIM} par {EXECUTER}" />
     <string id="v48N6h1t" text="Artisans urbains" />
-    <string id="vaLehwRl" text="Nous avions prêté serment à l'Empire, pour nous joindre à eux s'ils étaient attaqués. Il m'a semblé clair que nous aurions dû honorer notre serment, les Battanians et les Sturgians étaient les agresseurs, mais il est toujours plus facile de parler après les faits. En fin de compte, nos barons ne voulaient pas se battre aux côtés de l'Empire, alors ils ont refusé de leur venir en aide." />
+    <string id="vaLehwRl" text="Nous avions prêté serment à l'Empire, pour nous joindre à eux s'ils étaient attaqués. Il m'a semblé clair que nous aurions dû honorer notre serment, les Battaniens et les Sturgians étaient les agresseurs, mais il est toujours plus facile de parler après les faits. En fin de compte, nos barons ne voulaient pas se battre aux côtés de l'Empire, alors ils ont refusé de leur venir en aide." />
     <string id="VbJvL8yB" text="Oh, vous ne pouvez pas me faire confiance. Mais vous avez besoin de moi, et je pense que vous avez assez d'hommes pour me trancher la gorge assez rapidement si je vous mène dans un piège. Et je n'ai pas besoin de vous faire confiance - vous êtes mon instrument de vengeance, pas mon partenaire." />
     <string id="vCBuF6dq" text="Recrutez 4 recrues. Cliquez &quot;Recruter des troupes&quot; option dans le menu du village pour recruter des troupes." />
     <string id="vDRRsed8" text="Vous feriez mieux de nous aider à récupérer notre frère et notre sœur, ou nous vous pendrons à un arbre." />
@@ -601,7 +601,7 @@
     <string id="W7hi7jS4" text="Eh bien, j'ai osé espérer, je suppose. Très bien alors, je ne vais pas me mettre à genoux devant vous, alors finissons-en." />
     <string id="wajioDaK" text="Je suis resté avec Neretzes, jusqu'à ce que nous ayons été contraints de battre en retraite à cause de l'infanterie sturgian, puis à les combattre depuis les remparts. Finalement, nous ne pouvions plus les retenir. Je n'ai pas vu ce qui est arrivé à Neretzes ou à notre bannière. Arenicos nous a sorti du pétrin et nous a ramenés à la maison. Je n'avais aucun respect pour Arenicos auparavant, mais à partir ce jour-là, j'ai toujours été convaincu qu'il était fait pour devenir Empereur." />
     <string id="WbHfGCbd" text="d'avoir survécu à un siège." />
-    <string id="WchH8bS2" text="Votre famille était composée de membres intermédiaires d'un des clans battanians, qui labourait sa propre terre. Votre père s'est battu avec les Kern, le corps principal des guerriers de son peuple, se joignant aux charges hurlantes pour lesquelles les Battanians sont célèbres." />
+    <string id="WchH8bS2" text="Votre famille était composée de membres intermédiaires d'un des clans battaniens, qui labourait sa propre terre. Votre père s'est battu avec les Kern, le corps principal des guerriers de son peuple, se joignant aux charges hurlantes pour lesquelles les Battaniens sont célèbres." />
     <string id="WDylM3dx" text="Il est parti sur la route quelques heures avant que les pillards ne passent par ici. Ce n'est pas un homme très futé, c'est le genre de personne qui tomberait dans un piège et se laisserait capturer. Nous sommes inquiets pour lui." />
     <string id="wErSpkjy" text="J'y travaille encore." />
     <string id="weS3DJKA" text="Sous le poids de la guerre, le dirigeant {.de}{FACTION} propose de faire la paix en faveur {.de}{PLAYER_FACTION}." />
@@ -617,7 +617,7 @@
     <string id="WysXGbM6" text="Clic droit pour vous défendre" />
     <string id="WYvnWcXQ" text="Comme tous les enfants du village, vous avez passé votre enfance dans les champs, mais aussi à..." />
     <string id="WyZ2UtFF" text="Votre famille n'appréciait pas l'autorité des boyards. Ils vivaient profondément dans les bois, tailladant et brûlant les champs qu'ils entretenaient pendant un an ou deux avant de partir. Ils chassaient et piégeaient les renards, les lièvres, les hermines et d'autres animaux à fourrure." />
-    <string id="x1HTX5hq" text="Vous avez sauvé votre village d'une inondation." />
+    <string id="x1HTX5hq" text="de sauver votre village d'une inondation." />
     <string id="X1TJNkBV" text="Nous avons trouvé vos petits frères et sœurs. Mais mon ancien partenaire {HIDEOUT_BOSS.LINK} m'a trahi. Nous sommes venus dans son camp pour négocier la libération des enfants, et il s'est emparé de nous à ce moment-là." />
     <string id="X2tfHsXV" text="Vous devriez rejoindre le royaume que vous souhaitez soutenir en parlant au dirigeant." />
     <string id="x3KpQouT" text="Quand le moment fut propice et que les ennemis furent égarés comme des moutons effrayés, courant comme des lapins, nous autres guerriers avons fondu sur eux avec nos falx et nos épées. J'ai tranché ça et là. J'ai pris 12 têtes et les miennes étaient loin d'être la plus grosse prise. Ah, les petits-enfants me fatiguent à toujours me demander cette histoire..." />
@@ -685,7 +685,7 @@
     <string id="ZqOvtLBM" text="Dans la confusion de l'attaque, vous avez crié que quelqu'un avait trouvé un trésor dans la pièce arrière. Vous vous êtes ensuite frayé un chemin pour sortir par une entrée non défendue avec votre frère." />
     <string id="zrpqSWSh" text="Fermiers libres" />
     <string id="zRZd90cZ" text="J'y étais. Je n'étais qu'un jeune écuyer à l'époque." />
-    <string id="zsC2t5Hb" text="vous êtes entraîné avec les meilleurs gardes." />
+    <string id="zsC2t5Hb" text="vous êtes entraîné avec la garde rapprochée du chef." />
     <string id="zTYd6Qai" text="L'Empire a été unifié sous la bannière {.de}{FACTION} !" />
     <string id="zxMOqlhs" text="Attaquer" />
     <string id="Zyn5FrTR" text="Nous garderons cela à l'esprit." />
