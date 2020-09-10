@@ -65,7 +65,7 @@
     <string id="5LJTeOBT" text="Ils sont sortis de la végétation, nous étions encerclés et en infériorité numérique, alors nous avons abandonné. Je me suis dit qu'ils nous garderaient en vie, ne serait-ce que pour la rançon. Cependant, ils ont très vite commencé à nous fouetter, sans eau, j'étais sur le point de me laisser mourir." />
     <string id="5Mw4trfs" text="Une fois que vous aurez fait vos préparatifs, venez me parler à nouveau. J'ai peut-être une tâche à vous confier si vous poursuivez les pilleurs." />
     <string id="5P0KqBAw" text="Votre famille travaillait la terre dans l'une des oasis de Nahasa et entretenait les palmeraies, qui produisaient les fameuses dattes du désert. Votre père était membre de la principale contribution de la levée, se battant avec ses proches sous la bannière de l'émir." />
-    <string id="5qhaDtef" text="Non. Laissez-moi y repenser." />
+    <string id="5qhaDtef" text="Non. Laisse-moi y repenser." />
     <string id="5QiuMoe6" text="Je crois que j'ai un morceau de la Bannière du Dragon de Calradia." />
     <string id="5QSGoRFj" text="Votre famille a labouré un petit arpent de terre arable des steppes pendant des générations. Quand les Khuzaits vinrent, ils cessèrent de payer des taxes et de fournir des troupes à l'Empereur et servirent le Khan à la place." />
     <string id="5soUEFEJ" text="{TACTEOS.NAME} a dit que cela pourrait valoir une fortune à la bonne personne, si tu parviens à ne pas te faire tuer. S'il dit la vérité, tu dois être prudent. Ne révèle jamais que tu l'as, mais essaie de comprendre sa valeur et comment on peut le vendre." />
@@ -256,7 +256,7 @@
     <string id="FPhWhjq7" text="A été vaincu" />
     <string id="FQntPChs" text="Votre famille était composée de marchands dans l'une des principales villes de l'Empire. Ils organisèrent parfois des caravanes dans les villes voisines et siégèrent au conseil municipal." />
     <string id="ft6zzDrJ" text="Je peux vivre avec ça. Allons-y." />
-    <string id="FUwIgcZO" text="En êtes-vous sûr{?PLAYER.GENDER}e{?}{\?} ? (Cette option permet de terminer le tutoriel, qui comporte des éléments d'histoire, et de commencer la campagne solo complète. Il est recommandé de ne choisir cette option que si vous avez déjà joué une fois au tutoriel.)" />
+    <string id="FUwIgcZO" text="En es-tu sûr{?PLAYER.GENDER}e{?}{\?} ? (Cette option permet de terminer le tutoriel, qui comporte des éléments d'histoire, et de commencer la campagne solo complète. Il est recommandé de ne choisir cette option que si vous avez déjà joué une fois au tutoriel.)" />
     <string id="FVaRDe2a" text="Proches d'un noyan" />
     <string id="fVKuuzCC" text="Je suis le dirigeant {.de}{FACTION}. Je porterais la Bannière du Dragon." />
     <string id="FWSwngVX" text="On se met en route ? Je vous préviens, si je tombe mort d'épuisement ou si je me noie dans une rivière, c'est fini pour vos petits chéris. Je ne m'attends pas à un palanquin douillet, mais il vaut mieux ne pas me compliquer la vie." />
