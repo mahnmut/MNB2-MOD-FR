@@ -60,6 +60,7 @@
     <string id="3BGHFFsL" text="Tissu matelassé septentrional" />
     <string id="3bqwOJ8z" text="Casque rembourré" />
     <string id="3DV3GoHb" text="Calotte pointue à mailles" />
+    <string id="3ezms1gB" text="Sabre d'entraînement en fer" />
     <string id="3hOPlGlS" text="Gambison sur veste en cuir impérial " />
     <string id="3iq3rOh8" text="Capuche sur coiffe renforcée" />
     <string id="3NnlCd3V" text="Masse d'armes occidentale" />
@@ -101,6 +102,7 @@
     <string id="62nIvqbA" text="Lame de montagne battanian" />
     <string id="6Cc4zpeQ" text="Rondache renforcée méridionale" />
     <string id="6Db7aDbF" text="Flèches de baliste" />
+    <string id="6dkgVwlg" text="Dagues de lancer d'entraînement du sud" />
     <string id="6eO6QDoE" text="Lance lourde sturgian" />
     <string id="6EWm09LY" text="Morgenstern" />
     <string id="6fPAlYR5" text="Arc long occidental" />
@@ -125,6 +127,7 @@
     <string id="7S6BjECG" text="Harnais de mule avec sacs" />
     <string id="7sgW3eHd" text="Habit en fourrure oriental" />
     <string id="7yGwvnUA" text="Tunique légère" />
+    <string id="7ysOvo7H" text="Lame d'entraînement nordique" />
     <string id="85q9uY76" text="Harnais en écailles des hautes-terres" />
     <string id="89bCqb0Z" text="Bouclier carré en osier d'entraînement" />
     <string id="89OWzLBb" text="Ascia à manche en bambou" />
@@ -149,6 +152,7 @@
     <string id="8uBew3nD" text="Crispins cloutés" />
     <string id="8ulJswRY" text="Manteau en cuir blindé" />
     <string id="8UMQ8ocB" text="Bouclier de cavalerie oriental" />
+    <string id="8Y7XA1Pv" text="Hache à deux mains d'entrainement" />
     <string id="927d3urB" text="Bouclier ovale en bois" />
     <string id="93OHSnEV" text="Cimeterre long décoré" />
     <string id="94yBVV6R" text="Foulard méridional" />
@@ -157,6 +161,7 @@
     <string id="9EWN9SiT" text="Shishpar légère" />
     <string id="9Eyd2qGo" text="Bottes en daim renforcées" />
     <string id="9FgxK9se" text="Grand casque" />
+    <string id="9fomPqAm" text=" Lance occidentale d'entraînement" />
     <string id="9Hr4oEvw" text="Chapel rond sur cuir impérial" />
     <string id="9j9fb5pR" text="Casque plaqué avec protection latérale" />
     <string id="9X2l53vY" text="Minerai d'argent" />
@@ -168,6 +173,7 @@
     <string id="A2I5SHCr" text="Casque à visière septentrional" />
     <string id="a2XnhQ3V" text="Casque intégral septentrional" />
     <string id="a71fiml4" text="Armure lamellaire impériale" />
+    <string id="a775acEf" text="Spatha d'entrainement en fer" />
     <string id="A8MJWbhf" text="Casque à visière avec tissu rembourré" />
     <string id="AB1mV5Pg" text="Chapel de fer sur coiffe lacée" />
     <string id="AdafHtud" text="Casque pointu sur coiffe de mailles" />
@@ -266,10 +272,10 @@
     <string id="Cr5ak47X" text="Large épée décorée" />
     <string id="cRCkC36E" text="Épée courte" />
     <string id="CtJPuRDa" text="Manteau en cuir rembourré" />
-    <string id="ctkNWKbq" text="Lance légère vlandian" />
     <string id="CWI7a4z5" text="Petite hache méridionale" />
     <string id="cXesETQJ" text="Adarga large" />
     <string id="CXnhFf1t" text="Crispins en cuir renforcés" />
+    <string id="cyzMruZJ" text="Javelot d'entraînement oriental" />
     <string id="D4gxNfzG" text="Corset méridional" />
     <string id="d8DrtmwP" text="Heaume à visière sur mailles" />
     <string id="D8xeIXcI" text="Tunique de citadin des hautes-terres" />
@@ -307,6 +313,7 @@
     <string id="E7miRMw1" text="Arc lourd recourbé" />
     <string id="E7puv7hi" text="Mocassins méridionaux" />
     <string id="e8amL6a1" text="Ild large" />
+    <string id="e8zpXpmO" text="Hache à manche en bambou d'entrainement" />
     <string id="e9BpfZ9L" text="Cervelière sur foulard en tissu" />
     <string id="eaALL6uO" text="Sabre long" />
     <string id="EadnjRjs" text="Épée de guerre longue" />
@@ -370,6 +377,7 @@
     <string id="G7AEWZ6c" text="Bouclier ovale décoré" />
     <string id="g7iQsvPw" text="Protège-nuque clouté impérial" />
     <string id="gadEbFyj" text="Sabre en acier supérieur" />
+    <string id="GaejleDJ" text="Épée en fer d'entrainement" />
     <string id="GazIGIJG" text="Capuchon occidental" />
     <string id="gbRVBOLH" text="Vêtements de roturier" />
     <string id="GcFAmAaR" text="Crispins en cuir orientaux" />
@@ -402,6 +410,7 @@
     <string id="gYpNILVC" text="Marteau de guerre" />
     <string id="GyYsQlVd" text="Spatha courte décorée" />
     <string id="h1jKICdp" text="Arc court" />
+    <string id="h1YIrekl" text="Javelot d'entraînement simple" />
     <string id="h3vqV5Qy" text="Tabard en cuir septentrional" />
     <string id="H41qKfaL" text="Casque de noble à plumes des hautes-terres" />
     <string id="h5kfaD4v" text="Cheval de bataille" />
@@ -417,6 +426,7 @@
     <string id="hE8s9bpP" text="Rondache courbée" />
     <string id="hELN8VXv" text="Robe déchirée" />
     <string id="HG2emvr7" text="Robe ceinturée méridionale" />
+    <string id="hGyxZwPz" text="Épée d'entraînement en fer" />
     <string id="hhprIQti" text="Robe ceinturée de cuir méridionale" />
     <string id="HiSzYWeh" text="Bière" />
     <string id="HkiLq2ry" text="Épaulières en fourrure des hautes-terres" />
@@ -504,6 +514,7 @@
     <string id="K1UFTirG" text="Arbalète légère" />
     <string id="K2xGw3Oo" text="Mannequin de basse qualité" />
     <string id="K2Xtca1a" text="Anicroche courte" />
+    <string id="k3dvbLDi" text="Selle d'Aeneas" />
     <string id="K4JtuMzP" text="Manteau forestier battanian" />
     <string id="K5XLb84w" text="Flèches impériales" />
     <string id="kanUXCLc" text="Tunique de villageois des hautes-terres" />
@@ -560,6 +571,7 @@
     <string id="lW3smDRu" text="Bouclier en amande d'entraînement" />
     <string id="LWbJKKK1" text="Harnais de noble septentrional" />
     <string id="lXwaLAYP" text="Épée de guerre en acier Thamaskene" />
+    <string id="lyGvQPJb" text="Lance dentelée d'entraînement" />
     <string id="lZ93DOrn" text="Manteau matelassé sans manches" />
     <string id="LzqugHen" text="Le Scalpel" />
     <string id="M00MeRJD" text="Coton" />
@@ -635,6 +647,7 @@
     <string id="OEyuUWji" text="Brassards enveloppés orientaux" />
     <string id="oFEzCTpW" text="Fourche à foin en fer" />
     <string id="OflbQCw6" text="Selle de dromadaire à petite charge" />
+    <string id="ofOxjPtf" text="Flissa d'entraînement en fer " />
     <string id="oGVGhYeP" text="Armure des steppes orientale" />
     <string id="oH8iFEv7" text="Bottes de ville plissées" />
     <string id="OhEQUMk0" text="Écu large" />
@@ -699,6 +712,7 @@
     <string id="qOfuxNxR" text="Manteau en cuir clouté méridional" />
     <string id="qoT97j7u" text="Chapel rond en bronze" />
     <string id="Qpl5aCb0" text="Hache de guerrier vétéran" />
+    <string id="QQGLKQVL" text="Scramasaxe d'entraînement" />
     <string id="qSn0JTfa" text="Écharpe enveloppée méridionale" />
     <string id="qsVRoGUv" text="Foulard ouvert" />
     <string id="qT6jIu3v" text="Tunique à pagne en fourrure" />
@@ -709,7 +723,9 @@
     <string id="QWqvGa1P" text="Vache" />
     <string id="QX2pp6jX" text="Gambison à pagne impérial" />
     <string id="qXb7YoGc" text="Asaligat" />
+    <string id="QXHqOFYf" text="Lance légère occidentale" />
     <string id="QxzcuhmA" text="Peau de léopard" />
+    <string id="qYKwFEXb" text="Hache Gallogaich d'entraînement" />
     <string id="qZOpdQVx" text="Fauchon étoilé" />
     <string id="r07M9xbT" text="Arbalète lourde" />
     <string id="r0Ln9bAp" text="Tablier en cuir" />
@@ -749,7 +765,9 @@
     <string id="sJ1R62Tn" text="Casque à plumet" />
     <string id="smHA8Apa" text="Chapeau décoré de nomade" />
     <string id="smKogclC" text="Tunique en toile à sac" />
+    <string id="sMUmaE8z" text="Lance d'entraînement nordique" />
     <string id="Sn2O0Ogx" text="Chapel rond en bronze sur cuir impérial" />
+    <string id="SnbK7ygh" text="Anicroche d'entraînement" />
     <string id="sQAXkEQ7" text="Coiffe de mailles méridoniale" />
     <string id="SRWJ8waf" text="Rondache d'entraînement méridionale" />
     <string id="steppebowitem" text="Arc des steppes" />
@@ -807,6 +825,7 @@
     <string id="uHIVkxVt" text="Gilet d'écailles en bronze Nordique sur Gambison" />
     <string id="ukQCN90m" text="Bottes de cuir orientales" />
     <string id="uLpnmNkZ" text="Chapeau en cuir" />
+    <string id="umRAKqO3" text="Lance d'entraînement impériale" />
     <string id="UMX05EQF" text="Masse royale légère" />
     <string id="UoHZGyZa" text="Casque avec protection de visage" />
     <string id="UqdZmdcf" text="Cheval de guerre" />
@@ -846,6 +865,7 @@
     <string id="VpxmlDyY" text="Bottes de cuir retourné" />
     <string id="vPXWpJTP" text="Dague des hautes-terres" />
     <string id="VqFV9LS4" text="Robe rouge" />
+    <string id="vRIpgxhi" text="Choix de Fortunas" />
     <string id="VRP5Q4mU" text="Mailles annelées méridionale" />
     <string id="vsavMoLZ" text="Cervelière segmentée sur tissu rembourré" />
     <string id="vsI4M5oq" text="Grand Bouclier Renforcé de Fer des Hautes Terres" />
@@ -872,6 +892,7 @@
     <string id="WaQOFmas" text="Hache impériale" />
     <string id="wBfGpcCO" text="Chapel sur tissu matelassé" />
     <string id="WCbpw1wM" text="Casque nasal lourd sur rembourrage impérial" />
+    <string id="WdZTrPpG" text="Épaulières de maille des hautes terres" />
     <string id="wEfZyccm" text="Heaume intégral sur coiffe lacée" />
     <string id="wEJAab0A" text="Chapeau septentrional" />
     <string id="WePcpx0u" text="Grande bannière" />
@@ -882,6 +903,7 @@
     <string id="WH7bbK6G" text="Manteau matelassé occidental" />
     <string id="whvMZZba" text="Cripins de garde matelassés" />
     <string id="wiyLpYfw" text="Flèches occidentales" />
+    <string id="WkB0tJRU" text="Cimeterre d'entraînement en fer" />
     <string id="wKucIANJ" text="Manteau en cuir sur tissu" />
     <string id="wltdyF2j" text="Arc de chasse" />
     <string id="wMO0hoqC" text="Habit occidental" />
@@ -914,6 +936,7 @@
     <string id="XDsFl200" text="Lance impériale" />
     <string id="XGX6DbFL" text="Gantelets lamellaires de plates" />
     <string id="XH9f3yOX" text="Gilet en fourrure sur tunique" />
+    <string id="XkwOTdVQ" text="Givre celtique" />
     <string id="xkX9T0yT" text="Casque légèrement enturbanné méridional" />
     <string id="xl5MgK49" text="Casque de cavalerie lourde sturgian" />
     <string id="xnoAJwoy" text="Heaume intégral sur tissu rembourré" />
@@ -932,6 +955,7 @@
     <string id="xYUHruEl" text="Capuche des hautes-terres" />
     <string id="XyXSx0R8" text="Habit oriental" />
     <string id="XZAAz7NX" text="Tunique courte impériale" />
+    <string id="y3CwqUDR" text="Cotte de mailles des hautes terres" />
     <string id="y3oIzUEp" text="Tunique à épaulettes" />
     <string id="y9uMjAKT" text="Épaulières en daim renforcées" />
     <string id="YAOfXanz" text="Casque de seigneur septentrional" />
