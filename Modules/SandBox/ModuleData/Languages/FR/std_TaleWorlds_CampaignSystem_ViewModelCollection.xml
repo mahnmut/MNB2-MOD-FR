@@ -56,7 +56,7 @@
     <string id="aadiCuDe" text="{COMPLETION_PERCENT} (environ {DAYS} jour(s) pour compléter)" />
     <string id="AcMayd1p" text="Fuit {.le}{TARGET_PARTY}." />
     <string id="aE4ZRbB6" text=" {HEALTH}%" />
-    <string id="aFYwbosi" text="Ce héros dirige déjà une armée" />
+    <string id="aFYwbosi" text="Ce héros est déjà à la tête d'un groupe." />
     <string id="aGFxIvqx" text="Laisser un compagnon" />
     <string id="aRhQzJca" text="Les mercenaires ne peuvent pas créer ou diriger une armée." />
     <string id="armorTier" text="Niveau d'armure : " />
@@ -90,7 +90,7 @@
     <string id="d2K6gMsZ" text="Laissez les membres. Il faut au moins 1 compagnon." />
     <string id="d8jrv3nA" text="Ajouter aux favoris" />
     <string id="DAmdTxuC" text="Gestion de l'armée" />
-    <string id="dD3kRDHi" text="Ce héros est un fugitif qui fuit ses ravisseurs. Il sera disponibles après un certain temps" />
+    <string id="dD3kRDHi" text="Ce héros est un fugitif qui fuit ses ravisseurs. Il sera disponibles après un certain temps." />
     <string id="DNq9bdvV" text="{THRUST_DAMAGE_FACTOR}" />
     <string id="dO95yR9b" text="Dégâts d'estoc" />
     <string id="DPTPuyip" text="Et {NUMBER} de plus..." />
@@ -115,7 +115,7 @@
     <string id="Fa2nKXxI" text="Gouverneur" />
     <string id="FBYFcrWo" text="Laisser ici" />
     <string id="fI7a7RoE" text="Capacité de l'inventaire" />
-    <string id="FjJi1DJb" text="Ce héros fait déjà partie d'un autre groupe" />
+    <string id="FjJi1DJb" text="Ce héros fait déjà partie d'un autre groupe." />
     <string id="fOSGakix" text="Vous ne pouvez pas gérer une armée pendant que vous êtes prisonnier." />
     <string id="g4XqKGUr" text="Le groupe a déjà un membre avec ce rôle." />
     <string id="G6cCjixe" text="{COMPLETION_PERCENT} (Environ {DAYS} jour(s) pour compléter)" />
@@ -135,7 +135,7 @@
     <string id="hTzTMLsf" text="Distance de vue" />
     <string id="HURdAXDQ" text="Occupants de la cachette" />
     <string id="hylxyNtU" text="Vous n'avez pas assez." />
-    <string id="Hz8XO8wk" text="Les Gouverneurs ne peuvent pas diriger un groupe mobile et être Gouverneur en même temps" />
+    <string id="Hz8XO8wk" text="Les Gouverneurs ne peuvent pas diriger un groupe mobile et être Gouverneur en même temps." />
     <string id="IagYTD5O" text="Prospérité" />
     <string id="IbqRyrKo" text="Cela déterminera les politiques actives initiales du Royaume. Choisissez 4 politiques au maximum. " />
     <string id="IcgVKFxZ" text="Gouverneur" />
@@ -199,6 +199,7 @@
     <string id="O3dhjtOS" text="Armure de tête" />
     <string id="oBbiVeKE" text="Points de vie" />
     <string id="ocSW4WA2" text="Échec critique !" />
+    <string id="OhNYkblK" text="Ce héros vient de s'échapper de ses ravisseurs et sera disponible après un certain temps." />
     <string id="oibdTnXP" text="Maniabilité" />
     <string id="OIeXNTEn" text="L'atelier ne peut pas être amélioré." />
     <string id="OkWLI5C8" text="Taille :" />

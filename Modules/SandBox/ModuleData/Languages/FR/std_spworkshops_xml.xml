@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Français" />
   </tags>
   <strings>
-    <string id="6g08hTX5" text="Des céréales sont prises et brassées pour en faire de la bière. Peu de choses peuvent rendre les gens du peuple et les troupes aussi heureux que la bière." />
+    <string id="6g08hTX5" text="Les céréales sont prises et brassées pour en faire de la bière. Peu de choses peuvent rendre les gens du peuple et les troupes aussi heureux que la bière." />
     <string id="7hx2Nlmd" text="Tannerie" />
     <string id="8MwqyFfS" text="Forge" />
     <string id="AfiEQPky" text="Chaque ville compte quelques artisans. Quelqu'un doit fabriquer des objets de tous les jours pour les gens ordinaires et la plupart le font eux-mêmes." />

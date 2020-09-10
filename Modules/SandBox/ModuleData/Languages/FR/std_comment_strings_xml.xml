@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Français" />
@@ -39,7 +39,7 @@
     <string id="9ZHhYooG" text="Vous souvenez-vous de votre défaite contre moi, en un contre un ? Vous en voulez encore ?" />
     <string id="A40Z3egp" text="Ce boulot que vous avez fait pour moi... Beau travail." />
     <string id="a55SAS18" text="Nous avons l'avantage sur vous. Rendez-vous, et vous serez bien traités.[ib:warrior][if:idle_angry]" />
-    <string id="a5LChqbr" text="Les gens ordinaires de ces terres ont besoin que quelqu'un s'occupe d'eux. C'est ce que fait notre Fraternité. Vous entendrez dire que nous sommes des bandits, ou des voleurs. N'en croyez pas un mot." />
+    <string id="a5LChqbr" text="Les gens ordinaires de ces terres ont besoin que quelqu'un s'occupe d'eux. C'est ce que fait notre Confrérie. Vous entendrez dire que nous sommes des bandits, ou des voleurs. N'en croyez pas un mot." />
     <string id="a8584KD0" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.pclan}{CLAN_NAME}. Je suis sûr que vous avez entendu le nom de notre clan dans les épopées de la steppe. Nous portons le nom de l'un des dix fils de la grande louve, mère des Khuzait." />
     <string id="aaadHoIb" text="Puisse-t-{?GENDER}elle{?}il{\?} écraser tous ses ennemis !" />
     <string id="aagGt8pX" text="Votre Seigneurie" />
