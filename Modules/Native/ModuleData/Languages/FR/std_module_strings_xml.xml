@@ -363,7 +363,7 @@
     <string id="bg6x6Hbv" text="Casque" />
     <string id="Bg83jhCR" text="La ville traverse manifestement une période difficile. Les gens ont l'air mal nourris et les bâtiments sont mal entretenus." />
     <string id="bg8co4he" text="Abattre{newline}Cette action ne pourra pas être annulée." />
-    <string id="bgjiFSHZ" text="Battanians" />
+    <string id="bgjiFSHZ" text="Battaniens" />
     <string id="bGyrPe8c" text="Production" />
     <string id="bh2v8n4K" text="Vêtements" />
     <string id="BhGlPxqx" text="Vous ne pouvez dissoudre que les groupes mobiles" />
@@ -410,7 +410,7 @@
     <string id="bZOVbBRG" text="Lorsque vos points de compétence atteignent un seuil requis, un ou plusieurs perks deviennent disponibles, ce qui est signalé par un petit indicateur sur le bouton de l'écran du personnage.{newline}{newline}Cliquer sur le bouton du personnage pour voir les choix de compétences disponibles." />
     <string id="bzrOHiS8" text="Les gens maudissent ouvertement les autorités, comme s'ils pensaient n'avoir rien à perdre." />
     <string id="C0llOApK" text="Armée {.de}{HERO}" />
-    <string id="c1Ag8YJS" text="Les Battanians se souviennent encore des vieux jours d'antan où les bois se dressaient partout en Calradia. Cette époque où les Impériaux n'essaimaient pas encore la désolation, la guerre et le courroux parmi leurs terres. Ces âpres guerriers acariâtres demeurent fidèles à leurs traditions ancestrales : ils enduisent leurs visages de peinture rituelles lorsqu'ils partent à la guerre et tous, mêmes les nobles préfèrent mener bataille à pied. Leurs bretteurs sont plus que redoutés, à l'épée comme à la hache, et ce, en raison de leurs excellentes compétences guerrières." />
+    <string id="c1Ag8YJS" text="Les Battaniens se souviennent encore des vieux jours d'antan où les bois se dressaient partout en Calradia. Cette époque où les Impériaux n'essaimaient pas encore la désolation, la guerre et le courroux parmi leurs terres. Ces âpres guerriers acariâtres demeurent fidèles à leurs traditions ancestrales : ils enduisent leurs visages de peinture rituelles lorsqu'ils partent à la guerre et tous, mêmes les nobles préfèrent mener bataille à pied. Leurs bretteurs sont plus que redoutés, à l'épée comme à la hache, et ce, en raison de leurs excellentes compétences guerrières." />
     <string id="c1g7MC9D" text="Bonus d'échelon du clan" />
     <string id="c2pdihCB" text="Caravanes" />
     <string id="c3cdHImi" text="Capturez les pions de votre adversaire en les entourant des deux côtés. Si un pion se déplace entre deux pions opposés, il n'est pas capturé.{newline}Dans les deux premières images, les pions blancs sont capturés par les pions noirs. Dans les deux dernières, il n'y a pas de capture." />
@@ -1162,7 +1162,7 @@
     <string id="Q7ONA10T" text="&lt;b&gt;Trébuchet&lt;/b&gt;{NEWLINE}Peu précis mais dévastateur contre les murailles." />
     <string id="Q8mI3b4K" text="Aucune politique sélectionnée" />
     <string id="QA8Gm9PY" text="Chaude journée, n'est-ce pas ? Ne vous fatiguez pas à vous battre. Donnez-nous ce que nous voulons et nous partirons." />
-    <string id="qaDIU0XC" text="Haut-Royaume des Battanians" />
+    <string id="qaDIU0XC" text="Haut-Royaume des Battaniens" />
     <string id="qaueUlAp" text="Bien. Et à partir de maintenant soyez prudent. Le monde est plein de voleurs et ils ne sont pas tous aussi gentils que nous.[ib:closed][rb:positive]" />
     <string id="QAv3upYr" text="Cape" />
     <string id="qb31gnpr" text="Bonus de chef de clan" />
@@ -1632,7 +1632,7 @@
     <string id="Zuq5mO5e" text="Parler au chef du groupe" />
     <string id="ZuRzP6kF" text="Vous ne pouvez pas rassembler une armée pendant la bataille" />
     <string id="ZV7bt7Il" text="{newline}{PARTY_NAME} : {PARTY_MORALE}" />
-    <string id="ZvoyX6DX" text="Battanian" />
+    <string id="ZvoyX6DX" text="Battanien" />
     <string id="Zw60OTJe" text="La plupart des gens sont satisfaits, bien que l'on entende certaines plaintes concernant la hausse des prix, la répartition inégale des richesses et les migrants venant des campagnes." />
     <string id="zwAjXuEk" text="{TRAIT_NAME} ({TRAIT} {TRAIT_VALUE})" />
     <string id="Zwb65ufG" text="Argile" />
