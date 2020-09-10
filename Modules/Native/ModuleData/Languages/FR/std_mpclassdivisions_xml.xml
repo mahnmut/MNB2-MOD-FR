@@ -15,12 +15,10 @@
     <string id="2bzFzemV" text="Arbalète lourde" />
     <string id="2JZakvPJ" text="Remplace le menavlion par un menavlion lourd, plus lent mais qui inflige davantage de dégâts." />
     <string id="3ksDHRKT" text="Octroie une longue lance orientale, une lance à deux mains." />
-    <string id="4ckL9lJ8" text="Vous donne des Pilums longs, bons pour harceler l'ennemi et qui peuvent être utilisés en mêlée. Quantité faible." />
     <string id="4eFFdbbh" text="Remplace le vouge par une épée à deux mains, efficace en duel et en estoc." />
     <string id="4wdgiTta" text="Faucille" />
     <string id="5JQFx3EW" text="Remplace la monture par un cheval plus rapide et plus manœuvrable." />
     <string id="5pLEUc4t" text="Flèches puissantes" />
-    <string id="5ydbUsFh" text="Javelots" />
     <string id="6bdcoGI1" text="Remplace la monture par un cheval plus rapide et plus manœuvrable." />
     <string id="6hwZwODh" text="Glaive" />
     <string id="722U31od" text="Remplace la monture par un cheval plus maniable et plus résistant mais qui est plus lent. La charge du cheval fait plus de dégâts." />
@@ -59,11 +57,9 @@
     <string id="cfSgK0nk" text="Cheval agile" />
     <string id="CG5D5r2w" text="Remplace l'épée par une masse efficace contre les adversaires en armure." />
     <string id="CJo3mNsK" text="Octroie des javelots plus puissants." />
-    <string id="cMsadGUb" text="Pilum" />
     <string id="CQBiJLgv" text="Dromadaire" />
     <string id="cRCkC36E" text="Épée courte" />
     <string id="d7Z3ka1m" text="Meilleur arc" />
-    <string id="d8oFKRxa" text="Octroie des javelots plus longs à lancer et qui peuvent être utilisés en mêlée." />
     <string id="D9XZcdid" text="Octroie des francisques qui infligent des dégâts à distance, efficaces contre les boucliers. Quantité faible." />
     <string id="DCyOFcZI" text="Octroie une guisarme, une arme d'hast." />
     <string id="Dj64aJKQ" text="Guisarme" />
@@ -105,7 +101,6 @@
     <string id="JBVAeXx3" text="Fourche" />
     <string id="JbWbiO6O" text="Arc et flèches" />
     <string id="Jd0Kq9lD" text="Bouclier" />
-    <string id="JfnVaE9D" text="Octroie les pilums, bons pour le harcèlement, peuvent être utilisés en mêlée mais disponibles en faible quantité." />
     <string id="JjRJs2Ue" text="Remplace la pioche par une hache à deux mains encore plus efficace contre les boucliers." />
     <string id="jKYWiUZA" text="Remplace la monture par un cheval plus résistant, plus manœuvrable et plus lent mais qui peut encaisser davantage de dégâts de charge." />
     <string id="K1UFTirG" text="Arbalète légère" />
@@ -139,11 +134,14 @@
     <string id="PNZmPprx" text="Épée à deux mains" />
     <string id="pyupZxJK" text="Kontos" />
     <string id="q8n63o4y" text="Octroie un ahlspiess, très efficace contre la cavalerie, plus long que les lances mais à deux mains." />
+    <string id="qENFMPqP" text="Octroie une lance de jet, plus longue que les lances normales, pouvant être lancée et être utilisée en mêlée." />
     <string id="QLcP8bIs" text="Falx" />
     <string id="QojyuDln" text="Octroie un kontos, plus long, qui produit davantage de dégâts mais est plus lent." />
     <string id="QR4bNj8H" text="Donne la version Cavalerie de Menavlion." />
     <string id="Qs4VOXgE" text="Lance Courte" />
+    <string id="r1Jp5c72" text="Octroie un Pilum, plus long, efficace pour le harcèlement, peut être utilisé en mêlée." />
     <string id="R7TAImaC" text="Bouclier plus grand" />
+    <string id="rkqaCud5" text="Pilum" />
     <string id="RV6BCPvg" text="Remplace la hache par une hache plus longue et plus lourde, super efficace contre les boucliers." />
     <string id="rzP3J3Kb" text="Remplace la falx par une rhomphaia, plus longue mais qui produit moins de dégâts et qui est plus lente." />
     <string id="sagHGCh7" text="Remplace la lance longue par un Kontos, plus long, qui produit davantage de dégâts mais est plus lent." />

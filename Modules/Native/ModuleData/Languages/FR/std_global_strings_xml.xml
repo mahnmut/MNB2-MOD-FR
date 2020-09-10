@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Français" />
@@ -121,7 +121,7 @@
     <string id="BmSzvXlZ" text="Avancer" />
     <string id="bqb2K5b1" text="Déplacer à droite" />
     <string id="BSdIYN9F" text="P" />
-    <string id="bT77aWti" text="Changer d'arme" />
+    <string id="bT77aWti" text="Changer le maniement de l'arme" />
     <string id="bvJUmRBd" text="Sélectionner le groupe 2" />
     <string id="bW2urPqE" text="Sélectionner l'ordre 6" />
     <string id="bYwwY9qh" text="Pavé numérique 5" />

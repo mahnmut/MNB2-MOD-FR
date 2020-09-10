@@ -121,6 +121,7 @@
     <string id="SIT1tREw" text="Vous ne pouvez pas vous ajouter comme ami " />
     <string id="sov81CZ5" text="Votre identifiant Bannerlord est mis à jour avec succès" />
     <string id="SvHP9TXr" text="Tous les joueurs ne sont pas prêts." />
+    <string id="T96cPmJT" text="La partie de clan n'existe plus." />
     <string id="Tauk2JzA" text="Incompatibilité de version, version du serveur : {SERVERVERSION} - Votre version : {CLIENTVERSION}." />
     <string id="TKv0vF7H" text="Vous devez être dans le lobby pour modifier le sigle du clan." />
     <string id="TpBDiSBp" text="{PLAYERNAME} a été assigné au chef du groupe." />
