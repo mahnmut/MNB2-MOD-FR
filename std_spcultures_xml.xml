@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Français" />
@@ -23,7 +23,7 @@
     <string id="1mhbWay3" text="Dinin" />
     <string id="1sbJQR4H" text="Pillards" />
     <string id="1suLcaso" text="Cunbert" />
-    <string id="1Ww5lg6I" text="Les premiers Vlandians sont arrivés d'outre-mer, des mercenaires et des aventuriers, parlant les langues de plusieurs terres. Ils prennent l'argent de l'Empire pour protéger les frontières contre les tribus insubordonnées de l'intérieur. Ils doivent leur nom à l'un de leurs premiers seigneurs de guerre, Wilund le Téméraire - Valandion, en Calradic - et sont devenus les Vlandians. Leur cavalerie lourde, incomparable, repoussa les ennemis de l'empereur, du désert Aserai jusqu'aux steppes lointaines. Mais les fonctionnaires qui étaient à court d'argent ont rapidement commencés à les payer avec des terres et des titres. Les Vlandians s'installèrent, se marièrent, ensemencèrent des fermes et saisirent les forteresses impériales voisines pour eux. Aujourd'hui, ils sont un royaume indépendant, leurs traditions tirant à la fois de Calradia et de leurs patries lointaines." />
+    <string id="1Ww5lg6I" text="Les premiers Vlandiens sont arrivés d'outre-mer, des mercenaires et des aventuriers, parlant les langues de plusieurs terres. Ils prennent l'argent de l'Empire pour protéger les frontières contre les tribus insubordonnées de l'intérieur. Ils doivent leur nom à l'un de leurs premiers seigneurs de guerre, Wilund le Téméraire - Valandion, en Calradic - et sont devenus les Vlandiens. Leur cavalerie lourde, incomparable, repoussa les ennemis de l'empereur, du désert Aserai jusqu'aux steppes lointaines. Mais les fonctionnaires qui étaient à court d'argent ont rapidement commencés à les payer avec des terres et des titres. Les Vlandiens s'installèrent, se marièrent, ensemencèrent des fermes et saisirent les forteresses impériales voisines pour eux. Aujourd'hui, ils sont un royaume indépendant, leurs traditions tirant à la fois de Calradia et de leurs patries lointaines." />
     <string id="26tqV3ak" text="Theuda" />
     <string id="26v27bu7" text="Aika" />
     <string id="29Ti1C0R" text="Selun" />
@@ -151,7 +151,7 @@
     <string id="aSNUtnbH" text="Temun" />
     <string id="aTcSQ7MY" text="Oto" />
     <string id="AWM3jbaZ" text="Ajin" />
-    <string id="Ax9OkgL5" text="Les collines brumeuses du nord-ouest de Calradia sont contrôlées par les clans battanians, les habitants originels du continent. Leurs forteresses, au sommet des collines ont fait face à d'innombrables guerres menées par de multiples envahisseurs : d'abord les légions de l'Empire et plus récemment des royaumes Sturgian et Vlandian. Les Battanians sont maîtres de l'arc long, des raids nocturnes ou encore des embuscades. Ils idolâtrent la bravoure, mais aiment quand celle-ci se combine avec de mauvaises actions : voler un troupeau de bétail, de manière totalement furtive ou encore, tout en dînant avec une tribu rivale et régalant ses hôtes d'une anecdote de bataille, sortir de son sac le crâne d'un de leurs parents pris en souvenir." />
+    <string id="Ax9OkgL5" text="Les collines brumeuses du nord-ouest de Calradia sont contrôlées par les clans battaniens, les habitants originels du continent. Leurs forteresses, au sommet des collines ont fait face à d'innombrables guerres menées par de multiples envahisseurs : d'abord les légions de l'Empire et plus récemment des royaumes sturgiens et vlandiens. Les Battaniens sont maîtres de l'arc long, des raids nocturnes ou encore des embuscades. Ils idolâtrent la bravoure, mais aiment quand celle-ci se combine avec de mauvaises actions : voler un troupeau de bétail, de manière totalement furtive ou encore, tout en dînant avec une tribu rivale et régalant ses hôtes d'une anecdote de bataille, sortir de son sac le crâne d'un de leurs parents pris en souvenir." />
     <string id="Axe5FkET" text="Talison" />
     <string id="AYdwWae6" text="Ceatra" />
     <string id="aYiL7eDM" text="Ilmir" />
@@ -621,7 +621,7 @@
     <string id="Ub0awU1n" text="Ewyn" />
     <string id="UcteBSP6" text="Asi" />
     <string id="uCyAnus4" text="Zostios" />
-    <string id="Ud1AMybr" text="Les Sturgians viennent des forêts du nord, juste au sud de la mer Byalique glacée. Pendant des siècles, ils ont vécu isolés dans les forêts sombres. L'environnement hostile et le climat rude ne les a pas épargnés. Pendant la conquête de l'Empire sur le continent Calradien, les nouveaux venus se sont aventurés dans les bois à la recherche de ressources telles que du miel, du fer et surtout de la fourrure. De grandes villes ont vu le jour le long des rivières, attirant les chercheurs de fortune de la côte, des steppes et des terres du nord. Les princes et les boyards de ce pays sont attirés par les richesses de leurs voisins, ce qui leur a valu la réputation d'avoir une approche guerrière dans le domaine militaire et commerciale." />
+    <string id="Ud1AMybr" text="Les Sturgiens viennent des forêts du nord, juste au sud de la mer Byalique glacée. Pendant des siècles, ils ont vécu isolés dans les forêts sombres. L'environnement hostile et le climat rude ne les a pas épargnés. Pendant la conquête de l'Empire sur le continent Calradien, les nouveaux venus se sont aventurés dans les bois à la recherche de ressources telles que du miel, du fer et surtout de la fourrure. De grandes villes ont vu le jour le long des rivières, attirant les chercheurs de fortune de la côte, des steppes et des terres du nord. Les princes et les boyards de ce pays sont attirés par les richesses de leurs voisins, ce qui leur a valu la réputation d'avoir une approche guerrière dans le domaine militaire et commerciale." />
     <string id="ud6rhXbn" text="Mostiros" />
     <string id="uDlnsFIF" text="Urik" />
     <string id="uducgNbf" text="Chaghan" />
