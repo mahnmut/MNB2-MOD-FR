@@ -28,7 +28,7 @@
     <string id="6UBdsXlo" text="Peut-être qu'un jour nous nous rencontrerons sur un champ de bataille. Vous connaîtrez le Ghilman par la splendeur de nos chevaux et le chatoiement de notre acier. Si nous sommes de votre côté, vous pourrez vous réjouir. Si nous sommes votre ennemi, vous pourrez vous épargner bien des soucis en vous enfuyant avant le début du combat." />
     <string id="7lWtkqHv" text="Je me souviendrai de votre nom." />
     <string id="7pQ3y21E" text="Merci encore pour votre aide." />
-    <string id="80C0gWJ4" text="roi des Vlandians" />
+    <string id="80C0gWJ4" text="roi des Vlandiens" />
     <string id="86aQkXpV" text="Très bien - je vais mettre votre courage à l'épreuve !" />
     <string id="8eLXNZ7U" text="Il est bon de savoir contre qui on se bat." />
     <string id="8GDgJCB4" text="Si jamais vous cherchez des guerriers robustes, mon ami{?PLAYER.GENDER}e{?}{\?}, vous devriez penser à engager la Compagnie du Sanglier. Les gars les plus costauds de Vlandia affluent vers notre bannière. Car si vous ne nous engagez pas, votre ennemi pourrait le faire." />
@@ -70,12 +70,12 @@
     <string id="CPWbB47d" text="J'ai entendu parler de vous ! J'ai longtemps voulu faire votre connaissance." />
     <string id="CUfZXlOd" text="Je me souviendrai de votre nom." />
     <string id="d2QGFdRJ" text="Vous n'avez aucune chance. Rendez-vous, ou je vais vous vider comme un poisson.[ib:warrior][if:idle_angry]" />
-    <string id="dC8acIya" text="Je suis {CONVERSATION_CHARACTER.LINK}, un chef des Sturgians." />
+    <string id="dC8acIya" text="Je suis {CONVERSATION_CHARACTER.LINK}, un chef des Sturgiens." />
     <string id="dD93WVhO" text="Les seules choses que vous devriez savoir à propos de moi sont que je ferais un bon allié et que vous détesteriez m'avoir pour ennemi." />
     <string id="DIjtFVu8" text="Votre dernière goutte de sang ? Je suppose que je vais devoir la verser, alors." />
     <string id="dKmAktt7" text="Vous ne pouvez pas me vaincre, et je vous infligerai une sévère leçon si vous osez essayer. Abandonnez ![ib:warrior][if:idle_angry]" />
     <string id="dLHsoh3f" text="J'ai entendu parler de vous. Votre nom répand la peur dans le cœur des hommes. C'est la meilleure réputation qu'on puisse avoir. Peut-être pourrions-nous avoir des intérêts communs." />
-    <string id="dlkg2jQf" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.pclan}{CLAN_NAME}, l'une des anciennes lignées des Sturgians." />
+    <string id="dlkg2jQf" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.pclan}{CLAN_NAME}, l'une des anciennes lignées des Sturgiens." />
     <string id="DLV6F3ob" text="Peut-être n'avez-vous pas entendu parler du Karakhergit. Aucune frontière ne nous arrête. Nous ne nous inclinons devant aucun Khan. Nous ne semons aucune céréale. Nous vivons selon nos coutumes ancestrales." />
     <string id="DRzsgjsD" text="Je suis {CONVERSATION_CHARACTER.LINK}, de la maison {.pclan}{CLAN_NAME}, l'une des plus illustres familles dans toute l'histoire de l'Empire." />
     <string id="dvpbyoAQ" text="J'ai entendu parler de vous. Enfin nous nous rencontrons. Vous avez l'air d'être le genre de personne à connaitre. Parlons-ensemble, de temps en temps." />
@@ -84,13 +84,13 @@
     <string id="ELtT9ctL" text="Vous connaissez peut-être le Skolderbrotva. Sur le champ de bataille, nous sommes exceptionnels. Nous nous attendons à être payés, à hauteur de notre valeur et ce n'est pas donné, mais si nous prenons votre pièce, vous aurez notre serment d'honorer les termes du contrat, jusqu'à notre mort si nécessaire." />
     <string id="ETxtYU6C" text="Alors... Vous vous êtes fait un nom..." />
     <string id="EXgm5Utx" text="Longue vie à {?GENDER}elle{?}lui{\?} !" />
-    <string id="eyxfHmCU" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.pclan}{CLAN_NAME}. Notre famille a servi les rois des Vlandians pendant des générations." />
+    <string id="eyxfHmCU" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.pclan}{CLAN_NAME}. Notre famille a servi les rois des Vlandiens pendant des générations." />
     <string id="f2eZL7w5" text="Oh, je suppose que je suis obligé de vous donner une chance de ramper pour votre vie. Allez-vous vous rendre, alors ?[ib:warrior][if:idle_angry]" />
     <string id="f3X79aDs" text="Alors... J'ai entendu dire que vous avez pas mal voyagé. Vous avez sans doute vu beaucoup de choses étranges et horribles. Peut-être que vous avez fait des choses étranges et horribles. Allez, parlez-moi un peu de vos aventures. Je vous promets de ne pas être choqué." />
     <string id="Fb7JxGKM" text="Ouais... Je connais votre nom. Bien. Je ne suis pas une personne avec qui discuter, alors oublions les politesses et allons droit au but." />
     <string id="fbArcLAA" text="Ma Dame, si vous êtes aussi douée au combat que vos traits sont gracieux, vos ennemis doivent vous craindre !" />
     <string id="FbstpIYj" text="Ne dites pas que je ne vous ai pas donné une chance." />
-    <string id="FFXqPFwl" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.pclan}{CLAN_NAME}, l'une des plus illustres familles dans toute l'histoire du royaume Vlandian." />
+    <string id="FFXqPFwl" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.pclan}{CLAN_NAME}, l'une des plus illustres familles dans toute l'histoire du royaume Vlandien." />
     <string id="fHFpgitO" text="Qu'il est bon de vous voir. Il faut toujours se rappeler que si le courage est louable, la compassion est la plus grande des vertus." />
     <string id="FpD4Y9cX" text="Merci. Je dois rester votre ennemi, mais je vous suis quand même reconnaissant.[if:happy][rb:very_positive]" />
     <string id="g3oFsCtd" text="Vous avez demandé des pourparlers. J'espère que vous honorerez les traditions de la guerre et que vous ne tenterez pas de coup fourré." />
@@ -148,7 +148,7 @@
     <string id="NeUilOqh" text="Nous accueillons les étrangers sur nos terres. Les bois sont larges, il y a du gibier à chasser et de la nourriture à récolter, assez pour tous. Mais certains viennent ici pour nous voler, pour nous asservir ou pour nous taxer. Chaque printemps, les corps de ces voleurs sont découverts lors du dégel." />
     <string id="nJgp2MoR" text="Je connais votre nom... et de ce que j'en entends, je parie que beaucoup de veuves éplorées le connaissent aussi. Mais ce n'est pas mon problème." />
     <string id="NmlauVxB" text="Hum. Continuez." />
-    <string id="Nq2dyiO1" text="Je suis {CONVERSATION_CHARACTER.LINK} {.pclan}{CLAN_NAME}, un nom qu'on entend souvent dans les légendes sturgians." />
+    <string id="Nq2dyiO1" text="Je suis {CONVERSATION_CHARACTER.LINK} {.pclan}{CLAN_NAME}, un nom qu'on entend souvent dans les légendes sturgiennes." />
     <string id="nRnbBnFq" text="Je suis ? Eh bien... Je vous suis reconnaissant.[if:happy][rb:very_positive]" />
     <string id="NW1n9k45" text="Cousin." />
     <string id="o2aKr8JD" text="J'ai entendu votre nom." />
@@ -198,7 +198,7 @@
     <string id="tUa5WBpp" text="impératrice légitime des Calradians" />
     <string id="TUwY7IKc" text="Bon... Vous m'avez vraiment fait perdre la tête. Je ne suis pas sûr qu'on ait beaucoup de choses à se dire maintenant." />
     <string id="TvqjhDaQ" text="Alors, mon jeune lion. Tu as le regard de quelqu'un qui peut aller loin, s'il ne finit pas mort." />
-    <string id="Tvy4UvJC" text="reine des Vlandians" />
+    <string id="Tvy4UvJC" text="reine des Vlandiens" />
     <string id="TzPC5L5X" text="Je suis toujours à la recherche de bons combattants. Si vous vous demandez qui je suis, je suppose que vous avez ouïe dire que je sais prendre soin de mes hommes." />
     <string id="U4p70l9B" text="Je suis {CONVERSATION_CHARACTER.LINK}, un chef de clan de Khuzait." />
     <string id="U770Bvy8" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.pclan}{CLAN_NAME}. La renommée de notre famille est sans égale dans les chansons des Battaniens." />
@@ -208,7 +208,7 @@
     <string id="UehvSvLD" text="Ce travail que je vous ai donné... Je dirais que vous m'avez laissé tomber." />
     <string id="ufa20b2l" text="Je ne traite qu'avec ceux qui sont fidèles à leurs serments. Si vous êtes de ceux qui n'accordent pas de valeur à leur parole, ne me faites pas perdre mon temps." />
     <string id="Ufn3916B" text="J'ai entendu parler de vous. Ainsi, nous nous rencontrons. Je ne suis pas du genre à parler, alors si vous avez quelque chose à me dire, dites-le." />
-    <string id="v4nyY62z" text="reine des Sturgians" />
+    <string id="v4nyY62z" text="reine des Sturgiens" />
     <string id="vN4spwD1" text="Sachez que si jamais vous me croisez, vous finirez comme nourriture pour les chacals." />
     <string id="vNnMHR84" text="C'est tout à votre honneur {?PLAYER.GENDER}ma Dame{?}mon Seigneur{\?}. Je ne l'oublierai pas.[if:happy][rb:very_positive]" />
     <string id="VOExVZtX" text="Je suis désolé. Je n'apprécie pas les massacres, mais je ne peux pas vous laisser partir au combat un jour de plus." />
@@ -239,7 +239,7 @@
     <string id="YWOSDu1W" text="Assez ! J'ai choisi de vivre pour me battre un autre jour. Je suis sûr que vous respecterez les coutumes guerrières et que vous me permettrez de payer une rançon honnête.[rf:angry][rb:trivial]" />
     <string id="z1s1qOma" text="Je pense que je sais de quoi vous parlez. L'honneur ne me permet même pas de l'envisager." />
     <string id="z2yr4mc6" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.pclan}{CLAN_NAME}. Notre clan a servi le Khanat Khuzait depuis des générations." />
-    <string id="ZH04pkV6" text="roi des Sturgians" />
+    <string id="ZH04pkV6" text="roi des Sturgiens" />
     <string id="ZlA0uc8z" text="Je vous remercie à nouveau d'avoir assumé la tâche que je vous ai confiée." />
     <string id="zPbQs8Zt" text="Je peux vous offrir une mort glorieuse au combat, ou l'hospitalité de mes cachots.[ib:warrior][if:idle_angry]" />
     <string id="zwRbpQJ0" text="J'ai entendu parler de vous ! Dommage de nous rencontrer ainsi." />
