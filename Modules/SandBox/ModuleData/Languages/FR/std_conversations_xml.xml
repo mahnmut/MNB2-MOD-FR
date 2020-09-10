@@ -4,12 +4,12 @@
     <tag language="Français" />
   </tags>
   <strings>
-    <string id="5qoYjNVs" text="De quoi aimeriez-vous discuter mon ami{?PLAYER.GENDER}e{?}{\?} ?" />
+    <string id="5qoYjNVs" text="De quoi aimeriez-vous discuter mon ami{?PLAYER.GENDER}e{?}{\?}?" />
     <string id="A8VlEUMS" text="Bonjour {PLAYER.LINK}, ravi de vous voir." />
-    <string id="ah9SN1u0" text="Nous nous rendons !" />
-    <string id="EBKrcDnY" text="Non !" />
+    <string id="ah9SN1u0" text="Nous nous rendons!" />
+    <string id="EBKrcDnY" text="Non!" />
     <string id="jnJqjlnr" text="Je vais vous trancher la gorge." />
-    <string id="nZDF7yVq" text="Un dernier mot avant de mourir ?" />
+    <string id="nZDF7yVq" text="Un dernier mot avant de mourir?" />
     <string id="wTFjLsgq" text="D'accord." />
     <string id="xkKMT083" text="Vous allez mourir aujourd'hui." />
     <string id="yUPOktil" text="Vous ne me faites pas peur, je vais me battre." />

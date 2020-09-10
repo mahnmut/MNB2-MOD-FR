@@ -9,7 +9,7 @@
     <string id="05loYcST" text="Toucher le bouclier sur le dos" />
     <string id="05w8Tl7n" text="Steppes" />
     <string id="0cpbEvsG" text="Vieux visage" />
-    <string id="0DBQGaka" text="Dégâts infligés avec la lance couchée !" />
+    <string id="0DBQGaka" text="Dégâts infligés avec la lance couchée!" />
     <string id="0nRbr6Z9" text="Amérique du nord" />
     <string id="0P89VyAQ" text="Asymétrie visage" />
     <string id="0WHQKap4" text="Délai de sélection de l'équipement (en secondes)" />
@@ -78,7 +78,7 @@
     <string id="AbEh2y8o" text="Sauvegarder et quitter" />
     <string id="aDA9PWFT" text="Avancez" />
     <string id="aDabgVpn" text="Personnalisation du personnage" />
-    <string id="adyGICWc" text="Chambre bloquée !" />
+    <string id="adyGICWc" text="Chambre bloquée!" />
     <string id="AEcTBnkz" text="Changer de vêtement" />
     <string id="aGTgzoqW" text="Autoriser les votes pour expulser des joueurs" />
     <string id="ahiBhAqU" text="Armure" />
@@ -112,7 +112,7 @@
     <string id="c2tGH5II" text="Limite de temps d'échauffement (minutes)" />
     <string id="captainasgame" text="Capitaine" />
     <string id="cBZ6OlKW" text="Javelot" />
-    <string id="ccROnOY3" text="Dégâts reçus avec la lance couchée !" />
+    <string id="ccROnOY3" text="Dégâts reçus avec la lance couchée!" />
     <string id="CFI2aDtg" text="Armure de monture" />
     <string id="cJ5emwNF" text="Assistance" />
     <string id="CjPiabbn" text="Feu à volonté" />
@@ -201,7 +201,7 @@
     <string id="kVwwG63i" text="Permettre les votes pour changer la carte" />
     <string id="kW4c2liv" text="Utiliser le blocage dépendant de l'avancement de l'animation" />
     <string id="L0lGQWt5" text="Nombre de bots équipe 2" />
-    <string id="L3tY2kTE" text="Tir allié !" />
+    <string id="L3tY2kTE" text="Tir allié!" />
     <string id="L9xEQ5b2" text="Sélectionner l'élément à remplacer" />
     <string id="LaaA8U4W" text="Angle nez" />
     <string id="laIfauZH" text="Bosse oculaire" />
@@ -230,7 +230,7 @@
     <string id="NqarFr4P" text="Options" />
     <string id="nt5MOuwo" text="Dune" />
     <string id="nUR7rs6y" text="Passez directement à l'action dans cette version médiévale d'un mode de jeu JcJ classique. " />
-    <string id="nx5W7jN0" text="Dégâts d'arme d'hast renforcée reçus !" />
+    <string id="nx5W7jN0" text="Dégâts d'arme d'hast renforcée reçus!" />
     <string id="nXE6eV8W" text="Lac" />
     <string id="NxeQasMb" text="{SHORTCUT} Tirez" />
     <string id="o5Ead68n" text="Quitter sans sauvegarder" />
@@ -286,7 +286,7 @@
     <string id="rTPnyeJ3" text="Mur de boucliers" />
     <string id="Rvr1bcu8" text="Suivant" />
     <string id="Sbna6UGb" text="Visage d'enfant" />
-    <string id="sBU9vyF1" text="Coup à la tête !" />
+    <string id="sBU9vyF1" text="Coup à la tête!" />
     <string id="scoreboardkick" text="Expulser" />
     <string id="SdxEH6b1" text="Lèvre inférieure" />
     <string id="SfJgnzdq" text="Couper le son" />
@@ -391,7 +391,7 @@
     <string id="YoNYyLba" text="Lance" />
     <string id="yQtzabbe" text="Fermer" />
     <string id="YRabuUqx" text="Encerclement de Baravenos" />
-    <string id="YRymCbaa" text="A été broyé !" />
+    <string id="YRymCbaa" text="A été broyé!" />
     <string id="Yvjap05b" text="Vitesse de déplacement" />
     <string id="YvK6gI6q" text="Périphérie de la ville" />
     <string id="yyJejJbO" text="Forme menton" />
@@ -404,6 +404,6 @@
     <string id="zpNSyauI" text="Apparaissez avec de meilleures troupes en utilisant des deniers en fonction de vos victimes sur le champ de bataille." />
     <string id="ztGHtRNf" text="Tricherie" />
     <string id="ZYChhMrO" text="Égalité" />
-    <string id="ZZMbAjSU" text="Broyé !" />
+    <string id="ZZMbAjSU" text="Broyé!" />
   </strings>
 </base>

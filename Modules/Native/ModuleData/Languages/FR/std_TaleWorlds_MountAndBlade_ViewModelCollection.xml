@@ -8,7 +8,7 @@
     <string id="08KLQa3P" text="En attente des membres du groupe" />
     <string id="0af2iQvw" text="Le clan n'a pas d'annonces" />
     <string id="0B27RrYJ" text="Battania" />
-    <string id="1hnq3Kb1" text="Êtes-vous sûr de vouloir réinitialiser toutes les propriétés ? Vos modifications seront perdues." />
+    <string id="1hnq3Kb1" text="Êtes-vous sûr de vouloir réinitialiser toutes les propriétés? Vos modifications seront perdues." />
     <string id="1pwQgr04" text="Requête de matchmaking" />
     <string id="2Q6Mm9Jo" text="Options de la manette" />
     <string id="2YIVRuRa" text="Supprimer des amis" />
@@ -21,14 +21,14 @@
     <string id="4OGDnOVE" text="avec {OPPONENT_NAME}" />
     <string id="4ZE6i9nW" text="Quitter le clan" />
     <string id="5baU17n0" text="La fonctionnalité de recherche de groupe est actuellement désactivée" />
-    <string id="5coyTZOI" text="La partie commence !" />
+    <string id="5coyTZOI" text="La partie commence!" />
     <string id="5k4dxUEJ" text="Troupes" />
     <string id="5Pea977J" text="Faction : " />
     <string id="5UJJLzaL" text="Recherche de joueurs avec vos critères : " />
     <string id="5Z0pvuNL" text="Niveau {LEVEL}" />
     <string id="61isYVW0" text="Le joueur {USER_NAME} est introuvable" />
     <string id="65oGXBYQ" text="Créer" />
-    <string id="67hsZZor" text="Êtes-vous sûr de vouloir quitter votre clan ?" />
+    <string id="67hsZZor" text="Êtes-vous sûr de vouloir quitter votre clan?" />
     <string id="6GSXsdeX" text="Vitesse" />
     <string id="6MQaCah5" text="Rejoindre une partie" />
     <string id="6Pjb3Rya" text="Les sondages ne sont pas actifs" />
@@ -70,12 +70,12 @@
     <string id="bynNUfSr" text="Votre groupe n'a pas assez de membres pour créer un clan." />
     <string id="c0ZdKSkn" text="En attente" />
     <string id="C7OHivNl" text="Votre ami &lt;a style=&quot;Strong&quot;&gt;&lt;b&gt;{PLAYER_NAME}&lt;/b&gt;&lt;/a&gt; veut que vous invitiez le joueur ci-dessous dans votre groupe." />
-    <string id="cDzWYQrz" text="Rétablir les paramètres par défaut ?" />
+    <string id="cDzWYQrz" text="Rétablir les paramètres par défaut?" />
     <string id="chfTxqZg" text="Commande invalide." />
     <string id="cK5DE88I" text="N/A" />
     <string id="cLJdeUWz" text="Taille :" />
     <string id="clxT9H4T" text="Tapez votre nom" />
-    <string id="CW2JkWzC" text="Êtes-vous sûr de vouloir supprimer cette annonce ?" />
+    <string id="CW2JkWzC" text="Êtes-vous sûr de vouloir supprimer cette annonce?" />
     <string id="cw5QyeRU" text="Raison du signalement" />
     <string id="D0TbQm4r" text="CORROMPU" />
     <string id="d5SNB0HV" text="Choisir {ITEM_NAME}" />
@@ -91,7 +91,7 @@
     <string id="dxlkHhw5" text="Parties gagnées" />
     <string id="ECb8IPbA" text="Créer un clan" />
     <string id="eCOJSSUH" text="({BOT_COUNT} Bots)" />
-    <string id="eGuQKRhb" text="Vous quittez la zone !" />
+    <string id="eGuQKRhb" text="Vous quittez la zone!" />
     <string id="empirefaction" text="Empire" />
     <string id="enhza8zr" text="Faction" />
     <string id="Etjqamlh" text="{PLAYER_COUNT} Joueurs" />
@@ -122,7 +122,7 @@
     <string id="H1emUb6k" text="Âge :" />
     <string id="hazebV8x" text="Personnaliser le personnage" />
     <string id="hbwp3g3k" text="+{FRIEND_COUNT}{newline}{?PLURAL}amis{?}ami{\?}" />
-    <string id="hiKTvBgF" text="Voulez-vous vraiment réinitialiser les modifications effectuées dans cet onglet ? Vos modifications seront perdues." />
+    <string id="hiKTvBgF" text="Voulez-vous vraiment réinitialiser les modifications effectuées dans cet onglet? Vos modifications seront perdues." />
     <string id="hometab" text="Accueil" />
     <string id="Hp2wp3et" text="Accepter (F1)" />
     <string id="hPbppi6E" text="Pas dans le lobby" />
@@ -157,11 +157,11 @@
     <string id="koX9okuG" text="Aucun" />
     <string id="l2CNxPXG" text="Type de dents" />
     <string id="L3DJHTdY" text="Saisir l'ID Bannerlord" />
-    <string id="L6eaNe2q" text="Êtes-vous sûr de vouloir expulser ce membre du clan ?" />
+    <string id="L6eaNe2q" text="Êtes-vous sûr de vouloir expulser ce membre du clan?" />
     <string id="lBn2pSBL" text="Membres" />
     <string id="lGbrWyEe" text="Annuler la demande d'ami" />
     <string id="LI0v8Zrr" text="Votre ID Bannerlord est" />
-    <string id="LlrlE199" text="Vous pouvez encore déployer des engins de siège.{newline}On commence quand même ?" />
+    <string id="LlrlE199" text="Vous pouvez encore déployer des engins de siège.{newline}On commence quand même?" />
     <string id="lO1hok44" text="Le nom contient des caractères non valides" />
     <string id="LrE2cUnG" text="Actuellement désactivé" />
     <string id="lugGPVOb" text="Se connecter" />
@@ -206,7 +206,7 @@
     <string id="q37arODj" text="Ajouter des amis avec l'ID Bannerlord" />
     <string id="Q50X65NB" text="Classes" />
     <string id="q7VcSSbp" text="Choisir le sigle" />
-    <string id="qa9aOxLm" text="Voulez-vous rejoindre ce clan ?" />
+    <string id="qa9aOxLm" text="Voulez-vous rejoindre ce clan?" />
     <string id="qaycA9YY" text="Total des éloges :" />
     <string id="QDNcl3DH" text="Invitation à un groupe" />
     <string id="qe46yXVJ" text="FERMÉ POUR ÉQUILIBRAGE" />
@@ -260,10 +260,10 @@
     <string id="V305MaOP" text="En ligne" />
     <string id="v4hVLpap" text="Inviter les joueurs dans le clan" />
     <string id="v6J8ILV3" text="Sans mot de passe" />
-    <string id="VFqoa6vD" text="Voulez-vous inviter ce joueur dans votre groupe ?" />
+    <string id="VFqoa6vD" text="Voulez-vous inviter ce joueur dans votre groupe?" />
     <string id="vGF5S2hE" text="Classement" />
     <string id="VOTau449" text="Verrouillé" />
-    <string id="vW1VgmaP" text="Vous êtes sûr de vouloir dissoudre votre clan ?" />
+    <string id="vW1VgmaP" text="Vous êtes sûr de vouloir dissoudre votre clan?" />
     <string id="vZTWMqUp" text="Seuls les chefs de groupe peuvent prendre des mesures contre les autres membres du groupe" />
     <string id="w2yV4Wib" text="Vote rejeté" />
     <string id="W4DLzPSb" text="Serveur incomplet" />
@@ -280,9 +280,9 @@
     <string id="wwr4V1jm" text="Sélectionner un joueur à bannir" />
     <string id="xebFLnH2" text="Audio" />
     <string id="XJTX8w8M" text="Round d'Échauffement - {GAME_MODE}{newline}En attente de connexion des joueurs" />
-    <string id="xkV9g4le" text="Les acceptez-vous comme adversaires ?" />
+    <string id="xkV9g4le" text="Les acceptez-vous comme adversaires?" />
     <string id="XLHkPwbb" text="Sélectionner une carte de jeu" />
-    <string id="xTv4tCbZ" text="Tout le monde ! Écoutez-moi" />
+    <string id="xTv4tCbZ" text="Tout le monde! Écoutez-moi" />
     <string id="xXSFaGW8" text="Démanteler" />
     <string id="Y94H6XnK" text="Valider" />
     <string id="yA45PqFc" text="TROUVER UNE PARTIE" />
@@ -293,7 +293,7 @@
     <string id="yQtzabbe" text="Fermer" />
     <string id="yS7PvrTD" text="OK" />
     <string id="yUpH2mQ4" text="Munitions" />
-    <string id="Z0TW2cub" text="Êtes-vous sûr de vouloir promouvoir ce membre en tant que chef du clan ? Vous en perdrez le commandement." />
+    <string id="Z0TW2cub" text="Êtes-vous sûr de vouloir promouvoir ce membre en tant que chef du clan? Vous en perdrez le commandement." />
     <string id="ZAejS7WF" text="Sélectionnez les joueurs à inviter dans votre clan" />
     <string id="zBld61ck" text="Poids :" />
     <string id="zEMWM4h3" text="Déjà dans un clan" />

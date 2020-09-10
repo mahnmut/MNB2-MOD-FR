@@ -20,7 +20,7 @@
     <string id="541adTbO" text="Vous devez être dans le lobby pour détruire un clan." />
     <string id="57dvnv3v" text="Joueur retiré du clan." />
     <string id="5f2XMbJp" text="Vous devez être dans le lobby pour expulser quelqu'un de votre clan." />
-    <string id="5kgkZo2o" text="Le joueur que vous avez essayé d'expulser n'est pas dans votre groupe !" />
+    <string id="5kgkZo2o" text="Le joueur que vous avez essayé d'expulser n'est pas dans votre groupe!" />
     <string id="6cMSAe2Z" text="Impossible de signaler le joueur. Joueur introuvable." />
     <string id="8O8XqtqZ" text="Vous devez être au lobby pour supprimer les annonces de clan." />
     <string id="91cJB1tP" text="Le joueur {INVITEDPLAYER} est déjà dans le groupe." />
@@ -29,7 +29,7 @@
     <string id="a8AxTVro" text="Vous devez être le chef de clan pour changer de sigle." />
     <string id="AAnoAhox" text="Impossible de changer le mode de jeu sélectionné" />
     <string id="aFQa3pQt" text="Vous devez être dans le lobby pour promouvoir un autre joueur au poste de chef de parti." />
-    <string id="ah4Pm8wU" text="Vous devez être dans le lobby pour dissoudre votre groupe !" />
+    <string id="ah4Pm8wU" text="Vous devez être dans le lobby pour dissoudre votre groupe!" />
     <string id="AIgw3aFG" text="Impossible de se mettre en file d'attente pour la bataille car certains joueurs sont bloqués pour la recherche de groupe." />
     <string id="Ajw0d4dW" text="Mot de passe incorrect." />
     <string id="b72mIrOl" text="Il faut être dans un groupe pour créer un clan." />
@@ -39,7 +39,7 @@
     <string id="bFwUxUJm" text="Seul le chef du clan peut modifier les annonces." />
     <string id="bivF3RXY" text="Vous ne pouvez pas changer le chef du groupe lorsque vous êtes en train de créer un clan." />
     <string id="bMLqfPRv" text="Vous n'êtes pas dans un clan." />
-    <string id="BwBR7TJB" text="Il n'y a plus personne dans votre groupe et il a été dissous !" />
+    <string id="BwBR7TJB" text="Il n'y a plus personne dans votre groupe et il a été dissous!" />
     <string id="BYv1Laa4" text="Vous devez être dans un clan pour ajouter une annonce. Evidemment." />
     <string id="ca5nyktO" text="Mais vous n'êtes pas dans un clan." />
     <string id="caMylVF7" text="Impossible de faire la queue pour se battre car aucun type de jeu activé n'est sélectionné." />
@@ -52,7 +52,7 @@
     <string id="Dmz3JLyp" text="Joueur invité au clan." />
     <string id="E2ILp86t" text="On ne peut pas faire la queue pour se battre car la région n'est pas disponible." />
     <string id="e9LrrgAH" text="L'annonce n'existe pas." />
-    <string id="efpifbtd" text="Vous devez être dans le lobby pour inviter quelqu'un dans votre groupe !" />
+    <string id="efpifbtd" text="Vous devez être dans le lobby pour inviter quelqu'un dans votre groupe!" />
     <string id="emx7txM9" text="La promotion des membres ne peut être effectuée que par le chef du groupe." />
     <string id="f4iavKkb" text="Vous êtes muet jusqu'à {MUTEDUNTIL}, raison: {MUTEREASON}" />
     <string id="fD2SyeA7" text="Vous ne pouvez pas vous inviter dans le groupe." />
@@ -75,7 +75,7 @@
     <string id="jbpKfRl8" text="Vous devez être le chef du clan pour ajouter une annonce." />
     <string id="JgdLtL2O" text="Le joueur invité est déjà dans un clan." />
     <string id="jl8MYbLR" text="Votre demande d'ami est transmise à {PLAYER}." />
-    <string id="jP2hUg7H" text="Vous n'êtes pas dans un groupe !" />
+    <string id="jP2hUg7H" text="Vous n'êtes pas dans un groupe!" />
     <string id="K0mSh8Hw" text="Votre groupe n'a pas assez de joueurs pour créer un clan." />
     <string id="KCtYUaag" text="Vous avez déjà envoyé une demande" />
     <string id="kGkBHfpR" text="Joueur déjà invité dans un autre clan." />
@@ -87,7 +87,7 @@
     <string id="LjwYbHFL" text="Vous devez être le chef du clan pour promouvoir quelqu'un." />
     <string id="lVWJRrvx" text="Création de partie pré-faite annulée par {PLAYERNAME}" />
     <string id="M8x38ZZZ" text="Le joueur n'est pas dans votre clan." />
-    <string id="mcAG0eHJ" text="Vous devez être au lobby pour pouvoir expulser quelqu'un de votre groupe ![Temporary]" />
+    <string id="mcAG0eHJ" text="Vous devez être au lobby pour pouvoir expulser quelqu'un de votre groupe![Temporary]" />
     <string id="mdH4S8Kx" text="Vous devez être dans un groupe pour proposer quelqu'un à votre groupe." />
     <string id="MepGBJMQ" text="Le joueur que vous voulez promouvoir ne peut pas être trouvé" />
     <string id="MowSn4ch" text="Partie non trouvée." />
@@ -107,7 +107,7 @@
     <string id="p5K0ATtZ" text="Votre ancienne session n'a pas pu être détruite." />
     <string id="pehfmZvM" text="Le joueur {PLAYERNAME} a été promu chef de groupe." />
     <string id="pKNTLYQP" text="Le texte ne peut pas être plus long que {MAX_LENGTH} caractères." />
-    <string id="Pn13ZKwI" text="Votre groupe a été dissous !" />
+    <string id="Pn13ZKwI" text="Votre groupe a été dissous!" />
     <string id="QHnxKHkV" text="Vous n'êtes pas dans un groupe." />
     <string id="qoto9N7y" text="Ami introuvable " />
     <string id="rfaIXasP" text="Le sigle du clan a été modifié avec succès." />
@@ -134,7 +134,7 @@
     <string id="VDDm5bqb" text="Vous ne pouvez inviter à participer que les joueurs avec l'anti-triche." />
     <string id="voOrIr0b" text="{PLAYERNAME} a accepté l'invitation du clan." />
     <string id="vVAzWAGc" text="Vous devez être le chef du clan pour détruire un clan." />
-    <string id="w8WiqZT3" text="Vous devez exécuter le jeu avec l'anti-triche pour rejoindre ou créer un groupe !" />
+    <string id="w8WiqZT3" text="Vous devez exécuter le jeu avec l'anti-triche pour rejoindre ou créer un groupe!" />
     <string id="wNubP2BF" text="Seul le chef du groupe peuvent lancer la file d'attente pour les jeux." />
     <string id="WppypzjS" text="Vous devez être dans le lobby pour changer de faction de clan." />
     <string id="Xb6TEi3o" text="Vous avez refusé la demande d'ami " />

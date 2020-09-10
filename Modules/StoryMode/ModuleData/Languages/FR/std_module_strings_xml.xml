@@ -11,7 +11,7 @@
     <string id="4IZnbvlD" text="Baudein" />
     <string id="4kBdT24F" text="Nathanos" />
     <string id="5bYwdRFs" text="À l'épée" />
-    <string id="5M48atXU" text="Vous avez une quête active ! Vous pouvez en savoir plus en cliquant sur le journal des quêtes en bas à gauche de votre écran." />
+    <string id="5M48atXU" text="Vous avez une quête active! Vous pouvez en savoir plus en cliquant sur le journal des quêtes en bas à gauche de votre écran." />
     <string id="776J8Fng" text="Baldimos" />
     <string id="7xHMIZEP" text="Cible d'entraînement" />
     <string id="8UUV94Lq" text="Entraînement à distance" />
@@ -42,7 +42,7 @@
     <string id="GjGF4xbn" text="Au bouclier" />
     <string id="gUvxp8mf" text="À l'arc" />
     <string id="IcBq2jSZ" text="Aitheen" />
-    <string id="Il7C9LQG" text="Vous pouvez déplacer votre personnage:{newline}- Vers l'avant avec [Z]{newline}- Vers l'arrière avec[S]{newline}- vers la gauche avec [Q]{newline}- Vers la droite avec [D]{newline}{newline} Essayez donc tout cela !" />
+    <string id="Il7C9LQG" text="Vous pouvez déplacer votre personnage:{newline}- Vers l'avant avec [Z]{newline}- Vers l'arrière avec[S]{newline}- vers la gauche avec [Q]{newline}- Vers la droite avec [D]{newline}{newline} Essayez donc tout cela!" />
     <string id="JDtbzwB0" text="Nusun" />
     <string id="jLWPSiOR" text="Parler au chef du village" />
     <string id="jWvle1tC" text="Terminez le parcours en touchant autant de cibles que possible ({HIT} / {ALL})" />
@@ -62,7 +62,7 @@
     <string id="MUEaqlix" text="Battez l'entraîneur vétéran" />
     <string id="NWxC3CbS" text="Fodor" />
     <string id="OA9bQ8QJ" text="Alea" />
-    <string id="odbkXZkz" text="Pour déplacer votre groupe, il suffit de cliquer sur la carte. Cela laissera une marque à l'endroit désigné - sauf si vous avez cliqué sur des zones inaccessibles telles que les montagnes ou la mer.{newline}{newline}Partons en direction {.de} {TUTORIAL_SETTLEMENT_NAME} !" />
+    <string id="odbkXZkz" text="Pour déplacer votre groupe, il suffit de cliquer sur la carte. Cela laissera une marque à l'endroit désigné - sauf si vous avez cliqué sur des zones inaccessibles telles que les montagnes ou la mer.{newline}{newline}Partons en direction {.de} {TUTORIAL_SETTLEMENT_NAME}!" />
     <string id="OFNEE8Xr" text="Vous pouvez dire à vos hommes de charger en ouvrant les ordres de déplacement avec &quot;F1&quot; et en choisissant la charge avec &quot;F3&quot;." />
     <string id="oj7B1GOT" text="Entrer dans un fief" />
     <string id="OJmYUcaU" text="À l'épée" />

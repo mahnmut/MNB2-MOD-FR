@@ -22,13 +22,13 @@
     <string id="305cf7f98458b22e9af72b60a131714f" text="Armure du cheval : " />
     <string id="345a87fcc69f626ae3916939ef2fc135" text="Vitesse de taille : " />
     <string id="3CpNUnVl" text="Annuler" />
-    <string id="3F0y3ugx" text="Succès !" />
+    <string id="3F0y3ugx" text="Succès!" />
     <string id="3PzgpFGq" text="Neutre" />
     <string id="3sxtCWPe" text="Quitter le Royaume" />
     <string id="43HYUImy" text="Le siège {.de}{SETTLEMENT}" />
     <string id="4cU98rkg" text="Fonderie" />
     <string id="4Dd2xgPm" text="Poids" />
-    <string id="4U9EnZt5" text="Réussite critique !" />
+    <string id="4U9EnZt5" text="Réussite critique!" />
     <string id="4uMWNDoi" text="Vitesse d'estoc" />
     <string id="5bzk75Ql" text="Engage le combat contre {.le}{TARGET_PARTY}." />
     <string id="5dCR9ixM" text="Vous pouvez vendre cet atelier pour {AMOUNT} deniers." />
@@ -62,11 +62,11 @@
     <string id="armorTier" text="Niveau d'armure : " />
     <string id="aROohsat" text="Déjà dans une autre armée." />
     <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}" />
-    <string id="AxRxT2Xj" text="Une fois qu'un groupe est dissous, il rejoint le groupe d'un clan proche ou se rend dans un fief de la faction la plus proche et intègre sa garnison.{newline}Vous ne pourrez pas annuler / arrêter cette action.{newline}Êtes-vous sûr ?" />
+    <string id="AxRxT2Xj" text="Une fois qu'un groupe est dissous, il rejoint le groupe d'un clan proche ou se rend dans un fief de la faction la plus proche et intègre sa garnison.{newline}Vous ne pourrez pas annuler / arrêter cette action.{newline}Êtes-vous sûr?" />
     <string id="bAqDnkaT" text="Vitesse du projectile" />
     <string id="bd7oAQq6" text="Quotidien" />
     <string id="bfQLwMUp" text="Clans" />
-    <string id="BgqZWbga" text="Les nobles de ce royaume ne vont pas apprécier si vous renoncer à votre allégeance. Êtes-vous sûr de vouloir quitter le royaume ?" />
+    <string id="BgqZWbga" text="Les nobles de ce royaume ne vont pas apprécier si vous renoncer à votre allégeance. Êtes-vous sûr de vouloir quitter le royaume?" />
     <string id="BifGz0h4" text="En patrouille" />
     <string id="bnrRzeiF" text="Inactif" />
     <string id="bPFjmYCI" text="{SHOP_NAME} x {SHOP_DIFFERENCE_COUNT}" />
@@ -121,7 +121,7 @@
     <string id="G6cCjixe" text="{COMPLETION_PERCENT} (Environ {DAYS} jour(s) pour compléter)" />
     <string id="g9VIbA9s" text="Sergent" />
     <string id="GCaYjA5W" text="Vous devez être le chef du clan pour changer son nom." />
-    <string id="gduqxfck" text="Vous n'avez pas tous les matériaux requis !" />
+    <string id="gduqxfck" text="Vous n'avez pas tous les matériaux requis!" />
     <string id="ggpRTQQl" text="Chef du groupe" />
     <string id="gsVtO9A7" text="Miliciens" />
     <string id="HAaElX8X" text="{PARTY_OWNERS_FACTION}" />
@@ -159,13 +159,13 @@
     <string id="JTxI3sW2" text="En attente {.de}{TARGET_SETTLEMENT}" />
     <string id="jxypVgl2" text="Changements dans les relations" />
     <string id="Jyfkahka" text="{VALUE} ({?POSITIVE}+{?}{\?}{DELTA_VALUE})" />
-    <string id="JYOcl7Ox" text="Inefficace !" />
+    <string id="JYOcl7Ox" text="Inefficace!" />
     <string id="JzrodcIR" text="Il n'y a personne dans votre clan qui puisse gouverner ce fief pour le moment." />
     <string id="k1E9DuKi" text="Tout sélectionner" />
     <string id="kftE5nvv" text="Barde" />
     <string id="knwId8DG" text="Vous ne pouvez pas assigner un prisonnier en tant que Gouverneur d'un fief" />
     <string id="koX9okuG" text="Aucun" />
-    <string id="kqeA8rjL" text="Êtes-vous sûr de vouloir dissoudre votre armée ?" />
+    <string id="kqeA8rjL" text="Êtes-vous sûr de vouloir dissoudre votre armée?" />
     <string id="kQsXUvgO" text="Vous n'êtes pas vassalisé." />
     <string id="KTKBKmvp" text="Facteur de dégâts d'estoc " />
     <string id="KTTyBbsp" text="PV Max" />
@@ -198,7 +198,7 @@
     <string id="nYYUQQm0" text="Facteur de dégâts de taille " />
     <string id="O3dhjtOS" text="Armure de tête" />
     <string id="oBbiVeKE" text="Points de vie" />
-    <string id="ocSW4WA2" text="Échec critique !" />
+    <string id="ocSW4WA2" text="Échec critique!" />
     <string id="OhNYkblK" text="Ce héros vient de s'échapper de ses ravisseurs et sera disponible après un certain temps." />
     <string id="oibdTnXP" text="Maniabilité" />
     <string id="OIeXNTEn" text="L'atelier ne peut pas être amélioré." />
@@ -234,7 +234,7 @@
     <string id="QlbkxoSp" text=" {TOOLTIP_TROOPS} ({PARTY_SIZE})" />
     <string id="qRqnrtdX" text="Propriétaire" />
     <string id="qSi4DlT4" text="Nourriture" />
-    <string id="QSPrSsHv" text="Pas de selle !" />
+    <string id="QSPrSsHv" text="Pas de selle!" />
     <string id="QXBf26Rv" text="Comportement inconnu" />
     <string id="QyVbwGLp" text="{PARTY_SIZE}" />
     <string id="qZvNIVGV" text="Il n'y a personne dans votre clan qui puisse diriger un groupe pour le moment." />
@@ -309,7 +309,7 @@
     <string id="Xmw93W6a" text="Pas assez d'influence" />
     <string id="XseYJYka" text="Gérer" />
     <string id="XSQ0Y9gy" text="Vous devez faire partie d'un royaume pour créer une armée." />
-    <string id="xtlIFKaa" text="Êtes-vous sûr de vouloir quitter le Royaume ?{newline}Si oui, choisissez comment vous souhaitez le quitter." />
+    <string id="xtlIFKaa" text="Êtes-vous sûr de vouloir quitter le Royaume?{newline}Si oui, choisissez comment vous souhaitez le quitter." />
     <string id="xtt9Oxer" text="Productivité" />
     <string id="XUtiwiYP" text="Longueur : " />
     <string id="xwRWjlar" text="Couleur d'arrière-plan :" />

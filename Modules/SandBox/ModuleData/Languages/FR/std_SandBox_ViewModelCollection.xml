@@ -12,7 +12,7 @@
     <string id="9NuttOBC" text="Charger" />
     <string id="aeouhelq" text="Oui" />
     <string id="Ahy035gM" text="Coût de construction" />
-    <string id="azJulvrp" text="{?IS_BETTING}Vous allez perdre {BET_AMOUNT}{GOLD_ICON} si vous abandonner.{newline}{?}{\?}Voulez-vous vraiment abandonner ?" />
+    <string id="azJulvrp" text="{?IS_BETTING}Vous allez perdre {BET_AMOUNT}{GOLD_ICON} si vous abandonner.{newline}{?}{\?}Voulez-vous vraiment abandonner?" />
     <string id="bV75iwKa" text="Sauvegarder" />
     <string id="CiIWjF3f" text="+{PRISONERAMOUNT}p" />
     <string id="deleteaction" text="Supprimer" />
@@ -20,16 +20,16 @@
     <string id="eL8nhkhQ" text="Créer une nouvelle sauvegarde" />
     <string id="eTw2aNV5" text="+" />
     <string id="GZWPHmAw" text="Jours : {DAY}" />
-    <string id="HH2mZq8J" text="Êtes-vous sûr de vouloir supprimer cette sauvegarde ?" />
+    <string id="HH2mZq8J" text="Êtes-vous sûr de vouloir supprimer cette sauvegarde?" />
     <string id="hiCxFj4E" text="Campagnes sauvegardées" />
-    <string id="hYL3CFHX" text="Voulez-vous écraser cette partie sauvegardée ?" />
+    <string id="hYL3CFHX" text="Voulez-vous écraser cette partie sauvegardée?" />
     <string id="IwhpeT8C" text="Niveau : {PLAYER_LEVEL}" />
     <string id="IXwOaa98" text="Taille du groupe" />
     <string id="JAFIo7cM" text=":" />
     <string id="kJtNMYum" text="Incompatibilité des modules" />
     <string id="L9GnQvsq" text="Enjeu : {BETTED_DENARS}" />
     <string id="LBNzsqyb" text="Fiefs" />
-    <string id="lh0so0uX" text="Voulez-vous charger la partie sauvegardée avec différents modules ?" />
+    <string id="lh0so0uX" text="Voulez-vous charger la partie sauvegardée avec différents modules?" />
     <string id="lPMYSSAa" text="Outils nécessaires" />
     <string id="mDFhzEMC" text="Points de vie maximum" />
     <string id="nvemmBZz" text="Vous avez gagné {AMOUNT}% du butin et des prisonniers" />

@@ -5,7 +5,7 @@
   </tags>
   <strings>
     <string id="2ZarUUbw" text="{KILLERPLAYERNAME} a tué {KILLEDPLAYERNAME}!" />
-    <string id="9CnRKZOb" text="{KILLEDPLAYERNAME} est mort !" />
+    <string id="9CnRKZOb" text="{KILLEDPLAYERNAME} est mort!" />
     <string id="NqarFr4P" text="Options" />
     <string id="ODQmOrIw" text="Crédits" />
     <string id="xsC8Ierj" text="({BATTLE_COMBATANT})" />
