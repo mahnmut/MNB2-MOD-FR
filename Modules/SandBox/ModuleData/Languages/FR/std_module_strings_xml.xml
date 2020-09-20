@@ -15,7 +15,7 @@
     <string id="cUHlzCRx" text="Activer la mort au combat" />
     <string id="D9GkBqyW" text="Vous pouvez quitter le camp d'entraînement en maintenant [{LEAVE_KEY}]{newline}Vous pouvez y revenir à tout moment depuis la carte de campagne." />
     <string id="DFMhzFGV" text="Le fait de garder un certain nombre de chevaux dans votre inventaire peut accélérer considérablement votre groupe, car ils augmenteront votre capacité de charge et les fantassins monteront les chevaux de réserve. Les chevaux de bât et les mules ne sont cependant utiles que pour le transport de marchandises." />
-    <string id="EGwqzjpa" text="Vous pouvez maintenir la touche tab enfoncée pour quitter la zone en cours." />
+    <string id="EGwqzjpa" text="Vous pouvez maintenir la touche tab enfoncée pour quitter la zone actuelle." />
     <string id="F8TaKnjh" text="Lorsque vous êtes dans une ville ou un village, maintenir la touche Alt enfoncée permet de voir des marqueurs sur les personnes et les points d'intérêt importants." />
     <string id="fbaQp3ox" text="Active l'attribution automatique des compétences aux membres de votre clan." />
     <string id="hEYfasE1" text="Taux de dégâts reçus par votre personnage." />

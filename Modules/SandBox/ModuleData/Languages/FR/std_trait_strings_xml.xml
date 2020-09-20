@@ -9,7 +9,7 @@
     <string id="2oLzxPGu" text="{?LORD.GENDER}agressive et exigeante{?}agressif et exigeant{\?}" />
     <string id="3ojhI49j" text="{?LORD.GENDER}glaciale{?}glacial{\?}" />
     <string id="4Kb43rdf" text="{?LORD.GENDER}loyale{?}loyal{\?}" />
-    <string id="52I465OW" text="ambitieux et manipulateur" />
+    <string id="52I465OW" text="{?LORD.GENDER}ambitieuse et manipulatrice{?}ambitieux et manipulateur{\?}" />
     <string id="5L4ox55u" text="Toujours {?NOTABLE.GENDER}la première{?}le premier{\?} à risquer sa tête pour la cause." />
     <string id="5ogR7oUW" text="{?LORD.GENDER}noble et généreuse{?}noble et généreux{\?}" />
     <string id="6okDQlyn" text="{?LORD.GENDER}prudente{?}prudent{\?}" />
@@ -58,7 +58,7 @@
     <string id="OuXZbyeS" text="attentif, bienveillant et généreux envers ceux qui lui sont loyal" />
     <string id="OwOdbwc5" text="Fonce parfois sans réfléchir." />
     <string id="peI78GmJ" text="Je ne sais pas quoi penser de celui la..." />
-    <string id="ppTLY8tm" text="juste et honnête, mais ingrat" />
+    <string id="ppTLY8tm" text="juste et honnête, mais {?LORD.GENDER}ingrate{?}ingrat{\?}" />
     <string id="PW3Ya1AQ" text="acariâtre" />
     <string id="Q3TaYO39" text="le genre qui s'efforce d'être juste et équitable" />
     <string id="QtcN7aEk" text="{?LORD.GENDER}audacieuse et ambitieuse{?}audacieux et ambitieux{\?}" />

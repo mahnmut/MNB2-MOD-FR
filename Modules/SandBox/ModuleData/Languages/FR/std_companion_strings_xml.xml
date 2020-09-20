@@ -53,7 +53,7 @@
     <string id="Auq79Hap" text="C'est un proverbe issu de mon peuple, mais c'est aussi la vérité. Le monde serait meilleur si les hommes pouvaient voyager à loisir, transmettant sagesse et richesses d'une terre à l'autre." />
     <string id="awCIaqxG" text="Hey l'ami{?PLAYER.GENDER}e{?}{\?}, viens-tu boire une p'tite bolée?" />
     <string id="AXy281gD" text="Quelle sorte de malédiction?" />
-    <string id="BIXQz5yS" text="Si c'est votre dernière « dernière demande » je suppose que je peux. Voici {NPCPAYMENT}{GOLD_ICON}." />
+    <string id="BIXQz5yS" text="Si c'est votre dernière &quot;dernière demande&quot; je suppose que je peux. Voici {NPCPAYMENT}{GOLD_ICON}." />
     <string id="bKFWqaxQ" text="Je ne suis pas sûr de pouvoir vous payer comme il l'a fait..." />
     <string id="blY5YhSL" text="Très bien, cela pourrait être utile. Je peux vous offrir une place dans mon groupe." />
     <string id="bmdw47FV" text=" Chaque cadavre rapportait de l'argent à mon maître. Je n'ai nul remord, c'était tuer ou être tué, et j'ai failli y passer. Vous avez quelque chose à y redire?" />
@@ -99,13 +99,13 @@
     <string id="gI4xkaaR" text="Je reconnais que c'est une notion un peu hérétique pour le sacerdoce impérial, mais j'ai été élevé comme un hérétique. Peut-être avez-vous entendu parler des Braises de la Flamme? Eh bien, je suis né dans la lignée d'un Parfait, à l'époque où les braises brûlaient et où nous errions dans la campagne en prêchant la foi et la rébellion." />
     <string id="gkOfyxfd" text="Peut-être plus tard." />
     <string id="gMXTUU1O" text="Je peux vous trouver une place dans ma troupe." />
-    <string id="gQa9XZfG" text="Je peux vous en apprendre beaucoup sur les ancêtres des seigneurs et chefs de clan de Calradia, qu'ils soient civilisés ou barbares. Ce genre de connaissances, telles que les noms de leurs dynasties et si leur aïeul était surnommé « Barbe-Rouge », « Brise-les-Os » ou « l'Ecorcheur » fait bonne impression, lors d'une première rencontre avec un noble." />
+    <string id="gQa9XZfG" text="Je peux vous en apprendre beaucoup sur les ancêtres des seigneurs et chefs de clan de Calradia, qu'ils soient civilisés ou barbares. Ce genre de connaissances, telles que les noms de leurs dynasties et si leur aïeul était surnommé &quot;Barbe-Rouge&quot;, &quot;Brise-les-Os&quot; ou &quot;l'Ecorcheur&quot; fait bonne impression, lors d'une première rencontre avec un noble." />
     <string id="Gyslal3Y" text="Splendide! Ah, mais avant que je ne m'engage... Certaines des filles qui travaillent dans cette taverne... Eh bien, au cas où j'en aurais laissé une ou deux avec un bâtard, je devrais leur laisser un peu d'argent avant de partir. {NPCPAYMENT}{GOLD_ICON} devrait couvrir ça. Pouvez-vous m'avancer cela? " />
     <string id="gzs2h4eS" text="Ils ont trouvé ça très drôle. Mais ils n'ont pas tellement ri quand j'ai tabassé le palefrenier et volé leur meilleur étalon. J'en ai conclu que ceux qui possèdent les plus beaux chevaux sont ceux qui méritent le plus d'en être séparés. " />
     <string id="H1BjisqL" text="Bien. Je suis d'accord là-dessus." />
     <string id="H4fGpzOV" text="C'est fascinant, mais je suis un peu pressé par le temps. Passez une bonne journée." />
     <string id="h4QlH7wG" text="Si je le faisais, je serais enclin à rechercher les services de quelqu'un de moins colérique." />
-    <string id="h4rt3qUq" text="Ils m'ont demandé d'ériger un trébuchet à contrepoids sur l'une des tours. « Contrepoids », cela signifie que pour que le bras lanceur monte, quelque chose d'autre doit descendre, d'accord? Donc si vous êtes debout autour du trébuchet, vous devez faire attention à l'endroit où vous vous tenez quand je tire la longe, c'est compris?" />
+    <string id="h4rt3qUq" text="Ils m'ont demandé d'ériger un trébuchet à contrepoids sur l'une des tours. &quot;Contrepoids&quot;, cela signifie que pour que le bras lanceur monte, quelque chose d'autre doit descendre, d'accord? Donc si vous êtes debout autour du trébuchet, vous devez faire attention à l'endroit où vous vous tenez quand je tire la longe, c'est compris?" />
     <string id="H7Y4lTjl" text="Je crois que j'ai entendu parler de cette coutume. Les Battaniens ne disent-ils pas qu'elle leur enseigne les chemins de la forêt?" />
     <string id="hcMJen3F" text="Non, je ne pense pas que ce soit le cas. Alors, qui êtes-vous?" />
     <string id="Ho8MFOOi" text=" Je ferai en sorte que vos hommes craignent mon mépris plus qu'ils ne craignent les lances de l'ennemi." />
@@ -139,7 +139,7 @@
     <string id="kn76Y4yi" text="Je n'ai pas d'assiettes en or à vous offrir. Je doute que vous duriez longtemps avec nous. Bonne journée à vous." />
     <string id="KoetJ3P0" text="J'avoue que je trouve les barbares particulièrement intéressants, car ils ont beaucoup de vertus que nous dans l'Empire avons perdues - une certaine honnêteté d'esprit, je devrais dire, pas notre ragoût épais d'intrigues civilisées." />
     <string id="kpD07Ib2" text="Il n'y a qu'une seule chose que je veux entendre de la par de quiconque en ce moment : que les nouvelles que j'ai entendues sont fausses. Que l'entrepôt du Makeb où j'ai stocké mon poivre n'a pas pris feu et que je n'ai pas perdu ma fortune." />
-    <string id="KU1nXWTK" text="La plaine de gravier brûlante me connaît, tout comme les sables ondulants et le canyon ombragé. J'ai affronté la tempête de sable, l'inondation, la chaleur torride de midi, et tous m'ont dit : « Passe en sécurité, mon frère »." />
+    <string id="KU1nXWTK" text="La plaine de gravier brûlante me connaît, tout comme les sables ondulants et le canyon ombragé. J'ai affronté la tempête de sable, l'inondation, la chaleur torride de midi, et tous m'ont dit : &quot;Passe en sécurité, mon frère&quot;." />
     <string id="KUKuUJaL" text="Vous essayez trop de vous vendre. Je suppose que je vais devoir dire non." />
     <string id="KYPP1pKE" text="C'est formidable! C'est très généreux. Mais j'espère que vous me pardonnerez si, compte tenu des dures leçons que j'ai apprises dans le passé, je vous demande une petite avance ; {NPCPAYMENT}{GOLD_ICON}, si vous le voulez bien." />
     <string id="LcihqCpu" text="Je m'excuse, mais cela ne m'intéresse pas." />
@@ -151,7 +151,7 @@
     <string id="MigoHjvo" text="Notre propre monde et l'Au-Delà sont l'ombre de l'un pour l'autre, voyez-vous. Chaque fois que je vois les esprits, ils me disent de suivre quelqu'un - une caravane, un groupe de pillards, une bande de mercenaires. Je me joins à ce groupe, et ils me conduisent à un autre. C'est ainsi que j'ai traversé Calradia et que je la traverserai à nouveau. En ce moment, ils me disent de vous suivre." />
     <string id="mjiaqseL" text="J'ai entendu dire que la malchance est contagieuse. Au revoir." />
     <string id="MjSlFqAl" text="Oui? Sachez que je n'ai pas l'habitude de parler aux étrangers dans les tavernes." />
-    <string id="mk0l1BfB" text="On peut dire cela. J'ai servi dans les légions de l'empire durant deux décennies. Il fut un temps où il était digne d'être appelés « légions ». Nous avons servi ensemble pendant des années, le même groupe d'hommes sous un seul étendard, et nous mourrions plutôt que de voir ces étendards vaciller ou tomber. Mais Drosios Neretzes a conduit la dernière des véritables légions dans une embuscade dans les bois battaniens. Vous avez peut-être déjà entendu cette histoire." />
+    <string id="mk0l1BfB" text="On peut dire cela. J'ai servi dans les légions de l'empire durant deux décennies. Il fut un temps où il était digne d'être appelés &quot;légions&quot;. Nous avons servi ensemble pendant des années, le même groupe d'hommes sous un seul étendard, et nous mourrions plutôt que de voir ces étendards vaciller ou tomber. Mais Drosios Neretzes a conduit la dernière des véritables légions dans une embuscade dans les bois battaniens. Vous avez peut-être déjà entendu cette histoire." />
     <string id="MlzMSNkQ" text="De plus, comme je vous l'ai dit, à partir de cet après-midi, je suis un voleur de chevaux réformé. Vous ne trouverez pas de meilleur juge de chevaux que moi." />
     <string id="n3IEXAGH" text="En échange, je promets de faire de mon mieux pour fouetter la pauvre populace que vous recrutez dans les rangs des soldats. Je ne m'embête pas avec les cavaliers et je ne m'embête pas avec les archers. Mais donnez-moi des fantassins avec un peu de cran, et je leur apprendrai à se tenir ensemble dans une formation solide comme le roc qui brisera toute charge que vous voudrez lui lancer." />
     <string id="n5y4faSu" text="Splendide! Je dois cependant vous demander un petit acompte de {NPCPAYMENT}{GOLD_ICON}. J'ai une dette que j'avais espéré rembourser avec de l'argenterie, mais j'ai rencontré quelques difficultés à cet égard." />
@@ -160,7 +160,7 @@
     <string id="nbbn0HaV" text="Pourquoi? Je vais vous le dire, pourquoi." />
     <string id="nEHOUdf8" text="J'avoue que ce n'est pas la première fois qu'une telle chose m'arrive. Les hôtes peuvent être tellement pointilleux sur leur liste d'invités. Mais cela me laisse dans une impasse, car je devrais probablement quitter cette ville au plus tôt." />
     <string id="NLLnv7WH" text="J'ai fait le tour du monde. Je m'ennuie toujours. Je continue à boire plus que je ne le devrais. " />
-    <string id="NMTS37x2" text="J'ai eu l'occasion d'acheter du poivre à un autre commerçant qui vendait à rabais et avait besoin de liquidités. J'ai bien sûr inspecté le poivre et son stockage. J'ai interrogé les gardiens de l'entrepôt. « Vous pouvez nous faire confiance, madame », ont-ils dit. « Soyez assurée que votre poivre est entre de bonnes mains ». Mais l'un d'entre eux a gardé un brasero allumé la nuit, pour la chaleur, et un chameau l'a poussé dans un lit de paille quand il était parti faire ses besoins. À son retour, l'entrepôt était en flammes." />
+    <string id="NMTS37x2" text="J'ai eu l'occasion d'acheter du poivre à un autre commerçant qui vendait à rabais et avait besoin de liquidités. J'ai bien sûr inspecté le poivre et son stockage. J'ai interrogé les gardiens de l'entrepôt. &quot;Vous pouvez nous faire confiance, madame&quot;, ont-ils dit. &quot;Soyez assurée que votre poivre est entre de bonnes mains&quot;. Mais l'un d'entre eux a gardé un brasero allumé la nuit, pour la chaleur, et un chameau l'a poussé dans un lit de paille quand il était parti faire ses besoins. À son retour, l'entrepôt était en flammes." />
     <string id="nNFSLJ2A" text="C'est une compétence trop spécialisée, ma dame. Au revoir." />
     <string id="nYAU0zNC" text="Un roi sage a dit un jour : Je ne demande à mes généraux que d'avoir de la chance. Bonne journée, madame." />
     <string id="o7gJN0Kk" text="Vous ne regretterez pas votre décision. Je dois vous demander une chose : avant de partir à cheval, j'ai besoin d'une nouvelle bride et d'une nouvelle selle. Une avance de {NPCPAYMENT}{GOLD_ICON} devrait suffire." />
@@ -235,7 +235,7 @@
     <string id="wd4BBrTY" text="Parce que j'ai bu tout l'argent qui se trouvait dans mes poches et que j'ai de nouveau soif. Parce que ça fait trop longtemps que je n'ai pas brandi d'épée et que mon bras me démange. Parce que si vous ne tuez pas un homme toutes les quelques semaines, les gens oublient qui vous êtes. Voilà. Vous n'avez besoin que d'une seule raison, et je vous en donne trois." />
     <string id="Wnt5Ngzr" text="Salutations, {?PLAYER.GENDER}ma dame{?}messire{\?}. Seriez-vous par hasard à la recherche d'un ingénieur?" />
     <string id="WQCAanal" text="Ah, le bon vieux temps. Et sans doute qu'à l'époque, ils se plaignaient de l'ancien temps. J'en ai assez entendu." />
-    <string id="WYri5sav" text="Bonjour, étranger. « Le chat marche sur des pattes silencieuses. »" />
+    <string id="WYri5sav" text="Bonjour, étranger. &quot;Le chat marche sur des pattes silencieuses.&quot;" />
     <string id="WzyHzNW3" text="Splendide, {?PLAYER.GENDER}ma dame{?}messire{\?}! J'ai une autre petite faveur à vous demander. J'ai contracté quelques dettes dans cette ville, principalement à cause du vin renversé sur des livres. Je voudrais vous demander une avance de {NPCPAYMENT} sur mon salaire." />
     <string id="XAbqJNk5" text="L'empereur Arenicos était très ouvert à mes idées, et m'a donné la permission d'accompagner ses armées. Mais depuis le début de cette guerre civile, les commandants sont devenus très méfiants, craignant que je ne sois un espion pour l'un ou l'autre camp. J'ai dû passer mon temps à la bibliothèque et non sur le terrain, ce qui est très décourageant pour moi." />
     <string id="XHCxDciV" text="J'espère vous avoir bien fait comprendre qui j'étais. " />
@@ -244,7 +244,7 @@
     <string id="xlJEkqH9" text="J'ai l'intention de trouver le capitaine d'une compagnie qui me prendra comme apprenti. Je maîtriserai alors les arts de la guerre, et j'élèverai ma propre compagnie, et je ferai ainsi honte aux mâles de l'empire pour qu'ils retrouvent leur virilité perdue." />
     <string id="xpGLd7Co" text="Je crains que non ma dame. Vous feriez mieux de partir maintenant." />
     <string id="XUqko0Fo" text="[what he won't do]" />
-    <string id="xxaOegyt" text="Euh, « mais qui porte un grand oiseau dans sa bouche »?" />
+    <string id="xxaOegyt" text="Euh, &quot;mais qui porte un grand oiseau dans sa bouche&quot;?" />
     <string id="Xxmiytv0" text="Des patrouilles et des groupes de chasseurs venaient parfois dans les bois. Je pouvais tourner en rond autour d'eux, sans qu'ils ne sachent que j'étais là." />
     <string id="Y1R0x220" text="Comme ils sont drôles..." />
     <string id="Y7elloP2" text="Euh, et bien, je le pourrais. Pourquoi voudriez-vous vous battre pour moi?" />

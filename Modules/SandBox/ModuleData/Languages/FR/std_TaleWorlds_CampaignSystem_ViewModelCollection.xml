@@ -36,7 +36,7 @@
     <string id="5fa36d2798479803b4518a64beb4d732" text="Longueur de l'arme : " />
     <string id="5Unqsx3N" text="Confirmer" />
     <string id="63Ic1Ahe" text="Coût : {UPGRADE_COST} (vous n'en avez pas assez)" />
-    <string id="68IlDbA2" text="Vous devez avoir l'aptitude « {PERK_NAME} » pour promouvoir une troupe de bandits en une troupe normale." />
+    <string id="68IlDbA2" text="Vous devez avoir l'aptitude &quot;{PERK_NAME}&quot; pour promouvoir une troupe de bandits en une troupe normale." />
     <string id="6adabc1f82216992571c3e22abc164d7" text="Limite de munitions : " />
     <string id="6GSXsdeX" text="Vitesse" />
     <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Vitesse : " />

@@ -157,7 +157,7 @@
     <string id="5WJbtDqp" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} et {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}font{?}fait{\?} des escarmouches derrière les alliés." />
     <string id="5WWbQRQ5" text="Un joueur gagne si son adversaire ne peut plus faire de sauts (captures)." />
     <string id="5X9Sq4T4" text="{NUM} Seigneur(s)" />
-    <string id="5ZPp8btH" text="L'offre de troc est acceptée!" />
+    <string id="5ZPp8btH" text="L'offre d'échange est acceptée!" />
     <string id="65QqsaKe" text="Vous êtes du mauvais côté!" />
     <string id="6b1RXicd" text="Bélier amélioré" />
     <string id="6bex2HUl" text="Bien qu'il semble que la plupart des gens parviennent à s'en sortir, beaucoup semblent en colère, et vous entendez quelques passants murmurer que leur patience est à bout. Vous sentez que quelque chose est en train de se passer." />
@@ -216,7 +216,7 @@
     <string id="8geYNpC9" text="Dégâts du projectile {THRUST_DAMAGE_TYPE} : " />
     <string id="8HMyTKF6" text="Vlandiens" />
     <string id="8Jb61k7G" text="(+{GAIN_AMOUNT} en cohésion)" />
-    <string id="8kVhiTmu" text="Échelon suivant :" />
+    <string id="8kVhiTmu" text="Rang suivant :" />
     <string id="8l8xEu64" text="Acheter et équiper" />
     <string id="8LhfzIQE" text="w" />
     <string id="8mBT44QK" text="Noble de {FACTION}" />
@@ -298,7 +298,7 @@
     <string id="aJXhsjmT" text="Salutations, voyageur. À moins que vous ne souhaitiez que vos os soient laissés dans le sable pour être rongés par des chacals, donnez-nous ce que nous voulons." />
     <string id="ajZTZoXQ" text="Masse à deux mains" />
     <string id="AkgIYqHT" text="sultane" />
-    <string id="AkUpgiBl" text="Échelon {TIER_LEVEL}" />
+    <string id="AkUpgiBl" text="Rang {TIER_LEVEL}" />
     <string id="alEG3BOa" text="Votre relation avec {CLAN_LEADER} est dorénavant de {VALUE} (augmentation de {MAGNITUDE})." />
     <string id="alMmQrhK" text="Moral du groupe" />
     <string id="AmbKQ7LT" text="Transfert" />
@@ -316,7 +316,7 @@
     <string id="aseraifaction" text="Aserai" />
     <string id="aseraimembers" text="Aserai" />
     <string id="asHzEWnG" text="Nous allons donc tacher le sable avec votre sang." />
-    <string id="aTLrmbVL" text="Échelon IV" />
+    <string id="aTLrmbVL" text="Rang IV" />
     <string id="aUNYlvbN" text="Vous êtes {?PLAYER.GENDER}arrivée{?}arrivé{\?} {.a}{SETTLEMENT} pour le piller. Certains habitants se sont rassemblés pour vous résister." />
     <string id="AUOio5Tu" text="Défauts journaliers" />
     <string id="AVoWvlue" text="{RANK} ({NUMBER})" />
@@ -335,7 +335,7 @@
     <string id="B5J6DbpG" text="Nombre de jours de nourriture restants : {REMAINING_DAYS}{newline}{newline}Nourriture totale : {TOTAL_FOOD_AMOUNT}{newline}Consommation journalière : {DAILY_FOOD_CONSUMPTION}" />
     <string id="b5t34yLX" text="Harnais pour chevaux" />
     <string id="b6biU4f1" text="Créer un nouveau groupe" />
-    <string id="B6g1ukB7" text="Échelon I" />
+    <string id="B6g1ukB7" text="Rang I" />
     <string id="b778BvfW" text="Cet article est {PERCENTAGE}% plus cher que la moyenne" />
     <string id="b7aDfCR9" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} et {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}se défendent{?}se défend{\?}." />
     <string id="b7bWCXbk" text="Filez maintenant, petits moutons. Et faites attention aux autres meutes de loups." />
@@ -411,10 +411,10 @@
     <string id="bzrOHiS8" text="Les gens maudissent ouvertement les autorités, comme s'ils pensaient n'avoir rien à perdre." />
     <string id="C0llOApK" text="Armée {.de}{HERO}" />
     <string id="c1Ag8YJS" text="Les Battaniens se souviennent encore des vieux jours d'antan où les bois se dressaient partout en Calradia. Cette époque où les Impériaux n'essaimaient pas encore la désolation, la guerre et le courroux parmi leurs terres. Ces âpres guerriers acariâtres demeurent fidèles à leurs traditions ancestrales : ils enduisent leurs visages de peinture rituelles lorsqu'ils partent à la guerre et tous, mêmes les nobles préfèrent mener bataille à pied. Leurs bretteurs sont plus que redoutés, à l'épée comme à la hache, et ce, en raison de leurs excellentes compétences guerrières." />
-    <string id="c1g7MC9D" text="Bonus d'échelon du clan" />
+    <string id="c1g7MC9D" text="Bonus de rang du clan" />
     <string id="c2pdihCB" text="Caravanes" />
     <string id="c3cdHImi" text="Capturez les pions de votre adversaire en les entourant des deux côtés. Si un pion se déplace entre deux pions opposés, il n'est pas capturé.{newline}Dans les deux premières images, les pions blancs sont capturés par les pions noirs. Dans les deux dernières, il n'y a pas de capture." />
-    <string id="C3VxZFSy" text="Échelon III" />
+    <string id="C3VxZFSy" text="Rang III" />
     <string id="C4n1rgBC" text="Seega" />
     <string id="C4qjBqLO" text="Sturgiens" />
     <string id="c6Ei8Fqh" text="Vassal {.de}{FACTION}" />
@@ -458,7 +458,7 @@
     <string id="CXUXk5ai" text="impériaux" />
     <string id="cyPGadJ6" text="Déploiement auto" />
     <string id="CyTa1Z5d" text="{TEXT} [{HOTKEY}]" />
-    <string id="CZqZGAVB" text="L'offre de troc est rejetée!" />
+    <string id="CZqZGAVB" text="L'offre d'échange est rejetée!" />
     <string id="D5QlXOV0" text="Échec critique et échec de toute chance de persuasion" />
     <string id="d5RAufbd" text="Rôle" />
     <string id="d68pZq4j" text="Niveau de capacité requis" />
@@ -649,7 +649,7 @@
     <string id="ggzCiYkk" text="Vous avez besoin de {VALUE}{GOLD_ICON} pour l'amélioration" />
     <string id="gHnfFi1s" text="Retraité" />
     <string id="GhVXQrYF" text="Améliorer les soldats" />
-    <string id="giftverb" text="Cadeau" />
+    <string id="giftverb" text="Offrir" />
     <string id="gj2HD7M3" text="Vous avez encore une chance de gagner. Vous voulez déclarer forfait?" />
     <string id="gKbGZObs" text="stock total" />
     <string id="GKO2ogal" text="Corruption" />
@@ -720,7 +720,7 @@
     <string id="husbandmotherinlaw" text="belle-mère" />
     <string id="husbandsisterinlaw" text="belle-sœur" />
     <string id="hVmamTJX" text="Améliorer le moral du groupe grâce à une alimentation variée (Intendant). Améliorer la prospérité des fiefs et construire des projets (Gouverneur). Passer du temps dans vos fiefs (Chef de clan)." />
-    <string id="HWSKCne0" text="Boosting a project adds +{BOOST} construction and costs {COST}&lt;img src=&quot;Icons\Coin@2x&quot;&gt; / day." />
+    <string id="HWSKCne0" text="Soutenir un projet +{BOOST} construction et coûte {COST}&lt;img src=&quot;Icons\Coin@2x&quot;&gt; / jours." />
     <string id="Hx47TGrA" text="Difficile" />
     <string id="hYgmzZJX" text="Deniers" />
     <string id="HYVQKIhh" text="Défenseurs" />
@@ -1148,7 +1148,7 @@
     <string id="PVidxUQ8" text="Stocks de nourriture" />
     <string id="PVUeymMR" text="En cours" />
     <string id="pwFp1A5W" text="Sadique" />
-    <string id="PYaUEZzn" text="Envisagez de déclare la guerre (Support: {SUPPORT}%)" />
+    <string id="PYaUEZzn" text="Envisager de déclarer la guerre (Support: {SUPPORT}%)" />
     <string id="PylbJEe5" text="Hommes #" />
     <string id="pzfbPbWW" text="Rocher" />
     <string id="Q0qrw7F5" text="Ajouter Focalisation" />
@@ -1169,7 +1169,7 @@
     <string id="QBbBahLv" text="Nous vous autorisons à poursuivre votre voyage." />
     <string id="QBPrRdQJ" text="Chirurgien" />
     <string id="qC4OsBt1" text="Villages (assiégés)" />
-    <string id="QdDkviGe" text="Échelon V" />
+    <string id="QdDkviGe" text="Rang V" />
     <string id="qDSda1OI" text="{DAY} {?DAY_IS_PLURAL}jours{?}jour{\?}" />
     <string id="QE1XRyUP" text="+{BONUS_AMOUNT} de bonus pour la vitesse de production des engins de siège" />
     <string id="qe686AAn" text="Vous êtes le chef. Votre décision sera la dernière et passera au dessus des autres." />
@@ -1378,7 +1378,7 @@
     <string id="UP6yVQ7b" text="Partisan de" />
     <string id="UqdZmdcf" text="Cheval de guerre" />
     <string id="ur8kO8iM" text="Astuces de jeu" />
-    <string id="Uu0wzNj3" text="Échelon du clan : {TIER} " />
+    <string id="Uu0wzNj3" text="Rang du clan : {TIER} " />
     <string id="uUlO8l6M" text="J'ai entendu dire que vous vous étiez battu avec des personnes travaillant pour {COMMON_AREA_OWNER}. Ce n'est pas mon affaire." />
     <string id="uuwm0Kga" text="Porte" />
     <string id="uvIL0tP9" text="Portée de vision" />
@@ -1499,7 +1499,7 @@
     <string id="XbdX2AHF" text="Soldat" />
     <string id="xbh6Bmhf" text="Soutien actuel au Royaume" />
     <string id="XBIPqxA2" text="Vide" />
-    <string id="xCaFvB69" text="Échelon II" />
+    <string id="xCaFvB69" text="Rang II" />
     <string id="XCz81XYm" text="Entrées" />
     <string id="xD9xlbXt" text="prince" />
     <string id="xEWwbGVK" text="Précision : " />

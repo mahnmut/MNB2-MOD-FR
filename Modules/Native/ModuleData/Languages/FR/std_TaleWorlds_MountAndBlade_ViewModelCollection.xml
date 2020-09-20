@@ -35,7 +35,7 @@
     <string id="6syoutpV" text="De {WHISPER_TARGET}" />
     <string id="74PKmRWJ" text="Cheveux au vent" />
     <string id="76HlhP7r" text="Vous devez donner le commandement à un autre membre pour partir" />
-    <string id="7KWjQwp3" text="ID Bannerlord" />
+    <string id="7KWjQwp3" text="Identifiant Bannerlord" />
     <string id="7qySRF2T" text="Latence" />
     <string id="7R0i82Nw" text="Changer de sigle" />
     <string id="89t1Bap8" text="Ce clan veut rejoindre le match de clan que vous avez créé." />
@@ -156,11 +156,11 @@
     <string id="klkYFik9" text="Vous avez déjà signalé ce joueur." />
     <string id="koX9okuG" text="Aucun" />
     <string id="l2CNxPXG" text="Type de dents" />
-    <string id="L3DJHTdY" text="Saisir l'ID Bannerlord" />
+    <string id="L3DJHTdY" text="Saisir l'identifiant Bannerlord" />
     <string id="L6eaNe2q" text="Êtes-vous sûr de vouloir expulser ce membre du clan?" />
     <string id="lBn2pSBL" text="Membres" />
     <string id="lGbrWyEe" text="Annuler la demande d'ami" />
-    <string id="LI0v8Zrr" text="Votre ID Bannerlord est" />
+    <string id="LI0v8Zrr" text="Votre identifiant Bannerlord est" />
     <string id="LlrlE199" text="Vous pouvez encore déployer des engins de siège.{newline}On commence quand même?" />
     <string id="lO1hok44" text="Le nom contient des caractères non valides" />
     <string id="LrE2cUnG" text="Actuellement désactivé" />
@@ -192,7 +192,7 @@
     <string id="OVcoYxj1" text="Nom du serveur" />
     <string id="OwqFpPwa" text="Filtres" />
     <string id="oyVeCtlg" text="Liste" />
-    <string id="ozREO8ev" text="Changer l'ID Bannerlord" />
+    <string id="ozREO8ev" text="Changer l'identifiant Bannerlord" />
     <string id="P1MybNr7" text="Supprimer l'annonce" />
     <string id="P5Z9owOy" text="Sigle" />
     <string id="P7moPm3F" text="Définir comme chef de groupe" />
@@ -203,7 +203,7 @@
     <string id="Po8jNaXb" text="Ne peut contenir que des lettres" />
     <string id="pSheKLB4" text="Spectateur" />
     <string id="q2Y7aHSF" text="Suggestion d'invitation" />
-    <string id="q37arODj" text="Ajouter des amis avec l'ID Bannerlord" />
+    <string id="q37arODj" text="Ajouter des amis avec l'identifiant Bannerlord" />
     <string id="Q50X65NB" text="Classes" />
     <string id="q7VcSSbp" text="Choisir le sigle" />
     <string id="qa9aOxLm" text="Voulez-vous rejoindre ce clan?" />
@@ -224,7 +224,7 @@
     <string id="RN6zHak0" text="Joueur" />
     <string id="RNgWFLIO" text="Dégâts de tranchant" />
     <string id="RPCjrF5X" text="Vous devez sélectionner une faction" />
-    <string id="rWm5udCd" text="Vous devez saisir un ID Bannerlord valide" />
+    <string id="rWm5udCd" text="Vous devez saisir un identifiant Bannerlord valide" />
     <string id="Rzor6tbG" text="Apparences" />
     <string id="RzROgBkv" text="Inviter dans le groupe" />
     <string id="S2bKbhTc" text="TROUVER JEU AUTO" />
@@ -256,7 +256,7 @@
     <string id="uvwLriAX" text="Utilisez [{KEY_NAME}] pour afficher le tableau de scores" />
     <string id="UwkpJq9N" text="Ajouter en ami" />
     <string id="UYnLfaCY" text="Acheter" />
-    <string id="V2lpn6dc" text="Votre demande de changement d'ID Bannerlord a été envoyée avec succès." />
+    <string id="V2lpn6dc" text="Votre demande de changement d'identifiant Bannerlord a été envoyée avec succès." />
     <string id="V305MaOP" text="En ligne" />
     <string id="v4hVLpap" text="Inviter les joueurs dans le clan" />
     <string id="v6J8ILV3" text="Sans mot de passe" />
