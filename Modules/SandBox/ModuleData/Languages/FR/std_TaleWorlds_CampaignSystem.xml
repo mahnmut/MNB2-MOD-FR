@@ -702,7 +702,7 @@
     <string id="AzKq8AfI" text="En théorie, le roi ou l'empire a le droit exclusif de commander des hommes sur le terrain. Quiconque commande une armée le fait au nom du roi." />
     <string id="aZne44IB" text="Famille {CLAN_NAME}" />
     <string id="b0ak3yGV" text="Fureur" />
-    <string id="B0eBWPoO" text=" Vous avez partagé votre nourriture avec des soldats affamés de votre armée. Vous avez gagné {INFLUENCE}{INFLUENCE_ICON}." />
+    <string id="B0eBWPoO" text="Vous avez partagé votre nourriture avec des soldats affamés de votre armée. Vous avez gagné {INFLUENCE}{INFLUENCE_ICON}." />
     <string id="B0uKPW9S" text="Voter pour le prochain dirigeant {.de}{KINGDOM_NAME}" />
     <string id="B0YOpGsZ" text="Des nouvelles de mes prisonniers?" />
     <string id="b1lsZNxE" text="Vous n'avez pas réussi à livrer suffisamment de prisonniers à temps. {QUEST_GIVER.LINK} doit être {?QUEST_GIVER.GENDER}déçue{?}déçu{\?}" />
@@ -729,7 +729,7 @@
     <string id="b6Spbd9O" text="{VICTIM.LINK} a été {?PLAYER.GENDER}tuée{?}tué{\?} par {KILLER.LINK}." />
     <string id="b6W74uyR" text="Éclats" />
     <string id="b7APCGY2" text="Parlez aux autres membres" />
-    <string id="b7c5Q3BY" text="1 unité d'acier Thamaskene et 1 unité de fer brut produites à partir de 2 unités d'acier fin. " />
+    <string id="b7c5Q3BY" text="1'unité d'acier Thamaskene et 1'unité de fer brut produites à partir de 2 unités d'acier fin. " />
     <string id="b7FbnGn6" text="Les troupes à pied de palier 3+ de votre formation gagne +10% de vitesse de mouvement." />
     <string id="B7HwvV6L" text="Un bon jour de repos" />
     <string id="b7UHp4J9" text="Quitter le siège" />
@@ -1322,7 +1322,7 @@
     <string id="FViaQrbV" text="{QUEST_GIVER.LINK}, {?QUEST_GIVER.GENDER}Dame{?}Seigneur{\?} {.de}{QUEST_SETTLEMENT}, vous a dit {?QUEST_GIVER.GENDER}qu'elle{?}qu'il{\?} avait besoin de plus de troupes dans sa garnison. {?QUEST_GIVER.GENDER}Elle{?}Il{\?} vous a demandé de déployer {NUMBER_OF_TROOP_TO_BE_RECRUITED} troupes {.de}{TROOP_TYPE} au sein de la garnison {.de}{QUEST_SETTLEMENT}." />
     <string id="FVLymWqW" text="Visée morte" />
     <string id="fW0XS9JC" text="{ELEMENT_NUMBER}{ELEMENT_CHAR_NAME}" />
-    <string id="FwBUKVrK" text="1 unité d'acier fin et 1 unité de fer brut produites à partir de 2 unités d'acier. " />
+    <string id="FwBUKVrK" text="1'unité d'acier fin et 1'unité de fer brut produites à partir de 2 unités d'acier. " />
     <string id="FwIgakj8" text="Aider {DEFENDER}." />
     <string id="fwQtClVo" text="Je vais traiter avec {?TARGET_HERO.GENDER}elle{?}lui{\?} tout de suite! " />
     <string id="FwtsStzu" text="{DEFECTION_PERSUADE_ATTEMPT_1}" />
@@ -1448,7 +1448,7 @@
     <string id="H0QUy3kr" text="{FIRST_NAME} l'Hirsute" />
     <string id="h117Qj3E" text="Effet de la sécurité du fief." />
     <string id="h1juSIZx" text="Les troupes sous votre commandement ont une compétence de lancer de +30." />
-    <string id="h2Km4Jai" text="1 unité d'acier et 1 unité de fer brut produites à partir de 2 unités d'acier fin. " />
+    <string id="h2Km4Jai" text="1'unité d'acier et 1'unité de fer brut produites à partir de 2 unités d'acier fin. " />
     <string id="h2Wle7ZI" text="Bien. C'est fâcheux." />
     <string id="H2zjWQLk" text="Les troupes équipées d'arcs dans votre groupe gagnent un peu d'xp chaque jour." />
     <string id="h3yEHb4U" text="Aider {ATTACKER}." />
