@@ -1856,7 +1856,7 @@
     <string id="L13Ao81x" text="+20% aux dégâts de bombardement contre les autres machines de sièges. " />
     <string id="l1I748Fn" text="Tirailleur à cheval" />
     <string id="L1JyetPq" text="Je suis heureuse de l'entendre." />
-    <string id="l3ALRD7c" text="Vous n'êtes qu'un riche petit bâtard." />
+    <string id="l3ALRD7c" text="Vous n'êtes qu'un riche petit salaud." />
     <string id="L4Se89I6" text="Refuser et d'attendre une meilleure offre." />
     <string id="l4UuWHba" text="Rationnement alimentaire" />
     <string id="l549ODcw" text="Désolé. Je ne peux pas faire ça pour le moment." />
@@ -2107,7 +2107,7 @@
     <string id="NcQZz4N2" text="C'est mon dernier avertissement! Il vaudrait mieux pour les deux camps que vous ne résistiez pas.[ib:closed]" />
     <string id="NDtlE6PY" text="Tueur de Bêtes" />
     <string id="nEMoYUXD" text="Le vote pour faire la paix avec {.le}{KINGDOM} a échoué avec un ex æquo." />
-    <string id="nG750jQB" text="Le grain va résoudre nos problèmes. Si nous avions {GRAIN_AMOUNT} boisseaux, nous pourrions l'utiliser pour ensemencer nos champs. Mais je doute que {NEARBY_TOWN} en ait autant à vendre à cette époque de l'année. {GRAIN_AMOUNT} boisseaux de céréales coûtent environ 1000 deniers sur les marchés, et nous n'avons pas cela!" />
+    <string id="nG750jQB" text="Le grain va résoudre nos problèmes. Si nous avions {GRAIN_AMOUNT} unités de grain, nous pourrions l'utiliser pour ensemencer nos champs. Mais je doute que {NEARBY_TOWN} en ait autant à vendre à cette époque de l'année. {GRAIN_AMOUNT} unités de grain coûtent environ 1000 deniers sur les marchés, et nous n'avons pas cela!" />
     <string id="NGDa8KpY" text="Pro Familia" />
     <string id="nGsQeTll" text="Peut-être devrions-nous discuter d'un avenir ensemble..." />
     <string id="nGWmyZCs" text="Garde plombé" />
