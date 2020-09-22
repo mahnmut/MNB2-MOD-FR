@@ -62,6 +62,6 @@ _Ensemble pour un monde où il coule plus de bière que de sang._
 
 [//]: #
 [Licence]: <https://github.com/mahnmut/MNB2-MOD-FR/blob/master/Licence.txt>
-[release]: <https://github.com/mahnmut/MNB2-MOD-FR/releases/download/1.5.2.0/MNB.II.MOD.FR.1.5.2.0.exe>
-[Version]: <https://github.com/mahnmut/MNB2-MOD-FR/releases/tag/1.5.2.0>
+[release]: <https://github.com/mahnmut/MNB2-MOD-FR/releases/download/1.5.2.1/MNB.II.MOD.FR.1.5.2.1.exe>
+[Version]: <https://github.com/mahnmut/MNB2-MOD-FR/releases/tag/1.5.2.1>
 [innosetup]: <https://jrsoftware.org/isinfo.php>
