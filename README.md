@@ -37,7 +37,7 @@ On espère que vous apprécierez !
 Liste non exhaustive de personnes ayant travaillé sur le projet :  
 Akaria, Daneel, Drenaas, FerdeLance5s, Gatsuu, Kuro, LeGrandBatou, Marteau, Sadness, Ser Meicer, Shao, Slavyk, Sorrow, Ullysse, Zaekor...
 
-Passage en version 1.5.1 : Caerbannog, Mahnmut
+Passage en version 1.5.0+ : Caerbannog, Mahnmut
 
 
 PS : Certaines phrases en anglais semblent apparaître dans le jeu malgré le fait qu'on les ait déjà bien traduites (par exemple certains dialogues avec des groupes de bandits). Cela vient du jeu de base en lui même et non du mod car tous les textes n'ont pas encore été externalisés dans les fichiers à traduire. Espérons qu'ils le seront dans les prochaines versions de Bannerlord.
@@ -62,6 +62,6 @@ _Ensemble pour un monde où il coule plus de bière que de sang._
 
 [//]: #
 [Licence]: <https://github.com/mahnmut/MNB2-MOD-FR/blob/master/Licence.txt>
-[release]: <https://github.com/mahnmut/MNB2-MOD-FR/releases/download/1.5.2.1/MNB.II.MOD.FR.1.5.2.1.exe>
-[Version]: <https://github.com/mahnmut/MNB2-MOD-FR/releases/tag/1.5.2.1>
+[release]: <https://github.com/mahnmut/MNB2-MOD-FR/releases/download/1.5.2.2/MNB.II.MOD.FR.1.5.2.2.exe>
+[Version]: <https://github.com/mahnmut/MNB2-MOD-FR/releases/tag/1.5.2.2>
 [innosetup]: <https://jrsoftware.org/isinfo.php>
