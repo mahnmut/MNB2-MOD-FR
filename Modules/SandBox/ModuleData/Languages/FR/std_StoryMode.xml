@@ -69,7 +69,7 @@
     <string id="5QiuMoe6" text="Je crois que j'ai un morceau de la Bannière du Dragon de Calradia." />
     <string id="5QSGoRFj" text="Votre famille a labouré un petit arpent de terre arable des steppes pendant des générations. Quand les Khuzaits vinrent, ils cessèrent de payer des taxes et de fournir des troupes à l'Empereur et servirent le Khan à la place." />
     <string id="5soUEFEJ" text="{TACTEOS.NAME} a dit que cela pourrait valoir une fortune auprès de la bonne personne, si tu parviens à ne pas te faire tuer. S'il dit la vérité, tu dois être prudent. Ne révèle jamais que tu l'as, mais essaie de comprendre sa valeur et comment on peut le vendre." />
-    <string id="5UHbg6D0" text="Donc. Qu'est-ce qui vous amène à moi ?[sp:/Sounds/VO/mainquest/mntemp_q01_01.ogg]" />
+    <string id="5UHbg6D0" text="Donc. Qu'est-ce qui vous amène à moi?[sp:/Sounds/VO/mainquest/mntemp_q01_01.ogg]" />
     <string id="63TAYbkx" text="Les troupes de la ville passent la plupart de leur temps à en garder les murailles. Leur entraînement s'est concentré sur les armes à distance, très utiles durant les sièges." />
     <string id="64rWqBLN" text="Vous avez évité de servir dans l'une des armées principales de votre royaume, mais vous avez préféré être dans l'arrière-garde... avec les épouses des soldats, amants et serviteurs. Ceux qui gagnent leur vie en prenant soin des soldats ou bien en les escroquant." />
     <string id="651FhzdR" text="Marchands urbains" />
@@ -104,7 +104,7 @@
     <string id="8Yiwt1z6" text="Petite enfance" />
     <string id="9aoQYpZs" text="Le clan de votre famille n'a jamais promis sa loyauté au khan et ne s'est jamais installé, préférant vivre dans la steppe profonde loin de son autorité. Ils restent parmi les meilleurs pisteurs et éclaireurs des plaines, car la capacité à repérer un ennemi qui arrive et à se déplacer rapidement est souvent tout ce qui protège leurs troupeaux des prédations de leurs voisins." />
     <string id="9aYCfBVz" text="La ville était dans un état de panique après avoir entendu des rumeurs sur ce qui s'était passé. Arenicos a empêché les choses de sombrer dans le chaos. Quand le moment est venu pour le Sénat de choisir le prochain Empereur, il ne faisait aucun doute que ce devait être lui. Je l'aimais auparavant comme un homme, mais ce jour-là, j'ai appris à l'aimer comme quelque chose de plus : quel cadeau il était pour les habitants de Calradia!" />
-    <string id="9E6faNBg" text="Je vais devoir broder une véritable légende à votre sujet. Des présages divins à votre naissance, ce genre de choses. Pour l'instant, nous pouvons vous appeler &quot;Bannerlord&quot; qui fait descendre la colère du ciel sur les barbares impudents." />
+    <string id="9E6faNBg" text="Je vais devoir broder une véritable légende à votre sujet. Des présages divins à votre naissance, ce genre de choses. Pour l'instant, nous pouvons vous appeler Seigneur de la Bannière qui fait descendre la colère du ciel sur les barbares impudents." />
     <string id="9kGnzjrU" text="La minuterie a démarrée." />
     <string id="9ks4u5cH" text="Le médecin du village vous a missionné pour aller chercher des plantes médicinales dans les collines. Vous avez appris quelles plantes pansent les blessures, lesquelles font tomber la fièvre et comment les utiliser." />
     <string id="9sAGLK6R" text="Oui. Derthert m'a missionné de commander les arbalétriers." />
@@ -183,7 +183,7 @@
     <string id="cfTiiEEM" text="L'Empire a un don pour la destruction : la destruction des langues, des traditions et des dieux. Il prend nos forteresses, massacre nos hommes et transforme nos enfants en enfants de l'Empire." />
     <string id="character_creation_content_16" text="Enfant, vous vous êtes fait remarquer pour..." />
     <string id="CITG915d" text="a rejoint les effectifs d'un commandant." />
-    <string id="cNwejsNl" text="Une légende bien pratique, hein? Bien sûr, les Calradiens ont été vaincus à de nombreuses reprises, mais je suppose que ce n'étaient pas de &quot;vrais fils de l'Empire&quot;. Pourtant, on peut dire que cela représente la force et l'endurance de cet Empire." />
+    <string id="cNwejsNl" text="Une légende bien pratique, hein? Bien sûr, les Calradiens ont été vaincus à de nombreuses reprises, mais je suppose que ce n'étaient pas de vrais fils de l'Empire. Pourtant, on peut dire que cela représente la force et l'endurance de cet Empire." />
     <string id="cOgmdp9e" text="Refuser" />
     <string id="CRmUZvaW" text="Neretzes a peut-être été imprudent en envoyant notre infanterie dans les collines pour prendre d'assaut le fort battanien. Mais il pensait pouvoir s'emparer du col rapidement, avant que l'ennemi ait le temps d'y envoyer des renforts. S'il avait agi autrement et qu'il s'était trompé, les gens auraient dit qu'il était hésitant." />
     <string id="cRvSuYC8" text="Choisissez une autre arme ou allez dans une autre zone d'entraînement." />
@@ -590,7 +590,7 @@
     <string id="vfhVveLW" text="Chamans" />
     <string id="vH7GtuuK" text="À travailler dans les écuries" />
     <string id="vjOHmHOH" text="L'embuscade... magistralement planifiée et exécutée, ça personne ne peut le nier. Mais je ne nierai pas non plus que les Sturgiens ont combattu le corps principal des forces impériales, et que les Vlandiens ont combattu leur célèbre cavalerie, donc je ne pense pas que la plus grande gloire revienne aux fils de Battanie." />
-    <string id="vJyTsFdU" text="Il ne ressemble pas à grand-chose et je soupçonne que ce type le donnerait pour quelques pièces, mais je l'ai obtenu d'un mercenaire que j'ai soigné une fois, et je jurerais qu'il est lié à la &quot;Folie de Neretzes&quot;. Je ne sais pas ce que cela signifie, sauf que Neretzes était bien sûr l'empereur qui est mort au combat il y a quelques années. Peut-être que vous pourrez découvrir sa véritable valeur." />
+    <string id="vJyTsFdU" text="Il ne ressemble pas à grand-chose et je soupçonne que ce type le donnerait pour quelques pièces, mais je l'ai obtenu d'un mercenaire que j'ai soigné une fois, et je jurerais qu'il est lié à la Folie de Neretzes. Je ne sais pas ce que cela signifie, sauf que Neretzes était bien sûr l'empereur qui est mort au combat il y a quelques années. Peut-être que vous pourrez découvrir sa véritable valeur." />
     <string id="VLD5416o" text="Compagnon recruté" />
     <string id="VlXOgIX6" text="avez chevauché avec les éclaireurs." />
     <string id="VN4ctHIU" text="Acheter des produits" />

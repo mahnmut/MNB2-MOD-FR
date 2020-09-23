@@ -56,12 +56,12 @@
     <string id="BIXQz5yS" text="Si c'est votre dernière &quot;dernière demande&quot; je suppose que je peux. Voici {NPCPAYMENT}{GOLD_ICON}." />
     <string id="bKFWqaxQ" text="Je ne suis pas sûr de pouvoir vous payer comme il l'a fait..." />
     <string id="blY5YhSL" text="Très bien, cela pourrait être utile. Je peux vous offrir une place dans mon groupe." />
-    <string id="bmdw47FV" text=" Chaque cadavre rapportait de l'argent à mon maître. Je n'ai nul remord, c'était tuer ou être tué, et j'ai failli y passer. Vous avez quelque chose à y redire?" />
+    <string id="bmdw47FV" text="Chaque cadavre rapportait de l'argent à mon maître. Je n'ai nul remord, c'était tuer ou être tué, et j'ai failli y passer. Vous avez quelque chose à y redire?" />
     <string id="BMKqMpQ7" text="Moi, ce que j'aime, c'est enfoncer des crânes avec ma hache. Ça n'a pas l'air d'être votre genre." />
     <string id="bRRi5GiL" text="Voilà mes conditions : Une bonne solde, et qu'on ne m'ordonne pas de tuer des hommes désarmés. " />
     <string id="bsnUJ7Br" text="Ce sont des compétences utiles. Vous cherchez du travail?" />
     <string id="bUZATRQM" text="Des fées? Je n'ai pas le temps pour de telles histoires." />
-    <string id="bwb4nB4m" text=" Vous avez investi toute votre fortune dans une seule cargaison de poivre?" />
+    <string id="bwb4nB4m" text="Vous avez investi toute votre fortune dans une seule cargaison de poivre?" />
     <string id="bx0dzZTU" text="Oh. Toutes mes excuses. Je n'ai plus parlé à quiconque depuis des lustres. Et je suis un peu ivre... Mais voilà mon histoire." />
     <string id="bXfBBvzl" text="Je viens du fen Dairl. Nous ne sommes pas l'un des plus grands clans de Battania, mais nous sommes de bons combattants. Quand je suis devenu adulte, j'ai quitté la maison de mon père pendant quelques années pour vivre dans les bois, en tant que Peau-de-Loup. C'est une coutume que nous avons, pour les jeunes, de se présenter comme Peaux-de-Loups. Ils ne mangent pas d'aliments cuits, ne vivent pas dans des maisons et ne portent pas de tissus filés, et ne sont donc pas soumis aux lois des hommes. " />
     <string id="c1vQQwKv" text="Oui, je suppose." />
@@ -108,7 +108,7 @@
     <string id="h4rt3qUq" text="Ils m'ont demandé d'ériger un trébuchet à contrepoids sur l'une des tours. &quot;Contrepoids&quot;, cela signifie que pour que le bras lanceur monte, quelque chose d'autre doit descendre, d'accord? Donc si vous êtes debout autour du trébuchet, vous devez faire attention à l'endroit où vous vous tenez quand je tire la longe, c'est compris?" />
     <string id="H7Y4lTjl" text="Je crois que j'ai entendu parler de cette coutume. Les Battaniens ne disent-ils pas qu'elle leur enseigne les chemins de la forêt?" />
     <string id="hcMJen3F" text="Non, je ne pense pas que ce soit le cas. Alors, qui êtes-vous?" />
-    <string id="Ho8MFOOi" text=" Je ferai en sorte que vos hommes craignent mon mépris plus qu'ils ne craignent les lances de l'ennemi." />
+    <string id="Ho8MFOOi" text="Je ferai en sorte que vos hommes craignent mon mépris plus qu'ils ne craignent les lances de l'ennemi." />
     <string id="hR7mKQPs" text="Le mépris seul ne rend pas les hommes courageux, ma dame. Je pense que vous feriez mieux de trouver un autre capitaine." />
     <string id="hyhYcrFp" text="Très bien. Considérez-vous comme engagé." />
     <string id="i53bBgar" text="Donc, alors... J'ai eu des petits boulots ces dernières années. La plupart du temps, je me tiens sur les marchés en criant les vertus des selles de celui-ci ou des melons de celui-là..." />
@@ -249,7 +249,7 @@
     <string id="Y1R0x220" text="Comme ils sont drôles..." />
     <string id="Y7elloP2" text="Euh, et bien, je le pourrais. Pourquoi voudriez-vous vous battre pour moi?" />
     <string id="YBtDZuCL" text="Excellent. J'aimerais un paiement d'avance, surtout parce que j'ai mon équipement à faire nettoyer. Disons, {NPCPAYMENT}?" />
-    <string id="yczuEk0C" text=" Il se battait pour tuer, mais j'ai été plus vif, et je l'ai tué. Je n'ai aucun remord! Que tous les hommes qui considèrent qu'ils peuvent traiter une femme armée comme un objet se souviennent de ça." />
+    <string id="yczuEk0C" text="Il se battait pour tuer, mais j'ai été plus vif, et je l'ai tué. Je n'ai aucun remord! Que tous les hommes qui considèrent qu'ils peuvent traiter une femme armée comme un objet se souviennent de ça." />
     <string id="yjkGHRkA" text="Tout cela est très intéressant pour un érudit, je suppose, mais pas pour moi. Bonne journée." />
     <string id="ySwWQmYW" text="Alors la dernière chose que je veux, ma dame, est d'être vu en train de vous parler." />
     <string id="yTnm04Hh" text="Je peux me permettre de payer {NPCPAYMENT}{GOLD_ICON} deniers. Préparez-vous." />

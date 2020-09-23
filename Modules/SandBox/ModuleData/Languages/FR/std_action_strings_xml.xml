@@ -28,7 +28,7 @@
     <string id="EHFibjkM" text="Siège {.de}{TOWN_NAME} par l'armée {.de}{LORD.LINK} {.de}{FACTION_NAME}!" />
     <string id="ELFgdGJZ" text="{MOTHER.LINK} est tombée enceinte." />
     <string id="eMRMptST" text="{MOTHER.LINK} a accouché." />
-    <string id="ExbVzTZA" text="{CLAN} a conclu un contrat pour se battre aux côtés {.de}{KINGDOM}." />
+    <string id="ExbVzTZA" text="{CLAN} a conclu un contrat pour se battre aux côtés des {KINGDOM}." />
     <string id="F3MPgmhR" text="{CLAIMANT.LINK} dit que {SETTLEMENT_NAME} devrait être la propriété {.pclan}{CLAIMANT_CLAN} et non {.pclan}{CURRENT_OWNER_CLAN}." />
     <string id="FZdiWaBs" text="Le territoire {.de}{HERO} a été capturé." />
     <string id="h5rkbVu3" text="{LORD.LINK} est désormais propriétaire {.de}{SETTLEMENT}." />

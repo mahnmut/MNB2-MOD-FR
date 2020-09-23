@@ -359,7 +359,7 @@
     <string id="bUweVtkk" text="Pourquoi {OWNER.LINK} ne fait-il rien contre les voleurs qui exercent leur métier dans la rue? Se pourrait-il qu'{?OWNER.GENDER}elle{?}il{\?} obtienne une part de leur butin?" />
     <string id="bUzU50P8" text="Quoi? Pourquoi? Ai-je fait quelque chose de mal?[ib:closed]" />
     <string id="BvHn6C96" text="Je ne veux pas modifier mon apparence pour l'instant." />
-    <string id="bvhWLb4C" text="Vous avez battu le maître de jeux et avez récupéré le souvenir. {QUEST_GIVER.LINK} &quot;Merci d'avoir résolu ce problème avec tant de doigté... Veuillez accepter ces {GOLD}{GOLD_ICON} deniers avec notre gratitude.&quot;" />
+    <string id="bvhWLb4C" text="Vous avez battu le maître du jeux et avez récupéré le souvenir. {QUEST_GIVER.LINK} &quot;Merci d'avoir résolu ce problème avec tant de doigté... Veuillez accepter ces {GOLD}{GOLD_ICON} deniers avec notre gratitude.&quot;" />
     <string id="bWVmR6WS" text="Je vous remercie.[rb:positive][rf:happy]" />
     <string id="bXdzsTdb" text="Oui... Je suis fatigué de me battre avec vous. Je pourrais vous offrir une trêve de quarante jours. Si vous tenez votre parole et ne molester pas mes terres et mes sujets, nous pourrons nous reparler..." />
     <string id="BYuzbj3L" text="Adieu, mon mari. Bon voyage et revenez-moi vite.[rb:positive]." />
@@ -691,7 +691,7 @@
     <string id="K5mG9nDv" text="Avec plaisir." />
     <string id="K6Lhlnbh" text="Puis-je conserver chaque château dont je m'empare?" />
     <string id="k7ebznzr" text="Oui?" />
-    <string id="K9i5SaDc" text="L'argent du sang est approprié pour un crime passionnel. Mais vous avez tué ce garçon de sang-froid, vous serez un véritable assassin aux yeux de la loi et mourrez sans aucun doute." />
+    <string id="K9i5SaDc" text="L'argent du sang est approprié pour un crime passionnel. Mais si vous tuez ce garçon de sang-froid, vous serez un véritable assassin aux yeux de la loi et mourrez sans aucun doute." />
     <string id="K9Ra9bcb" text="Ce {AREA_TYPE} nous appartient, et non à {NOTABLE.LINK}, nous ne sommes pas près de l'oublier." />
     <string id="kAbebv72" text="Je veux que vous alliez chercher de la nourriture." />
     <string id="KAvwytDK" text="Vous n'avez pas ramené {DAUGHTER.LINK} {.a}{QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}Elle doit être furieuse{?}Il doit être furieux{\?}." />
@@ -724,7 +724,7 @@
     <string id="KVZORhVQ" text="Soyez mon invité." />
     <string id="kw9i3wYA" text="Nous avons {GOLD}{GOLD_ICON} dans la ruelle." />
     <string id="Kwy6QDyf" text="Oui, mon frère.[ib:demure][rb:positive]" />
-    <string id="KX7xtOI6" text=" Votre clan n'a pas assez d'influence pour faire cela!" />
+    <string id="KX7xtOI6" text="Votre clan n'a pas assez d'influence pour faire cela!" />
     <string id="kXcUbkEW" text="Le rang de votre clan doit être de {TIER}" />
     <string id="l2hijFNU" text="Vous n'irez nulle part, l'ami. Vous êtes mon prisonnier désormais." />
     <string id="l4yDEvdV" text="Vous m'en devez une." />
@@ -771,7 +771,7 @@
     <string id="lVbQCibL" text="Oui. Prenez ces troupes avec vous." />
     <string id="LVX2x6Jf" text="Je souhaite mettre fin à mon contrat avec {.la}{FACTION_NAME}." />
     <string id="lVx35dWp" text="Après réflexion, faisons une partie amicale." />
-    <string id="LWFDXeQc" text="En outre, j'accepte d'être incorporé dans l'armée de Calradia, au grade d'archonte." />
+    <string id="LWFDXeQc" text="En outre, j'accepte d'être incorporé dans l'armée de Calradia, au rang d'archonte." />
     <string id="LYhBM61z" text="Merci {?PLAYER.GENDER}ma dame{?}messire{\?} de m'avoir protégé. J'irais dire à {ISSUE_GIVER.LINK} ce que vous avez fait pour moi." />
     <string id="LztDzy8W" text="Pourquoi pas? Je n'ai nul part où aller, et je dirais pas non à un autre verre." />
     <string id="M06TjiMd" text="Comment ça?" />

@@ -75,8 +75,8 @@
     <string id="IDSuJSgW" text="Special Thanks" />
     <string id="j0XlgbXO" text="Sulamith Bowinkelmann (Violin)" />
     <string id="j4zzGaNK" text="Development Lead" />
-    <string id="J63KwTme" text="you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
-    <string id="J6roOUmV" text="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);" />
+    <string id="J63KwTme" text="you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
+    <string id="J6roOUmV" text="Licensed under the Apache License, Version 2.0 (the License);" />
     <string id="jGXauhYH" text="Italian Localization" />
     <string id="k5hLPEvV" text="Cinematics" />
     <string id="KavlbhOa" text="Brand Designs" />
@@ -117,7 +117,7 @@
     <string id="q1u6Pmt3" text="Art Director" />
     <string id="q9buyaE5" text="Art" />
     <string id="QA5PTOVx" text="Community Management" />
-    <string id="QiXNr6ec" text="THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE." />
+    <string id="QiXNr6ec" text="THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS AS IS AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE." />
     <string id="qUajaG6E" text="Reception" />
     <string id="QXK9yaMb" text="Game Systems Programmers" />
     <string id="r2HFpefP" text="Motion Capture Talents" />
@@ -133,11 +133,11 @@
     <string id="sabEi8fE" text="Additional Programming" />
     <string id="sDT3ugyp" text="Bad Words Lab (Additional Voices)" />
     <string id="SJIpBDxo" text="Composed By J. S. Hopkins" />
-    <string id="sVb7KTl6" text="“Outdoor Beautiful Land (Folk Version)” and “Travel Neutral (Folk Version)”" />
+    <string id="sVb7KTl6" text="&quot;Outdoor Beautiful Land (Folk Version)&quot; and &quot;Travel Neutral (Folk Version)&quot;" />
     <string id="sVHkEE3E" text="UI Artists" />
     <string id="sxesAYHl" text="From Turkey" />
     <string id="tstxOBWA" text="Additional Support and Administration" />
-    <string id="U3X6WqoH" text="“Tales by the Hearth” and “The Longest Road”" />
+    <string id="U3X6WqoH" text="&quot;Tales by the Hearth&quot; and &quot;The Longest Road&quot;" />
     <string id="ugDQBlJe" text="Motion Capture Acting Consultant" />
     <string id="Ugff1qj4" text="2D - 3D artists" />
     <string id="ujYlJTrN" text="Thorsten Stoye (Nyckelharpa, Duduk, Flutes and Pipes)" />
@@ -149,7 +149,7 @@
     <string id="V9ZkjlcN" text="Portions of this software utilize SpeedTree® technology (©2019 Interactive Data Visualization, Inc.). SpeedTree® is a registered trademark of Interactive Data Visualization, Inc. All rights reserved." />
     <string id="VaAPDVLa" text="Publishing &amp; Director of Business Development" />
     <string id="Vj8QgrqE" text="Marketing" />
-    <string id="vJbENFBJ" text="The following middleware is licensed under the MIT license: Mono Copyright 2001-2003 Ximian Inc. Copyright 2003-2010 Novell Inc. Copyright (C) 2012 Xamarin Inc, CSteamWorks Copyright (c) 2013-2016 Riley Labrecque, Newtonsoft.Json Copyright (c) 2007 James Newton-King, Steamworks.Net Copyright (c) 2013-2019 Riley Labrecque, System.Numerics.Vectors Copyright (c) .NET Foundation and Contributors, System.Management Copyright © .NET Foundation and Contributors, imgui Copyright (c) 2014-2020 Omar Cornut, mimalloc Copyright (c) 2019 Microsoft Corporation Daan Leijen, rapidxml Copyright (c) 2006, 2007 Marcin Kalicinski, SMAA Copyright (C) 2013 Jorge Jimenez (jorge@iryoku.com) Jose I. Echevarria (joseignacioechevarria@gmail.com) Belen Masia (bmasia@unizar.es) Fernando Navarro (fernandn@microsoft.com) Diego Gutierrez (diegog@unizar.es), SSSS Copyright (C) 2012 Jorge Jimenez (jorge@iryoku.com), Diego Gutierrez (diegog@unizar.es), Scalable Ambient Obscurance Copyright (c) 2011-2012, NVIDIA. ForwardPlus11 Copyright (c) 2016 Advanced Micro Devices, Inc, dxt-decompress Copyright (C) 2009 Benjamin Dobell, Glass Echidna 2012 - 2015 Matthäus G. &quot;Anteru&quot; Chajdas. All rights reserved." />
+    <string id="vJbENFBJ" text="The following middleware is licensed under the MIT license: Mono Copyright 2001-2003 Ximian Inc. Copyright 2003-2010 Novell Inc. Copyright (C) 2012 Xamarin Inc, CSteamWorks Copyright (c) 2013-2016 Riley Labrecque, Newtonsoft.Json Copyright (c) 2007 James Newton-King, Steamworks.Net Copyright (c) 2013-2019 Riley Labrecque, System.Numerics.Vectors Copyright (c) .NET Foundation and Contributors, System.Management Copyright © .NET Foundation and Contributors, imgui Copyright (c) 2014-2020 Omar Cornut, mimalloc Copyright (c) 2019 Microsoft Corporation Daan Leijen, rapidxml Copyright (c) 2006, 2007 Marcin Kalicinski, SMAA Copyright (C) 2013 Jorge Jimenez (jorge@iryoku.com) Jose I. Echevarria (joseignacioechevarria@gmail.com) Belen Masia (bmasia@unizar.es) Fernando Navarro (fernandn@microsoft.com) Diego Gutierrez (diegog@unizar.es), SSSS Copyright (C) 2012 Jorge Jimenez (jorge@iryoku.com), Diego Gutierrez (diegog@unizar.es), Scalable Ambient Obscurance Copyright (c) 2011-2012, NVIDIA. ForwardPlus11 Copyright (c) 2016 Advanced Micro Devices, Inc, dxt-decompress Copyright (C) 2009 Benjamin Dobell, Glass Echidna 2012 - 2015 Matthäus G. Anteru Chajdas. All rights reserved." />
     <string id="VZF1xTc8" text="Modified BSD License" />
     <string id="W0OOibCY" text="Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the Distribution" />
     <string id="W5c9l9Zh" text="Finn Seliger (Composer)" />

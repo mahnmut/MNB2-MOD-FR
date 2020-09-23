@@ -587,7 +587,7 @@
     <string id="faYiCHXK" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} et {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}arrivent{?}arrive{\?} à portée des armes à distance." />
     <string id="FbcC2loc" text="Vous avez été assommé{?PLAYER.GENDER}e{?}{\?}, la victoire revient à votre adversaire!" />
     <string id="fd35ahzV" text="&lt;b&gt;Baliste incendiaire&lt;/b&gt;{NEWLINE}Tire des carreaux avec des pointes plongées dans du goudron.{NEWLINE}Ils infligeront des dégâts de feu aux engins de siège et aux structures en bois de l'ennemi, tout en étant mortels contre les soldats." />
-    <string id="FD9abtTo" text="Si vous pariez 100&lt;img src=&quot;Icons\Coin@2x&quot;&gt; et que vous gagniez, vous obtiendrez {NORMALIZED_EXPECTED_GOLD}&lt;img src=&quot;Icons\Coin@2x&quot;&gt;" />
+    <string id="FD9abtTo" text="Si vous pariez 100&lt;img src=&quot;Icons\Coin@2x&quot;&gt; et que vous gagnez, vous obtiendrez {NORMALIZED_EXPECTED_GOLD}&lt;img src=&quot;Icons\Coin@2x&quot;&gt;" />
     <string id="FdTd3yIx" text="Les modifications que vous avez apportées ne peuvent pas être appliquées. Voulez-vous réinitialiser et changer d'écran?" />
     <string id="fEqd7jXj" text="{EFFECT_NAME} : +{NUM}" />
     <string id="fEu5S6Bd" text="Distance" />
@@ -654,7 +654,7 @@
     <string id="gKbGZObs" text="stock total" />
     <string id="GKO2ogal" text="Corruption" />
     <string id="gKzLAjXr" text="Remarquez comment la cohésion de votre armée est tombée bien bas, et il est probable que votre armée va se disperser.{newline}Vous pouvez cliquer sur le bouton de gestion de l'armée pour renforcer votre cohésion." />
-    <string id="GmcgoiGy" text="Commerce" />
+    <string id="GmcgoiGy" text="Commercer" />
     <string id="GNkrUdwb" text="Votre aide a été la bienvenue, étranger. Mon nom est {CONVERSATION_CHARACTER.LINK}. Puis-je apprendre le vôtre?" />
     <string id="GnWy8WAW" text="Loyauté :" />
     <string id="gNzXoCrq" text="Continuez votre chemin, petite mouche." />
