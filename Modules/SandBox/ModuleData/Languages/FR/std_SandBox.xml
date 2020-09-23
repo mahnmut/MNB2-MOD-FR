@@ -359,7 +359,7 @@
     <string id="bUweVtkk" text="Pourquoi {OWNER.LINK} ne fait-il rien contre les voleurs qui exercent leur métier dans la rue? Se pourrait-il qu'{?OWNER.GENDER}elle{?}il{\?} obtienne une part de leur butin?" />
     <string id="bUzU50P8" text="Quoi? Pourquoi? Ai-je fait quelque chose de mal?[ib:closed]" />
     <string id="BvHn6C96" text="Je ne veux pas modifier mon apparence pour l'instant." />
-    <string id="bvhWLb4C" text="Vous avez battu le maître du jeux et avez récupéré le souvenir. {QUEST_GIVER.LINK} &quot;Merci d'avoir résolu ce problème avec tant de doigté... Veuillez accepter ces {GOLD}{GOLD_ICON} deniers avec notre gratitude.&quot;" />
+    <string id="bvhWLb4C" text="Vous avez battu le maître du jeu et avez récupéré le souvenir. {QUEST_GIVER.LINK} &quot;Merci d'avoir résolu ce problème avec tant de doigté... Veuillez accepter ces {GOLD}{GOLD_ICON} deniers avec notre gratitude.&quot;" />
     <string id="bWVmR6WS" text="Je vous remercie.[rb:positive][rf:happy]" />
     <string id="bXdzsTdb" text="Oui... Je suis fatigué de me battre avec vous. Je pourrais vous offrir une trêve de quarante jours. Si vous tenez votre parole et ne molester pas mes terres et mes sujets, nous pourrons nous reparler..." />
     <string id="BYuzbj3L" text="Adieu, mon mari. Bon voyage et revenez-moi vite.[rb:positive]." />
