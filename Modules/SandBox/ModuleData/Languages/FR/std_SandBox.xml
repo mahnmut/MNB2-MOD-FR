@@ -691,7 +691,7 @@
     <string id="K5mG9nDv" text="Avec plaisir." />
     <string id="K6Lhlnbh" text="Puis-je conserver chaque château dont je m'empare?" />
     <string id="k7ebznzr" text="Oui?" />
-    <string id="K9i5SaDc" text="L'argent du sang est approprié pour un crime passionnel. Mais si vous tuez ce garçon de sang-froid, vous serez un véritable assassin aux yeux de la loi et mourrez sans aucun doute." />
+    <string id="K9i5SaDc" text="L'argent du sang est approprié pour un crime passionnel. Mais si vous tuez ce garçon de sang-froid, vous serez un véritable assassin aux yeux de la loi, et vous mourrez sans aucun doute." />
     <string id="K9Ra9bcb" text="Ce {AREA_TYPE} nous appartient, et non à {NOTABLE.LINK}, nous ne sommes pas près de l'oublier." />
     <string id="kAbebv72" text="Je veux que vous alliez chercher de la nourriture." />
     <string id="KAvwytDK" text="Vous n'avez pas ramené {DAUGHTER.LINK} {.a}{QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}Elle doit être furieuse{?}Il doit être furieux{\?}." />

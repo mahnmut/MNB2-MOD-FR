@@ -73,7 +73,7 @@
     <string id="63TAYbkx" text="Les troupes de la ville passent la plupart de leur temps à en garder les murailles. Leur entraînement s'est concentré sur les armes à distance, très utiles durant les sièges." />
     <string id="64rWqBLN" text="Vous avez évité de servir dans l'une des armées principales de votre royaume, mais vous avez préféré être dans l'arrière-garde... avec les épouses des soldats, amants et serviteurs. Ceux qui gagnent leur vie en prenant soin des soldats ou bien en les escroquant." />
     <string id="651FhzdR" text="Marchands urbains" />
-    <string id="6aDiS9eP" text="Je suis {CONVERSATION_HERO.FIRSTNAME}. Mais vous le savez probablement déjà. Autrefois, j'ai eu un grand pouvoir, mais maintenant... Quoi qu'il en soit, je suis très {?CONVERSATION_HERO.GENDER}curieuse{?}curieux{\?} de ce que vous pourriez vouloir de moi.[rb:trivial]" />
+    <string id="6aDiS9eP" text="Je suis {CONVERSATION_HERO.FIRSTNAME}. Mais vous le savez probablement déjà. Autrefois, j'ai eu un grand pouvoir, mais maintenant... Quoi qu'il en soit, je suis très curieuse de savoir ce que vous voulez de moi.[rb:trivial]" />
     <string id="6bUSbsKC" text="Votre père a travaillé pour un fitiwi, l'un des hommes forts qui maintiennent l'ordre dans les quartiers les plus pauvres des villes de l'oasis. Il a résolu les différends sur les terres, les jeux de dés et les insultes, imposant son autorité avec le bâton traditionnel du fitiwi." />
     <string id="6Dd3Pa07" text="Vous avez réussi à contrecarrer la conspiration." />
     <string id="6iytd81P" text="Vous avez été vaincu par les bandits dans la cachette, mais vous avez réussi à vous échapper. Vous devez attendre un certain temps avant d'attaquer à nouveau." />
@@ -104,7 +104,7 @@
     <string id="8Yiwt1z6" text="Petite enfance" />
     <string id="9aoQYpZs" text="Le clan de votre famille n'a jamais promis sa loyauté au khan et ne s'est jamais installé, préférant vivre dans la steppe profonde loin de son autorité. Ils restent parmi les meilleurs pisteurs et éclaireurs des plaines, car la capacité à repérer un ennemi qui arrive et à se déplacer rapidement est souvent tout ce qui protège leurs troupeaux des prédations de leurs voisins." />
     <string id="9aYCfBVz" text="La ville était dans un état de panique après avoir entendu des rumeurs sur ce qui s'était passé. Arenicos a empêché les choses de sombrer dans le chaos. Quand le moment est venu pour le Sénat de choisir le prochain Empereur, il ne faisait aucun doute que ce devait être lui. Je l'aimais auparavant comme un homme, mais ce jour-là, j'ai appris à l'aimer comme quelque chose de plus : quel cadeau il était pour les habitants de Calradia!" />
-    <string id="9E6faNBg" text="Je vais devoir broder une véritable légende à votre sujet. Des présages divins à votre naissance, ce genre de choses. Pour l'instant, nous pouvons vous appeler Seigneur de la Bannière qui fait descendre la colère du ciel sur les barbares impudents." />
+    <string id="9E6faNBg" text="Je vais devoir broder une véritable légende à votre sujet. Des présages divins à votre naissance, ce genre de choses. Pour l'instant, nous pouvons vous appeler &quot;Seigneur de la Bannière&quot; qui fait descendre la colère du ciel sur les barbares impudents." />
     <string id="9kGnzjrU" text="La minuterie a démarrée." />
     <string id="9ks4u5cH" text="Le médecin du village vous a missionné pour aller chercher des plantes médicinales dans les collines. Vous avez appris quelles plantes pansent les blessures, lesquelles font tomber la fièvre et comment les utiliser." />
     <string id="9sAGLK6R" text="Oui. Derthert m'a missionné de commander les arbalétriers." />
@@ -673,7 +673,7 @@
     <string id="z8LQn2Uh" text="Vous êtes {?PLAYER.GENDER}arrivée{?}arrivé{\?} à la cachette." />
     <string id="ZAGR6PYc" text="Lorsqu'un feu soudain a pris dans une ruelle reculée, vos voisins avaient besoin de quelqu'un avec une grande vivacité d'esprit et vous leur avez donné. Vous avez organisé une ligne de seaux vers le puits le plus proche, éteignant le feu avant que des maisons ne soient détruites." />
     <string id="Zb1uFhsY" text="Allez voir l'entraîneur." />
-    <string id="ZDEcFXIm" text="Vous avez peut-être un morceau de la bannière, mais il est peu utile en soi. Vous devrez trouver les autres parties. Mais une fois que vous aurez rassemblé les morceaux, vous aurez quelque chose d'une valeur inestimable [sp:/Sounds/VO/mainquest/mntemp_q01_03.ogg]." />
+    <string id="ZDEcFXIm" text="Vous avez peut-être un morceau de la bannière, mais il est peu utile en soi. Vous devrez trouver les autres parties. Mais une fois que vous aurez rassemblé les morceaux, vous aurez quelque chose d'une valeur inestimable.[sp:/Sounds/VO/mainquest/mntemp_q01_03.ogg]." />
     <string id="zEoHYEUS" text="Attendre ici un petit moment" />
     <string id="ZhZ7MCeh" text="Bien. Je sais reconnaître la défaite. Si je dois être votre prisonnier, laissez-moi me présenter. Je suis Radagos." />
     <string id="ZiwIZZ1y" text="À ce moment-là, il s'agit de faire tomber cet Empire maudit. À mon avis, vous avez deux options..." />
