@@ -237,7 +237,7 @@ begin
     end
     else
       begin
-        Result := 'Verification de version impossible. Verifiez que l`installation du jeu est complète et relancez l`installation de la Traduction';
+        Result := 'Verification de la version du jeu impossible. Il faut selectionner la racine du jeu.' + #13#10 +#13#10 +'Exemple : C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord' + #13#10 + #13#10 +'Debug : ' + ExpandConstant('{app}');
       end;
 end;
 
