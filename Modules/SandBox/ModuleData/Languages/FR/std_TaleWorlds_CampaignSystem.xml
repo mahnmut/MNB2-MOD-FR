@@ -2773,7 +2773,7 @@
     <string id="TlA4utZV" text="La pénalité de précision lors du tir à l'arbalète depuis une monture est réduite de moitié." />
     <string id="tLakpr0a" text="Les bergers de {QUEST_GIVER}" />
     <string id="tLapkQqg" text="Nous n'oublierons pas cela!" />
-    <string id="TLcnbALt" text="Voici vos {MOUNT_TYPE} {?PLAYER.GENDER}ma Dame{?}mon Seigneur{\?}." />
+    <string id="TLcnbALt" text="Voici vos {MOUNT_TYPE} {?QUEST_GIVER.GENDER}ma Dame{?}mon Seigneur{\?}." />
     <string id="TLGvIdJB" text="Auto-médication" />
     <string id="tlLDHAIu" text="Très bien. Un plaisir de faire affaire avec vous.[rb:very_positive][ib:demure]" />
     <string id="TLuaPAIO" text="Impôt de ({A0})" />
