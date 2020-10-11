@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Français" />
@@ -93,10 +93,12 @@
     <string id="Aa2Yokz3" text="Pavé numérique *" />
     <string id="aAaF9FWC" text="Ctrl droite" />
     <string id="accbLVWL" text="Définit la technique d'anti-aliasing. " />
+    <string id="ACIFg43o" text="Choisissez la façon d'effectuer les blocages. Auto sera par défaut &quot;par le mouvement de la souris&quot; en mode multijoueur." />
     <string id="acqAYxhr" text="," />
     <string id="AhrWBKx9" text="Équipement 1" />
     <string id="AJFpx99v" text="Ajustement de l'exposition" />
     <string id="aJxmDbur" text="Maintenir pour quitter une zone. " />
+    <string id="altgamekey" text="Alt" />
     <string id="amdYLZ6o" text="Journal des quêtes" />
     <string id="aombIn07" text="Définissez le niveau d'exposition." />
     <string id="ap1wEfdW" text="V" />
@@ -331,7 +333,6 @@
     <string id="PmbKYDON" text="Acclamation" />
     <string id="pnEeRPAk" text="Audio Groupe 7" />
     <string id="pNocZkrx" text="Active la vision des dégâts encaissés" />
-    <string id="PPFFxlsX" text="Choisir comment effectuer des blocages." />
     <string id="pQVSwtfn" text="Avancer la caméra sur votre personnage en vue à la troisième personne." />
     <string id="PRsSB9B8" text="Interagir avec les armes, les montures, les portes, etc." />
     <string id="ps103cxD" text="Attaquer avec votre arme." />

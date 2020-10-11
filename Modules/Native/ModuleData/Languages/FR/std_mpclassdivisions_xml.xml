@@ -15,7 +15,6 @@
     <string id="2bzFzemV" text="Arbalète lourde" />
     <string id="2JZakvPJ" text="Remplace le menavlion par un menavlion lourd, plus lent mais qui inflige davantage de dégâts." />
     <string id="3ksDHRKT" text="Octroie une longue lance orientale, une lance à deux mains." />
-    <string id="4eFFdbbh" text="Remplace le vouge par une épée à deux mains, efficace en duel et en estoc." />
     <string id="4wdgiTta" text="Faucille" />
     <string id="5JQFx3EW" text="Remplace la monture par un cheval plus rapide et plus manœuvrable." />
     <string id="5pLEUc4t" text="Flèches puissantes" />
@@ -53,6 +52,7 @@
     <string id="bzdCMVuG" text="Masse de cavalerie" />
     <string id="bzr6vtXi" text="Menavlion lourd" />
     <string id="C2XqmIAQ" text="Remplace l'arc recourbé par un arc composite, plus précis et qui inflige plus de dégâts. Il est aussi plus lent." />
+    <string id="C9ufRSsL" text="Épée et bouclier" />
     <string id="CaEBx7NK" text="Remplace la hache de bataille par une barbiche, plus lente mais qui inflige davantage de dégâts." />
     <string id="cfSgK0nk" text="Cheval agile" />
     <string id="CG5D5r2w" text="Remplace l'épée par une masse efficace contre les adversaires en armure." />
@@ -164,6 +164,7 @@
     <string id="UtJlbDuv" text="Remplace l'arc recourbé par un arc supérieur impérial plus rapide." />
     <string id="uw9m5hav" text="Meilleure hache" />
     <string id="Uwe3VHaN" text="Épée de cavalerie lourde" />
+    <string id="UWScBrli" text="Remplace l'arme à deux mains par une combinaison d'épée et de bouclier." />
     <string id="V2SKzX1e" text="Cheval de charge" />
     <string id="v61Qq3SH" text="Remplace l'arbalète légère par une arbalète plus lourde qui produit davantage de dégâts." />
     <string id="vBvDZCtw" text="Remplace le tabar par une épée à deux mains efficace en duel et pour l'estoc." />

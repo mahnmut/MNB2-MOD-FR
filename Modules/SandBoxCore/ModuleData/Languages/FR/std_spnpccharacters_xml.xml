@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Français" />
@@ -244,7 +244,6 @@
     <string id="u0UNwnw2" text="Cataphractaire impérial" />
     <string id="u3K1SozQ" text="Arboricole" />
     <string id="UaN2lfwi" text="Fabricant d'armes" />
-    <string id="UaNerU" text="Barbier" />
     <string id="uca778lM" text="Recrue du Beni Zilal" />
     <string id="uDseaKcb" text="Maître de caravane sturgien" />
     <string id="UdTc1PGo" text="Arbalétrier impérial" />
@@ -269,6 +268,7 @@
     <string id="W2WXkiAh" text="Rançonneur" />
     <string id="w6YwFaG7" text="Lancier Khuzait" />
     <string id="WEHDGbEE" text="Maître de caravane Khuzait" />
+    <string id="WH7EGGIg" text="Barbier" />
     <string id="WJbOQSiT" text="Mamelouk Aserai" />
     <string id="WNU7kE5N" text="Gardien vétéran" />
     <string id="wtmCSMrC" text="Troupier Aserai" />

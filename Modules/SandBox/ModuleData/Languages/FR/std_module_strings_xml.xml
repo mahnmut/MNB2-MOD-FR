@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Français" />
@@ -7,6 +7,8 @@
     <string id="7ZhNilg8" text="Facile (bonus de 5%)" />
     <string id="8UBfIenN" text="Normal" />
     <string id="9jSxo790" text="Réaliste" />
+    <string id="9l5RgXiU" text="Choisir si les notifications rondes seront affichées sur le côté droit de la carte de la campagne." />
+    <string id="aEnXxe0a" text="Vous pouvez maintenir la touche {LEAVE_AREA_KEY} enfoncée pour quitter la zone en cours." />
     <string id="AQfVclN8" text="Prix" />
     <string id="B0uvwKae" text="Choisissez si les héros peuvent mourir sur le champ de bataille." />
     <string id="bLwIgxXa" text="Difficultés de recrutement" />
@@ -15,7 +17,6 @@
     <string id="cUHlzCRx" text="Activer la mort au combat" />
     <string id="D9GkBqyW" text="Vous pouvez quitter le camp d'entraînement en maintenant [{LEAVE_KEY}]{newline}Vous pouvez y revenir à tout moment depuis la carte de campagne." />
     <string id="DFMhzFGV" text="Le fait de garder un certain nombre de chevaux dans votre inventaire peut accélérer considérablement votre groupe, car ils augmenteront votre capacité de charge et les fantassins monteront les chevaux de réserve. Les chevaux de bât et les mules ne sont cependant utiles que pour le transport de marchandises." />
-    <string id="EGwqzjpa" text="Vous pouvez maintenir la touche tab enfoncée pour quitter la zone actuelle." />
     <string id="F8TaKnjh" text="Lorsque vous êtes dans une ville ou un village, maintenir la touche Alt enfoncée permet de voir des marqueurs sur les personnes et les points d'intérêt importants." />
     <string id="fbaQp3ox" text="Active l'attribution automatique des compétences aux membres de votre clan." />
     <string id="hEYfasE1" text="Taux de dégâts reçus par votre personnage." />
@@ -30,6 +31,7 @@
     <string id="k71J6bVH" text="Victoires" />
     <string id="KbPD5cEw" text="Réduit à 1/3 (très facile)" />
     <string id="KM7uAbL8" text="Dégâts reçus par le joueur" />
+    <string id="lfDzgLTa" text="{PROFESSION} à {LOCATION}" />
     <string id="LfpteADn" text="Détermine la difficulté de l'IA en combat" />
     <string id="mD89ih8N" text="Changer le nom du Clan" />
     <string id="N6fz1efb" text="Ignorer le tutoriel au début du jeu." />
@@ -50,6 +52,7 @@
     <string id="veterandifficulty" text="Vétéran" />
     <string id="vGF5S2hE" text="Classement" />
     <string id="wip6jLEM" text="Taux de dégâts reçus par vos troupes." />
+    <string id="yKJ9c8IV" text="Activer les notifications rondes à droite de la carte" />
     <string id="ZcyJePFm" text="Dégâts reçus par les groupes alliées" />
     <string id="ZWiFWA2W" text="Ignorer le tutoriel principal de l'histoire" />
   </strings>

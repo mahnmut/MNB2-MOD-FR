@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Français" />
@@ -149,6 +149,7 @@
     <string id="fGFMqlGz" text="Genre" />
     <string id="FgJpTBp1" text="Les tirs alliés à distance blessent le joueur" />
     <string id="fjD2tRXW" text="Avancée menton" />
+    <string id="fJHsYtKu" text="Echerion" />
     <string id="fJqJiJvl" text="Utiliser le blocage réaliste" />
     <string id="fnJQO5Os" text="Hauteur bout nez" />
     <string id="FoSTFipC" text="{PLAYER_NAME} n'est plus muet." />
@@ -173,6 +174,7 @@
     <string id="HyG3eUFN" text="Réactiver le son" />
     <string id="I4wnvBGd" text="Découvrez la brutalité des sièges médiévaux en tant que défenseur ou attaquant dans ce mode de jeu JcJ à grande échelle. Utilisez un arsenal d'engins de siège pour repousser les forces ennemies ou pour prendre pied dans le château." />
     <string id="IaaVNwwb" text="Activer BattlEye" />
+    <string id="IBAaKSbp" text="Port à Omor" />
     <string id="iDMBz55E" text="Dans le jeu multijoueurs" />
     <string id="ig0lsiwY" text="Soldats" />
     <string id="iJXH3841" text="Éparse" />

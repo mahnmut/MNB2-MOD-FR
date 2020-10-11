@@ -32,6 +32,7 @@
     <string id="ah4Pm8wU" text="Vous devez être dans le lobby pour dissoudre votre groupe!" />
     <string id="AIgw3aFG" text="Impossible de se mettre en file d'attente pour la bataille car certains joueurs sont bloqués pour la recherche de groupe." />
     <string id="Ajw0d4dW" text="Mot de passe incorrect." />
+    <string id="APQ0kNVj" text="Le tag du clan n'est pas valide." />
     <string id="b72mIrOl" text="Il faut être dans un groupe pour créer un clan." />
     <string id="baHOuMTb" text="Annonce ajoutée avec succès." />
     <string id="bcdU2DHW" text="Le joueur {INVITEE} a été invité dans votre groupe par {INVITER}." />
@@ -71,7 +72,6 @@
     <string id="iG72AMy8" text="Le texte d'information a été modifié avec succès." />
     <string id="INecDsvJ" text="Seul le chef du clan peut supprimer les annonces." />
     <string id="ismMkXud" text="Vous devez être le chef du clan pour inviter quelqu'un au clan." />
-    <string id="IZWRF6ze" text="Le nom du clan est déjà utilisé." />
     <string id="jbpKfRl8" text="Vous devez être le chef du clan pour ajouter une annonce." />
     <string id="JgdLtL2O" text="Le joueur invité est déjà dans un clan." />
     <string id="jl8MYbLR" text="Votre demande d'ami est transmise à {PLAYER}." />
@@ -95,6 +95,7 @@
     <string id="mvQKpHXH" text="Votre groupe est plein." />
     <string id="n1MdWtck" text="Vous êtes maintenant ami avec {PLAYER}" />
     <string id="nJ7aEkRt" text="Vous êtes invité dans le groupe par {PLAYERNAME}." />
+    <string id="nlYK3i5a" text="Le nom du clan n'est pas valide." />
     <string id="nQWwqDmn" text="Vous avez reçu une demande d'ami de {PLAYER} " />
     <string id="nw7r2S5z" text="Types de jeu désactivés sélectionnés : {GAMETYPES}." />
     <string id="nZlu3Moe" text="Clan de gauche." />
@@ -148,7 +149,6 @@
     <string id="ysfEQO6c" text="Joueur non trouvé" />
     <string id="ywVYMhiF" text="Vous devez être le chef du clan pour modifier le texte d'information du clan." />
     <string id="z40g0BmW" text="Impossible de mettre à jour l'identifiant Bannerlord" />
-    <string id="zBaXq4cg" text="Le tag du clan est déjà utilisé." />
     <string id="ZtktMXDw" text="Vous n'êtes pas dans un clan." />
     <string id="zyDyPr4I" text="Le joueur que vous avez voulu promouvoir n'est pas dans votre groupe." />
   </strings>

@@ -640,7 +640,7 @@
     <string id="GD4aQgl7" text="Mouton" />
     <string id="gdraqMso" text="Vous êtes à l'extérieur {.de}{SETTLEMENT_NAME}. Vous n'êtes pas autorisé à entrer." />
     <string id="GDugjWao" text="Voici {MONEY}{GOLD_ICON}. Prenez-les et laissez-nous partir." />
-    <string id="gflnRhhe" text="({PRIMARY_ROLE})" />
+    <string id="gflnRhhe" text="({PRIMARY_ROLE}/{SECONDARY_ROLE})" />
     <string id="gfQmYDRq" text="Alors que vous tentez de forcer les notables à vous donner des recrues, certains habitants se rassemblent pour vous résister." />
     <string id="gFtu0j4T" text="Flèches" />
     <string id="ggMmjk31" text="Invalide" />
@@ -682,6 +682,7 @@
     <string id="h55xdL1l" text="MuTorere" />
     <string id="h60wQVVX" text="Pique" />
     <string id="h6AJXR2e" text="Êtes-vous sûr de faire battre en retraite votre groupe?" />
+    <string id="h8Bcd7NE" text=" Élection du dirigeant {.de}{FACTION}" />
     <string id="H9y9dLao" text="Vous pouvez parier des deniers pour augmenter vos gains. À chaque tour, les cotes seront différentes et vous pouvez parier {MAX_AMOUNT}&lt;img src=&quot;Icons\Coin@2x&quot;&gt; à chaque fois." />
     <string id="haax8kMa" text="Arme d'hast" />
     <string id="hAgZBZP8" text="Abandonner" />
@@ -842,6 +843,7 @@
     <string id="K2G3XJwZ" text="Impétueux" />
     <string id="k3LajvfJ" text="Éditeur de bannière" />
     <string id="k4TcX1wT" text="{HOUR_PREPARATION_TIME} {?PLURAL_HOURS}heures{?}heure{\?}" />
+    <string id="K5uR5HVX" text="Appuyez sur '{EXTEND_KEY}' pour plus d'informations." />
     <string id="K6GYskvJ" text="Culture :" />
     <string id="k6tT1vIg" text="La joute est terminée et votre adversaire vous à battu aujourd'hui..." />
     <string id="k7ig2JvK" text="baron" />
@@ -1186,7 +1188,6 @@
     <string id="QgUej8DP" text="Pas de quête en cours" />
     <string id="qhhLVJAC" text="&lt;b&gt;Préparatifs&lt;/b&gt;" />
     <string id="qIvDX0JR" text="Centre" />
-    <string id="Qk6aHGNO" text="Presser ALT pour davantage d'information." />
     <string id="QLM6DWHB" text="Quêtes actives" />
     <string id="qlw2LWgu" text="Aller à portée" />
     <string id="qM8daraD" text="Total Points de Compétence : {CURRENT_SKILL_POINTS}" />
@@ -1242,6 +1243,7 @@
     <string id="rPvzZKFk" text="Garnison inadéquate" />
     <string id="rQ5On2GL" text="Taille supplémentaire du groupe pour chaque groupe du clan" />
     <string id="RqnEjYVe" text="+{RECRUIT_AMOUNT} Recrue{?ISPLURAL}s{?} {\?}" />
+    <string id="rqWJL27J" text="Or total" />
     <string id="RTmDiT0l" text="Bonus de taille du groupe actuel" />
     <string id="rTuptXLg" text="Bannière de l'attaquant" />
     <string id="RU6D7hSR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} et {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}avancent{?}avance{\?}." />
@@ -1255,6 +1257,7 @@
     <string id="RzjMX0Og" text="Bien. Maintenant allez-y. N'oubliez pas de boire souvent." />
     <string id="rzsRQkXw" text="{CHAR_NAME} possède déjà l'attribut {PERK_NAME}." />
     <string id="s1NEbhFL" text="En queue" />
+    <string id="s2vaPUdG" text="Porte-lance" />
     <string id="S3ymfdwB" text="Vous avez fait des changements. Voulez-vous les appliquer?" />
     <string id="s5h0Yarn" text="Gérer votre armée" />
     <string id="s6ofDDii" text="Barricade" />
@@ -1357,6 +1360,7 @@
     <string id="uCikaIoq" text="Splendide. Vous voyez, mes gars et moi, nous ne sommes pas des hommes cruels. Un peu cupides cependant, on ne peut pas le nier, alors soyez généreux.[ib:hip][rb:trivial]" />
     <string id="UckVajhO" text="Renommée gagnée : + {RENOWN}" />
     <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}" />
+    <string id="uFDiRV1Z" text="({PRIMARY_ROLE})" />
     <string id="ufnnUxKb" text="Cuir" />
     <string id="uFuDwaYp" text="{HOUR} {?PLURAL}heures{?}heure{\?}" />
     <string id="ug4LiPbb" text="Armes à distance IV" />
