@@ -6,11 +6,11 @@
 ; retour.
 ; ----------------------------------------------------------------------------
 ;
-; Basé sur le travail de la communauté pour le Mod en version 1.5.2
+; Basé sur le travail de la communauté pour le Mod en version 1.5.3
 ;
 
-#define GameVersion "1.5.2"
-#define MinorVersion "2"
+#define GameVersion "1.5.3"
+#define MinorVersion "0"
 #define MyAppName "Traduction Française de Mount & Blade 2 Bannerlord"
 #define MyAppPublisher "Communauté Française de Mount & Blade"
 #define MyAppURL "https://www.nexusmods.com/mountandblade2bannerlord/mods/2051?tab=description"
