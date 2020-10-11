@@ -35,7 +35,7 @@
     <string id="h78oPYTs" text="{INSULTER.LINK} accuse {INSULTEE.LINK} d'hérétique." />
     <string id="hbWhfoWH" text="{SETTLEMENT} est pillé par {PARTY} {.de}{FACTION_NAME}" />
     <string id="hJFCi1zu" text="{.La}{FACTION1} et {.la}{FACTION2} ont fait la paix." />
-    <string id="hopvV6Ch" text="Déclaration de guerre {.de}{FACTION1_NAME} contre {.la}{FACTION2_NAME}" />
+    <string id="hopvV6Ch" text="Les {FACTION1_NAME} ont déclaré la guerre aux {FACTION2_NAME}" />
     <string id="hP57Caab" text="{VICTOR_PARTY} {.de}{VICTOR_FACTION} a vaincu {DEFEATED_PARTY} {.de}{DEFEATED_FACTION}" />
     <string id="Jo3Lux3w" text="{HERO_1.LINK} est responsable de la mort {.de}{HERO_2.LINK}" />
     <string id="jZcV4gI7" text="{INSULTER.LINK} affirme que {INSULTEE.LINK} est un couard et qu'il est responsable de cette défaite" />
