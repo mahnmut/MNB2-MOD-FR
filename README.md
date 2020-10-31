@@ -4,7 +4,7 @@ Ce mod est possible grace à la contribution de nombreuses personnes.
 Plus d'informations dans le fichier [Licence][Licence].
 
 ## Installation Standard :
-Téléchargez la derniere version ici : [MNB2.MOD.FR.1.5.2][release] [Notes de version][Version]
+Téléchargez la derniere version ici : [MNB2.MOD.FR.1.5.3][release] [Notes de version][Version]
 
 ## Installer depuis les sources :
 ### Compiler l'installateur :
@@ -62,6 +62,6 @@ _Ensemble pour un monde où il coule plus de bière que de sang._
 
 [//]: #
 [Licence]: <https://github.com/mahnmut/MNB2-MOD-FR/blob/master/Licence.txt>
-[release]: <https://github.com/mahnmut/MNB2-MOD-FR/releases/download/1.5.2.2/MNB.II.MOD.FR.1.5.2.2.exe>
-[Version]: <https://github.com/mahnmut/MNB2-MOD-FR/releases/tag/1.5.2.2>
+[release]: <https://github.com/mahnmut/MNB2-MOD-FR/releases/download/1.5.3.0/MNB.II.MOD.FR.1.5.3.0.exe>
+[Version]: <https://github.com/mahnmut/MNB2-MOD-FR/releases/tag/1.5.3.0>
 [innosetup]: <https://jrsoftware.org/isinfo.php>
